@@ -1,0 +1,29 @@
+---
+title: Estimated and Milestone Tasks
+type: docs
+weight: 60
+url: /cpp/estimated-and-milestone-tasks/
+---
+
+{{% alert color="primary" %}} 
+
+In Microsoft Project, milestones are used to monitor a project's progress. Milestones are crucial points in the project. Typically, a milestone's a task with no duration but any task can be marked as a milestone. Aspose.Tasks API helps you manage milestones.
+
+{{% /alert %}} 
+## **Working with Milestones**
+The Tsk class exposes the IsEstimated and IsMilestone properties to manage estimated and milestone tasks:
+
+- IsEstimated: set and get whether a task is estimated (boolean).
+- IsMilestone: set and get whether a task is a milestone (boolean).
+### **Viewing Estimated and Milestone Tasks in Microsoft Project**
+To see whether a task is estimates of marked as a milestone in Microsoft Project:
+
+1. Double-click a task in the Task Entry form. 
+
+   **Marking an estimated task as a milestone in Microsoft Project** 
+
+![todo:image_alt_text](/download/attachments/16286622/2052305202)
+### **Finding out Whether a Task is Estimated or a Milestone**
+The following code example demonstrates how to find out whether a task is estimated or a milestone using Aspose.Tasks.
+
+{{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-FindEstimatedMilestoneTasks-FindEstimatedMilestoneTasks.cpp" >}}

@@ -1,0 +1,36 @@
+---
+title: Defining Link Type in PHP
+type: docs
+weight: 20
+url: /java/defining-link-type-in-php/
+---
+
+## **Aspose.Tasks - Defining Link Type**
+To Define Link Type using **Aspose.Tasks Java for PHP**, simply invoke **DefineLinkType** module. Here you can see example code.
+
+**PHP Code**
+
+{{< highlight php >}}
+
+ # Instantiate project object
+
+$project = new Project();
+
+$pred = $project->getRootTask()->getChildren()->add("Task 1");
+
+$succ = $project->getRootTask()->getChildren()->add("Task 2");
+
+$link = $project->getTaskLinks()->add($pred, $succ);
+
+$taskLinkType=new TaskLinkType();
+
+$link->setLinkType($taskLinkType->StartToStart);
+
+print "Defined task link type.".PHP_EOL;
+
+{{< /highlight >}}
+## **Download Running Code**
+Download **Defining Link Type (Aspose.Tasks)** from any of the below mentioned social coding sites:
+
+- [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithTaskLinks/DefineLinkType.php)
+- [CodePlex](https://asposetasksjavaphp.codeplex.com/SourceControl/latest#src/aspose/tasks/WorkingWithTaskLinks/DefineLinkType.php)

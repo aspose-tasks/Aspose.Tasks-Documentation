@@ -1,0 +1,27 @@
+---
+title: Rendering Project Data on Pre-Defined Page sizes
+type: docs
+weight: 50
+url: /net/rendering-project-data-on-pre-defined-page-sizes/
+---
+
+{{% alert color="primary" %}} 
+
+Aspose.Tasks supports rendering project views such as Gantt charts, task usage, resource usage and resource sheets to pre-defined page sizes, for example A0, A1, Letter, etc. The PageSize enumerator provides the following pre-defined page sizes:
+
+- A0
+- A1
+- A2
+- A3
+- A4
+- Ledger
+- Letter
+
+{{% /alert %}} 
+## **Rendering Project Data to Pre-Defined Page Sizes**
+The following code sample shows how to render a project's different views to pre-defined page sizes.
+
+{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-Articles-RenderProjectToPredefinedPageSizes-RenderProjectToPredefinedPageSizes.cs" >}}
+
+
+

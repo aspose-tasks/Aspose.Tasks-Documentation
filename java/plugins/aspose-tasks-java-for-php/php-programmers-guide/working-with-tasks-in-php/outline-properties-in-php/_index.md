@@ -1,0 +1,60 @@
+---
+title: Outline Properties in PHP
+type: docs
+weight: 90
+url: /java/outline-properties-in-php/
+---
+
+## **Aspose.Tasks - Getting Outline Properties**
+To Get Outline Properties using **Aspose.Tasks Java for PHP**, call **get_outline_properties** method of **TasksProperties** module. Here you can see example code.
+
+**PHP Code**
+
+{{< highlight php >}}
+
+ public static function get_outline_properties($dataDir=null){
+
+\# Instantiate project object
+
+$project = new Project($dataDir . 'test_tasks.mpp');
+
+\# Create a ChildTasksCollector instance
+
+$collector = new ChildTasksCollector();
+
+\# Collect all the tasks from RootTask using TaskUtils
+
+$taskUtils=new TaskUtils();
+
+$taskUtils->apply($project->getRootTask(), $collector, 0);
+
+$tasks = $collector->getTasks();
+
+$tsk = new Tsk();
+
+\# Parse through all the collected tasks
+
+$i = 0;
+
+while ($i<sizeof($tasks)) {
+
+$task=$tasks->get($i);
+
+print "Outline Level: " . (string)$task->get($tsk -> OUTLINE_LEVEL).PHP_EOL;
+
+print "Outline Number: " . (string)$task->get($tsk -> OUTLINE_NUMBER).PHP_EOL;
+
+print "---------------------------------------------".PHP_EOL;
+
+$i += 1;
+
+}
+
+}
+
+{{< /highlight >}}
+## **Download Running Code**
+Download **General Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
+
+- [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithTasks/TasksProperties.php)
+- [CodePlex](https://asposetasksjavaphp.codeplex.com/SourceControl/latest#src/aspose/tasks/WorkingWithTasks/TasksProperties.php)

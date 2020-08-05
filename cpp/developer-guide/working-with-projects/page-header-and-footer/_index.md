@@ -1,0 +1,22 @@
+---
+title: Page Header and Footer
+type: docs
+weight: 60
+url: /cpp/page-header-and-footer/
+---
+
+## **Reading Header and Footer Information from MPP file**
+Aspose.Tasks API provides the capability to read the Header and Footer information from MPP file. The API has classes mapped to each tab of MS Project Page Setup dialog as detailed in the section below.
+
+- MS Project Page Setup dialog box has 6 tabs (see screenshot). These tabs are mapped to new classes:
+  - Page tab ->[Aspose.Tasks.Visualization](https://apireference.aspose.com/cpp/tasks/namespace/aspose.tasks.visualization/)[.PageSettings](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.visualization.page_settings/) class
+  - Margins tab -> [Aspose.Tasks.Visualization.PageMargins](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.visualization.page_margins/) class
+  - Header, footer tabs -> [Aspose.Tasks.Visualization.HeaderFooterInfo](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.visualization.header_footer_info/) class
+  - Legend tab -> [Aspose.Tasks.Visualization.PageLegend](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.visualization.page_legend/) class
+  - View tab -> [Aspose.Tasks.Visualization.PageViewSettings](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.visualization.page_view_settings/) class
+
+{{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ReadHeaderFooterInfo-ReadHeaderFooterInfo.cpp" >}}
+## **Adding Image to Page Header/Footer**
+Aspose.Tasks API provides the capability to manipulate the document's page header and footer information. The code example given below demonstrates how to add image to page's header.
+
+{{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-AddImageToPageHeaderFooter-AddImageToPageHeaderFooter.cpp" >}}

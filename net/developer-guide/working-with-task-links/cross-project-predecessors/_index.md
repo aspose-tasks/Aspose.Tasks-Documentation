@@ -1,0 +1,25 @@
+---
+title: Cross Project Predecessors
+type: docs
+weight: 40
+url: /net/cross-project-predecessors/
+---
+
+{{% alert color="primary" %}} 
+
+Microsoft Project lets users link tasks within the current project, or to external projects. Cross project predecessors are predecessors from another project. Aspose.Tasks supports these too.
+
+{{% /alert %}} 
+## **Working with Cross Project Predecessor Tasks**
+In Aspose.Tasks, the [CrossProjectName](http://www.aspose.com/api/net/tasks/aspose.tasks/tasklink/properties/crossprojectname) and [IsCrossProject](http://www.aspose.com/api/net/tasks/aspose.tasks/tasklink/properties/iscrossproject) properties exposed by the [TaskLink](http://www.aspose.com/api/net/tasks/aspose.tasks/tasklink) class are used to handle cross project predecessors.
+
+- CrossProjectName represents the external predecessor project (string).
+- IsCrossProject determines whether a predecessor is part of another project (Boolean).
+
+To manage cross project predecessor tasks in Microsoft Project:
+
+1. From the **Tools** menu, select **Links between Projects**.
+### **Getting cross project predecessor tasks using Aspose.Tasks**
+Here, we shall display predecessor / successor task traversing the task links in the project.
+
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-GetCrossProjectTaskLinks-GetCrossProjectTaskLinks.cs" >}}

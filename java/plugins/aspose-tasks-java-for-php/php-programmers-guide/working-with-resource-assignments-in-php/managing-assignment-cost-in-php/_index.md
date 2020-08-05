@@ -1,0 +1,50 @@
+---
+title: Managing Assignment Cost in Php
+type: docs
+weight: 70
+url: /java/managing-assignment-cost-in-php/
+---
+
+## **Aspose.Tasks - Managing Assignment Cost**
+To Manage Assignment Cost using **Aspose.Tasks Java for PHP**, simply invoke **AssignmentCost** module. Here you can see example code.
+
+**PHP Code**
+
+{{< highlight php >}}
+
+ # Instantiate project object
+
+$project = new Project($dataDir . 'test_tasks.mpp');
+
+$resource_assignments = $project->getResourceAssignments()->toList();
+
+\# Parse through all the collected resource assignments
+
+$asn=new Asn();
+
+$i = 0;
+
+while ($i < sizeof($resource_assignments)) {
+
+$ra = $resource_assignments -> get($i);
+
+print "COST: " . (string)$ra -> get($asn -> COST).PHP_EOL;
+
+print "ACWP: " . (string)$ra -> get($asn -> ACWP).PHP_EOL;
+
+print "BCWP: " . (string)$ra -> get($asn -> BCWP).PHP_EOL;
+
+print "BCWS: " . (string)$ra -> get($asn -> BCWS).PHP_EOL;
+
+print "--------------------------------------------------------".PHP_EOL;
+
+$i += 1;
+
+}
+
+{{< /highlight >}}
+## **Download Running Code**
+Download **Managing Assignment Cost (Aspose.Tasks)** from any of the below mentioned social coding sites:
+
+- [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithResourceAssignments/AssignmentCost.php)
+- [CodePlex](https://asposetasksjavaphp.codeplex.com/SourceControl/latest#src/aspose/tasks/WorkingWithResourceAssignments/AssignmentCost.php)

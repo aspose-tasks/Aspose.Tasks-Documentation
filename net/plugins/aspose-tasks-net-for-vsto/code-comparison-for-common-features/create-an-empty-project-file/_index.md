@@ -1,0 +1,40 @@
+---
+title: Create an Empty Project File
+type: docs
+weight: 30
+url: /net/create-an-empty-project-file/
+---
+
+## **VSTO**
+Below is the code to add project file in MS Project
+
+{{< highlight cs >}}
+
+   Project project = this.Application.Projects.Add();
+
+{{< /highlight >}}
+## **Aspose.Tasks**
+The [Project]() class is the main class in Aspose.Tasks used to set and get properties associated with a project, as well as behavior. The Save method offered by this class makes it possible to render the Project to various output formats such as XML, MPP, PDF, HTML, etc. with a single API call. This method accepts a file stream or file name, and one of the values provided by the [SaveFileFormat]() enumeration type.
+
+At present, Aspose.Tasks provides the facility to create **XML** project files only. The following lines of code create a simple project file in XML format.
+
+Below is code sample:
+
+{{< highlight cs >}}
+
+  string FileName = "NewProject.xml";
+
+ Project MyProject = new Project();
+
+ MyProject.Save(FileName, Saving.SaveFileFormat.XML);
+
+
+{{< /highlight >}}
+## **Download Running Code**
+- [Codeplex](https://asposevsto.codeplex.com/SourceControl/latest#Aspose.Tasks Vs VSTO Project/Creating an Empty Project File/)
+- [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO%20Projects/Code%20Comparison%20of%20Common%20Features/Creating%20an%20Empty%20Project%20File)
+- [Code.MSDN](https://code.msdn.microsoft.com/AsposeTasks-Vs-VSTO-v11-168e5b01/view/SourceCode#content)
+## **Download Sample Code**
+- [Codeplex](https://asposevsto.codeplex.com/releases/view/616887)
+- [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/tag/AsposeTaskNETVsVSTOProjectv1.1)
+- [Code.MSDN](https://code.msdn.microsoft.com/AsposeTasks-Vs-VSTO-v11-168e5b01)

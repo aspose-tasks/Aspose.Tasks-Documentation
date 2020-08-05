@@ -1,0 +1,140 @@
+---
+title: Adding Links for Tasks in VSTO and Aspose.Tasks
+type: docs
+weight: 20
+url: /net/adding-links-for-tasks-in-vsto-and-aspose-tasks/
+---
+
+### **VSTO**
+To link a task using VSTO:
+
+1. Create a new project in Visual Studio.
+1. In the Solution Explorer, right-click and select Add Reference.
+1. Select the COM components tab, and select Microsoft Project 12.0 Object Library.Click OK.This imports the Microsoft.Office.Interop.MSProject namespace at the start of your code. Use the code from the following example to link tasks.
+
+{{< highlight csharp >}}
+
+ //Create an Application object
+
+Microsoft.Office.Interop.MSProject.Application projectApplication = new MSProject.Application();
+
+object missingValue = System.Reflection.Missing.Value;
+
+//Open an MPP file
+
+projectApplication.FileOpenEx("Project.mpp",
+
+	missingValue, missingValue, missingValue, missingValue,
+
+	missingValue, missingValue, missingValue, missingValue,
+
+	missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
+
+	missingValue, missingValue, missingValue, missingValue,
+
+	missingValue);
+
+//Create a Project object by assigning active project
+
+Microsoft.Office.Interop.MSProject.Project project = projectApplication.ActiveProject;
+
+//Add dependencies among the tasks
+
+project.Tasks.get_UniqueID(2).TaskDependencies.Add(project.Tasks.get_UniqueID(1), PjTaskLinkType.pjFinishToStart);
+
+project.Tasks.get_UniqueID(3).TaskDependencies.Add(project.Tasks.get_UniqueID(2), PjTaskLinkType.pjFinishToStart);
+
+project.Tasks.get_UniqueID(4).TaskDependencies.Add(project.Tasks.get_UniqueID(3), PjTaskLinkType.pjFinishToStart);
+
+project.Tasks.get_UniqueID(5).TaskDependencies.Add(project.Tasks.get_UniqueID(4), PjTaskLinkType.pjFinishToStart);
+
+project.Tasks.get_UniqueID(5).TaskDependencies.Add(project.Tasks.get_UniqueID(2), PjTaskLinkType.pjFinishToStart);
+
+//Display the dependencies
+
+foreach (Task tsk in project.Tasks)
+
+{
+
+	foreach (TaskDependency dep in project.Tasks.get_UniqueID(tsk.ID).TaskDependencies)
+
+	{
+
+		Console.WriteLine("From ID = " + dep.From.ID + "=>To ID = " + dep.To.ID);
+
+	}
+
+	Console.WriteLine("____________________________________________________________");
+
+}
+
+//Save the project
+
+projectApplication.FileCloseAll(Microsoft.Office.Interop.MSProject.PjSaveType.pjSave);
+
+{{< /highlight >}}
+### **Aspose.Tasks**
+To link tasks in a project using Aspose.Tasks for .NET:
+
+1. Create a new project in Visual Studio.
+1. In the Solution Explorer, right-click and select Add Reference.
+1. Select .NET tab and select Aspose.Tasks.Click OK.This imports the Aspose.Tasks namespace at the start of your code. Use the code from the following example to link tasks.
+
+{{< highlight csharp >}}
+
+ //Load a project
+
+ProjectReader rdr = new ProjectReader();
+
+FileStream St = new FileStream("Project.mpp", FileMode.Open);
+
+Project prj = rdr.Read(St);
+
+St.Close();
+
+//Link the tasks
+
+TaskLink tsklnk = new TaskLink(prj.RootTask.Children[0] as Aspose.Tasks.Task, prj.RootTask.Children[1] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
+
+prj.AddTaskLink(tsklnk);
+
+tsklnk = new TaskLink(prj.RootTask.Children[1] as Aspose.Tasks.Task, prj.RootTask.Children[2] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
+
+prj.AddTaskLink(tsklnk);
+
+tsklnk = new TaskLink(prj.RootTask.Children[2] as Aspose.Tasks.Task, prj.RootTask.Children[3] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
+
+prj.AddTaskLink(tsklnk);
+
+tsklnk = new TaskLink(prj.RootTask.Children[3] as Aspose.Tasks.Task, prj.RootTask.Children[4] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
+
+prj.AddTaskLink(tsklnk);
+
+tsklnk = new TaskLink(prj.RootTask.Children[1] as Aspose.Tasks.Task, prj.RootTask.Children[4] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
+
+prj.AddTaskLink(tsklnk);
+
+//Display links among the tasks
+
+ArrayList allinks = new ArrayList(prj.TaskLinks);
+
+foreach (TaskLink tasklnk in allinks)
+
+{
+
+	Console.WriteLine("From ID = " + tasklnk.PredTask.Id + "=>To ID = " + tasklnk.SuccTask.Id);
+
+	Console.WriteLine("________________________________________");
+
+}
+
+//Save the project
+
+prj.Save("Project1.mpp", Aspose.Tasks.Saving.SaveFileFormat.MPP);
+
+{{< /highlight >}}
+## **Download Sample Code**
+- [Codeplex](https://asposevsto.codeplex.com/downloads/get/772965)
+- [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Adding.Links.for.Tasks.Aspose.Tasks.zip)
+- [Sourceforge](https://sourceforge.net/projects/asposevsto/files/Aspose.Tasks%20Vs%20VSTO%20Project/Adding%20Links%20for%20Tasks%20\(Aspose.Tasks\).zip/download)
+- [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Adding%20Links%20for%20Tasks%20\(Aspose.Tasks\).zip)

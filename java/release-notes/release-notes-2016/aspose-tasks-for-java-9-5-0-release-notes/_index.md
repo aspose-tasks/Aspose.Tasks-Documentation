@@ -1,0 +1,32 @@
+---
+title: Aspose.Tasks for Java 9.5.0 Release Notes
+type: docs
+weight: 30
+url: /java/aspose-tasks-for-java-9-5-0-release-notes/
+---
+
+Aspose.Tasks for Java API enables application developers to write code for manipulating Microsoft Project documents without it being installed on the systems. It provides support for Microsoft Project (MPP/XML) as well as Primavera File Formats. Project data can be exported to a number of formats including PDF, PNG, BMP and others.
+### **Major Features**
+- Performance improvement for Projects having large number of tasks
+- Excluding doucment header during conversion of Project data to HTML
+### **Features and Improvements**
+
+|**Key** |**Summary** |**Category** |
+| :- | :- | :- |
+|TASKSNET-729 |Provide option for [excluding document header name](http://www.aspose.com/docs/display/tasksjava/Saving+Project+Data+to+CSV%2C+Text+and+Template+%28MPT%29+Formats#SavingProjectDatatoCSV%2CTextandTemplate%28MPT%29Formats-ConvertToHtmlWithHeaderControl) during Project->HTML |Enhancement |
+|TASKSNET-728 |Performance is too slow with large number of tasks ~10K+ |Enhancement |
+|TASKSJAVA-216 |Predecessors information changed while loading and saving MPP (.NET) |Bug |
+|TASKSNET-1563 |Custom Field marked as Loopkup while adding extended attribute to MPP file |Bug |
+|TASKSNET-1559 |All tasks in Primavera XML file cannot be read |Bug |
+|TASKSNET-706 |Reading Project file raises Project Reading Exception |Bug |
+|TASKSNET-698 |Cropped image when converting project document to image with Vertical\Horizontal Resolution settings |Bug |
+|TASKSNET-695 |Setting Task Notes to Chinese not working |Bug |
+|TASKSJAVA-200 |Notes not updated in MPP file |Bug |
+### **Public API and Backward Incompatible Changes**
+
+|**The following public methods and properties were added:** |**Description** |
+| :- | :- |
+|com.aspose.tasks.HtmlSaveOptions.getIncludeProjectNameInTitle  <br>com.aspose.tasks.HtmlSaveOptions.setIncludeProjectNameInTitle(boolean)  |Determines whether to include project name in HTML title. |
+|com.aspose.tasks.HtmlSaveOptions.getIncludeProjectNameInPageHeader  <br>com.aspose.tasks.HtmlSaveOptions.setIncludeProjectNameInPageHeader(boolean)  |Determines whether to include project name in HTML page header. |
+|com.aspose.tasks.Task.moveToSibling(int) |Allows to move task to another position at the same parent |
+
