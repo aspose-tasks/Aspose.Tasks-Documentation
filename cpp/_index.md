@@ -3,6 +3,7 @@ title: Aspose.Tasks for C++
 type: docs
 weight: 30
 url: /cpp/
+is_root: true
 ---
 
 ## **Aspose.Tasks for C++**

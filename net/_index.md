@@ -3,6 +3,7 @@ title: Aspose.Tasks for .NET
 type: docs
 weight: 10
 url: /net/
+is_root: true
 ---
 
 ### **Aspose.Tasks for .NET**
