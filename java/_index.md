@@ -9,7 +9,7 @@ is_root: true
 ### **Aspose.Tasks for Java**
 {{% alert color="primary" %}} 
 
-![todo:image_alt_text](home_1.png)
+![Aspose.Tasks for Java Product Logo](home_1.png)
 
 **Welcome to Aspose.Tasks for Java!**
 

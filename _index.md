@@ -9,7 +9,7 @@ url: /
 
 {{% alert color="primary" %}} 
 
-![todo:image_alt_text](home_1.png)
+![Aspose.Tasks for .NET Product Logo](home_1.png)
 
 Aspose.Tasks for .NET is a class library that enables .NET applications to read and write Microsoft Project® files without using Microsoft Project®. It is currently the only .NET component that provides this functionality. Aspose.Tasks for .NET is a mature product that offers stability and flexibility. As with all of the Aspose file management components, Aspose.Tasks for .NET works well with both Win Form and WebForm applications.
 
@@ -36,7 +36,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![todo:image_alt_text](home_2.png)
+![Aspose.Tasks for Java Product Logo](home_2.png)
 
 **Welcome to Aspose.Tasks for Java!**
 
@@ -62,7 +62,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}}
 
-![todo:image_alt_text](home_3.png)
+![Aspose.Tasks for C++ Product Logo](home_3.png)
 
 **Welcome to Aspose.Tasks for C++!**
 

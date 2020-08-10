@@ -9,7 +9,7 @@ is_root: true
 ## **Aspose.Tasks for C++**
 {{% alert color="primary" %}} 
 
-![todo:image_alt_text](home_1)
+![Aspose.Tasks for C++ Product Logo](home_1)
 
 **Welcome to the Aspose.Tasks for C++**
 
