@@ -22,7 +22,7 @@ With Aspose.Tasks for .NET, it is possible to program with Microsoft Project fil
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Tasks for .NET Features](/tasks/net/product-overview)
-- [Aspose.Tasks for .NET Developer Guide](/tasks/net/feveloper-guide)
+- [Aspose.Tasks for .NET Developer Guide](/tasks/net/developer-guide)
 - [Aspose.Tasks for .NET Release Notes](/tasks/net/release-notes)
 - [Aspose.Tasks for .NET Product Page](https://products.aspose.com/tasks/net)
 - [Download Aspose.Tasks for .NET](https://downloads.aspose.com/tasks/net)
