@@ -14,6 +14,6 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.7.2](
 
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
-| [TASKSNET-4219]|Fix application of a license for some scenarios |Bug|
-| [TASKSNET-4278]|Fix incorrect calculation of timephased data for assignment's remaining work |Bug |
+|TASKSNET-4219|Fix application of a license for some scenarios |Bug|
+|TASKSNET-4278|Fix incorrect calculation of timephased data for assignment's remaining work |Bug |
 ## **Public API and Backwards Incompatible Changes**
