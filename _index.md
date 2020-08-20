@@ -5,7 +5,7 @@ weight: 10
 url: /
 ---
 
-### **Aspose.Tasks for .NET**
+## **Aspose.Tasks for .NET**
 
 {{% alert color="primary" %}} 
 
@@ -17,7 +17,7 @@ With Aspose.Tasks for .NET, it is possible to program with Microsoft Project fil
 
 {{% /alert %}} 
 
-## **Aspose.Tasks for .NET Resources**
+### **Aspose.Tasks for .NET Resources**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
@@ -32,7 +32,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Tasks for .NET Free Support Forum](https://forum.aspose.com/c/tasks)
 - [Aspose.Tasks for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-### **Aspose.Tasks for Java**
+## **Aspose.Tasks for Java**
 
 {{% alert color="primary" %}}
 
@@ -44,7 +44,7 @@ Aspose.Tasks for Java is a class library that enables Java application developer
 
 {{% /alert %}} 
 
-## **Aspose.Tasks for Java Resources**
+### **Aspose.Tasks for Java Resources**
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
@@ -58,7 +58,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.Tasks for Java Free Support Forum](https://forum.aspose.com/c/tasks)
 - [Aspose.Tasks for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
-### **Aspose.Tasks for C++**
+## **Aspose.Tasks for C++**
 
 {{% alert color="primary" %}}
 
@@ -70,7 +70,7 @@ Aspose.Tasks for C++ is a native class library that enables C++ applications to 
 
 {{% /alert %}} 
 
-## **Aspose.Tasks for C++ Resources**
+### **Aspose.Tasks for C++ Resources**
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
