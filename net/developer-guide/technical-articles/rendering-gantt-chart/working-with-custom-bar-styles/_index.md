@@ -7,14 +7,14 @@ url: /net/working-with-custom-bar-styles/
 
 {{% alert color="primary" %}} 
 
-In Microsoft Project, Bar styles can be customized to have text displayed around the bars. This can also be achieved using Aspose.Tasks API using the GanttBarStyle. This article shows how to implement and read custom bar styles using Aspose.Tasks.
+In Microsoft Project's Gantt chart view, tasks' bar styles can be customized by the user to have text displayed around the bars or to have user-defined appearance of Start, Middle and End parts of a bar. Tasks' bar styles can be customized for a specific task or for a group of tasks which meet certain criteria. This can also be achieved using Aspose.Tasks API using the GanttBarStyle. This article shows how to read and add custom bar styles using Aspose.Tasks.
 
 {{% /alert %}} 
-## **Implement Custom Bar Style Writing**
+## **Adding Custom Bar Style for a specific task**
 
 
 {{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-Articles-ImplementCustomBarStyleWriting-ImplementCustomBarStyleWriting.cs" >}}
-## **Reading Custom Bar Style Writing**
+## **Reading Custom Bar Style**
 
 
 {{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-Articles-ReadCustomBarStyle-ReadCustomBarStyle.cs" >}}
