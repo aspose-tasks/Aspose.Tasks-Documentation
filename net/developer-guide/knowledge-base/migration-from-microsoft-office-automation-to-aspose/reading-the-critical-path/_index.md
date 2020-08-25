@@ -13,7 +13,7 @@ By knowing and tracking the critical path for your project, as well as the resou
 
 If it's important for your project to finish on schedule, pay close attention to the tasks on the critical path and the resources assigned to them. These elements determine whether your project will finish on time.
 
-This article gives a small idea how to load MPP files in your .NET applications and read critical path or the tasks on the critical path from your projects using [VSTO](/tasks/net/reading-the-critical-path-html/) and [Aspose.Tasks for .NET](/tasks/net/reading-the-critical-path-html/).
+This article gives a small idea how to load MPP files in your .NET applications and read critical path or the tasks on the critical path from your projects using [VSTO](/tasks/net/reading-the-critical-path/) and [Aspose.Tasks for .NET](/tasks/net/reading-the-critical-path/).
 
 {{% /alert %}} 
 ## **Read Critical Path Using VSTO**

@@ -24,6 +24,6 @@ The following lines of code shows how to achieve this using Java
 
 {{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveDataToExcel-saving-project-to-xlsx.java" >}}
 ### **Save Project Data to Spreadsheet2003 XML**
-There are two ways to save data to Spreadsheet2003 XML format: default, or using [save options](/tasks/java/saving-project-data-to-excel-format-html/). Using the SaveFileFormat instance, the default view data is saved.
+There are two ways to save data to Spreadsheet2003 XML format: default, or using [save options](/tasks/java/saving-project-data-to-excel-format/). Using the SaveFileFormat instance, the default view data is saved.
 
 {{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveDataToExcel-saving-project-to-spreadsheet2003.java" >}}

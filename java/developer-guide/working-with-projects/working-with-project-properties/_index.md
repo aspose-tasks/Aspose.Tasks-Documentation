@@ -37,7 +37,7 @@ The programming samples below show how to read and output the project start and 
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-GeneralProjectProperties-ReadProjectInfo-reading-project-properties.java" >}}
 ### **Writing Project Information**
-Aspose.Tasks for Java can write as well as [read project information](/tasks/java/working-with-project-properties-html/). The code samples below show how to set the scheduling start point, the start date, current date, status date, and calendar type.
+Aspose.Tasks for Java can write as well as [read project information](/tasks/java/working-with-project-properties/). The code samples below show how to set the scheduling start point, the start date, current date, status date, and calendar type.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-GeneralProjectProperties-WriteProjectInfo-writing-project-properties.java" >}}
 ## **Determining Project Version**

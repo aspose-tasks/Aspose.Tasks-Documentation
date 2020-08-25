@@ -13,7 +13,7 @@ VSTO provides access to these links using MSProject.Project.Tasks.get_UniqueID(t
 
 In Aspose.Tasks, Project.TaskLinks provides a collection of links which can be used for display and accessing detailed properties of these links like LinkType, PredTask, SuccTask etc.
 
-This article shows how to load MPP files in your .NET application and add/display link tasks using [VSTO](/tasks/net/adding-links-for-tasks-html/) and [Aspose.Tasks for .NET](/tasks/net/adding-links-for-tasks-html/).
+This article shows how to load MPP files in your .NET application and add/display link tasks using [VSTO](/tasks/net/adding-links-for-tasks/) and [Aspose.Tasks for .NET](/tasks/net/adding-links-for-tasks/).
 
 {{% /alert %}} 
 ## **Link Tasks Using VSTO**

@@ -7,7 +7,7 @@ url: /net/reading-tasks-and-resources/
 
 {{% alert color="primary" %}} 
 
-While working with MPP files, you might need to read tasks and resources from your project. This article gives a small idea about how to load MPP files in your .NET applications and read tasks or resources from your projects using [VSTO](/tasks/net/reading-tasks-and-resources-html/) and [Aspose.Tasks for .NET](/tasks/net/reading-tasks-and-resources-html/).
+While working with MPP files, you might need to read tasks and resources from your project. This article gives a small idea about how to load MPP files in your .NET applications and read tasks or resources from your projects using [VSTO](/tasks/net/reading-tasks-and-resources/) and [Aspose.Tasks for .NET](/tasks/net/reading-tasks-and-resources/).
 
 {{% /alert %}} 
 ## **Read Tasks and Resources Using VSTO**

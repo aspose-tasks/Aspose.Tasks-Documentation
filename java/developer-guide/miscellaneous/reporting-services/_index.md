@@ -17,22 +17,22 @@ Aspose.Tasks provides reporting services for creating reports from project files
 ### **Types of Report**
 The following types of report can be created using Aspose.Tasks:
 
-1. [Project overview](/tasks/java/reporting-services-html/)
-1. [Resource cost overview](/tasks/java/reporting-services-html/)
-1. [Cost overview](/tasks/java/reporting-services-html/)
-1. [Work overview](/tasks/java/reporting-services-html/)
-1. [Critical tasks](/tasks/java/reporting-services-html/)
-1. [Milestones](/tasks/java/reporting-services-html/)
-1. [Late tasks](/tasks/java/reporting-services-html/)
-1. [Resource overview](/tasks/java/reporting-services-html/)
-1. [Cost overruns](/tasks/java/reporting-services-html/)
-1. [Upcoming task](/tasks/java/reporting-services-html/)
-1. [Task cost overview](/tasks/java/reporting-services-html/)
-1. [Over-allocated resources](/tasks/java/reporting-services-html/)
-1. [Slipping tasks](/tasks/java/reporting-services-html/)
-1. [Best practice analyzer](/tasks/java/reporting-services-html/)
-1. [Burn down](/tasks/java/reporting-services-html/)
-1. [Cash flow](/tasks/java/reporting-services-html/)
+1. [Project overview](/tasks/java/reporting-services/)
+1. [Resource cost overview](/tasks/java/reporting-services/)
+1. [Cost overview](/tasks/java/reporting-services/)
+1. [Work overview](/tasks/java/reporting-services/)
+1. [Critical tasks](/tasks/java/reporting-services/)
+1. [Milestones](/tasks/java/reporting-services/)
+1. [Late tasks](/tasks/java/reporting-services/)
+1. [Resource overview](/tasks/java/reporting-services/)
+1. [Cost overruns](/tasks/java/reporting-services/)
+1. [Upcoming task](/tasks/java/reporting-services/)
+1. [Task cost overview](/tasks/java/reporting-services/)
+1. [Over-allocated resources](/tasks/java/reporting-services/)
+1. [Slipping tasks](/tasks/java/reporting-services/)
+1. [Best practice analyzer](/tasks/java/reporting-services/)
+1. [Burn down](/tasks/java/reporting-services/)
+1. [Cash flow](/tasks/java/reporting-services/)
 
 The sample code snippets below can be used to create these reports. All the sample MPP files used in these examples are present as attachments for testing the sample code.
 #### **Project Overview**

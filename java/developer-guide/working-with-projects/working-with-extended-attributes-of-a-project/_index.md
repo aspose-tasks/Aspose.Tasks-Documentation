@@ -7,7 +7,7 @@ url: /java/working-with-extended-attributes-of-a-project/
 
 {{% alert color="primary" %}} 
 
-Microsoft Project has an extensive XML data interchange schema that exchanging information between applications - and programming with project files - easier. The schema allows you to add extended attributes to tasks, resources and assignments. This article shows how to assign an extended attribute to a [resource assignment](/tasks/java/creating-resource-assignments-html/) with Aspose.Tasks.
+Microsoft Project has an extensive XML data interchange schema that exchanging information between applications - and programming with project files - easier. The schema allows you to add extended attributes to tasks, resources and assignments. This article shows how to assign an extended attribute to a [resource assignment](/tasks/java/creating-resource-assignments/) with Aspose.Tasks.
 
 {{% /alert %}} 
 ## **Setting Extended Attributes**
