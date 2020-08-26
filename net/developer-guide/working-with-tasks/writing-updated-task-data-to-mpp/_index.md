@@ -7,7 +7,7 @@ url: /net/writing-updated-task-data-to-mpp/
 
 {{% alert color="primary" %}} 
 
-With Aspose.Tasks, it is possible to update [tasks](/tasks/net/working-with-tasks-html/) and then write the updated data back to a Microsoft Project MPP file.
+With Aspose.Tasks, it is possible to update [tasks](/tasks/net/working-with-tasks/) and then write the updated data back to a Microsoft Project MPP file.
 
 {{% /alert %}} 
 ## **Updating Task Data**
