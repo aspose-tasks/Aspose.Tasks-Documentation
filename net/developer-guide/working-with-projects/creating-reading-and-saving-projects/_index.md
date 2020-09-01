@@ -54,6 +54,10 @@ To read a password-protected project file:
 The following lines of code demonstrate how to achieve this using C#.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-CreatingReadingAndSaving-ReadPasswordProtectedProjectFile-ReadingPasswordProtectedProjectFile.cs" >}}
+
+The following code example demonstrates how to check if the project file is password protected.
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ExProject-CheckIfProjectIsPasswordProtected.cs" >}}
+
 ## **Working With Encodings**
 Aspose.Tasks provides support for the encoding of MPX files. The following code example shows the encoding settings.
 
