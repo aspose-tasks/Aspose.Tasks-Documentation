@@ -17,7 +17,7 @@ Aspose.Tasks for Java is a class library that enables Java application developer
 
 {{% /alert %}} 
 ## **Aspose.Tasks for Java Resources**
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Tasks for Java Online Documentation](/tasks/java/)
 - [Aspose.Tasks for Java Features](/tasks/java/product-overview/)

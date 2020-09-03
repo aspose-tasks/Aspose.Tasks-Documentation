@@ -21,7 +21,7 @@ Aspose.Tasks for C++ is a native class library that enables C++ applications to 
 
 
 ## **Aspose.Tasks for C++ Resources**
-Following are the links to some useful resources you may need to accomplish your tasks.
+The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Tasks for C++ Online Documentation](/tasks/cpp/)
 - [Aspose.Tasks for C++ Features](/tasks/cpp/product-overview/)
