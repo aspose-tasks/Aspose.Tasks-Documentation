@@ -41,6 +41,5 @@ This page contains release notes information for [Aspose.Tasks for Java 20.8](ht
 |com.aspose.tasks.CustomProperties 	| |
 |com.aspose.tasks.TasksDataFormat | |
 |**The following public types were deleted:** |**Description** |
-| :- | :- |
 | com.aspose.tasks.TasksDataFormat.XML  | |  
 | com.aspose.tasks.TasksDataFormat.MPP  | |
