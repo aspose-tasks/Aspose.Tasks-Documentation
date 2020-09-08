@@ -6,12 +6,21 @@ url: /net/managing-projects-with-project-server/
 ---
 
 ## **Managing Projects with Project Server**
-Aspose.Tasks provides the ProjectServerManager class to create, read and update projects in Project Server. 
+Aspose.Tasks provides the ProjectServerManager class to create, read and update projects in Project Server. The [ProjectServerManager ](https://apireference.aspose.com/net/tasks/aspose.tasks/projectservermanager)class provides the methods to retrieve projects from the specified Project Online account. The ProjectServerCredentials class shall be used to provide credentials that are used to connect to Project Online. Previously, Microsoft.SharePoint.Client.Runtime assembly was used to retrieve AuthToken but now Aspose.Tasks provides an option to specify SiteUrl, username, and password in order to create a connection to Project Online.  
 ### **Reading Project from Project Server**
 The following code example demonstrates how to read project data from Project Server.
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ExProjectServerManager-ReadingProjectOnline.cs" >}}
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-CreatingReadingAndSaving-ReadAndCreateInProjectServer-ReadProjectFromProjectServer.cs" >}}
 ### **Creating a Project in Project Server**
 The following code example demonstrates how to create a project in Project Server.
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ExProjectServerManager-ProjectServerManagerCreateNewProject.cs" >}}
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-CreatingReadingAndSaving-ReadAndCreateInProjectServer-CreateProjectInProjectServer.cs" >}}
+The following code example demonstrates how to create a project with predefined save options on Microsoft Project Online.
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ExProjectServerManager-CreateProjectOnline.cs" >}}
+
+### **Updating a Project in Project Server**
+The following code example demonstrates how to update a project in Project Server.
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ExProjectServerManager-UpdateProjectServer.cs" >}}
+
+The following code example demonstrates how to update a project in Project Server with save options.
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ExProjectServerManager-UpdateProjectOnlineWithOptions.cs" >}}
