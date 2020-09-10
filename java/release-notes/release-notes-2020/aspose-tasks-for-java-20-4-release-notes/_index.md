@@ -19,15 +19,10 @@ The next scenario is valid now:
 **Java**
 
 {{< highlight java >}}
-
- Project p = new Project(); // there is no more need to load MPP template to save it into MPP
-
+Project p = new Project(); // there is no more need to load MPP template to save it into MPP
 // add tasks, resources, etc.
-
 ...
-
 p.save("project.mpp", SaveFileFormat.MPP); // !The project will be saved into MPP by using internal MPP template.
-
 {{< /highlight >}}
 
 
@@ -40,24 +35,17 @@ Old meta properties API:
 
 {{< highlight java >}}
 
- // Custom properties are available through the dictionary of untyped properties:
-
+// Custom properties are available through the dictionary of untyped properties:
 for (Map.Entry<String, Object> documentCustomProperty : document.getCustomProperties().entrySet()) {
-
     System.out.println(documentCustomProperty.getKey());
-
     System.out.println(documentCustomProperty.getValue());
-
 }
 
 // Built-in properties are available through the Project class:
-
 Project project = new Project("Project.mpp");
 
 System.out.println(project.get(Prj.TITLE));
-
 System.out.println(project.get(Prj.AUTHOR));
-
 // ... etc.
 
 {{< /highlight >}}
@@ -68,38 +56,24 @@ New meta properties API:
 
 {{< highlight java >}}
 
- // Custom properties are available through the typed collection:
-
+// Custom properties are available through the typed collection:
 Project project = new Project();
-
 for (CustomProjectProperty property : project.getCustomProps()) {
-
     System.out.println(property.getType());
-
     System.out.println(property.getName());
-
     System.out.println(property.getValue());
-
 }
 
 // Built-in properties are available directly:
-
 System.out.println(project.getBuiltInProps().getAuthor());
-
 System.out.println(project.getBuiltInProps().getTitle());
-
 // ... etc.
 
 // ... or as an item of built-in property collection:
-
 for (BuiltInProjectProperty property : project.getBuiltInProps()) {
-
     System.out.println(property.getName());
-
     System.out.println(property.getValue());
-
-   // ... etc.
-
+    // ... etc.
 }
 
 {{< /highlight >}}

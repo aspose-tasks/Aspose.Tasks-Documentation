@@ -21,7 +21,7 @@ You can now create or update an existing project in your Project Online account 
 
 {{< highlight java >}}
 
- ProjectServerCredentials credentials = new ProjectServerCredentials("https://xxxxxx.sharepoint.com", "yyyyy@xxxxxxx.onmicrosoft.com", "password");
+ProjectServerCredentials credentials = new ProjectServerCredentials("https://xxxxxx.sharepoint.com", "yyyyy@xxxxxxx.onmicrosoft.com", "password");
 
 Project project = new Project("sample.mpp");
 
@@ -37,7 +37,7 @@ You can now create, read, and update projects in on-premise Project Server (2016
 
 {{< highlight java >}}
 
- ProjectServerCredentials projectServerCredentials = new ProjectServerCredentials("https://xxxxxx.sharepoint.com", "yyyyy@xxxxxxx.onmicrosoft.com", "password");
+ProjectServerCredentials projectServerCredentials = new ProjectServerCredentials("https://xxxxxx.sharepoint.com", "yyyyy@xxxxxxx.onmicrosoft.com", "password");
 
 ProjectServerManager manager = new ProjectServerManager(projectServerCredentials);
 
