@@ -62,12 +62,12 @@ url: /java/aspose-tasks-for-java-17-8-release-notes/
 |com.aspose.tasks.CompoundDocumentHeaderException|Represents an exception which is thrown when the header of MPP file is broken.|
 |com.aspose.tasks.RecalculationValidationException|Represents an exception which is thrown when errors are found in project after recalculation.|
 |com.aspose.tasks.TaskValidationException|Represents an exception which is thrown when errors are found in project's tasks after recalculation.|
-|**The following public constructor was added to existing classes:**|** |
+|**The following public constructor was added to existing classes:**|**|
 |com.aspose.tasks.Duration.#ctor|Default constructor.|
 |**The following protected constructors were added to existing classes:**|**Description**|
 |com.aspose.tasks.RecalculationValidationException.#ctor|Initializes a new instance of the {@code RecalculationValidationException} class.|
 |com.aspose.tasks.RecalculationValidationException.#ctor(java.lang.String)|Initializes a new instance of the {@code RecalculationValidationException} class.|
-|com.aspose.tasks.SaveOptions.#ctor(com.aspose.tasks.SaveOptions) |Initializes a new instance of the {@code SaveOptions} class.|
+|com.aspose.tasks.SaveOptions.#ctor(com.aspose.tasks.SaveOptions)|Initializes a new instance of the {@code SaveOptions} class.|
 |**The following public methods and properties were added:**|**Description**|
 |com.aspose.tasks.BarStyle.dispose|Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.|
 |com.aspose.tasks.MspDbSettings.getSchema|Gets the schema of the MS Project Server.|
@@ -88,5 +88,5 @@ url: /java/aspose-tasks-for-java-17-8-release-notes/
 |com.aspose.tasks.RateScaleType.Year|Inidcates Year rate scale type.|
 |com.aspose.tasks.TaskKey.SummaryProgress|Represents the Summary Progress (Task) field.|
 |com.aspose.tasks.TaskKey.TaskIsAssigned|Represents the TaskIsAssigned (Task) field.|
-|** |** |
+|**|**|
 

@@ -36,7 +36,7 @@ This page contains release notes information for Aspose.Tasks for Java 18.10.
 |**The following public methods and properties were added:**|**Description**|
 |com.aspose.tasks.Project.recalculateResourceFields|Recalculates Start and Finish of resources.|
 |com.aspose.tasks.Project.recalculateResourceFields|Recalculates Id, Start and Finish of resources.|
-|**The following public methods and properties had been obsolete more than one year and were deleted:**|** |
+|**The following public methodsand propertieshad been obsolete more than one year andwere deleted:**|**|
 |com.aspose.tasks.TaskBaselineCollection.getCount|Use com.aspose.tasks.TaskBaselineCollection.size() instead.|
 |com.aspose.tasks.ResourceCollection.getCount|Use com.aspose.tasks.ResourceCollection.size() instead.|
 

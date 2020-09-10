@@ -10,7 +10,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|TASKSNET-1729|Improve public API to simplify [working with Custom Fields](https://docs.asposeptyltd.com/display/tasksjava/Extended+Task+Attributes#ExtendedTaskAttributes-AddingExtendedAttributeInformationforaTask).|Enhancement|
+|TASKSNET-1729|Improve public API to simplify[working with Custom Fields](https://docs.asposeptyltd.com/display/tasksjava/Extended+Task+Attributes#ExtendedTaskAttributes-AddingExtendedAttributeInformationforaTask).|Enhancement|
 |TASKSNET-1737|Extended attribute lookup table is not showed in XML format.|Bug|
 |TASKSNET-1723|MPP cannot be loaded into Project object|Bug|
 |TASKSNET-1719|False lookup table attached with an extended attribute while adding lookup with another extended attribute|Bug|
@@ -34,7 +34,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 |com.aspose.tasks.ExtendedAttributeDefinition.createLookupDefinition|Factory method which creates an extended attribute definition with lookup. It has "com.aspose.tasks.ExtendedAttributeDefinition.CalculationType" equals to "com.aspose.tasks.CalculationType.Lookup".|
 |com.aspose.tasks.ExtendedAttributeDefinition.createLookupTaskDefinition(com.aspose.tasks.CustomFieldType, com.aspose.tasks.ExtendedAttributeTask, java.lang.String)|Factory method which creates an extended attribute definition with lookup.|
 |com.aspose.tasks.ExtendedAttributeDefinition.createLookupResourceDefinition(com.aspose.tasks.CustomFieldType, com.aspose.tasks.ExtendedAttributeResource, java.lang.String)|Factory method which creates an extended attribute definition with lookup.|
-|com.aspose.tasks.NullableBool.toString| |
+|com.aspose.tasks.NullableBool.toString||
 |com.aspose.tasks.OutlineValue.getValueGuid|Gets a GUID which identifies this value among others in the entire project.|
 |com.aspose.tasks.Project.selectAllChildTasks|Recursively collects all child tasks of this project.|
 |com.aspose.tasks.Task.selectAllChildTasks|Recursively collects all child tasks of this task.|
@@ -46,5 +46,5 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 |**The following public enumerations were added:**|**Description**|
 |com.aspose.tasks.CalculationType.Lookup|Means the extended attribute has a lookup table to select values from.|
 |**The following public enumerations were deleted:**|**Description**|
-|com.aspose.tasks.CalculationType.Null| |
+|com.aspose.tasks.CalculationType.Null||
 

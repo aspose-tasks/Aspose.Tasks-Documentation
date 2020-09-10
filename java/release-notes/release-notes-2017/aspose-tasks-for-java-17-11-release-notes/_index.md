@@ -28,7 +28,7 @@ This page contains release notes information about Aspose.Tasks for Java 17.11 v
 |TASKSNET-2090|Loading project file raises Exception|Bug|
 |TASKSNET-2048|Saving into image by page not working properly|Bug|
 |TASKSNET-2035|Percent complete not set properly in MPP|Bug|
-|TASKSJAVA-286|Setting Project Start date raises ArgumentOutOfRangeException (Java)|Bug|
+|TASKSJAVA-286|Setting Project Start date raises ArgumentOutOfRangeException(Java)|Bug|
 |TASKSNET-1749|Assignment Cost is not displayed for Cost resources in Microsoft Project 2013|Bug|
 |TASKSJAVA-269|Text extended attribute created by formula is read as date by Aspose.Tasks (Java)|Bug|
 |TASKSNET-1716|Project recalculation throws an exception with cleared ActualStart and ActualFinish properties|Bug|
@@ -50,7 +50,7 @@ This page contains release notes information about Aspose.Tasks for Java 17.11 v
 
 |**The following protected methods were added:**|**Description**|
 | :- | :- |
-|` `com.aspose.tasks.TimephasedDataCollection.addInternal(com.aspose.tasks.TimephasedData,boolean)|Adds TimephasedData instance to this collection object.|
+|com.aspose.tasks.TimephasedDataCollection.addInternal(com.aspose.tasks.TimephasedData,boolean)|Adds TimephasedData instance to this collection object.|
 |**The following public methods and properties were added:**|**Description**|
 |com.aspose.tasks.AvailabilityPeriodCollection.contains(com.aspose.tasks.AvailabilityPeriod)|Returns true if the specified item is found in this collection; otherwise, false.|
 |com.aspose.tasks.AvailabilityPeriodCollection.copyTo(com.aspose.tasks.AvailabilityPeriod[],int)|Copies the elements of this collection to the specified array, starting at the specified array index.|

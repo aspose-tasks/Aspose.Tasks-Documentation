@@ -9,7 +9,7 @@ url: /java/aspose-tasks-for-java-7-2-1-release-notes/
 ## **Major Features**
 We have supported WBS code fields reading and writing this release. 
 We also have provided link arrows between tasks across the pages while 
-MPP to PDF conversion. Bug 'TASKS-33763 MPP->PDF generates blank output' was fixed. About 13 bugs were fixed in total.  Please see list of 
+MPP to PDF conversion. Bug 'TASKS-33763 MPP->PDF generates blank output' was fixed. About 13 bugs were fixed in total. Please see list of 
 all changes below. 
 
 We have supported WBS code fields reading and writing this release. 

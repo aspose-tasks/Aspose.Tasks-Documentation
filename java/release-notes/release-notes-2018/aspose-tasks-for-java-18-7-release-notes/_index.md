@@ -46,10 +46,10 @@ This page contains release notes information for Aspose.Tasks for Java 18.7.
 |com.aspose.tasks.ResourceSavingArgs|This class represents set of data that related to external resource file's saving that|
 |com.aspose.tasks.HtmlImageType|Represents HTML image type.|
 |**Deleted Public Types**|**Description**|
-|com.aspose.tasks.FilterCriticalTasks| |
-|com.aspose.tasks.FilterResourceAssignByResource| |
-|com.aspose.tasks.GroupCriteria| |
-|com.aspose.tasks.FilterResourceAssignByTask| |
+|com.aspose.tasks.FilterCriticalTasks||
+|com.aspose.tasks.FilterResourceAssignByResource||
+|com.aspose.tasks.GroupCriteria||
+|com.aspose.tasks.FilterResourceAssignByTask||
 |**Added Public Methods and Properties**|**Description**|
 |com.aspose.tasks.CssSavingArgs.#ctor|Initializes a new instance of the CssSavingArgs class.|
 |com.aspose.tasks.ExtendedAttributeDefinition.createTaskDefinition(int,java.lang.String)|Factory method which creates a simple extended attribute definition, which Microsoft Project shows as "None".|
@@ -91,11 +91,11 @@ This page contains release notes information for Aspose.Tasks for Java 18.7.
 |com.aspose.tasks.Value.getDuration|Gets the actual value which is used to represent Duration.|
 |com.aspose.tasks.Value.setDuration(com.aspose.tasks.Duration)|Sets the actual value which is used to represent Duration.|
 |**Deleted Public Methods and Properties**|**Description**|
-|com.aspose.tasks.ExtendedAttributeDefinition.#ctor| |
-|com.aspose.tasks.ExtendedAttributeDefinition.setCfType(int)| |
-|com.aspose.tasks.ExtendedAttributeDefinition.setFieldName(java.lang.String)| |
-|com.aspose.tasks.ExtendedAttributeDefinition.setLookupUid(java.lang.String)| |
-|com.aspose.tasks.ExtendedAttributeDefinition.setValueList(java.util.List)| |
+|com.aspose.tasks.ExtendedAttributeDefinition.#ctor||
+|com.aspose.tasks.ExtendedAttributeDefinition.setCfType(int)||
+|com.aspose.tasks.ExtendedAttributeDefinition.setFieldName(java.lang.String)||
+|com.aspose.tasks.ExtendedAttributeDefinition.setLookupUid(java.lang.String)||
+|com.aspose.tasks.ExtendedAttributeDefinition.setValueList(java.util.List)||
 |**Added Public Enumerations**|**Description**|
 |com.aspose.tasks.FontFaceType.NotSpecified|Font type is not specified.|
 |com.aspose.tasks.FontFaceType.Ttf|The true type font.|

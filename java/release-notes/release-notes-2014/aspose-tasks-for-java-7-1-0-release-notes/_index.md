@@ -11,7 +11,7 @@ We have significantly improved rendering into to pdf format. MPP
 GantChart TimeScale information is used for rendering specifically. 
 Also, GanttChart rendering resolved for bars that are in footer section.
 Saving Project Data to multiple PDF files option was supported. Eight 
-bugs were fixed.  Please see list of all changes below. 
+bugs were fixed. Please see list of all changes below. 
 
 We have significantly improved rendering into to pdf format. MPP 
 GantChart TimeScale information is used for rendering specifically. 

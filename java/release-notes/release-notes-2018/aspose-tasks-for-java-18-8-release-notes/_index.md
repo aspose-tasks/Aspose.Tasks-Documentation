@@ -51,7 +51,7 @@ This page contains release notes information for Aspose.Tasks for Java 18.8.
 |**The following public methods and properties were added:**|**Description**|
 |com.aspose.tasks.ByMonthDayRepetition.#ctor|Initializes a new instance of the <see cref="T:com.aspose.tasks.ByMonthDayRepetition" /> class.|
 |com.aspose.tasks.ByMonthDayRepetition.getDayPosition<br>com.aspose.tasks.ByMonthDayRepetition.setDayPosition(int)|Gets or sets a position of a day in a month on which the task must be recurring.|
-|com.aspose.tasks.ByMonthWeekDayRepetition.#ctor|Initializes a new instance of the <see cref="ByMonthWeekDayRepetition"/> class. |
+|com.aspose.tasks.ByMonthWeekDayRepetition.#ctor|Initializes a new instance of the <see cref="ByMonthWeekDayRepetition"/> class.|
 |com.aspose.tasks.ByMonthWeekDayRepetition.getWeekDay<br>com.aspose.tasks.ByMonthWeekDayRepetition.setWeekDay(int)|Gets or sets a type of weekday on which the task must be recurring.|
 |com.aspose.tasks.ByMonthWeekDayRepetition.getPosition<br>com.aspose.tasks.ByMonthWeekDayRepetition.setPosition(int)|Gets or sets a position of a weekday in a month on which the task must be recurring.|
 |com.aspose.tasks.ByYearDayRepetition.#ctor|Initializes a new instance of the <see cref="ByYearDayRepetition"/> class.|
@@ -107,7 +107,7 @@ This page contains release notes information for Aspose.Tasks for Java 18.8.
 |**The following public enumerations were added:**|**Description**|
 |com.aspose.tasks.DayOfWeek|Represents the day of the week.|
 |com.aspose.tasks.PrjKey.Guid|Represents the guid of a project.|
-|**The following public methods and properties had been obsolete more than one year and were deleted:**|**Description**|
-|com.aspose.tasks.TaskCollection.getCount| |
-|com.aspose.tasks.WeekDayCollection.getCount| |
+|**The following public methodsand propertieshad been obsolete more than one year andwere deleted:**|**Description**|
+|com.aspose.tasks.TaskCollection.getCount||
+|com.aspose.tasks.WeekDayCollection.getCount||
 
