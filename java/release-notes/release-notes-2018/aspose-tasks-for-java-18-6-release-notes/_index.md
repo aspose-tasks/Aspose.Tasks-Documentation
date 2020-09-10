@@ -11,7 +11,7 @@ This page contains release notes information of Aspose.Tasks for Java 18.6.
 
 {{% /alert %}} 
 ## **Major Improvements**
-- Support for [reading/writing of extended attributes to resource assignment](/tasks/java/adding-extended-attributes-to-resource-assignments/)
+- Support for [reading/writing of extended attributes to resourceassignment](/tasks/java/adding-extended-attributes-to-resource-assignments/)
 - Validation of work contour type for manual tasks and assignments without resource
 ## **All Changes**
 

@@ -11,7 +11,7 @@ This page contains release notes information for Aspose.Tasks for Java 18.11.
 
 {{% /alert %}} 
 ## **Major Changes**
-- In this release we added support for JDK 11, now you can use either -jdk17 or -jdk18 library versions on JRE 11 environment. 
+- In this release we added support for JDK 11, now you can use either -jdk17 or -jdk18 library versions on JRE 11 environment.
 - Please also note about breaking changes in this release. We are going to put our Java port in order to minimize differences from the .NET version of the library. One of that changes is marking non-virtual methods of .NET version, as "final" in Java. In a case when such methods was overridden, compilation errors may appear in customer's code.
 ## **All Changes**
 
@@ -32,7 +32,7 @@ This page contains release notes information for Aspose.Tasks for Java 18.11.
 |TASKSNET-2653|Remove a set of actual fields while assigning resource|Bug|
 ## **Public API and Backwards Incompatible Changes**
 
-|**The following public methods  and properties had been obsolete more than one year and were deleted:**|** |
+|**The following public methods and properties had been obsolete more than one year and were deleted:**|**|
 | :- | :- |
 |com.aspose.tasks.AssignmentBaselineCollection.getCount|Use com.aspose.tasks.AssignmentBaselineCollection.size() instead.|
 |com.aspose.tasks.BaselineCollection.getCount|Use com.aspose.tasks.BaselineCollection.size() instead.|

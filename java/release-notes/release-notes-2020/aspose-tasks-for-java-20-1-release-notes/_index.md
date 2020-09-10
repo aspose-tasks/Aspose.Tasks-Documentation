@@ -14,7 +14,7 @@ This page contains release notes information for [Aspose.Tasks for Java 20.1](ht
 
 ## **All Changes**
 
-|` `**Key** |` `**Summary** |**Issue Type**|
+|**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 |TASKSJAVA-1024|ArgumentException: FontFamily ‘Segoe UI’ not found error after updating Aspose.Tasks version|Bug|
 |TASKSJAVA-999|ArgumentException on saving MPP as PDF on Linux|Bug|
