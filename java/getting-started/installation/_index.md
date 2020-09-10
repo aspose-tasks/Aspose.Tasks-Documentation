@@ -38,12 +38,11 @@ Then define Aspose.Tasks for Java API dependency in your pom.xml as follows:
 
     <artifactId>aspose-tasks</artifactId>
 
-    <version>20.4</version>
+    <version>20.8</version>
 
-    <classifier>jdk17</classifier>
-
-</dependency>
-
+    <classifier>jdk18</classifier>
+ 
+ </dependency>
 {{< /highlight >}}
 
 After performing the above steps, Aspose.Tasks for Java dependency will finally be defined in your Maven Project.
