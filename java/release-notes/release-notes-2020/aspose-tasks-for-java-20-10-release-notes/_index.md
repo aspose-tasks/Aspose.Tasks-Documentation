@@ -18,11 +18,13 @@ This page contains release notes information for [Aspose.Tasks for Java 20.10](h
 | :- | :- | :- |
 |TASKSNET-4285|Implement a check that file is encrypted | New Feature |
 |TASKSNET-4311|Improve resource deletion execution time | Enhancement |
+|TASKSNET-4365|Add and ability to assign cost to the Resource Assignment in manual calculation mode | Enhancement |
+|TASKSNET-4435|Disable recalculation of Tsk.Cost and Tsk.FixedCost in manual calculation mode | Enhancement |
+|TASKSNET-4416|Review Metered license and update the credit charge algorithm | Enhancement |
 |TASKSNET-4308|Fix incorrect ActualStart of manual assigned tasks |Bug |
 |TASKSNET-4278|Fix incorrect calculation of timephased data for assignment's remaining work | Bug | 
 |TASKSNET-4270|Fix recalculation of assignments' work and timephased data for task with Type = "FixedWork" when task's duration is changed | Bug |
 |TASKSNET-4256|Fix invalid generated TimephasedData for assignments of Fixed Duration tasks | Bug | 
-|TASKSNET-4365|Add and ability to assign cost to the Resource Assignment in manual calculation mode | Enhancement |
 |TASKSNET-4371|Fix incorrect reading of MPP with a large number of long assignments | Bug |
 |TASKSNET-4370|Fix bad performance while deleting of resources when CalculationMode.Manual is set | Bug |
 |TASKSNET-4363|Fix task's assignments are not visible in Task usage view | Bug |
@@ -30,8 +32,6 @@ This page contains release notes information for [Aspose.Tasks for Java 20.10](h
 |TASKSNET-4350|Fix missing ActualFinish | Bug |
 |TASKSNET-4350|ActualFinish is showing as NA for some tasks | Bug |
 |TASKSNET-4390|Fix file resaved with Aspose.Tasks cannot be opened by MSP 2016 | Bug |
-|TASKSNET-4435|Disable recalculation of Tsk.Cost and Tsk.FixedCost in manual calculation mode | Enhancement |
-|TASKSNET-4416|Review Metered license and update the credit charge algorithm | Enhancement |
 
 ## Changes in Metered licenses
 
