@@ -38,7 +38,7 @@ Then define Aspose.Tasks for Java API dependency in your pom.xml as follows:
 
     <artifactId>aspose-tasks</artifactId>
 
-    <version>20.8</version>
+    <version>20.10</version>
 
     <classifier>jdk18</classifier>
  

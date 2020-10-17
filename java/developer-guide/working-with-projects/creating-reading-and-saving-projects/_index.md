@@ -31,7 +31,7 @@ The given below code example shows how to create an empty project using file str
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-CreateEmptyProjectFile-CreateEmptyProjectFile.java" >}}
 ## **Reading a Project File**
-Aspose.Tasks lets you open existing files and manipulate them as well as creating new files. This topic shows how a Project file can be read using Project class's constructor.
+Aspose.Tasks lets you open existing files and manipulate them as well as creating new files. This topic shows how a Project file can be read using the Project class's constructor.
 
 The [Project](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Project) class constructor accepts a valid FileInputStream object or path to MPP or XML document and returns a [Project](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Project) object which can be used to manipulate project data.
 
@@ -41,13 +41,13 @@ The [Project](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Proj
 
 {{< highlight csharp >}}
 
- //Read a project from template
+ //Read a project from a template
 
 Project project = new Project("d:\\Project1.mpp");
 
 {{< /highlight >}}
 ### **Reading Project Data from Microsoft Project Database**
-Aspose.Tasks API now allows to read Project data from Microsoft Project database. The SqlConnectionStringBuilder and MspDbSettings classes can be used to accomplish this purpose providing connection string settings for connection to the database.
+Aspose.Tasks API now allows to read Project data from the Microsoft Project database. The SqlConnectionStringBuilder and MspDbSettings classes can be used to accomplish this purpose providing connection string settings for connection to the database.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadingProjectDatafromMicrosoftProjectDatabase-ReadingProjectDatafromMicrosoftProjectDatabase.java" >}}
 
@@ -58,7 +58,7 @@ Aspose.Tasks API now allows to read Project data from Microsoft Project database
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadingProjectDataFromMicrosoftAccessDatabase-ReadingProjectDataFromMicrosoftAccessDatabase.java" >}}
 ### **Ignoring invalid characters during loading Project**
 Some files may have invalid characters in the custom fields. MS Project does not allow invalid character so the files have been created or manipulated with automation or some other tools.
-If these be loaded using the API, they may lead to an exception. In order to ignore such invalid characters, the overloaded constructor of Project class can be used with the delegate method ParseErrorCallBack.
+If these be loaded using the API, they may lead to an exception. In order to ignore such invalid characters, the overloaded constructor of the Project class can be used with the delegate method ParseErrorCallBack.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-IgnoringInvalidCharactersDuringLoadingProject-IgnoringInvalidCharactersDuringLoadingProject.java" >}}
 ## **Read Password Protected Projects (2003 Format)**
@@ -75,14 +75,13 @@ The following lines of code show how to achieve this using Java.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadPasswordProtectedFiles-ReadPasswordProtectedFiles.java" >}}
 
+The following code example demonstrates how to check if the project file is password protected.
+
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadProjectFiles-CheckIfProjectIsPasswordProtected.java" >}}
 
 ## **Reading Project Online**
-The [ProjectOnlineReader](https://apireference.aspose.com/java/tasks/com.aspose.tasks/ProjectOnlineReader) class provides the methods to retrieve projects from the specified Project Online account. The ProjectServerCredentials class shall be used to provide credentials which are used to connect to Project Online. Previously, the Microsoft.SharePoint.Client.Runtime assembly was used to retrieve AuthToken but now Aspose.Tasks provides an option to specify SiteUrl, username, and password in order to create a connection to Project Online.  
+The [ProjectServerManager](https://apireference.aspose.com/tasks/java/com.aspose.tasks/ProjectServerManager) class provides the methods to retrieve projects from the specified Project Online account. The ProjectServerCredentials class shall be used to provide credentials that are used to connect to Project Online. Previously,  Microsoft.SharePoint.Client.Runtime assembly was used to retrieve AuthToken but now Aspose.Tasks provides an option to specify SiteUrl, username, and password to create a connection to Project Online.  
 
-The following lines of code show how to read project online.
+The following lines of code show how to read the project online.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadingProjectOnline-ReadingProjectOnline.java" >}}
-
-
-
-
