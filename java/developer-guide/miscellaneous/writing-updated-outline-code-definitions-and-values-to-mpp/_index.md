@@ -10,7 +10,7 @@ url: /java/writing-updated-outline-code-definitions-and-values-to-mpp/
 Aspose.Tasks provides the facility to add new outline code attributes to an existing Microsoft Project MPP file and save it back.
 
 {{% /alert %}} 
-## **Updating Outline Code Definitions and Values**
+**Updating Outline Code Definitions and Values**
 The following code sample defines new outline codes and sets its various fields. The outlines codes and values are then added to the project outline codes and the updated data is saved back to MPP file. The steps involved in this activity are:
 
 1. Create an instance of Project Reader.

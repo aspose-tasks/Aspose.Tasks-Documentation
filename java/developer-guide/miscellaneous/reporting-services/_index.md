@@ -15,7 +15,7 @@ Aspose.Tasks provides reporting services for creating reports from project files
 {{% /alert %}} 
 ## **Aspose.Tasks Reporting Services**
 ### **Types of Report**
-The following types of report can be created using Aspose.Tasks:
+The following types of reports can be created using Aspose.Tasks:
 
 1. [Project overview](/tasks/java/reporting-services/)
 1. [Resource cost overview](/tasks/java/reporting-services/)

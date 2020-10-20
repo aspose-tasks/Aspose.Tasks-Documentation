@@ -7,7 +7,7 @@ url: /java/saving-project-data-to-csv-text-and-template-mpt-formats/
 
 {{% alert color="primary" %}} 
 
-Microsoft Project (MSP) allows developers to save project data (MPP/XML) to comma delimited (CSV), text and MPT templates. Aspose.Tasks also lets you save project data to the same formats similar to MSP. This is achieved using the standard Save method exposed by the [Project](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Project) class as shown with code samples below.
+Microsoft Project (MSP) allows developers to save project data (MPP/XML) to comma delimited (CSV), text and MPT templates. Aspose.Tasks also lets you save project data to the same formats similar to MSP. This is achieved using the standard Save method exposed by the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class as shown with code samples below.
 
 {{% /alert %}} 
 ## **Converting to HTML**
@@ -15,22 +15,15 @@ Microsoft Project (MSP) allows developers to save project data (MPP/XML) to comm
 ### **Controlling Document Header Name during Export to HTML**
 {{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsHtml-export-html-document-headers.java" >}}
 ## **Saving a Project as CSV**
-The following code snippet shows how to save a project as CSV format.
-
-
+The following code snippet shows how to save a project as a CSV format.
 
 {{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsCsvTextAndTemplate-saving-project-csv.java" >}}
 
-
 ## **Save Project to Text**
-
-
 {{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsCsvTextAndTemplate-saving-project-text.java" >}}
 
 
 ## **Save Project Data as Template (MPT)**
-The following code snippet shows how to save a project as MPT format.
-
-
+The following code snippet shows how to save a project as an MPT format.
 
 {{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsCsvTextAndTemplate-saving-project-data-template.java" >}}

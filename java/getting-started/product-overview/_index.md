@@ -11,7 +11,7 @@ url: /java/product-overview/
 
 **Welcome to Aspose.Tasks for Java!**
 
-Aspose.Tasks for Java is a class library that enables Java application developers to embed the functionality of processing Microsoft Project ® documents (MPP/MPT/XLS) without even using Microsoft Project®. The API, hence, eliminates the requirement of Microsoft Office Automation in such application. Ported from its equivalent .NET product, Aspose.Tasks for Java is a mature product that offers stability and flexibility. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
+Aspose.Tasks for Java is a class library that enables Java application developers to embed the functionality of processing Microsoft Project ® documents (MPP/MPT/XLS) without even using Microsoft Project®. The API, hence, eliminates the requirement of Microsoft Office Automation in such applications. Ported from its equivalent .NET product, Aspose.Tasks for Java is a mature product that offers stability and flexibility. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
 {{% /alert %}} 
 ## **Benefits**
@@ -40,19 +40,19 @@ Aspose.Tasks offers a wide arrange of features for creating, reading, manipulati
 ### **Platform Independence**
 Use Aspose.Tasks for Java to build any type of 32-bit or 64-bit Java applications that can be run on any machine having Java Runtime installed. Aspose.Tasks for Java can be used in a variety of applications including Web as well as Desktop applications.
 ### **Performance and Scalability**
-Ported from its equivalent .NET version, Aspose.Tasks for Java is a stable API that can be deployed on the server as well as client side with applications. No other modules or services are required for its functionality.
+Ported from its equivalent .NET version, Aspose.Tasks for Java is a stable API that can be deployed on the server as well as client-side with applications. No other modules or services are required for its functionality.
 ## **Technical Support**
 Aspose provides unlimited free technical support for all its products. The support is available to all users, including ones running an evaluation.
 
-If you need help, [**visit the Aspose.Forums**](http://www.aspose.com/community/forums/default.aspx). Post your question in the Aspose.Tasks forum and it will be answered within a few hours.
+If you need help, [**visit the Aspose.Forums**](https://forum.aspose.com/). Post your question in the Aspose.Tasks forum and it will be answered within a few hours.
 
 When expecting a reply in the forums, please allow for time zone differences.
 ### **Reporting an Issue**
 If you have an issue, follow these simple steps to make sure it is resolved efficiently:
 
-- Make sure you use the latest version of the product before reporting an issue. See the [Aspose.Tasks for Java download page](http://www.aspose.com/community/files/72/java-components/aspose.tasks-for-java/default.aspx) to find out about the latest version.
-- Have a look through the [forums](http://www.aspose.com/community/forums/default.aspx), this documentation Wiki and the [API Reference](/pages/createpage.action?spaceKey=tasksjava&title=Aspose.Tasks+for+Java+API+Reference&linkCreation=true&fromPageId=22284902) before reporting an issue. Your question may already have an answer.
-- When reporting an issue, please include the original document and possibly a fragment of your code that causes the problem. If you need to attach multiple files, zip them into one. It is safe to attach your documents in the forums since only you and Aspose's developers have access to attached files.
+- Make sure you use the latest version of the product before reporting an issue. See the [Aspose.Tasks for Java download page](https://downloads.aspose.com/tasks/java) to find out about the latest version.
+- Have a look through the [forums](https://forum.aspose.com/), this documentation Wiki and the [API Reference](https://apireference.aspose.com/tasks/java) before reporting an issue. Your question may already have an answer.
+- When reporting an issue, please include the original document and possibly a fragment of your code that causes the problem. If you need to attach multiple files, ZIP them into one. It is safe to attach your documents in the forums since only you and Aspose's developers have access to the attached files.
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.
 
 Aspose does not provide technical support over the phone. Phone support is only available for sales and purchase questions.
@@ -61,8 +61,8 @@ This table lists important Aspose.Tasks for Java technical resources.
 
 |**Resource**|**Description**|
 | :- | :- |
-|[Aspose.Tasks home page](http://www.aspose.com/Java/project-management-component.aspx)|Product home page.|
-|[Aspose.Tasks blog](http://www.aspose.com/community/blogs/aspose.tasks-for-.net/default.aspx)|Check this often for information about new releases and useful tips about Aspose.Tasks.|
-|[Aspose.Tasks for Java support forum](http://www.aspose.com/community/forums/aspose.tasks-product-family/96/showforum.aspx)|Post your questions and issues here for a speedy resolution.|
-|[Aspose.Tasks for Java product documentation](http://www.aspose.com/docs/display/tasksjava/Getting+Started)|Full online documentation that includes this documentation as well as Aspose.Tasks API Reference.|
+|[Aspose.Tasks home page](https://products.aspose.com/tasks/java)|Product home page.|
+|[Aspose.Tasks blog](https://blog.aspose.com/category/tasks/)|Check this often for information about new releases and useful tips about Aspose.Tasks.|
+|[Aspose.Tasks for Java support forum](https://forum.aspose.com/c/tasks)|Post your questions and issues here for a speedy resolution.|
+|[Aspose.Tasks for Java product documentation](https://docs.aspose.com/tasks/java/)|Full online documentation that includes this documentation as well as Aspose.Tasks API Reference.|
 
