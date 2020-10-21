@@ -10,8 +10,8 @@ url: /java/defining-weekdays-for-exceptions/
 When setting up calendar exceptions with Aspose.Tasks, it is possible to define days as exceptions.
 
 {{% /alert %}} 
-## **Defining Workdays**
-The [Exceptions](/pages/createpage.action?spaceKey=tasksjava&title=com.aspose.tasks.CalendarExceptionCollection+class&linkCreation=true&fromPageId=16581055) collection exposed by the [Calendar](/pages/createpage.action?spaceKey=tasksjava&title=com.aspose.tasks.Calendar+Class&linkCreation=true&fromPageId=16581055) class can be used to define the weekdays for an exception.
+**Defining Workdays**
+The [Exceptions](https://apireference.aspose.com/tasks/java/com.aspose.tasks/CalendarExceptionCollection) collection exposed by the [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class can be used to define the weekdays for an exception.
 
 To see a list of exceptions in Microsoft Project:
 

@@ -7,148 +7,24 @@ url: /java/working-with-task-resource-and-project-fields-calculation-in-expressi
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API can use Task, Resource and Project fields as formula in expressions. Fields such as Work, Cost, Number fields, Date Time, Boolean and Project Fields such as task count and resource count can be used in formula expressions in extended attribute.
+Aspose.Tasks API can use Task, Resource and Project fields as a formula in expressions. Fields such as Work, Cost, Number fields, DateTime, Boolean and Project Fields such as task count and resource count can be used in formula expressions in an extended attribute.
 
 {{% /alert %}} 
 ## **Using Tasks and Resource Fields in Formula Calculations**
-**Java**
 
-{{< highlight csharp >}}
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Formulae-WorkWithFormulas-CreateTestProjectWithCustomField.java" >}}
 
- private static void TaskFieldsFormula()
-
-{
-
-	// see this helper method below
-
-	Project project = CreateTestProjectWithCustomField();
-
-	ExtendedAttributeDefinition attr = project.getExtendedAttributes().get(0);
-
-	attr.setAlias("Days from finish to deadline");
-
-	attr.setFormula("[Deadline] - [Finish]");
-
-	Task task = project.getRootTask().getChildren().getById(1);
-
-	java.util.Calendar cal = java.util.Calendar.getInstance();
-
-	cal.set(2015, 26, 3, 8,0,0);
-
-	task.set(Tsk.DEADLINE, cal.getTime());
-
-	project.save("SaveFile.mpp", SaveFileFormat.MPP);
-
-}
-
-public static Project CreateTestProjectWithCustomField()
-
-{
-
-	Project project = new Project();
-
-	java.util.Calendar cal = java.util.Calendar.getInstance();
-
-	cal.set(2015, 26, 3, 8,0,0);
-
-	project.set(Prj.START_DATE, cal.getTime());
-
-	ExtendedAttributeDefinition attr = new ExtendedAttributeDefinition();
-
-	project.getExtendedAttributes().add(attr);
-
-	attr.setFieldId(Integer.toString(ExtendedAttributeTask.Text1));
-
-	Task task = project.getRootTask().getChildren().add("Task");
-
-	ExtendedAttribute a = attr.createExtendedAttribute();
-
-	task.getExtendedAttributes().add(a);
-
-	Resource rsc = project.getResources().add("Rsc");
-
-	ResourceAssignment assn = project.getResourceAssignments().add(task, rsc);
-
-	return project;
-
-}
-
-{{< /highlight >}}
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Formulae-WorkWithFormulas-TaskFieldsFormula.java" >}}
 
 
 ## **Using Arithmetic Expression ((1+3*(2+ -5)+8/2)^3)**
-**Java**
-
-{{< highlight csharp >}}
-
- Project project = CreateTestProjectWithCustomField();
-
-ExtendedAttributeDefinition attr = project.getExtendedAttributes().get(0);
-
-attr.setAlias("Arithmetic Expression");
-
-attr.setFormula("(1+3*(2+ -5)+8/2)^3");
-
-Task task = project.getRootTask().getChildren().getById(1);
-
-System.out.println(task.getExtendedAttributes().get(0).getValue());
-
-{{< /highlight >}}
-
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Formulae-WorkWithFormulas-UsingArithmeticExpression.java" >}}
 
 ## **Using Task Number Fields : (Outline Level + Priority + % Complete|% Complete)/2**
-**Java**
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Formulae-WorkWithFormulas-UsingTaskNumberFields.java" >}}
 
-{{< highlight csharp >}}
-
- Project project = CreateTestProjectWithCustomField();
-
-ExtendedAttributeDefinition attr = project.getExtendedAttributes().get(0);
-
-attr.setAlias("Task number fields");
-
-attr.setFormula("(([Outline Level] + [Priority] + [% Complete])/2");
-
-Task task = project.getRootTask().getChildren().getById(1);
-
-System.out.println(task.getExtendedAttributes().get(0).getValue());
-
-task.set(Tsk.PERCENT_COMPLETE, 50);
-
-System.out.println(task.getExtendedAttributes().get(0).getValue());
-
-{{< /highlight >}}
 ## **Formula With Boolean Values**
-{{< highlight csharp >}}
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Formulae-WorkWithFormulas-FormulaWithBooleanValues.java" >}}
 
- Project project = CreateTestProjectWithCustomField();
-
-ExtendedAttributeDefinition attr = project.getExtendedAttributes().get(0);
-
-attr.setAlias("Task number fields");
-
-attr.setFormula("[Critical]-[Marked]+4+[Active]-Not [Active]");
-
-Task task = project.getRootTask().getChildren().getById(1);
-
-System.out.println("Formula with boolean values" + task.getExtendedAttributes().get(0).getValue());
-
-{{< /highlight >}}
 ## **Formula With Project Fields**
-**Java**
-
-{{< highlight csharp >}}
-
- Project project = CreateTestProjectWithCustomField();
-
-ExtendedAttributeDefinition attr = project.getExtendedAttributes().get(0);
-
-attr.setAlias("Task number fields");
-
-attr.setFormula("\"Total tasks: \" & [Task Count] & \" Total resources: \" & [Resource Count]");
-
-Task task = project.getRootTask().getChildren().getById(1);
-
-System.out.println("Total tasks: 1 Total resources: 0" + task.getExtendedAttributes().get(0).getValue());
-
-{{< /highlight >}}
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Formulae-WorkWithFormulas-FormulaWithProjectFields.java" >}}
