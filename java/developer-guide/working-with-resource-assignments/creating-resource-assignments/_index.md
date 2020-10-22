@@ -11,7 +11,7 @@ Resource assignments links a task and a resource. This article explains how to c
 
 {{% /alert %}} 
 ## **Creating Resource Assignments**
-The [Resource](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Resource) class exposes two different ways of creating a resource assignment, either using the default constructor or by passing a task and resource.
+The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class exposes two different ways of creating a resource assignment, either using the default constructor or by passing a task and resource.
 ### **Programming Sample: Adding ResourceAssignment to Project directly**
 The following code sample adds a Resource Assignment to the project without instantiating its object.
 

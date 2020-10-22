@@ -11,7 +11,7 @@ The actual properties are used to find out how much time or money has been sent 
 
 {{% /alert %}} 
 ## **Working with Actual Properties**
-The [Task](/pages/createpage.action?spaceKey=tasksjava&title=com.aspose.tasks.Task+Class&linkCreation=true&fromPageId=16581036) exposes a number of properties for determining a task's actual properties:
+The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/task) exposes a number of properties for determining a task's actual properties:
 
 - ActualCost: a task's actual cost (double).
 - ActualOvertimeCost: a task's actual overtime cost (double).

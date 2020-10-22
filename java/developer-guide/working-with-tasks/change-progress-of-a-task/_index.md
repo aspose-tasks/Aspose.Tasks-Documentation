@@ -5,10 +5,8 @@ weight: 220
 url: /java/change-progress-of-a-task/
 ---
 
-## **Changing progress of a Task**
-Aspose.Tasks supports changing a task's progress in terms of its percentage completion through the [Task](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Task) class' SetPercentComplete() method. This method takes an integer argument as input for the percentage work completed.
-
-**Programming Sample**
+**Changing progress of a Task**
+Aspose.Tasks supports changing a task's progress in terms of its percentage completion through the [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task) class' SetPercentComplete() method. This method takes an integer argument as input for the percentage work completed.
 
 The following piece of code shows how to change the progress of a task.
 

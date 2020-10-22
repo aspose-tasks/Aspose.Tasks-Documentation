@@ -11,7 +11,7 @@ Work variance is the difference between the estimated work (the baseline) and ac
 
 {{% /alert %}} 
 ## **Handling Variances**
-The WorkVariance property exposed by the [Resource](/pages/createpage.action?spaceKey=tasksjava&title=com.aspose.tasks.Resource+class&linkCreation=true&fromPageId=16581068) class handles variance in work:
+The WorkVariance property exposed by the [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class handles variance in work:
 
 - WorkVariance: a project resource's difference from the baseline work (double).
 ### **Microsoft Project View of Resource Work Variance**

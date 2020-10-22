@@ -7,7 +7,7 @@ url: /java/predecessor-and-successor-tasks/
 
 {{% alert color="primary" %}} 
 
-The PredTask and SuccTask properties exposed by the [TaskLink](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/TaskLink) class are used to define the predecessor and successor tasks for a TaskLink. Both of these properties read and write [Task](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Task) object.
+The PredTask and SuccTask properties exposed by the [TaskLink](https://apireference.aspose.com/tasks/java/com.aspose.tasks/TaskLink) class are used to define the predecessor and successor tasks for a TaskLink. Both of these properties read and write [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task) object.
 
 {{% /alert %}} 
 ## **Working with Predecessor and Successor Tasks**

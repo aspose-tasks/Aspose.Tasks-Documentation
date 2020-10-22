@@ -7,7 +7,7 @@ url: /java/resource-and-calendars/
 
 {{% alert color="primary" %}} 
 
-The [Resource](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Resource) class exposes the Calendar property which is used to set or get the calendar for a resource. This property accepts and returns an [Calendar](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Calendar) object.
+The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class exposes the Calendar property which is used to set or get the calendar for a resource. This property accepts and returns an [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) object.
 
 {{% /alert %}} 
 ## **Working with Resource Calendars**
@@ -15,7 +15,6 @@ To define a calendar for a resource in Microsoft Project:
 
 1. In the Resource Sheet, double-click the desired resource.
 1. Click the **Change Working Time** button.
-
 
 **Changing working times in Microsoft Project** 
 

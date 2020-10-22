@@ -5,7 +5,7 @@ weight: 90
 url: /java/working-with-resource-assignments/
 ---
 
-###### **This section includes the following topics:** 
+**This section includes the following topics:** 
 - [Creating Resource Assignments](/tasks/java/creating-resource-assignments/)
 - [General Resource Assignment Properties](/tasks/java/general-resource-assignment-properties/)
 - [Managing Assignment Cost](/tasks/java/managing-assignment-cost/)

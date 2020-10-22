@@ -7,7 +7,7 @@ url: /java/setting-resource-properties/
 
 {{% alert color="primary" %}} 
 
-The [Resource](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Resource) class has a number of properties for getting and setting resource attributes:
+The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class has a number of properties for getting and setting resource attributes:
 
 - Name gets and sets a resource's name (string).
 - Id gets and sets a resource's ID (integer).

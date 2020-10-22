@@ -10,10 +10,8 @@ url: /java/creating-tasks/
 A project is, essentially, made up by a number of tasks, each of which has to be completed for the project to be completed. When working with project files, adding tasks is an important activity. Tasks are often linked to other tasks, to indicate dependency, and typically have a set duration. Aspose.Tasks lets developers create tasks and define, at the time of creation, their name, and children or duration.
 
 {{% /alert %}} 
-## **Creating Tasks**
-The default constructor creates an instance of a [Task](/pages/createpage.action?spaceKey=tasksjava&title=com.aspose.tasks.Task+class&linkCreation=true&fromPageId=16581044) class without any parameter being passed. You can also create a named tasks by passing a String argument to its constructor
 
-**Programming Sample**
+The default constructor creates an instance of a [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/task/) class without any parameter being passed. You can also create a named tasks by passing a String argument to its constructor
 
 The following code demonstrates how to do this using Aspose.Tasks Java API.
 

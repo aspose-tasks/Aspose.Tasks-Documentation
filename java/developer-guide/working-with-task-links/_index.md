@@ -5,7 +5,7 @@ weight: 60
 url: /java/working-with-task-links/
 ---
 
-###### **This section includes the following topics:** 
+**This section includes the following topics:** 
 - [Creating a Task Link](/tasks/java/creating-a-task-link/)
 - [Defining Link Type](/tasks/java/defining-link-type/)
 - [Predecessor and Successor Tasks](/tasks/java/predecessor-and-successor-tasks/)

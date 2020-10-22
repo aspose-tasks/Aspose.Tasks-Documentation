@@ -6,7 +6,7 @@ url: /java/handling-overtime-remaining-costs-and-work/
 ---
 
 ## **Handling Overtime, Remaining Costs and Work**
-The [ResourceAssignment](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/ResourceAssignment) class exposes a number of properties for handling an assignment's overtime, remaining costs and work:
+The [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.tasks/ResourceAssignment) class exposes a number of properties for handling an assignment's overtime, remaining costs and work:
 
 - OvertimeCost represents the sum of the actual and remaining overtime costs of an assignment (decimal).
 - OvertimeWork represents the scheduled overtime work for an assignment (TimeSpan).

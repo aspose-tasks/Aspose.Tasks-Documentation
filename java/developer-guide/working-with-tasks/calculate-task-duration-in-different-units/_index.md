@@ -10,10 +10,8 @@ url: /java/calculate-task-duration-in-different-units/
 It can be useful to calculate the duration of a task in different units such as minutes, hours, etc.
 
 {{% /alert %}} 
-## **Calculating Durations**
-The [Task](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Task) class offers provides the getDuration() method for calculating task duration in different units. This method takes TimeUnitType as the input argument and returns the duration as a double value.
-
-**Programming Sample**
+**Calculating Durations**
+The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task) class offers provides the getDuration() method for calculating task duration in different units. This method takes TimeUnitType as the input argument and returns the duration as a double value.
 
 The following piece of code shows how to use this method to retrieve a task's duration in different units: minute, day, hour, week and month.
 

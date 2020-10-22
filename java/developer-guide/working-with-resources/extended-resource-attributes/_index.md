@@ -5,10 +5,8 @@ weight: 70
 url: /java/extended-resource-attributes/
 ---
 
-## **Extending Resource Attributes**
-The ExtendedAttribute property exposed by the [Resource](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Resource) class can be used to manage the extended attributes of a resource. This property reads and writes an ArrayList of the ExtendedAttribute objects to deal with a resource's extended attributes. The ExtendedAttribute object further exposes the relevant properties.
-
-**Programming Sample**
+**Extending Resource Attributes**
+The ExtendedAttribute property exposed by the [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class can be used to manage the extended attributes of a resource. This property reads and writes an ArrayList of the ExtendedAttribute objects to deal with a resource's extended attributes. The ExtendedAttribute object further exposes the relevant properties.
 
 The following example shows how to set a resource's extended attributes.
 

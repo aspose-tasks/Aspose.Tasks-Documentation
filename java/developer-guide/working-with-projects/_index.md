@@ -4,5 +4,3 @@ type: docs
 weight: 10
 url: /java/working-with-projects/
 ---
-
-### **Articles in this section**

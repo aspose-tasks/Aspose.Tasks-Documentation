@@ -6,7 +6,7 @@ url: /java/managing-assignment-cost/
 ---
 
 ## **Managing Assignment Cost**
-The [ResourceAssignment](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/ResourceAssignment) class exposes several properties used to manage assignment cost:
+The [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.tasks/ResourceAssignment) class exposes several properties used to manage assignment cost:
 
 - Cost represents an assignment's total project cost (decimal).
 - Bcwp represents the budgeted cost of work to date on an assignment (double).

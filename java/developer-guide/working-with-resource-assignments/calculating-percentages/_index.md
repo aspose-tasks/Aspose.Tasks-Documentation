@@ -6,7 +6,7 @@ url: /java/calculating-percentages/
 ---
 
 ## **Calculating Percentages**
-The PercentWorkComplete property exposed by the [ResourceAssignment](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/ResourceAssignment) class is used to manage the percentage of work completed on an assignment.
+The PercentWorkComplete property exposed by the [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.tasks/ResourceAssignment) class is used to manage the percentage of work completed on an assignment.
 
 - PercentWorkComplete represents the percentage of the completed work on an assignment (integer).
 ### **Getting Percentages in Aspose.Tasks**

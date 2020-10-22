@@ -15,14 +15,16 @@ Primavera’s Proprietary Exchange Format (XER), by Primavera Systems, Inc., is 
 Aspose.Tasks can import *Primavera* XML similar to Microsoft Project XML and MPP formats. The Project class provides the capability of loading such type of file using the same constructor as used for other Project files.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ImportExportDataToPrimavera-import-data-from-primavera-xml-format.java" >}}
+
 ### **Importing Data from Primavera MPX File Format**
 
-
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ImportExportDataToPrimavera-import-data-from-primavera-mpx-format.java" >}}
+
 ### **Reading Project UIDs from Primavera XML file**
 A Primavera XML file may contain multiple projects, each having its own UID. Aspose.Tasks API provides the capability to read all such UIDs from the project and then load a project using a specific id from the list of UIDs.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ImportExportDataToPrimavera-read-all-project-uid.java" >}}
+
 ### **Reading Primavera XML file with Multiple Projects**
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ImportExportDataToPrimavera-read-project-specific-uid.java" >}}
 ## **Importing Project Data from Primavera Database File**

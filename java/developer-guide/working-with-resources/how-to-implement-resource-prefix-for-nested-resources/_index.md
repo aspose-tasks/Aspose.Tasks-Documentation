@@ -10,7 +10,7 @@ url: /java/how-to-implement-resource-prefix-for-nested-resources/
 This article shows how to add resource prefix for nested resources using the Aspose.Tasks API.
 
 {{% /alert %}} 
-### **Resource Prefix for Nested Resources**
+**Resource Prefix for Nested Resources**
 Aspose.Tasks provides ResourceSavingArgs.NestedUri property which allows saving nested resources (e.g. PNG inside SVG files) in the separate folder.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Resources-ResourcePrefixForNestedResources-ResourcePrefixForNestedResources.java" >}}
