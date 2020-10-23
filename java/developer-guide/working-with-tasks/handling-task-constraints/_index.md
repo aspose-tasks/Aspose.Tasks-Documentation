@@ -44,7 +44,7 @@ The code samples below set the constraint type set to Start No Earlier Than.
 The code samples below set the constraint type set to Finish No Earlier Than.
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-HandleTaskConstraints-setConstraintTypeFinishNoEarlierThan.java" >}}
 
-**Output file showing Finish No Earlier Than contraint** 
+**Output file showing Finish No Earlier Than constraint** 
 
 ![todo:image_alt_text](handling-task-constraints_4.png)
 
