@@ -11,7 +11,7 @@ Tasks can be identified by a number of general properties, such as name, ID, sta
 
 {{% /alert %}} 
 ## **General Properties**
-The [Task](/pages/createpage.action?spaceKey=tasksjava&title=com.aspose.tasks.Task+Class&linkCreation=true&fromPageId=16581046) exposes a number of general properties:
+The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) exposes several general properties:
 
 - Name, used to set and get a task's name (string).
 - Id, used to set and get a task's ID (integer).

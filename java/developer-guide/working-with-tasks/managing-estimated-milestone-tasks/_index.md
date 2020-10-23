@@ -11,7 +11,7 @@ In Microsoft Project, milestones are used to monitor a project's progress. Miles
 
 {{% /alert %}} 
 ## **Working with Milestones**
-The [Task](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Task) class exposes the IsEstimated and IsMilestone properties to manage estimated and milestone tasks:
+The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes the IsEstimated and IsMilestone properties to manage estimated and milestone tasks:
 
 - IsEstimated: set and get whether a task is estimated (boolean).
 - IsMilestone: set and get whether a task is a milestone (boolean).

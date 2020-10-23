@@ -11,7 +11,7 @@ Microsoft Projects lets users assign overtime to tasks. Aspose.Tasks supports th
 
 {{% /alert %}} 
 ## **Overtime**
-The [Task](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Task) exposes several properties for working with overtime:
+The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) exposes several properties for working with overtime:
 
 - OvertimeCost: reads and writes the sum of tasks, actual and remaining overtime cost (double).
 - OvertimeWork: reads and writes the amount of overtime scheduled for a task (TimeSpan).

@@ -5,7 +5,7 @@ weight: 50
 url: /java/working-with-tasks/
 ---
 
-###### **This section includes the following topics:** 
+**This section includes the following topics:** 
 - [Creating Tasks](/tasks/java/creating-tasks/)
 - [Reading and Writing General Properties](/tasks/java/reading-and-writing-general-properties/)
 - [Tasks and Calendars](/tasks/java/tasks-and-calendars/)

@@ -11,7 +11,7 @@ To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks
 
 {{% /alert %}} 
 ## **Working with Task Cost**
-The [Task](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Task) class exposes a number of properties for working with task cost:
+The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes several properties for working with task cost:
 
 - COST: a task's projected or scheduled cost (double).
 - BCWP: the budgeted cost of the work performed to date (double).
@@ -29,6 +29,6 @@ To view task costs in Microsoft Project:
 
 ![todo:image_alt_text](managing-task-costs_1.png)
 ### **Getting Task Costs**
-The following examples show how to get a tasks cost using Aspose.Tasks.
+The following examples show how to get a task's cost using Aspose.Tasks.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-ManageTaskCost-manage-task-cost.java" >}}

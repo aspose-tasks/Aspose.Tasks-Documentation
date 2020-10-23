@@ -11,7 +11,7 @@ WBS codes, work breakdown structure codes, lets you assign outline numbers to ta
 
 {{% /alert %}} 
 ## **Working with Work Breakdown Structure**
-The Wbs and WbsLevel properties exposed by the [Tsk](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Tsk) class is used to read and write a tasks work breakdown structure:
+The Wbs and WbsLevel properties exposed by the [Tsk](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Tsk/) class is used to read and write a tasks work breakdown structure:
 
 - WBS: sets or gets a task's WBS code (string).
 - WBS_LEVEL: sets or gets a task's WBS level (string).
@@ -29,6 +29,6 @@ The following examples show how to get a task's WBS value using Aspose.Tasks.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-WbsAssociatedWithTask-wbs-association.java" >}}
 ## **Renumber WBS Codes**
-Aspose.Tasks API is able to renumber WBS codes similar to MSP's "Renumber" function.
+Aspose.Tasks API can renumber WBS codes similar to MSP's "Renumber" function.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-WbsAssociatedWithTask-RenumberTaskWBSCodes.java" >}}

@@ -11,7 +11,7 @@ It is possible to associate calendars with particular tasks in Microsoft Project
 
 {{% /alert %}} 
 ## **Tasks with Calendars**
-The [Task](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Task) class exposes the [Calendar](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Calendar) property, used to set or get the calendar associated with a task. This property accepts or returns an com.aspose.tasks.Calendar object.
+The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes the [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar/) property, used to set or get the calendar associated with a task. This property accepts or returns an object of com.aspose.tasks.Calendar class.
 
 To create a calendar for a task in Microsoft Project:
 
@@ -28,6 +28,6 @@ Create a standard calendar and create a task. Assign the Calendar to the task.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-TasksAndCalendars-setting-task-calendar.java" >}}
 ### **Getting Task Calendar**
-Get task calendar by traversing the tasks in a project.
+Get a task calendar by traversing the tasks in a project.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-TasksAndCalendars-getting-task-calendar.java" >}}
