@@ -1,5 +1,5 @@
 ---
-title: Aspose.Tasks for CPP 20.6 Release Notes
+title: Aspose.Tasks for C++ 20.6 Release Notes
 type: docs
 weight: 10
 url: /cpp/aspose-tasks-for-cpp-20-6-release-notes/
