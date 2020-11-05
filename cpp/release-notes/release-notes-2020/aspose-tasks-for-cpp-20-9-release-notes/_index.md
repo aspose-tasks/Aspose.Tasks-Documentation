@@ -41,9 +41,11 @@ Aspose.Tasks for C++ is based on the .NET version of the API and provides strict
 |**The following public property was added:** |**Description** |
 | :- | :- |
 |Aspose.Tasks.ProjectFileInfo.IsPasswordProtected | Gets a value indicating whether a project is password protected. |
+
 |**The following public types were deleted:** |**Description** |
 | :- | :- |
 |Aspose.Tasks.ProjectOnlineReader | Replaced by ProjectServerManager type.| 
+
 |**The following public methods and properties were deleted:** |**Description** |
 | :- | :- |
 |Aspose.Tasks.ProjectOnlineReader.#ctor(Aspose.Tasks.ProjectServerCredentials) | |

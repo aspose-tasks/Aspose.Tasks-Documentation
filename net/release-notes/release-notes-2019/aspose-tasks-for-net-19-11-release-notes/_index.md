@@ -30,16 +30,16 @@ This page contains release notes information for [Aspose.Tasks for .NET 19.11](h
 
 ## **Public API and Backwards Incompatible Changes**
 
-|**The following public types were added:** |` `**Description** |
+|**The following public types were added:** | **Description** |
 | :- | :- |
-|` `Aspose.Tasks.HtmlImageType |` `Represents HTML image type. |
-|` `**The following public enumerations were added:** |` `**Description** |
-|` `Aspose.Tasks.HtmlImageType.Jpeg |` `JPEG JFIF. |
-|` `Aspose.Tasks.HtmlImageType.Png |` `Portable Network Graphics. |
-|` `Aspose.Tasks.HtmlImageType.Bmp |` `Windows Bitmap. |
-|` `Aspose.Tasks.HtmlImageType.Gif |` `Gif image format |
-|` `Aspose.Tasks.HtmlImageType.Tiff |` `Tiff image format |
-|` `Aspose.Tasks.HtmlImageType.Svg |` `SVG image format |
-|` `Aspose.Tasks.HtmlImageType.Svgz |` `Compressed SVG |
-|` `Aspose.Tasks.HtmlImageType.Unknown |` `Unknown format |
+| Aspose.Tasks.HtmlImageType | Represents HTML image type. |
+| **The following public enumerations were added:** | **Description** |
+| Aspose.Tasks.HtmlImageType.Jpeg | JPEG JFIF. |
+| Aspose.Tasks.HtmlImageType.Png | Portable Network Graphics. |
+| Aspose.Tasks.HtmlImageType.Bmp | Windows Bitmap. |
+| Aspose.Tasks.HtmlImageType.Gif | Gif image format |
+| Aspose.Tasks.HtmlImageType.Tiff | Tiff image format |
+| Aspose.Tasks.HtmlImageType.Svg | SVG image format |
+| Aspose.Tasks.HtmlImageType.Svgz | Compressed SVG |
+| Aspose.Tasks.HtmlImageType.Unknown | Unknown format |
 
