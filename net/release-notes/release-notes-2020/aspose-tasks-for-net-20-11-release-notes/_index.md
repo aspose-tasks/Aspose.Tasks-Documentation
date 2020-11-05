@@ -26,7 +26,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 20.11](h
 | TASKSNET-3723 | Fix absent TDs for cost resources | Bug |
 ## **Public API and Backwards Incompatible Changes**
 
-##### **The following behavior was changed:**
+**The following behavior was changed:**
 
 1) *Days on which calendar exceptions are effective are no longer added to calendar.WeekDays collection.*
 
@@ -42,7 +42,7 @@ Before ver. 20.11: days on which the exceptions were effective were added to cal
 After ver. 20.11 (including ver. 20.11): calendar.WeekDays contain only "regular" WeekDays.
 You can use CalendarException.GetExceptionDates() method in order to determine on which days the given calendar exception is effective.
 
-```
+{{< highlight csharp >}}
 Project project = new Project("CalendarWithExceptions.mpp");
 Calendar calendar = project.Calendars.GetByUid(1);
 CalendarException calendarException = calendar.Exceptions[0];
@@ -51,7 +51,7 @@ foreach (var date in calendarException.GetExceptionDates())
 {
     Console.WriteLine(date);
 }
-```
+{{< /highlight >}}
 
 |**The following public types were added:**|**Description**|
 | :- | :- |
@@ -65,8 +65,8 @@ foreach (var date in calendarException.GetExceptionDates())
 
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
-| Aspose.Tasks.AssignmentBaseline.#ctor |  |
-| Aspose.Tasks.Baseline.#ctor |  |
+| Aspose.Tasks.AssignmentBaseline.#ctor | Initializes a new instance of the <see cref="AssignmentBaseline"/> class. |
+| Aspose.Tasks.Baseline.#ctor | Initializes a new instance of the <see cref="Baseline"/> class. |
 | Aspose.Tasks.CalendarException.GetExceptionDates | Returns dates on which the calendar exception is applicable. |
 | Aspose.Tasks.Metered.GetConsumptionCredit | Gets consumption credit. |
 | Aspose.Tasks.Metered.GetConsumptionQuantity | Gets consumption file size. |
@@ -91,8 +91,4 @@ foreach (var date in calendarException.GetExceptionDates())
 | Aspose.Tasks.Calendar.Make24HourCalendar |  |
 | Aspose.Tasks.Calendar.MakeNightShiftCalendar |  |
 | Aspose.Tasks.Saving.SaveOptions.ShowProjectSummaryTask |  |
-| Aspose.Tasks.Util.CheckCircuit.PostAlg(Aspose.Tasks.Task,System.Int32) |  |
-| Aspose.Tasks.Util.CheckCircuit.PreAlg(Aspose.Tasks.Task,System.Int32) |  |
-| Aspose.Tasks.Util.ChildTasksCollector.PostAlg(Aspose.Tasks.Task,System.Int32) |  |
-| Aspose.Tasks.Util.ChildTasksCollector.PreAlg(Aspose.Tasks.Task,System.Int32) |  |
 | Aspose.Tasks.Visualization.GanttBarStyle.ShowFor |  |
