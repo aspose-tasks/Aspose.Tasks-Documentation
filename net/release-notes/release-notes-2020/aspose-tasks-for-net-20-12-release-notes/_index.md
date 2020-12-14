@@ -7,14 +7,14 @@ url: /net/aspose-tasks-for-net-20-12-release-notes/
 
 {{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.Tasks for .Net 20.12](https://downloads.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.12/).
+This page contains release notes information for [Aspose.Tasks for .NET 20.12](https://downloads.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.12/).
 
 {{% /alert %}}
 ## **All Changes**
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 | TASKSNET-4518 | Save project documents with password protection | New Feature |
-| TASKSNET-4500 | Add an ability to read and write Activity_Id (task_code in xer) for Primavera xml, xer and db formats | Enhancement |
+| TASKSNET-4500 | Add an ability to read and write Activity_Id (task_code in XER) for Primavera XML, XER and DB formats | Enhancement |
 | TASKSNET-4120 | Add reading of timescale settings and rendering of custom timescales for Task Usage and Resource Usage views | Enhancement |
 | TASKSNET-4561 | Fix exception when trying to access TimephasedData for assignment of material resource | Bug |
 | TASKSNET-4554 | Fix "NullReferenceException" when trying to render the specific project to HTML | Bug |

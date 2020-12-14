@@ -21,7 +21,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.11](h
 | TASKSNET-3854 | Enhance reading of dates in evaluation mode | Enhancement |
 | TASKSNET-4506 | Fix missing embedded OLE image in resaved project | Bug |
 | TASKSNET-4499 | Fix incorrect TimephasedData.Uid in TimephasedData items returned by task.GetTimephasedData() method | Bug |
-| TASKSNET-4485 | Fix adding of CalendarException broke .mpp file | Bug |
+| TASKSNET-4485 | Fix adding of CalendarException broke MPP file | Bug |
 | TASKSNET-4439 | Fix invalid order of null tasks after project's recalculation | Bug |
 | TASKSNET-3723 | Fix absent TDs for cost resources | Bug |
 ## **Public API and Backwards Incompatible Changes**
