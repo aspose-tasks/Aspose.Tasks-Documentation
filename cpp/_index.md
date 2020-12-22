@@ -27,7 +27,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Tasks for C++ Features](/tasks/cpp/product-overview/)
 - [Aspose.Tasks for C++ Release Notes](/tasks/cpp/release-notes/)
 - [Aspose.Tasks for C++ Product Page](https://products.aspose.com/tasks/cpp)
-- [Install Aspose.Tasks for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Tasks/)
+- [Install Aspose.Tasks for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Tasks.Cpp/)
 - [Download Examples at GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-C)
 - [Aspose.Tasks for C++ API Reference Guide](https://apireference.aspose.com/cpp/tasks)
 - [Aspose.Tasks for C++ Free Support Forum](https://forum.aspose.com/c/tasks)
