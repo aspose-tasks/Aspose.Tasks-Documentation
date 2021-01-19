@@ -6,7 +6,6 @@ url: /net/
 is_root: true
 ---
 
-## **Aspose.Tasks for .NET**
 {{% alert color="primary" %}} 
 
 ![Aspose.Tasks for .NET Product Logo](home_1.png)
@@ -16,7 +15,7 @@ Aspose.Tasks for .NET is a class library that enables .NET applications to read 
 With Aspose.Tasks for .NET, it is possible to program with Microsoft Project files without Microsoft Office Automation. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
 {{% /alert %}} 
-## **Aspose.Tasks for .NET Resources**
+**Aspose.Tasks for .NET Resources**
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Tasks for .NET Features](/tasks/net/product-overview/)

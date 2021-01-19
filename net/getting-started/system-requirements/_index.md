@@ -6,7 +6,7 @@ url: /net/system-requirements/
 ---
 
 ## **Overview**
-Aspose.Tasks for .NET can be used to build any type of a 32-bit or 64-bit .NET application including ASP.NET, WCF, WinForms, WPF etc. It is possible to use Aspose.Tasks for .NET via COM Interop from ASP, Perl, PHP and Python. Aspose.Tasks for .NET can also be used to build applications with Mono.
+Aspose.Tasks for .NET can be used to build any type of 32-bit or 64-bit .NET application including ASP.NET, WCF, WinForms, WPF etc. It is possible to use Aspose.Tasks for .NET via COM Interop from ASP, Perl, PHP and Python. Aspose.Tasks for .NET can also be used to build applications with Mono.
 ## **Supported Operating Systems**
 Aspose.Tasks for .NET supports any 32-bit or 64-bit operating system where .NET or Mono framework is installed including, but not limited to:
 ### **Windows**

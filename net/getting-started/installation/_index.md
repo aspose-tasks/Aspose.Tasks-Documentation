@@ -13,9 +13,9 @@ NuGet is the easiest way to download and install Aspose APIs for .NET. Open Micr
 You can follow the steps below to reference the Aspose.Tasks API using the package manager console:
 
 1. Open your solution/project in Visual Studio.
-1. Select Tools -> Library Package Manager -> Package Manager Console from the menu to open package manager console.
+1. Select Tools -> Library Package Manager -> Package Manager Console from the menu to open the package manager console.
 
-Type the command “**Install-Package Aspose.Tasks -Version 17.11.0**” and press enter to install latest full release into your application. Alternatively, you can add the "**-prerelease**" suffix to the command in order to specify that the latest release including hot fixes is to be installed as well.
+Type the command “**Install-Package Aspose.Tasks -Version 20.12.0**” and press enter to install the latest full release into your application. Alternatively, you can add the "**-prerelease**" suffix to the command in order to specify that the latest release including hot fixes is to be installed as well.
 
 ![todo:image_alt_text](installation_2.png)
 

@@ -40,7 +40,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 **Welcome to Aspose.Tasks for Java!**
 
-Aspose.Tasks for Java is a class library that enables Java application developers to embed the functionality of processing Microsoft Project ® documents (MPP/MPT/XLS) without even using Microsoft Project®. The API, hence, eliminates the requirement of Microsoft Office Automation in such application. Ported from its equivalent .NET product, Aspose.Tasks for Java is a mature product that offers stability and flexibility. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
+Aspose.Tasks for Java is a class library that enables Java application developers to embed the functionality of processing Microsoft Project ® documents (MPP/MPT/XLS) without even using Microsoft Project®. The API, hence, eliminates the requirement of Microsoft Office Automation in such an application. Ported from its equivalent .NET product, Aspose.Tasks for Java is a mature product that offers stability and flexibility. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
 {{% /alert %}} 
 
@@ -52,6 +52,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Tasks for Java Features](/tasks/java/product-overview)
 - [Aspose.Tasks for Java Release Notes](/tasks/java/release-notes)
 - [Aspose.Tasks for Java Product Page](https://products.aspose.com/tasks/java)
+- [Download Aspose.Tasks for Java](https://downloads.aspose.com/tasks/java)
 - [Install Aspose.Tasks for Java from Maven Repository](/tasks/java/installation)
 - [Aspose.Tasks for Java API Reference Guide](https://apireference.aspose.com/java/tasks)
 - [Download Aspose.Tasks for Java from GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-Java)
@@ -62,7 +63,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-![Aspose.Tasks for C++ Product Logo](home_3.png)
+<img src="home_3.png" alt="Aspose.Tasks for C++ Product Logo" style="zoom:50%;" />
 
 **Welcome to Aspose.Tasks for C++!**
 
@@ -78,6 +79,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Tasks for C++ Features](/tasks/cpp/product-overview)
 - [Aspose.Tasks for C++ Release Notes](/tasks/cpp/release-notes)
 - [Aspose.Tasks for C++ Product Page](https://products.aspose.com/tasks/cpp)
+- [Download Aspose.Tasks for C++](https://downloads.aspose.com/tasks/cpp)
 - [Install Aspose.Tasks for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Tasks.Cpp/)
 - [Aspose.Tasks for C++ API Reference Guide](https://apireference.aspose.com/cpp/tasks)
 - [Download Aspose.Tasks for C++ from GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-C)

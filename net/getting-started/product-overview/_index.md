@@ -11,7 +11,7 @@ url: /net/product-overview/
 
 **Welcome to Aspose.Tasks for .NET**
 
-Aspose.Tasks for .NET is a cross-platform class library that enables .NET applications to read and write Microsoft Project® files without using Microsoft Project®. It is currently the only .NET component that provides this functionality. Aspose.Tasks for .NET is a mature product that enables your applications to perform a great range of document processing tasks with stability and flexibly. As with all of the Aspose file management components, Aspose.Tasks for .NET works well with both Win Form and Web Form applications.
+Aspose.Tasks for .NET is a cross-platform class library that enables .NET applications to read and write Microsoft Project® files without using Microsoft Project®. It is currently the only .NET component that provides this functionality. Aspose.Tasks for .NET is a mature product that enables your applications to perform a great range of document processing tasks with stability and flexibility. As with all of the Aspose file management components, Aspose.Tasks for .NET works well with both Win Form and WebForm applications.
 
 With Aspose.Tasks for .NET, it is possible to program with Microsoft Project files without using Microsoft Project. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
@@ -38,7 +38,7 @@ Aspose.Tasks offers a wide arrange of features for creating, reading, manipulati
 - Read, change and create tasks, milestone, estimated critical or effort driven tasks
 - Manage resources costs and variances
 - Access assignment costs and budget
-- Support for encoding of MPX files
+- Support for the encoding of MPX files
 - Resource prefix implementation for nested resources
 - Support of setting CSS prefix for HTML export
 - Set custom date format while exporting to PDF format
@@ -65,7 +65,7 @@ Aspose.Tasks is developed in a way that only one thread works on a document at a
 - 2016
 - 2019
 ## **Declaration**
-All Aspose .NET components require Full Trust permission to be set. The reason for this is that Aspose .NET components need to access registry settings, system files other than virtual directory for certain operations like parsing fonts. Moreover, Aspose .NET Components are based on core .NET system classes that also require Full Trust permission set in many cases.
+All Aspose .NET components require Full Trust permission to be set. The reason for this is that Aspose .NET components need to access registry settings, system files other than a virtual directory for certain operations like parsing fonts. Moreover, Aspose .NET Components are based on core .NET system classes that also require Full Trust permission set in many cases.
 
 Internet Service Providers hosting multiple applications from different companies mostly enforce Medium Trust security level. In the case of .NET 2.0, such security level applies the following constraints:
 
@@ -87,8 +87,8 @@ When expecting a reply in the forums, please allow for time zone differences.
 If you have an issue, follow these simple steps to make sure it is resolved efficiently:
 
 - Make sure you use the latest version of the product before reporting an issue. 
-- Have a look through the [forums](http://www.aspose.com/community/forums/default.aspx), this documentation Wiki and the [API Reference](/pages/createpage.action?spaceKey=tasksnet&title=Aspose.Tasks+for+.NET+API+Reference&linkCreation=true&fromPageId=16286444) before reporting an issue. Your question may already have an answer.
-- When reporting an issue, please include the original document and possibly a fragment of your code that causes the problem. If you need to attach multiple files, zip them into one. It is safe to attach your documents in the forums since only you and Aspose's developers have access to attached files.
+- Have a look through the [forums](http://www.aspose.com/community/forums/default.aspx), this documentation Wiki and the [API Reference](https://apireference.aspose.com/tasks/net) before reporting an issue. Your question may already have an answer.
+- When reporting an issue, please include the original document and possibly a fragment of your code that causes the problem. If you need to attach multiple files, zip them into one. It is safe to attach your documents in the forums since only you and Aspose's developers have access to the attached files.
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.
 
 Aspose does not provide technical support over the phone. Phone support is only available for sales and purchase questions.
@@ -100,5 +100,5 @@ This table lists important Aspose.Tasks for .NET technical resources.
 |[Aspose.Tasks home page](http://www.aspose.com/categories/.net-components/aspose.tasks-for-.net/default.aspx)|Product home page.|
 |[Aspose.Tasks blog](http://www.aspose.com/community/blogs/aspose.tasks-for-.net/default.aspx)|Check this often for information about new releases and useful tips about Aspose.Tasks.|
 |[Aspose.Tasks for .NET support forum](http://www.aspose.com/community/forums/aspose.tasks-product-family/96/showforum.aspx)|Post your questions and issues here for a speedy resolution.|
-|[Aspose.Tasks for .NET product documentation](http://docs.aspose.com/display/tasksnet/Home)|Full online documentation that includes this documentation as well as Aspose.Tasks API Reference.|
+|[Aspose.Tasks for .NET product documentation](https://docs.aspose.com/tasks/net/)|Full online documentation that includes this documentation as well as Aspose.Tasks API Reference.|
 

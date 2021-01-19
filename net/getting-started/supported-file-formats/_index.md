@@ -17,7 +17,7 @@ The following table indicates the input and output file formats supported by Asp
 |[XLSX](https://docs.fileformat.com/Spreadsheet/XLSX/)|Microsoft Excel| |{{< emoticons/tick >}}| |
 |[HTML](https://docs.fileformat.com/Web/HTML/)|Simplified HTM and HTML Formats| |{{< emoticons/tick >}}| |
 |[TXT](https://docs.fileformat.com/word-processing/txt/)|Simple Text Format| |{{< emoticons/tick >}}| |
-|TIF|Format24bppRgb| |{{< emoticons/tick >}} | |
+|[TIFF](https://docs.fileformat.com/image/tiff/)|Format24bppRgb| |{{< emoticons/tick >}} | |
 |[SVG](https://docs.fileformat.com/page-description-language/SVG/)|SVG Format| |{{< emoticons/tick >}} | |
 |[PNG](https://docs.fileformat.com/Image/PNG/)|Saving Project data as PNG Image Format| |{{< emoticons/tick >}} | |
 |[PDF](https://docs.fileformat.com/view/pdf/)|Saving Project data as PDF Format| |{{< emoticons/tick >}} | |
