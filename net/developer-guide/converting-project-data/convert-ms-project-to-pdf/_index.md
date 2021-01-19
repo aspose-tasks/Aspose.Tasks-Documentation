@@ -1,19 +1,21 @@
 ---
 title: Convert MS Project to PDF
 type: docs
+description: "Aspose.Tasks for .NET allows converting MS Project (MPP) to PDF."
+keywords: "Export your project to PDF, MPP to PDF, Convert your MPP to PDF, Convert MS Project to PDF, convert MPP to PDF, save project data to PDF, Aspose.Tasks, C#"
 weight: 10
 url: /net/convert-ms-project-to-pdf/
 ---
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API provides the capability to render project data to PDF format. This article gives a detailed overview of the variety of options available in Aspose.Tasks for exporting projects to PDF.
+Aspose.Tasks API provides the capability to render project data in PDF format. This article gives a detailed overview of the variety of options available in Aspose.Tasks for exporting projects to PDF.
 
 {{% /alert %}} 
 
 
 ## **Saving a Project as a PDF**
-The [Project](https://apireference.aspose.com/net/tasks/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The [Save]() method allows you to render project data to PDF using the [SaveFileFormat]() enumeration type.
+The [Project](https://apireference.aspose.com/net/tasks/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The [Save](https://apireference.aspose.com/tasks/net/aspose.tasks.project/save/methods/3) method allows you to render project data to PDF using the [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
 
 To save a project to PDF:
 
@@ -28,7 +30,7 @@ The following lines of code demonstrate how to achieve this using C#.
 
 
 ## **Fitting Contents to Cell Size**
-It is common that a task (or resource) name is so long that it is truncated when project views are rendered. Aspose.Tasks provides the FitContent property in the SaveOptions class to avoid truncation of task and resource names. The code example below renders a project to PDF format with the FitContent property set to true.
+Commonly, a task (or resource) name is so long that it is truncated when project views are rendered. Aspose.Tasks provides the FitContent property in the SaveOptions class to avoid truncation of task and resource names. The code example below renders a project to PDF format with the FitContent property set to true.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-FitContentsToCellSize-FitContentsToCellSize.cs" >}}
 

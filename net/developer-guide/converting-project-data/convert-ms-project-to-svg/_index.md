@@ -1,6 +1,8 @@
 ---
 title: Convert MS Project to SVG
 type: docs
+description: "Aspose.Tasks for .NET allows converting MS Project (MPP) to SVG."
+keywords: "Export your project to SVG, MPP to SVG, Convert your MPP to SVG, Convert MS Project to SVG, convert MPP to SVG, save project data to SVG, Aspose.Tasks, C#"
 weight: 40
 url: /net/convert-ms-project-to-svg/
 ---
@@ -13,14 +15,14 @@ This article shows how to render project data to SVG format using Aspose.Tasks f
 
 
 ## **Saving a Project as SVG**
-The [Project]() class exposes the Save method which is used to save a project in various formats. The Save method allows you to render project data to SVG format using the SaveFileFormat enumeration type.
+The [Project](https://apireference.aspose.com/net/tasks/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The Save method allows you to render project data to SVG format using the SaveFileFormat enumeration type.
 
 To save a project to SVG:
 
 1. Load a Microsoft Project file.
 1. Save the project to SVG using SaveFileFormat.SVG.
 ### **Programming Sample**
-The following lines of code shows how to achieve this using C#.
+The following lines of code show how to achieve this using C#.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectAsSVG-SaveProjectAsSVG.cs" >}}
 ## **Saving with SvgOptions**
