@@ -7,7 +7,7 @@ url: /net/custom-field-extended-attribute-definition-data/
 
 {{% alert color="primary" %}} 
 
-This page is no longer maintained. For an updated page, please visit <https://docs.aspose.com/tasks/java/working-with-extended-attributes-of-a-project/>
+This page is no longer maintained. For an updated page, please visit <https://docs.aspose.com/tasks/net/working-with-extended-attributes-of-a-project/>
 
 {{% /alert %}} 
 
