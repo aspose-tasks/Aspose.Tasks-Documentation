@@ -1,6 +1,8 @@
 ---
 title: Reduce Gap Between Tasks List and Footer
 type: docs
+description: "Aspose.Tasks for .NET provides ReduceFooterGap property to reduce gap between the list of tasks and the footer while conversion of project data to different formats."
+keywords: "Export project data to other formats, reduce gap between tasks and footer, Aspose.Tasks, C#"
 weight: 80
 url: /net/reduce-gap-between-tasks-list-and-footer/
 ---

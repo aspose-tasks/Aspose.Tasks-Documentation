@@ -1,6 +1,8 @@
 ---
 title: Printing Project Pages to Separate Image Files
 type: docs
+description: "Aspose.Tasks for .NET allows exporting MS Project (MPP) data to separate image files."
+keywords: "Export your project to Separate Image Files, MPP to image files, Convert your MPP to images, Convert MS Project to separate images, convert MPP to Separate Image Files, save project data to images, Aspose.Tasks, C#"
 weight: 70
 url: /net/printing-project-pages-to-separate-image-files/
 ---
