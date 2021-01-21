@@ -19,7 +19,7 @@ The following steps are required to accomplish this task:
    This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.
 1. Use the code from the following example to read tasks and resources.
 ### **Code Examples - VSTO**
-The sample project file used in the following code snippets, SampleProject.mpp, can be downloaded from this page attachments. Before resources are created and and linked them to tasks, the Project1.mpp file looks as below.
+The sample project file used in the following code snippets, SampleProject.mpp, can be downloaded from this page attachments. Before resources are created and linked to tasks, the Project1.mpp file looks as below.
 
 **Input file: Gantt chart view** 
 

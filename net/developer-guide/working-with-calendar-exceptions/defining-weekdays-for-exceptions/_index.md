@@ -1,6 +1,9 @@
 ---
 title: Defining Weekdays for Exceptions
 type: docs
+description: "This article explains how to work with Calender Exception using Aspose.Tasks for .NET"
+keywords: "Defining Weekdays for Exceptions, work with weekdays exceptions, weekday calender exception, Aspose.Tasks, C#"
+
 weight: 30
 url: /net/defining-weekdays-for-exceptions/
 ---

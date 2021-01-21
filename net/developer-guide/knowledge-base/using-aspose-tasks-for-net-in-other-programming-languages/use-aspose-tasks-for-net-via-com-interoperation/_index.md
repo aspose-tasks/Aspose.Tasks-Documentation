@@ -22,18 +22,18 @@ Here are the topics that you will eventually need to master:
 
 - Using COM objects in your programming language. See your programming language documentation and the language-specific topics further in this documentation.
 - Working with COM objects exposed by .NET COM Interop. See [Interoperating With Unmanaged Code](http://msdn.microsoft.com/en-us/library/sd10k43k.aspx) and [Exposing .NET Framework Components to COM](http://msdn.microsoft.com/en-us/library/zsfww439%28v=vs.110%29.aspx) in MSDN.
-- The Aspose.Tasks document object model. See Aspose.Tasks [Developer Guide](/tasks/net/developer-guide-html/) and [API Reference](http://www.aspose.com/api/net/tasks).
+- The Aspose.Tasks document object model. See Aspose.Tasks [Developer Guide](/tasks/net/developer-guide/) and [API Reference](http://www.aspose.com/api/net/tasks).
 ### **Register Aspose.Tasks for .NET with COM Interop**
-You need to install Aspose.Tasks for .NET and make sure it is registered with COM Interop (ensuring that it can be called from unmanaged code).
+You need to install Aspose.Tasks for .NET and make sure that it is registered with COM Interop (ensuring that it can be called from unmanaged code).
 
 1. Aspose.Tasks for COM Interop can be registered by executing the following command:
    regasm "C:\Program Files\Aspose\Aspose.Tasks\bin\net20\Aspose.Tasks.DLL" /codebase
 1. Now, the COM type library can be exported in the same directory using the following command:
    Regasm “<dir>” /tlb:Aspose.Tasks.tlb
 
-regasm.exe is a tool included in .NET Framework SDK. All the .NET Framework SDK tools are located in the **\Microsoft .NET\Framevork\<FrameworkVersion>** directory. It will run command prompt with all the necessary environment variables set.
+regasm.exe is a tool included in .NET Framework SDK. All the .NET Framework SDK tools are located in the **\Microsoft .NET\Framevork\<FrameworkVersion>** directory. It will run a command prompt with all the necessary environment variables set.
 
-If your programming language (for example Visual Basic) allows you to reference a COM type library, then add a reference to Aspose.Tasks.tlb and you will be able to see all Aspose.Tasks classes, methods, properties and enumerations in your Object Browser.
+If your programming language (for example, Visual Basic) allows you to reference a COM type library, then add a reference to Aspose.Tasks.tlb and you will be able to see all Aspose.Tasks classes, methods, properties and enumerations in your Object Browser.
 
 Once created, you are able to access the object’s methods and properties, as if it was a COM object:
 
