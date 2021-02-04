@@ -13,7 +13,7 @@ Aspose.Tasks can open existing files, but it can also create new files. This art
 
 {{% /alert %}} 
 ## **Creating an Empty Project File**
-The [Project](http://www.aspose.com/api/net/tasks/aspose.tasks/project) class is the main class in Aspose.Tasks used to set and get properties associated with a project, as well as behavior. The Save method offered by this class makes it possible to render the Project to various output formats such as XML, MPP, PDF, HTML, etc. with a single API call. This method accepts a file stream or file name, and one of the values provided by the [SaveFileFormat](http://www.aspose.com/api/net/tasks/aspose.tasks.saving/savefileformat) enumeration type.
+The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class is the main class in Aspose.Tasks used to set and get properties associated with a project, as well as behavior. The Save method offered by this class makes it possible to render the Project to various output formats such as XML, MPP, PDF, HTML, etc. with a single API call. This method accepts a file stream or file name, and one of the values provided by the [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
 
 At present, Aspose.Tasks provides the facility to create **XML** project files only. The following lines of code create a simple project file in XML format.
 
@@ -44,7 +44,7 @@ If these be loaded using the API, they may lead to an exception. In order to ign
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-CreatingReadingAndSaving-IgnoreInvalidCharactersDuringloadingProject-IgnoreInvalidCharactersDuringloadingProject.cs" >}}
 ## **Read Password Protected Projects (2003 Format)**
-The [Project](http://www.aspose.com/api/net/tasks/aspose.tasks/project) class exposes the Project() constructor which is capable of reading password-protected files in 2003 format. Saving a password-protected file is not supported yet.
+The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Project() constructor which is capable of reading password-protected files in 2003 format. Saving a password-protected file is not supported yet.
 
 To read a password-protected project file:
 

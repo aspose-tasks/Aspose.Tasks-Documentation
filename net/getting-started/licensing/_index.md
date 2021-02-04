@@ -29,11 +29,11 @@ The project file created from the code looks like the one below in Microsoft Pro
 #### **MPP Write Support**
 Aspose.Tasks for .NET supports reading MPP files, updating the project summary information and then writing updated project files in original MPP format. If the original MPP format belongs to Microsoft Project 2003 version, the MPP file is updated through Aspose.Tasks for .NET will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010 and 2013 MPP formats. However, this support is only available in licensed versions of Aspose.Tasks for .NET.
 ## **Applying the License**
-Once you are happy with your evaluation of Aspose.Tasks for .NET, buy a license at the Aspose website: <http://www.aspose.com/purchase/default.aspx>. Make yourself familiar with the different [licenses](http://www.aspose.com/corporate/purchase/policies/License-Types/default.aspx) offered. If you have any questions, [contact the Aspose sales team](http://www.aspose.com/corporate/contact/default.aspx) and they'll be happy to help you.
+Once you are happy with your evaluation of Aspose.Tasks for .NET, buy a license at the Aspose website: <https://purchase.aspose.com/buy>. Make yourself familiar with the different [licenses](https://purchase.aspose.com/policies/license-types/) offered. If you have any questions, [contact the Aspose sales team](https://about.aspose.com/contact) and they'll be happy to help you.
 
 Aspose.Tasks supports two license types: perpetual (pay once) and metered (pay-per-use). For more details please refer to [License Types](https://purchase.aspose.com/policies/license-types/) page.
 
-Aspose perpetual license carries a one-year [subscription](http://www.aspose.com/corporate/purchase/policies/Subscriptions.aspx) for free upgrades to any new versions or fixes that come out during this time. Technical support is free and unlimited and provided both to licensed and evaluation users.
+Aspose perpetual license carries a one-year [subscription](https://purchase.aspose.com/policies/subscriptions) for free upgrades to any new versions or fixes that come out during this time. Technical support is free and unlimited and provided both to licensed and evaluation users.
 
 The license is a plain-text XML file that contains details such as the product name, number of licensed developers, subscription expiry date and so on. The file is digitally signed, so do not modify the file: even adding an extra line break to the file invalidates it.
 

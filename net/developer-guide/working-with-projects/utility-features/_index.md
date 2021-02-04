@@ -8,15 +8,15 @@ url: /net/utility-features/
 ## **Calculate Critical Path**
 The critical path is the tasks, or task, that ultimately determine when your project will end. Keeping track of the critical path and the resources assigned to them helps keep the project on time. Microsoft Project calculates the critical path based on tasks that have no slack, have specific date constraints (must start on, must finish on, as soon as possible or as late as possible) or have the same, or later, end date as the project. Aspose.Tasks allows you to calculate the critical path.
 
-The [Project]() class provides the [CriticalPath]() property which is used to retrieve the collection of tasks that comprise the project's critical path. The following piece of code calculates and displays the tasks in the critical path.
+The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class provides the [CriticalPath](https://apireference.aspose.com/tasks/net/aspose.tasks/project/properties/criticalpath) property which is used to retrieve the collection of tasks that comprise the project's critical path. The following piece of code calculates and displays the tasks in the critical path.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Miscellaneous-CalculateCriticalPath-CalculateCriticalPath.cs" >}}
 ## **Printing the TaskWritingException**
-A project consists of a number of tasks and Aspose.Tasks API allows adding, removing and updating task information. If there's a problem when writing tasks, use [TasksWritingException]() to catch them.
+A project consists of a number of tasks and Aspose.Tasks API allows adding, removing and updating task information. If there's a problem when writing tasks, use [TasksWritingException](https://apireference.aspose.com/tasks/net/aspose.tasks/taskswritingexception) to catch them.
 
 Aspose.Tasks supports printing a message when there's an exception in writing a task. This is done with TaskWritingException, in a similar way to how TaskReadingException is used.
 
-The log message is contained in the public property TasksWritingException.LogText, as shown in the following code example.
+The log message is contained in the public property [TasksWritingException.LogText](https://apireference.aspose.com/tasks/net/aspose.tasks/tasksloggedexception/properties/logtext), as shown in the following code example.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Miscellaneous-PrintTaskWritingException-PrintTaskWritingException.cs" >}}
 ## **Working with Filter Data from MPP Files**

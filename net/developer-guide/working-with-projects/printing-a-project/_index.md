@@ -11,7 +11,7 @@ Aspose.Tasks provides the facility to print projects to the default printer or a
 
 {{% /alert %}} 
 ## **Printing Project Data**
-The [Project]() class exposes the [Print](http://www.aspose.com/api//net/tasks/aspose.tasks/project/methods/print/index) function to print the project. The Print function uses [PrintOptions](http://www.aspose.com/api/net/tasks/aspose.tasks.saving/printoptions) to set different settings for printing like TimeScale, StartDate, EndDate, FitContent, LegendOnEachPage and more. Another class (from System.Drawing.Printing namespace), PrinterSettings is used to configure the printer to print all pages, page start (FromPage), page end (ToPage), PaperSize and so on. Both the objects of PrintOptions and PrinterSettings are passed to Project.Print() for final printing.
+The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class exposes the [Print](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/print/index) function to print the project. The Print function uses [PrintOptions](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/printoptions) to set different settings for printing like **TimeScale**, **StartDate**, **EndDate**, **FitContent**, **LegendOnEachPage** and more. Another class (from [System.Drawing.Printing](https://apireference.aspose.com/drawing/net/system.drawing.printing) namespace), PrinterSettings is used to configure the printer to print all pages, page start (FromPage), page end (ToPage), PaperSize and so on. Both the objects of PrintOptions and PrinterSettings are passed to Project.Print() for final printing.
 
 To print a project:
 

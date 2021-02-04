@@ -97,8 +97,8 @@ This table lists important Aspose.Tasks for .NET technical resources.
 
 |**Resource**|**Description**|
 | :- | :- |
-|[Aspose.Tasks home page](http://www.aspose.com/categories/.net-components/aspose.tasks-for-.net/default.aspx)|Product home page.|
-|[Aspose.Tasks blog](http://www.aspose.com/community/blogs/aspose.tasks-for-.net/default.aspx)|Check this often for information about new releases and useful tips about Aspose.Tasks.|
-|[Aspose.Tasks for .NET support forum](http://www.aspose.com/community/forums/aspose.tasks-product-family/96/showforum.aspx)|Post your questions and issues here for a speedy resolution.|
-|[Aspose.Tasks for .NET product documentation](https://docs.aspose.com/tasks/net/)|Full online documentation that includes this documentation as well as Aspose.Tasks API Reference.|
-
+|[Aspose.Tasks home page](https://products.aspose.com/tasks/net)|Product home page.|
+|[Aspose.Tasks blog](https://blog.aspose.com/category/tasks/)|Check this often for information about new releases and useful tips about Aspose.Tasks.|
+|[Aspose.Tasks for .NET support forum](https://forum.aspose.com/c/tasks/15)|Post your questions and issues here for a speedy resolution.|
+|[Aspose.Tasks for .NET product documentation](https://docs.aspose.com/tasks/net/)|Full online documentation.|
+|[Aspose.Tasks for .NET API References](https://apireference.aspose.com/tasks/net)|Online Aspose.Tasks API References.|

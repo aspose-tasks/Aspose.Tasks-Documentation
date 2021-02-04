@@ -20,7 +20,7 @@ This examples below shows the usage of each of these with the help of code sampl
 ### **Project Calculation Mode - Automatic**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-ApplyCalculationModeAuto-ApplyCalculationModeAuto.cs" >}}
 ## **Working with General Project Properties**
-Microsoft Project saves project properties, metadata, for every project. The properties include the project's start and end dates, the current date and the status date, the type of calendar used and when a project is scheduled from. Aspose.Tasks lets you [read](/tasks/net/working-with-project-properties-html/) and [set project properties](/tasks/net/working-with-project-properties-html/), which is shown below.
+Microsoft Project saves project properties, metadata, for every project. The properties include the project's start and end dates, the current date and the status date, the type of calendar used and when a project is scheduled from. Aspose.Tasks lets you [read](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/get/_1) and [set project properties](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/set/_1), which is shown below.
 
 {{% alert color="primary" %}} 
 
@@ -30,14 +30,14 @@ Please note that you cannot set values against the **Application** and **Prod
 
 
 ### **Reading Project Information**
-The [Project]() class has a number of properties that deal with project properties:
+The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class has a number of properties that deal with project properties:
 
-- [StartDate](): the project's start date, of the DateTime data type.
-- [FinishDate](): the project's end date, of the DateTime data type.
-- [CurrentDate](): the current date, of the DateTime data type.
-- [StatusDate](): the date that the project's progress will be reported, of the DateTime data type.
-- [IsScheduleFromStart](): defines whether the project is scheduled from the start or end data and takes a Boolean value.
-- [Calendar](): the type of calendar used by the project, managed through the [Aspose.Tasks.Calendar]() class.
+- **StartDate**: the project's start date, of the DateTime data type.
+- **FinishDate**: the project's end date, of the DateTime data type.
+- **CurrentDate**: the current date, of the DateTime data type.
+- **StatusDate**: the date that the project's progress will be reported, of the DateTime data type.
+- **IsScheduleFromStart**: defines whether the project is scheduled from the start or end data and takes a Boolean value.
+- **Calendar**: the type of calendar used by the project, managed through the [Aspose.Tasks.Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar) class.
 
 To read project properties in Microsoft Project, click **Project Information** on the **Project** menu.
 
@@ -47,11 +47,11 @@ The programming samples below show how to read and output the project start and 
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-ReadProjectInfo-ReadProjectInfo.cs" >}}
 ### **Writing Project Information**
-Aspose.Tasks for .NET can write as well as [read project information](/tasks/net/working-with-project-properties-html/). The code samples below show how to set author, last author, revision, keywords and comments..
+Aspose.Tasks for .NET can write as well as [read project information](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/get/_1). The code samples below show how to set author, last author, revision, keywords and comments..
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-WriteProjectInfo-WriteProjectInfo.cs" >}}
 ## **Determining Project Version**
-Aspose.Tasks API provides the capability to retrieve project file information with simple API calls. The [Project]() class's [Get]() method facilitates users to retrieve Project related information using the static class [Prj](). The Prj class exposes a number of properties related to the Project. This topic shows how to retrieve version information.
+Aspose.Tasks API provides the capability to retrieve project file information with simple API calls. The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class's [Get](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/get/_1) method facilitates users to retrieve Project related information using the static class [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj). The Prj class exposes a number of properties related to the Project. This topic shows how to retrieve version information.
 
 The SaveVersion and LastSaved properties exposed by the Prj class are used to determine the project version and the date when the project was last saved. SaveVersion supports the Integer data type, whereas LastSaved supports the DateTime data type.
 
@@ -59,15 +59,15 @@ The SaveVersion and LastSaved properties exposed by the Prj class are used to de
 ## **Default Project Properties**
 Microsoft Project lets users set default project properties that speed up the process of setting up a project. The default properties define when a new task starts and finishes, sets the default overtime and standard pay rates and more. Aspose.Tasks supports these features.
 
-The [Project]() exposes a number of properties for managing a project's default properties:
+The [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj/fields/index) exposes a number of properties for managing a project's default properties:
 
-- [DefaultStartTime](): a new tasks' default start time, takes a DateTime value.
-- [DefaultFinishTime](): a new tasks' default finishing time, takes a DateTime value.
-- [DefaultFixedCostAccrual](): an assignment's default fixed cost accrual, takes one of the values defined by the [CostAccrualType]() enumeration.
-- [DefaultStandardRate](): the default standard pay rate, takes a double.
-- [DefaultOvertimeRate](): the default overtime pay rate, takes a double.
-- [DefaultTaskEVMethod](): the default task earned value method, takes one of the values defined by the [EarnedValueMethodType]() enumeration.
-- [DefaultTaskType](): the project's default task type, takes one of the values defined by the [TaskType]() enumeration.
+- **DefaultStartTime**: a new tasks' default start time, takes a DateTime value.
+- **DefaultFinishTime**: a new tasks' default finishing time, takes a DateTime value.
+- **DefaultFixedCostAccrual**: an assignment's default fixed cost accrual, takes one of the values defined by the [CostAccrualType](https://apireference.aspose.com/tasks/net/aspose.tasks/costaccrualtype) enumeration.
+- **DefaultStandardRate**: the default standard pay rate, takes a double.
+- **DefaultOvertimeRate**: the default overtime pay rate, takes a double.
+- **DefaultTaskEVMethod**: the default task earned value method, takes one of the values defined by the [EarnedValueMethodType](https://apireference.aspose.com/tasks/net/aspose.tasks/earnedvaluemethodtype) enumeration.
+- **DefaultTaskType**: the project's default task type, takes one of the values defined by the [TaskType](https://apireference.aspose.com/tasks/net/aspose.tasks/tasktype) enumeration.
 
 To see the default project information in Microsoft Project:
 
@@ -92,11 +92,11 @@ The following lines of code set a project's default properties.
 ## **Writing Project Summary Information**
 Most programs save summary information with the files they save. Microsoft Project is no different. As well as the name of the author, the date the project was created and the last time it was edited and saved, it saves keywords, subject, comments and more. Aspose.Tasks lets you both read and write this type of information.
 
-The Project's class [Set]() method can be used to write and [Get]() method can be used to read Project summary information using the [Prj]() class's members. The file can be saved back after updating the summary information. To update the project summary information of an existing MPP file:
+The Project's class [Set](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/set/_1) method can be used to write and [Get](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/get/_1) method can be used to read Project summary information using the [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj) class's members. The file can be saved back after updating the summary information. To update the project summary information of an existing MPP file:
 
-1. Create an instance of [Project]() class
-1. Set the various properties exposed by the [Prj]() class to define summary information.
-1. Save the Project using the [Save]() method of [Project]() class
+1. Create an instance of [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class
+1. Set the various properties exposed by the [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj) class to define summary information.
+1. Save the Project using the [Save](https://apireference.aspose.com/tasks/net/aspose.tasks.project/save/methods/5) method of [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class
 
 To see the file's summary information:
 
@@ -108,12 +108,12 @@ The code sample below writes project summary information to MPP file.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-WriteMPPProjectSummary-WriteMPPProjectSummary.cs" >}}
 ## **Fiscal Year Properties**
-The fiscal year is the same as a financial year or budget year. It is the dates between which a country, an organization or an individual calculate budgets and taxes. Microsoft Project lets users define a fiscal year for projects. Aspose.Tasks supports this functionality with properties that allow developers to both [read fiscal year properties](/tasks/net/working-with-project-properties-html/) from existing projects, and [set fiscal year properties](/tasks/net/working-with-project-properties-html/) when creating or working with projects.
+The fiscal year is the same as a financial year or budget year. It is the dates between which a country, an organization or an individual calculate budgets and taxes. Microsoft Project lets users define a fiscal year for projects. Aspose.Tasks supports this functionality with properties that allow developers to both **read fiscal year properties** from existing projects, and **set fiscal year properties** when creating or working with projects.
 
-The [Prj]() class exposes the [FyStartDate]() and [FiscalYearStart]() properties used to manage fiscal year for a project:
+The [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj) class exposes the [FyStartDate](https://apireference.aspose.com/tasks/net/aspose.tasks/prj/fields/fystartdate) and [FiscalYearStart](https://apireference.aspose.com/tasks/net/aspose.tasks/prj/fields/fiscalyearstart) properties used to manage fiscal year for a project:
 
-- [FyStartDate](): define the fiscal year start month and supports one of the values defined by the Month enumeration.
-- [FiscalYearStart](): determines whether the fiscal year numbering has been used in the project. Boolean.
+- **FyStartDate**: define the fiscal year start month and supports one of the values defined by the Month enumeration.
+- **FiscalYearStart**: determines whether the fiscal year numbering has been used in the project. Boolean.
 ### **Reading Fiscal Year Properties**
 The FyStartDate and FiscalYearStart properties make it easy to find out what the current fiscal year start date is, and whether fiscal year numbering is used, with Aspose.Tasks.
 
@@ -135,14 +135,14 @@ The following example writes the fiscal year properties of the project.
 
 {{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-WriteFiscalYearProperties-WriteFiscalYearProperties.cs" >}}
 ## **Weekday Properties**
-Microsoft Project lets users set a number of different weekday properties. For example, what day a week starts on and how many working days are in a month. Aspose.Tasks support these features through a number of properties that can be used both to [read weekday properties](/tasks/net/working-with-project-properties-html/) and to [write them to a project](/tasks/net/working-with-project-properties-html/).
+Microsoft Project lets users set a number of different weekday properties. For example, what day a week starts on and how many working days are in a month. Aspose.Tasks support these features through a number of properties that can be used both to **read weekday properties** and to **write them to a project**.
 
-Aspose.Tasks has a series of properties, exposed by the [Project]() class, specifically for managing a project's weekday properties:
+Aspose.Tasks has a series of properties, exposed by the [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class, specifically for managing a project's weekday properties:
 
-- [WeekStartDay](): the first day of the week. This property takes values defined by the [DayType]() enumeration.
-- [DaysPerMonth](): the number of working days in a month, passed as an integer.
-- [MinutesPerDay](): the number of working minutes in a working day, passed as an integer.
-- [MinutesPerWeek](): the number of working minutes in a working week, passed as an integer.
+- **WeekStartDay**: the first day of the week. This property takes values defined by the [DayType](https://apireference.aspose.com/tasks/net/aspose.tasks/daytype) enumeration.
+- **DaysPerMonth**: the number of working days in a month, passed as an integer.
+- **MinutesPerDay**: the number of working minutes in a working day, passed as an integer.
+- **MinutesPerWeek**: the number of working minutes in a working week, passed as an integer.
 ### **Reading Weekday Properties**
 The following code reads a project's weekday properties and writes them to a console window.
 
@@ -164,12 +164,12 @@ The following code writes weekday properties, as shown in the screenshot above, 
 ## **Currency Properties**
 Microsoft Project lets users set which currency costs are shown in, in a project. They can define set the currency code, numbers after the decimal point and currency symbol so that costs show in an easy to read and intuitive way. Aspose.Tasks supports these features and provides a series of properties that help developers set and control currency properties. This topic explains both how to [read currency properties](/tasks/net/working-with-project-properties-html/), and [how to set them](/tasks/net/working-with-project-properties-html/).
 
-Aspose.Tasks provides properties exposed by the [Project]() class, for managing currency properties:
+Aspose.Tasks provides properties exposed by the [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj) class, for managing currency properties:
 
-- [CurrencyCode](): the three-letter currency code, for example, USD, GBP or AUD, passed as a string.
-- [CurrencyDigits](): the number of numbers after the decimal point, for example, 2 (100.00) or 3 (100.000), passed as an integer.
-- [CurrencySymbol](): the currency symbol, for example, $ or £, passed as a string.
-- [CurrencySymbolPosition](): the position of the currency symbol, for example before ($100) or after (100$). CurrencySymbolPosition takes a value from the [CurrencySymbolPositionType]() enumeration.
+- [CurrencyCode](https://apireference.aspose.com/tasks/net/aspose.tasks/prj/fields/currencycode): the three-letter currency code, for example, USD, GBP or AUD, passed as a string.
+- [CurrencyDigits](https://apireference.aspose.com/tasks/net/aspose.tasks/prj/fields/currencydigits): the number of numbers after the decimal point, for example, 2 (100.00) or 3 (100.000), passed as an integer.
+- [CurrencySymbol](https://apireference.aspose.com/tasks/net/aspose.tasks/prj/fields/currencysymbol): the currency symbol, for example, $ or £, passed as a string.
+- [CurrencySymbolPosition](https://apireference.aspose.com/tasks/net/aspose.tasks/currencysymbolpositiontype): the position of the currency symbol, for example before ($100) or after (100$). CurrencySymbolPosition takes a value from the [CurrencySymbolPositionType](https://apireference.aspose.com/tasks/net/aspose.tasks/currencysymbolpositiontype) enumeration.
 ### **Reading Currency Properties**
 The following piece of code reads a project's currency properties.
 
@@ -191,7 +191,7 @@ The following example writes currency properties to the project.
 ## **Setting Attributes for New Tasks**
 Microsoft Project allows to set default properties for new tasks added. This topic explains how to set the default start date for new tasks using Aspose.Tasks for .NET API.
 
-The [Project]() class exposes the [NewTaskStartDate]() property that defines the start date for a new task. This property supports the values defined by the [TaskStartDateType]() enumeration type.
+The [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj) class exposes the [NewTaskStartDate](https://apireference.aspose.com/tasks/net/aspose.tasks/prj/fields/newtaskstartdate) property that defines the start date for a new task. This property supports the values defined by the [TaskStartDateType](https://apireference.aspose.com/tasks/net/aspose.tasks/taskstartdatetype) enumeration type.
 
 To see the task attribute:
 
