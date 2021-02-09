@@ -11,7 +11,7 @@ Microsoft Project lets users link tasks within the current project, or to extern
 
 {{% /alert %}} 
 ## **Working with Cross Project Predecessor Tasks**
-In Aspose.Tasks, the [CrossProjectName](http://www.aspose.com/api/net/tasks/aspose.tasks/tasklink/properties/crossprojectname) and [IsCrossProject](http://www.aspose.com/api/net/tasks/aspose.tasks/tasklink/properties/iscrossproject) properties exposed by the [TaskLink](http://www.aspose.com/api/net/tasks/aspose.tasks/tasklink) class are used to handle cross project predecessors.
+In Aspose.Tasks, the [CrossProjectName](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink/properties/crossprojectname) and [IsCrossProject](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink/properties/iscrossproject) properties exposed by the [TaskLink](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink) class are used to handle cross project predecessors.
 
 - CrossProjectName represents the external predecessor project (string).
 - IsCrossProject determines whether a predecessor is part of another project (Boolean).

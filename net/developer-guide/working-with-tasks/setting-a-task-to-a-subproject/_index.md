@@ -7,7 +7,7 @@ url: /net/setting-a-task-to-a-subproject/
 
 {{% alert color="primary" %}} 
 
-Microsoft Project provides the option to set a task to another project, known as sub-project to the parent project. Aspose.Tasks API provides the same capability to set a task to another sub-project using the Tsk.SubProjectName property.
+Microsoft Project provides the option to set a task to another project, known as sub-project to the parent project. Aspose.Tasks API provides the same capability to set a task to another sub-project using the [Tsk.SubProjectName](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/subprojectname) property.
 
 {{% /alert %}} 
 ## **Setting a Task to a SubProject**

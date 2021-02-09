@@ -14,7 +14,7 @@ When setting up calendar exceptions with Aspose.Tasks, it is possible to define 
 
 {{% /alert %}} 
 ## **Defining Workdays**
-The Exceptions collection exposed by the [Calendar](http://www.aspose.com/api/net/tasks/aspose.tasks/calendar) class can be used to define the weekdays for an exception.
+The Exceptions collection exposed by the [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar) class can be used to define the weekdays for an exception.
 
 To see a list of exceptions in Microsoft Project:
 

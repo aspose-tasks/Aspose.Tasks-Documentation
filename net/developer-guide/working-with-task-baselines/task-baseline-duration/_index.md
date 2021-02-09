@@ -6,7 +6,7 @@ url: /net/task-baseline-duration/
 ---
 
 ## **Task Baseline Duration**
-The [Duration](http://www.aspose.com/api//net/tasks/aspose.tasks/taskbaseline/properties/duration) and [EstimatedDuration]() properties of the [TaskBaseLine]() class can be used to read and write the scheduled duration when the baseline was saved and determine whether the scheduled duration was estimated or not respectively.
+The [Duration](https://apireference.aspose.com/tasks/net/aspose.tasks/taskbaseline/properties/duration) and [EstimatedDuration](https://apireference.aspose.com/tasks/net/aspose.tasks/taskbaseline/properties/estimatedduration) properties of the [TaskBaseLine](https://apireference.aspose.com/tasks/net/aspose.tasks/taskbaseline) class can be used to read and write the scheduled duration when the baseline was saved and determine whether the scheduled duration was estimated or not respectively.
 
 - Duration supports the TimeSpan data type.
 - EstimatedDuration supports the Boolean data type.

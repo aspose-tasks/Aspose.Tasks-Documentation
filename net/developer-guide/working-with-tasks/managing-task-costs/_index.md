@@ -11,13 +11,13 @@ To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks
 
 {{% /alert %}} 
 ## **Working with Task Cost**
-The [Tsk](http://www.aspose.com/api/net/tasks/aspose.tasks/tsk) exposes a number of properties for working with task cost:
+The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) exposes a number of properties for working with task cost:
 
-- Cost: a task's projected or scheduled cost (double).
-- Bcwp: the budgeted cost of the work performed to date (double).
-- Bcws: the budgeted cost of scheduled work (double).
-- FixedCost: the fixed cost associated with a task (single).
-- FixedCostAccrual: the fixed cost accrued for a task (CostAccrualType).
+- [Cost](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/cost): a task's projected or scheduled cost (double).
+- [BCWP](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/bcwp): the budgeted cost of the work performed to date (double).
+- [BCWS](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/bcws): the budgeted cost of scheduled work (double).
+- [FixedCost](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/fixedcost): the fixed cost associated with a task (single).
+- [FixedCostAccrual](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/fixedcostaccrual): the fixed cost accrued for a task (CostAccrualType).
 ### **Viewing Task Costs in Microsoft Project**
 To view task costs in Microsoft Project:
 

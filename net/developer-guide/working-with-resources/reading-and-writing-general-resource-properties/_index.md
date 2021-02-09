@@ -7,7 +7,7 @@ url: /net/reading-and-writing-general-resource-properties/
 
 {{% alert color="primary" %}} 
 
-The [Resource]() class has a number of properties for getting and setting resource attributes:
+The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) class has a number of properties for getting and setting resource attributes:
 
 - Name gets and sets a resource's name (string).
 - Id gets and sets a resource's ID (integer).

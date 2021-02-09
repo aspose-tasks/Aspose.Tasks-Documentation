@@ -11,7 +11,7 @@ It is possible to associate calendars with particular tasks in Microsoft Project
 
 {{% /alert %}} 
 ## **Tasks with Calendars**
-The [Tsk](http://www.aspose.com/api/net/tasks/aspose.tasks/tsk) class exposes the [Calendar](http://www.aspose.com/api/net/tasks/aspose.tasks/tsk/fields/calendar) field used to set or get the calendar associated with a task. This property accepts or returns an Aspose.Tasks.Calendar object.
+The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class exposes the [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/calendar) field used to set or get the calendar associated with a task. This property accepts or returns an Aspose.Tasks.Calendar object.
 
 To create a calendar for a task in Microsoft Project:
 

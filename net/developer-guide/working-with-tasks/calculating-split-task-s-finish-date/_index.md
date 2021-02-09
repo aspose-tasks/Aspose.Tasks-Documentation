@@ -11,7 +11,7 @@ Microsoft Project allows users to split tasks when the schedule is interrupted. 
 
 {{% /alert %}} 
 ## **Split Tasks**
-The GetTaskFinishDateFromDuration method exposed by the [Calendar](http://www.aspose.com/api/net/tasks/aspose.tasks/calendar) class is used to calculate a split task's finishing date from the start date, split parts and duration. The GetTaskFinishDateFromDuration method takes a split task and duration as its arguments and returns the tasks finish date.
+The [GetTaskFinishDateFromDuration](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar/methods/gettaskfinishdatefromduration) method exposed by the [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar) class is used to calculate a split task's finishing date from the start date, split parts and duration. The [GetTaskFinishDateFromDuration](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar/methods/gettaskfinishdatefromduration) method takes a split task and duration as its arguments and returns the tasks finish date.
 ### **Split Tasks in Microsoft Project**
 To view the start date of a split task in Microsoft Project:
 

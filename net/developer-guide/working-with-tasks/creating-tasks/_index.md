@@ -11,7 +11,7 @@ A project is, essentially, made up by a number of tasks, each of which has to be
 
 {{% /alert %}} 
 ## **Creating Tasks**
-The [Task]() class exposes the Add method for adding a task to a project's root or other tasks. The following code sample shows how this can be achieved.
+The [Task](https://apireference.aspose.com/email/net/aspose.email.calendar/task) class exposes the Add method for adding a task to a project's root or other tasks. The following code sample shows how this can be achieved.
 
 The default constructor creates a Task instance without any parameter being passed.
 

@@ -6,6 +6,6 @@ url: /net/determine-task-schedule-conflict/
 ---
 
 ## **How to Check Task Schedule Discrepancy**
-The [Tsk](http://www.aspose.com/api/net/tasks/aspose.tasks/tsk) class exposes the [Warning](https://apireference.aspose.com/net/tasks/aspose.tasks/tsk/fields/warning) field, used to check if the task has any schedule discrepancies. This is a flag and returns true or false.
+The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class exposes the [Warning](https://apireference.aspose.com/net/tasks/aspose.tasks/tsk/fields/warning) field, used to check if the task has any schedule discrepancies. This is a flag and returns true or false.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-TaskWarning-TaskWarning.cs" >}}

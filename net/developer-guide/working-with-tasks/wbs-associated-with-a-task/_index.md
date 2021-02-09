@@ -11,7 +11,7 @@ WBS(Work Breakdown Structure) codes, lets you assign outline numbers to tasks ac
 
 {{% /alert %}} 
 ## **Working with Work Breakdown Structure**
-The Wbs and WbsLevel properties exposed by the [Tsk](http://www.aspose.com/api/net/tasks/aspose.tasks/tsk) class are used to read and write a tasks work breakdown structure.
+The [WBS](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/wbs) and [WBSLevel](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/wbslevel) properties exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to read and write a tasks work breakdown structure.
 ### **Microsoft Project View of WBS**
 To view WBS information in Microsoft Project:
 

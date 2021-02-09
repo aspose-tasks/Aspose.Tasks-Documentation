@@ -11,7 +11,7 @@ Tasks can be identified by a number of general properties, such as name, ID, sta
 
 {{% /alert %}} 
 ## **General Properties**
-The static class [Tsk](http://www.aspose.com/api/net/tasks/aspose.tasks/tsk) contains all the properties related to a [Task](http://www.aspose.com/api/net/tasks/aspose.tasks/tasklink) and can be get or set using the Get and Set methods exposed by Task. Some of the commonly used properties are as follow:
+The static class [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) contains all the properties related to a [Task](https://apireference.aspose.com/email/net/aspose.email.calendar/task) and can be get or set using the Get and Set methods exposed by Task. Some of the commonly used properties are as follow:
 
 - Name, used to set and get a task's name (string).
 - Id, used to set and get a task's ID (integer).

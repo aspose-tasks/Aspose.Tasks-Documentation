@@ -11,10 +11,10 @@ Microsoft Projects lets users assign overtime to tasks. Aspose.Tasks supports th
 
 {{% /alert %}} 
 ## **Overtime**
-The [Tsk](http://www.aspose.com/api/net/tasks/aspose.tasks/tsk) exposes several properties for working with overtime:
+The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) exposes several properties for working with overtime:
 
-- OvertimeCost: reads and writes the sum of a task's actual and remaining overtime cost (double).
-- OvertimeWork: reads and writes the amount of overtime scheduled for a task (TimeSpan).
+- [OvertimeCost](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/overtimecost): reads and writes the sum of a task's actual and remaining overtime cost (double).
+- [OvertimeWork](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/overtimework): reads and writes the amount of overtime scheduled for a task (TimeSpan).
 ### **Microsoft Project view of task overtime**
 To see a task's overtime work and cost properties:
 
