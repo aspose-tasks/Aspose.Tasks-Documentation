@@ -15,6 +15,7 @@ This page contains release notes information for [Aspose.Tasks for Java 21.2](ht
 | :- | :- | :- |
 | TASKSNET-4518 | Save project documents with password protection | New Feature |
 | TASKSJAVA-1255 | Add an ability to read and write Activity_Id (task_code in XER) for Primavera XML, XER and DB formats | Enhancement |
+| TASKSJAVA-1291 | Add the ability to render MPP file as a single page | Enhancement |
 | TASKSNET-4120 | Add reading of timescale settings and rendering of custom timescales for Task Usage and Resource Usage views | Enhancement |
 | TASKSNET-4561 | Fix exception when trying to access TimephasedData for assignment of material resource | Bug |
 | TASKSNET-4554 | Fix "NullReferenceException" when trying to render the specific project to HTML | Bug |
@@ -24,7 +25,6 @@ This page contains release notes information for [Aspose.Tasks for Java 21.2](ht
 | TASKSNET-4544 | Fix "Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')" exception when get pages count MPP file | Bug |
 | TASKSNET-4543 | Fix 'Stream does not support reading' exception when saving to HTML | Bug |
 | TASKSNET-4526 | Fix ResourceAssignments are not read from password protected files for MSP 2010+ files | Bug |
-| TASKSJAVA-1291 | Add the ability to render MPP file as a single page
 
 ## **Public API and Backwards Incompatible Changes**
 |**The following public methods and properties were added:**|**Description**|
