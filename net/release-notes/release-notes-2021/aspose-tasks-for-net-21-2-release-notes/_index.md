@@ -65,19 +65,19 @@ TASKSNET-4642: Add support for user-defined page size when saving a project to a
 SaveOptions.CustomPageSize property added so the user can specify custom page size when saving a project to graphical formats.
 
 {{< highlight csharp >}}
-            Project project = new Project("test.mpp");
+Project project = new Project("test.mpp");
 
-            ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
-            {
-                SaveToSeparateFiles = true,
-                Timescale = Timescale.DefinedInView,
-                CustomPageSize = new SizeF(1224, 340),
-                StartDate = new DateTime(2012, 12, 22),
-                EndDate = new DateTime(2013, 05, 10),
-                PresentationFormat = PresentationFormat.ResourceUsage,
-            };
+ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
+{
+            SaveToSeparateFiles = true,
+            Timescale = Timescale.DefinedInView,
+            CustomPageSize = new SizeF(1224, 340),
+            StartDate = new DateTime(2012, 12, 22),
+            EndDate = new DateTime(2013, 05, 10),
+            PresentationFormat = PresentationFormat.ResourceUsage,
+};
 
-            project.Save("output.png", saveOptions);
+project.Save("output.png", saveOptions);
 {{< /highlight >}}
 
 
@@ -87,35 +87,35 @@ Now SaveOptions.RenderToSinglePage property can be used to specify that the proj
 SaveOptions.RenderToSinglePage flag is applicable when project is saved to PDF or graphical formats.
 
 {{< highlight csharp >}}
-            Project project = new Project("test.mpp");
+Project project = new Project("test.mpp");
 
-            PdfSaveOptions saveOptions = new PdfSaveOptions
-            {
-                Timescale = Timescale.DefinedInView,
-                RenderToSinglePage = true,
-                StartDate = new DateTime(2012, 12, 22),
-                EndDate = new DateTime(2013, 05, 10),
-                PresentationFormat = PresentationFormat.TaskUsage
-            };
+PdfSaveOptions saveOptions = new PdfSaveOptions
+{
+            Timescale = Timescale.DefinedInView,
+            RenderToSinglePage = true,
+            StartDate = new DateTime(2012, 12, 22),
+            EndDate = new DateTime(2013, 05, 10),
+            PresentationFormat = PresentationFormat.TaskUsage
+};
 
-            project.Save("output.pdf", saveOptions);
+project.Save("output.pdf", saveOptions);
 {{< /highlight >}}
 
 {{< highlight csharp >}}
-            Project project = new Project("TestProject.mpp");
+Project project = new Project("TestProject.mpp");
 
-            ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
-            {
-                Timescale = Timescale.DefinedInView,
-                RenderToSinglePage = true,
-                StartDate = new DateTime(2012, 12, 22),
-                EndDate = new DateTime(2013, 05, 10),
-                PresentationFormat = PresentationFormat.TaskUsage,
-                HorizontalResolution = 300,
-                VerticalResolution = 300
-            };
+ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
+{
+            Timescale = Timescale.DefinedInView,
+            RenderToSinglePage = true,
+            StartDate = new DateTime(2012, 12, 22),
+            EndDate = new DateTime(2013, 05, 10),
+            PresentationFormat = PresentationFormat.TaskUsage,
+            HorizontalResolution = 300,
+            VerticalResolution = 300
+};
 
-            project.Save("output.png", saveOptions);
+project.Save("output.png", saveOptions);
 {{< /highlight >}}
 
 TASKSNET-4608: Portrait/Landscape orientation setting ignored when printing / saving to pdf.
