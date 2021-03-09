@@ -55,8 +55,8 @@ You will need to first install IntelliJ IDEA CE / UE before downloading the **As
 To download IntellliJ IDEA
 
 1. Goto <https://www.jetbrains.com/idea/download/>
-1. Select your running OS
-1. Click on UE or CE download.
+2. Select your running OS
+3. Click on UE or CE download.
 ### **Downloading Aspose.Tasks Java for IntelliJ IDEA plugin (Maven)**
 - The plugin can be directly downloaded from the [JetBrains plugin hosting URL](https://goo.gl/jEvBef) - on IntelliJ IDEA Plugin Repository
   and later can be installed using the IDE option: 

@@ -14,11 +14,11 @@ With Aspose.Tasks it is possible to update Microsoft Project 2010 MPP files in a
 The following examples show how to add a new task to an existing Microsoft Project 2010 file and save it back to the same file. The code goes through the following steps:
 
 1. Create an instance of the project reader.
-1. Read the file.
-1. Create a task.
-1. Add the task to the project.
-1. Re-calculate.
-1. Save.
+2. Read the file.
+3. Create a task.
+4. Add the task to the project.
+5. Recalculate the project.
+6. Save.
 
 The code snippets show the code first in C#.
 ### **Code Samples**

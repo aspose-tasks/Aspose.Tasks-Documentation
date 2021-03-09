@@ -40,14 +40,14 @@ Most programs save summary information with the files they save. Microsoft Proje
 The Project's class Set method can be used to write and Get method can be used to read Project summary information using the Prj class's members. The file can be saved back after updating the summary information. To update the project summary information of an existing MPP file:
 
 1. Create an instance of Project class
-1. Set the various properties exposed by the Prj class to define summary information.
-1. Save the Project using the Save method of Project class
+2. Set the various properties exposed by the Prj class to define summary information.
+3. Save the Project using the Save method of Project class
 
 To see the file's summary information:
 
 1. Find the file in a file browser.
-1. Right-click the file and select **Properties**.
-1. Go to the **Details** tab.
+2. Right-click the file and select **Properties**.
+3. Go to the **Details** tab.
 
 The code example given below demonstrates how to write a project summary information to the MPP file.
 

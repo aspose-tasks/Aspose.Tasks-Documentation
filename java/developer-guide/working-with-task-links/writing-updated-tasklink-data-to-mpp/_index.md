@@ -14,10 +14,10 @@ With Aspose.Tasks, it is possible to link tasks in a project and save the update
 The code snippet below shows how to link tasks in a project and write the link data back to the MPP file. The steps involved in this activity are:
 
 1. Create an instance of the Project Reader.
-1. Read the source MPP file.
-1. Create tasks and add these to the project's root task.
-1. Link the tasks using StartToFinish and FinishToStart link types.
-1. Save the project using the Project Writer.
+2. Read the source MPP file.
+3. Create tasks and add these to the project's root task.
+4. Link the tasks using StartToFinish and FinishToStart link types.
+5. Save the project using the Project Writer.
 
 The following code demonstrates how this feature works.
 

@@ -14,11 +14,11 @@ Microsoft Project (MSP) has an extensive XML data interchange schema that makes 
 In this example, we will show how to work with Text1 extended attribute of a project for associating the information with a Task.
 
 1. In MSP, go to Project->Custom Fields.
-1. From here, select Task.
-1. Select Text as Custom Field Type from the Type Combobox.
-1. Select Text1 as a custom field that you want to work with
-1. Use the "Rename" button to rename the alias of the field if it is desired and press OK button
-1. Add a new task and insert a new column to the task row with the custom field that you used in the above step
+2. From here, select Task.
+3. Select Text as Custom Field Type from the Type Combobox.
+4. Select Text1 as a custom field that you want to work with
+5. Use the "Rename" button to rename the alias of the field if it is desired and press OK button
+6. Add a new task and insert a new column to the task row with the custom field that you used in the above step
 
 ![todo:image_alt_text](working-with-extended-attributes-of-a-project_1.png)
 ## **Working with Custom Fields/Extended Attributes using Aspose.Tasks API**
@@ -35,9 +35,9 @@ Aspose.Tasks supports updating extended attribute data in a Microsoft Project MP
 The example code below adds new extended attributes of the [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/extendedattributeresource) and [Task](https://apireference.aspose.com/tasks/net/aspose.tasks/extendedattributetask) types to the source MPP file. The steps involved in this activity are:
 
 1. Create an instance of Project Reader.
-1. Read the source MPP file.
-1. Define a new extended attribute and update its values.
-1. Save the project using the Project Writer.
+2. Read the source MPP file.
+3. Define a new extended attribute and update its values.
+4. Save the project using the Project Writer.
 
 The following example shows setting the extended attributes of a resource.
 

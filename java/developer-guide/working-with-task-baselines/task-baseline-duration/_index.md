@@ -14,8 +14,8 @@ The Duration and EstimatedDuration properties of the [TaskBaseLine](https://apir
 After saving a baseline, the task baseline duration can be viewed in Microsoft Project:
 
 1. On the **View** menu, select **More Views** and ten **Task Entry**.
-1. From the **Insert** menu, select **Columns**.
-1. Add the Baseline Duration column.
+2. From the **Insert** menu, select **Columns**.
+3. Add the Baseline Duration column.
 
 
 **Task baselline duuration in Microsoft Project** 

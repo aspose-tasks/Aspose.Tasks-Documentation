@@ -20,7 +20,7 @@ The [Project](https://apireference.aspose.com/net/tasks/aspose.tasks/project) cl
 To save a project to PDF:
 
 1. Load a Microsoft Project file.
-1. Save the project to PDF using SaveFileFormat.PDF.
+2. Save the project to PDF using SaveFileFormat.PDF.
 ### **PDF Creator Information**
 - Please note that you cannot set values against the **Application** and **Producer** fields, because of Aspose Ltd. and Aspose.Tasks for .NET x.x.x will be displayed against these fields.
 ### **Programming Sample**

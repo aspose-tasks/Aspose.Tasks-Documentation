@@ -13,7 +13,7 @@ The [Calendars](https://apireference.aspose.com/tasks/net/aspose.tasks/project/p
 To view calendar information in Microsoft Project:
 
 1. Open a project.
-1. From the **Project** menu, select **Change Working Time**.
+2. From the **Project** menu, select **Change Working Time**.
 
 The following piece of code retrieves the calendar information from a project.
 

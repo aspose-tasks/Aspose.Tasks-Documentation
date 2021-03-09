@@ -16,7 +16,7 @@ The [WBS](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/wbs)
 To view WBS information in Microsoft Project:
 
 1. On the Task Entry Form, select the **Insert** menu and then **Column**.
-1. Add the WBS column.
+2. Add the WBS column.
 ### **Getting WBS in Aspose.Tasks**
 The following examples show how to get a task's WBS value using Aspose.Tasks.
 

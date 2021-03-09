@@ -19,9 +19,9 @@ The ConstraintDate and ConstraintType properties are exposed by the static c
 To set constraints in Microsoft Project:
 
 1. On the **View** menu, select **More Views** and then **Task Entry Form**.
-1. Double click a task on the Task Entry Form.
-1. Select the Advanced tab.
-1. Set a constraint by selecting an option from the **Constraint type** list and a date for the **Constraint date** list.
+2. Double click a task on the Task Entry Form.
+3. Select the Advanced tab.
+4. Set a constraint by selecting an option from the **Constraint type** list and a date for the **Constraint date** list.
 ### **Setting Constraints with Aspose.Tasks**
 The constraint date is NA when the constraint type is **As Soon As Possible** or **As Late As Possible**. For date values equal to NA, Aspose.Tasks API uses the value “1/1/2000” in the evaluation version, and DateTime.MinValue for the licensed product. In the below case, we take a source project file as an input and apply different types of constraints on various tasks in each case. The following code example demonstrates the application of different Constraint types.
 

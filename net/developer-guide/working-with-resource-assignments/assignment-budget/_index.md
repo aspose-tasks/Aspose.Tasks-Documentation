@@ -14,7 +14,7 @@ The [ResourceAssignment]() class exposes a number of properties for working with
 To see assignment budgets in Microsoft Project:
 
 1. On the Task Usage page, select the Insert menu and then Column.
-1. Add columns.
+2. Add columns.
 ### **Getting Assignment Budget with Aspose.Tasks**
 The following example shows how to get an assignment budget using Aspose.Tasks.
 

@@ -19,7 +19,7 @@ The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) exposes se
 To see a task's overtime work and cost properties:
 
 1. In the Task Entry form, select the **Insert** menu and then **Column**.
-1. Add the overtime columns.
+2. Add the overtime columns.
 ### **Getting task overtimes in Aspose.Tasks**
 The following examples show how to get the overtime cost and work associated with a task with Aspose.Tasks.
 

@@ -26,7 +26,7 @@ The [ChildTasksCollector](https://apireference.aspose.com/tasks/net/aspose.tasks
 To access these properties in Microsoft Project:
 
 1. On the **View** menu, select **More Views** and then **Task Entry**.
-1. On the **Insert** menu, select **Column** and add the desired columns to the Task Entry form.
+2. On the **Insert** menu, select **Column** and add the desired columns to the Task Entry form.
 ### **Getting Actual Properties with Aspose.Tasks**
 A tasks' actual properties can be obtained by traversing the tasks in a project. The code samples below write the actual properties for all tasks found in a project to a console window.
 

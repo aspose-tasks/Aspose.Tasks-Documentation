@@ -13,8 +13,8 @@ The [Project]() class exposes the [NewTaskStartDate]() property that defines
 To see the task attribute:
 
 1. Open the file with Microsoft Project.
-1. On the **Tools** menu, select **Options**.
-1. Select the **Schedule** tab.
+2. On the **Tools** menu, select **Options**.
+3. Select the **Schedule** tab.
    The tab looks like the one shown below.
 
 **New tasks set to start on the current date** 

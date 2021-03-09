@@ -18,7 +18,7 @@ The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project/) c
 To save a project to XLSX:
 
 1. Load a Microsoft Project file.
-1. Save the project to XLSX using SaveFileFormat.XLSX.
+2. Save the project to XLSX using SaveFileFormat.XLSX.
 ## **Saving a Project as XLSX**
 The following lines of code show how to achieve this using C#.
 

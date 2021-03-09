@@ -16,9 +16,9 @@ The SaveFileFormat enumeration contains the available output options, including 
 The following code sample:
 
 1. Reads a project file.
-1. Sets the output file format.
-1. Applies compression and saves an image to disk.
-1. Removes compression and saves an image to disk.
+2. Sets the output file format.
+3. Applies compression and saves an image to disk.
+4. Removes compression and saves an image to disk.
 ### **Code Example**
 **Java**
 

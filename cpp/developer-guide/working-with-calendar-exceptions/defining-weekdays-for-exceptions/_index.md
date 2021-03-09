@@ -16,7 +16,7 @@ The Exceptions collection exposed by the Calendar class can be used to defin
 To see a list of exceptions in Microsoft Project:
 
 1. Open a file.
-1. From the **Tools** menu, select **Change Working Time** to open the Change Working Time dialogue.
+2. From the **Tools** menu, select **Change Working Time** to open the Change Working Time dialogue.
 ### **Programming Samples**
 The following code example defines the dates 24-Dec-2009 through 31-Dec-2009 as exceptions.
 

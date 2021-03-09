@@ -11,7 +11,7 @@ The CurrencySymbol property exposed by the [Project ](https://apireference.a
 To see a project's currency symbol in Microsoft Project:
 
 1. From the **Tools** menu, select **Options**.
-1. Select the **View** tab.
+2. Select the **View** tab.
 
 **Viewing the currency symbol in Microsoft Project** 
 

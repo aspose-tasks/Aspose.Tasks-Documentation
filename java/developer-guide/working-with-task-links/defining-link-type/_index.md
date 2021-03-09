@@ -14,8 +14,8 @@ The LinkType property exposed by the [TaskLink](https://apireference.aspose.com/
 To define link type in Microsoft Project:
 
 1. On the **View** menu, select **More Views** and then **Task Entry Form**.
-1. Double-click the desired task.
-1. Select the **Predecessor** tab.
+2. Double-click the desired task.
+3. Select the **Predecessor** tab.
 
 
 **Defining link type in Microsoft Project** 

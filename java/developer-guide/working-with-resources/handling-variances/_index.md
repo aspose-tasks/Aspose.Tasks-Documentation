@@ -18,7 +18,7 @@ The WorkVariance property exposed by the [Resource](https://apireference.aspose.
 To see the resource work variance in Microsoft Project:
 
 1. On the Resource Sheet, go to the **Insert** menu and select **Column**.
-1. Add the Variance column.
+2. Add the Variance column.
 
 
 **Variance in Microsoft Project** 

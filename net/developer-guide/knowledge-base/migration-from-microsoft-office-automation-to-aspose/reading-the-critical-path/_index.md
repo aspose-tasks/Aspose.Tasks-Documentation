@@ -20,10 +20,10 @@ This article gives a small idea of how to load MPP files in your .NET applicatio
 Following steps are required to accomplish this task:
 
 1. Create a new project in Visual Studio.
-1. In the Solution Explorer, right-click and select **Add Reference**, then select the **COM components** tab.
-1. Select the Microsoft Project 12.0 Object Library and then click **OK**.
+2. In the Solution Explorer, right-click and select **Add Reference**, then select the **COM components** tab.
+3. Select the Microsoft Project 12.0 Object Library and then click **OK**.
    This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.
-1. Use the code from the following example to read critical tasks.
+4. Use the code from the following example to read critical tasks.
 ### **Code Examples - VSTO**
 
 
@@ -90,10 +90,10 @@ projectApplication.FileCloseAll(PjSaveType.pjDoNotSave);
 The following steps are required to accomplish this task:
 
 1. Create a new project in Visual Studio.
-1. In the Solution Explorer, right-click and select **Add Reference**, then select the **.NET** tab.
-1. Select Aspose.Tasks and click **OK**.
+2. In the Solution Explorer, right-click and select **Add Reference**, then select the **.NET** tab.
+3. Select Aspose.Tasks and click **OK**.
    This imports the Aspose.Tasks namespace at the start of the code.
-1. Use the code from the following example to read tasks and resources.
+4. Use the code from the following example to read tasks and resources.
 ### **Code Examples - Aspose.Tasks**
 
 

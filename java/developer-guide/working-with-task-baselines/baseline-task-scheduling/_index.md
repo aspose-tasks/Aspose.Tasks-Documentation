@@ -11,8 +11,8 @@ The Start and Finish properties exposed by the [TaskBaseLine](https://apireferen
 After saving a baseline, the task baseline schedule can be viewed in Microsoft Project:
 
 1. From the **View** menu, select **More Views** and then **Task Entry**.
-1. From the **Insert** menu, select **Columns**.
-1. Add the desired columns.
+2. From the **Insert** menu, select **Columns**.
+3. Add the desired columns.
 
 
 **Baseline start and end dates in Microsoft Project** 

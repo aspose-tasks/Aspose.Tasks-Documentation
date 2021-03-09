@@ -16,7 +16,7 @@ The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) cl
 To save a project to PDF:
 
 1. Load a Microsoft Project file.
-1. Get the project's total page count using the GetPageCount method with optional timescale settings.
+2. Get the project's total page count using the GetPageCount method with optional timescale settings.
 ### **Programming Sample: Get Number of Pages in Project**
 The following lines of code shows how to achieve this using C#.
 

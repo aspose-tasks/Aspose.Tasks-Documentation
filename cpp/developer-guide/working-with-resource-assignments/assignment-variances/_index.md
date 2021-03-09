@@ -16,7 +16,7 @@ The [Asn ](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.asn/)c
 To see resource assignment variances in Microsoft Project:
 
 1. On the Task Usage screen, select **Insert** and ten **Columns**.
-1. Add the desired columns.
+2. Add the desired columns.
 ### **Getting Assignment Variance in Aspose.Tasks**
 The following code example demonstrates how to get the resource work variance using Aspose.Tasks.
 

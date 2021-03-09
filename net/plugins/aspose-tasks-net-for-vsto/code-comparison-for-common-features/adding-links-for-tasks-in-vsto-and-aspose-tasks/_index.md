@@ -9,8 +9,8 @@ url: /net/adding-links-for-tasks-in-vsto-and-aspose-tasks/
 To link a task using VSTO:
 
 1. Create a new project in Visual Studio.
-1. In the Solution Explorer, right-click and select Add Reference.
-1. Select the COM components tab, and select Microsoft Project 12.0 Object Library.Click OK.This imports the Microsoft.Office.Interop.MSProject namespace at the start of your code. Use the code from the following example to link tasks.
+2. In the Solution Explorer, right-click and select Add Reference.
+3. Select the COM components tab, and select Microsoft Project 12.0 Object Library.Click OK.This imports the Microsoft.Office.Interop.MSProject namespace at the start of your code. Use the code from the following example to link tasks.
 
 {{< highlight csharp >}}
 
@@ -77,8 +77,8 @@ projectApplication.FileCloseAll(Microsoft.Office.Interop.MSProject.PjSaveType.pj
 To link tasks in a project using Aspose.Tasks for .NET:
 
 1. Create a new project in Visual Studio.
-1. In the Solution Explorer, right-click and select Add Reference.
-1. Select .NET tab and select Aspose.Tasks.Click OK.This imports the Aspose.Tasks namespace at the start of your code. Use the code from the following example to link tasks.
+2. In the Solution Explorer, right-click and select Add Reference.
+3. Select .NET tab and select Aspose.Tasks.Click OK.This imports the Aspose.Tasks namespace at the start of your code. Use the code from the following example to link tasks.
 
 {{< highlight csharp >}}
 

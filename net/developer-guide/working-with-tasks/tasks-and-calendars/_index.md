@@ -16,9 +16,9 @@ The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class expo
 To create a calendar for a task in Microsoft Project:
 
 1. Open a project in Microsoft Project.
-1. On the **Project** menu, select **Change Working Times**, then **Create New Calendar**.
-1. To assign the calendar to a task, double-click the task in the Task Entry form.
-1. Select the **Advanced** tab.
+2. On the **Project** menu, select **Change Working Times**, then **Create New Calendar**.
+3. To assign the calendar to a task, double-click the task in the Task Entry form.
+4. Select the **Advanced** tab.
 ### **Setting Task Calendar**
 Create a standard calendar and create a task. Assign the Calendar to the task.
 

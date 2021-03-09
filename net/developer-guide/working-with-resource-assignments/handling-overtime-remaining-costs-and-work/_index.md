@@ -18,7 +18,7 @@ The [Asn]() class exposes a number of properties for handling an assignment's ov
 To see assignment overtime, remaining cost and work in Microsoft Project:
 
 1. On the Task Usage screen, select the **Insert** menu, then **Column**.
-1. Add the desired columns.
+2. Add the desired columns.
 ### **Getting Assignment Overtimes in Aspose.Tasks**
 The following example shows how to get assignment overtimes, remaining costs and work using Aspose.Tasks.
 

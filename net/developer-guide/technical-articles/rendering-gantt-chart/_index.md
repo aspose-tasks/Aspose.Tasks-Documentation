@@ -18,8 +18,8 @@ The [ImageSaveOptions]() class's Timescale property determines a project's times
 The following code sample:
 
 1. Reads a project file.
-1. Sets each different timescale setting.
-1. Saves the file to disk as a JPG.
+2. Sets each different timescale setting.
+3. Saves the file to disk as a JPG.
 
 
 

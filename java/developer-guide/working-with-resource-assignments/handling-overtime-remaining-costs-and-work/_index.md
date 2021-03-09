@@ -18,7 +18,7 @@ The [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.t
 To see assignment overtime, remaining cost and work in Microsoft Project:
 
 1. On the Task Usage screen, select the **Insert** menu, then **Column**.
-1. Add the desired columns.
+2. Add the desired columns.
 
 
 **Overtime, remaining costs and work columns added in Microsoft Project** 

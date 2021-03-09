@@ -14,9 +14,9 @@ Being able to render individual project views, for example, resource usage again
 The code snippet in this article reads a source MPP file that has a number of resources assigned to tasks and renders these to an output PDF using the following steps:
 
 1. Create an instance of the Project Reader.
-1. Read the source MPP file.
-1. Initiate the SaveOptions object with the required timescale settings.
-1. Set the presentation format to Resource Sheet.
-1. Render the project to PDF output.
+2. Read the source MPP file.
+3. Initiate the SaveOptions object with the required timescale settings.
+4. Set the presentation format to Resource Sheet.
+5. Render the project to PDF output.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-RenderResourceUsageView-RenderResourceUsageView.cs" >}}

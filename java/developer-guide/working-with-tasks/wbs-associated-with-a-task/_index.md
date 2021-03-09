@@ -19,7 +19,7 @@ The Wbs and WbsLevel properties exposed by the [Tsk](https://apireference.aspose
 To view WBS information in Microsoft Project:
 
 1. On the Task Entry Form, select the **Insert** menu and then **Column**.
-1. Add the WBS column.
+2. Add the WBS column.
 
 **Work breakdown structure in Microsoft Project** 
 

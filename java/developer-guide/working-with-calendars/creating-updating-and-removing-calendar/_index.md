@@ -83,9 +83,9 @@ With Aspose.Tasks, you can update calendar data in a Microsoft Project MPP file 
 The following code shows how to update the calendar data of a project by adding a new calendar and saving it back to the original MPP file. The steps involved in this activity are:
 
 1. Create an instance of the Project class.
-1. Read the source MPP file using the constructor.
-1. Add the calendar data to the project.
-1. Save the updated project data back to the MPP file.
+2. Read the source MPP file using the constructor.
+3. Add the calendar data to the project.
+4. Save the updated project data back to the MPP file.
 
 **Programming Sample**
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Calendars-UpdatedCalendarToMpp-UpdatedCalendarToMpp.java" >}}

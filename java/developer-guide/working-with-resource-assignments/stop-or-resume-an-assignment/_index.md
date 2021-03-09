@@ -14,7 +14,7 @@ The [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.t
 To see an assignment's stop and resume dates in Microsoft Project:
 
 1. On the Task Usage screen, select **Insert** and then **Column**.
-1. Add the desired columns.
+2. Add the desired columns.
 
 **Assignment stop and resume dates in Microsoft Project** 
 

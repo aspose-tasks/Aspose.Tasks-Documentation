@@ -18,8 +18,8 @@ url: /java/installing-and-using-aspose-tasks-java-for-eclipse-maven/
 To create **Maven Project** by wizard for using [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx):
 
 1. Select **New Project**.
-1. Select **Aspose.Tasks Maven Project** in the **Maven** category.
-1. Click **Next**. 
+2. Select **Aspose.Tasks Maven Project** in the **Maven** category.
+3. Click **Next**. 
 
 ![todo:image_alt_text](http://i.imgur.com/lURyuwW.png)
 
@@ -28,7 +28,7 @@ To create **Maven Project** by wizard for using [Aspose.Tasks for Java API](http
 ![todo:image_alt_text](http://i.imgur.com/uyB6Es9.png)
 
 1. This will retrieve the [Aspose.Tasks for Java](http://www.aspose.com/java/project-management-component.aspx) latest [Maven Dependency](http://maven.aspose.com/repository/ext-release-local/com/aspose/aspose-tasks/) reference from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0) and configure it in **pom.xml**. If you have opted for **Also Download Code Examples,** downloading of the **Code Examples** will also begin from the [Aspose.Tasks for Java API Examples Repository. ](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples)
-1. Following **Maven** Project will be created on your **Eclipse IDE** on completion of the wizard: 
+2. Following **Maven** Project will be created on your **Eclipse IDE** on completion of the wizard: 
 
 ![todo:image_alt_text](/download/thumbnails/16580610/434715868)
 
@@ -46,8 +46,8 @@ To be able to use **Aspose.Tasks Code Example wizard** comfortably: it is recomm
 To use examples, just:
 
 1. Click **New File** in **Eclipse**.
-1. Choose your project and then select **Aspose.Tasks Code Example** in the **Java** category.
-1. Click **Next**. 
+2. Choose your project and then select **Aspose.Tasks Code Example** in the **Java** category.
+3. Click **Next**. 
 
 ![todo:image_alt_text](http://i.imgur.com/I0UIVYM.png)
 
@@ -56,5 +56,5 @@ To use examples, just:
 ![todo:image_alt_text](http://i.imgur.com/cXJ1DcH.png)
 
 1. This will copy the selected category **Code Examples** Java files into the project under **com.aspose.tasks.examples** package. Also any required resources needed by the Code Examples will be copied into **src/main/resources** folder
-1. Review the example code, compile and run.
-1. You can now test other examples and start building your own application using [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx)
+2. Review the example code, compile and run.
+3. You can now test other examples and start building your own application using [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx)

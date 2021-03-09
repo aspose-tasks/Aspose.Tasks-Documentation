@@ -5,14 +5,15 @@ weight: 10
 url: /net/adding-a-new-task-in-vsto-and-aspose-tasks/
 ---
 
-### **VSTO**
+# **Code Examples**
+## **VSTO**
 To add a task using VSTO:
 
 1. Create a new project in Visual Studio.
-1. In the Solution Explorer, right-click and select Add Reference.
-1. Select the COM components tab, and select Microsoft Project 12.0 Object Library.
+2. In the Solution Explorer, right-click and select Add Reference.
+3. Select the COM components tab, and select Microsoft Project 12.0 Object Library.
    Click OK.
-1. This imports the Microsoft.Office.Interop.MSProject namespace at the start of your code. Use the code from the following example to add a new task. 
+4. This imports the Microsoft.Office.Interop.MSProject namespace at the start of your code. Use the code from the following example to add a new task. 
 
 {{< highlight csharp >}}
 
@@ -57,12 +58,12 @@ task.Text1 = "Task1";
 projectApplication.FileCloseAll(Microsoft.Office.Interop.MSProject.PjSaveType.pjSave);
 
 {{< /highlight >}}
-### **Aspose.Tasks**
+## **Aspose.Tasks**
 To add tasks to project files using Aspose.Tasks for .NET:
 
 1. Create a new project in Visual Studio.
-1. In the Solution Explorer, right-click and select Add Reference.
-1. Select .NET tab and select Aspose.Tasks.Click OK.This imports the Aspose.Tasks namespace at the start of your code. Use the code from the following example to add a new task. 
+2. In the Solution Explorer, right-click and select Add Reference.
+3. Select .NET tab and select Aspose.Tasks.Click OK.This imports the Aspose.Tasks namespace at the start of your code. Use the code from the following example to add a new task. 
 
 {{< highlight csharp >}}
 
@@ -93,7 +94,7 @@ project.CalcTaskUids();
 project.Save("OutputProject.xml", Aspose.Tasks.Saving.SaveFileFormat.XML);
 
 {{< /highlight >}}
-## **Download Sample Code**
+# **Download Sample Code**
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Adding.a.New.Task.Aspose.Tasks.zip)
 - [Sourceforge](https://sourceforge.net/projects/asposevsto/files/Aspose.Tasks%20Vs%20VSTO%20Project/Adding%20a%20New%20Task%20\(Aspose.Tasks\).zip/download)
 - [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Adding%20a%20New%20Task%20\(Aspose.Tasks\).zip)

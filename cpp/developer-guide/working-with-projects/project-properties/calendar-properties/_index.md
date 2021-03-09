@@ -22,8 +22,8 @@ The code example given below demonstrates how to read a project's fiscal year p
 To see fiscal year properties in Microsoft Project:
 
 1. Open a project file.
-1. On the **Tools** menu, click **Options**.
-1. Click the **Calendar** tab. It will look like the one shown below.
+2. On the **Tools** menu, click **Options**.
+3. Click the **Calendar** tab. It will look like the one shown below.
 
 *Checking that the fiscal year properties have been set in Microsoft Project.
 
@@ -49,8 +49,8 @@ The code example given below demonstrates how to read a project's weekday prope
 To see weekday properties in Microsoft Project:
 
 1. Open a file.
-1. On the **Tools** menu, click **Options**.
-1. Select the **Calendar** tab. It will look something like the example below.
+2. On the **Tools** menu, click **Options**.
+3. Select the **Calendar** tab. It will look something like the example below.
 
 **Viewing weekday properties in Microsoft Project** 
 

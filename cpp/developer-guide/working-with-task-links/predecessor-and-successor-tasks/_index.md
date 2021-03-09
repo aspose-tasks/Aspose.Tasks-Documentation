@@ -14,8 +14,8 @@ The PredTask and SuccTask properties exposed by the [TaskLink](https://apirefere
 To manage predecessor tasks in Microsoft Project:
 
 1. From the **View** menu, select **More Views** and then **Task Entry Form**.
-1. Double-click the desired task.
-1. Select the Predecessor tab.
+2. Double-click the desired task.
+3. Select the Predecessor tab.
 
 
 **Viewing predecessor tasks in Microsoft Project** 

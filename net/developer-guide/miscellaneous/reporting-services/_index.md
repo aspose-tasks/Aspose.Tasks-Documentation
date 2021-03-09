@@ -10,7 +10,7 @@ url: /net/reporting-services/
 Aspose.Tasks provides reporting services for creating reports from project files similar to Microsoft Project. The SaveReport function is used to create PDF files containing the report's images. This function takes two arguments:
 
 1. the PDF file name, and
-1. the ReportType enumerator.
+2. the ReportType enumerator.
 
 {{% /alert %}} 
 ## **Aspose.Tasks Reporting Services**
@@ -18,21 +18,21 @@ Aspose.Tasks provides reporting services for creating reports from project files
 The following types of reports can be created using Aspose.Tasks:
 
 1. Project overview
-1. Resource cost overview
-1. Cost overview
-1. Work overview
-1. Critical tasks
-1. Milestones
-1. Late tasks
-1. Resource overview
-1. Cost overruns
-1. Upcoming task
-1. Task cost overview
-1. Over-allocated resources
-1. Slipping tasks
-1. Best practice analyzer
-1. Burn down
-1. Cash flow
+2. Resource cost overview
+3. Cost overview
+4. Work overview
+5. Critical tasks
+6. Milestones
+7. Late tasks
+8. Resource overview
+9. Cost overruns
+10. Upcoming task
+11. Task cost overview
+12. Over-allocated resources
+13. Slipping tasks
+14. Best practice analyzer
+15. Burn down
+16. Cash flow
 
 The sample code snippets below can be used to create these reports. All the sample MPP files used in these examples are present as attachments for testing the sample code.
 #### **Project Overview**

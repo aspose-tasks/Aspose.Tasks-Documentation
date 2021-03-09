@@ -20,7 +20,7 @@ The [Project](https://apireference.aspose.com/net/tasks/aspose.tasks/project) 
 To save a project to SVG:
 
 1. Load a Microsoft Project file.
-1. Save the project to SVG using SaveFileFormat.SVG.
+2. Save the project to SVG using SaveFileFormat.SVG.
 ### **Programming Sample**
 The following lines of code show how to achieve this using C#.
 

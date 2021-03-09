@@ -12,7 +12,7 @@ class is used to set or get the three-letter currency code for a project. This p
 To see a project's currency code in Microsoft Project:
 
 1. On the **Tools** menu, select **Options**.
-1. Select the **View** tab
+2. Select the **View** tab
 
 **Currency codes in Microsoft Project** 
 

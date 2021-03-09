@@ -21,10 +21,10 @@ The [Project]() exposes a number of properties for managing a project's defaul
 To see the default project information in Microsoft Project:
 
 1. Open a project.
-1. On the **Tools** menu, click **Options**.
-1. Go to the **General** tab.
+2. On the **Tools** menu, click **Options**.
+3. Go to the **General** tab.
    Here, you can see the settings for the default standard and overtime rates.
-1. Go to the **Schedule** tab.
+4. Go to the **Schedule** tab.
    Here, you can see the settings for the default task type and default task start time.
 
 **Default project information in Microsoft Project, as written by Aspose.Tasks** 

@@ -20,7 +20,7 @@ The [Tsk](http://www.aspose.com/api/net/tasks/aspose.tasks/tsk) class exposes 
 To see the physical percentage complete in Microsoft Project:
 
 1. On the Task Entry form, from the **Insert** menu, select **Column**.
-1. Add the column.
+2. Add the column.
 
 To see the completed percentage in Microsoft Project:
 

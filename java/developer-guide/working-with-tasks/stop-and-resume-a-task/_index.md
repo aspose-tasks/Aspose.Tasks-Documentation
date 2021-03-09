@@ -19,7 +19,7 @@ The STOP and RESUME properties exposed by the [Tsk](https://apireference.aspose.
 To see a task's stop and resume dates:
 
 1. In the Task Entry form, on the **Inset** menu, select **Column**.
-1. Add the Stop and Resume columns.
+2. Add the Stop and Resume columns.
 
 
 **The Stop and Resume columns in Microsoft Project** 

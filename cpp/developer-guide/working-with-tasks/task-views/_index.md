@@ -14,10 +14,10 @@ Aspose.Tasks API supports rendering project tasks to a variety of formats, such 
 The code snippet in this article reads a source MPP file that has a number of tasks with assigned resources and renders these to output PDF using the following steps:
 
 1. Create an instance of the Project class.
-1. Read the source MPP file.
-1. Initiate the SaveOptions object with required timescale settings.
-1. Set the presentation format to TaskUsage.
-1. Render the project to PDF output.
+2. Read the source MPP file.
+3. Initiate the SaveOptions object with required timescale settings.
+4. Set the presentation format to TaskUsage.
+5. Render the project to PDF output.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-RenderTaskUsageView-RenderTaskUsageView.cpp" >}}
 ## **Rendering Details Column to Output in Task Usage View**
@@ -36,9 +36,9 @@ The following code example illustrates the usage of this property.
 The code snippet in this article reads a source MPP file that has a number of tasks with assigned resources and renders these to output PDF using the following steps:
 
 1. Create an instance of the Project class.
-1. Read the source MPP file.
-1. Initiate the SaveOptions object with required timescale settings.
-1. Set the presentation format to TaskSheet.
-1. Render the project to PDF output.
+2. Read the source MPP file.
+3. Initiate the SaveOptions object with required timescale settings.
+4. Set the presentation format to TaskSheet.
+5. Render the project to PDF output.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-RenderTaskSheetView-RenderTaskSheetView.cpp" >}}

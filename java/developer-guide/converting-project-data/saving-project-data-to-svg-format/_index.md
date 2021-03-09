@@ -18,7 +18,7 @@ The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/projec
 To save a project to SVG:
 
 1. Load a Microsoft Project file.
-1. Save the project to SVG using SaveFileFormat.SVG.
+2. Save the project to SVG using SaveFileFormat.SVG.
 
 The following lines of code shows how to achieve this using Java
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c"  "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsSVG-saving-project-svg.java" >}}

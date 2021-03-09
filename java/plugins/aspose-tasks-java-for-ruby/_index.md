@@ -48,7 +48,7 @@ It is very simple and easy to install Aspose.Tasks Java for Ruby gem, please fol
 
 1. Download required Aspose.Tasks for Java Component from following link.
    <http://www.aspose.com/community/files/72/java-components/aspose.tasks-for-java/default.aspx>
-1. Create "jars" folder at root of the Aspose.Tasks Java for Ruby gem and copy downloaded component into it.
+2. Create "jars" folder at root of the Aspose.Tasks Java for Ruby gem and copy downloaded component into it.
 ### **Using**
 Include the required files to get project version.
 
@@ -67,8 +67,8 @@ initialize_aspose_tasks
 Let's understand the above code.
 
 1. The first line makes sure that the Aspose.Tasks is loaded and available.
-1. Include the files that are required to access the Aspose.Tasks.
-1. Initialize the libraries. The aspose JAVA classes are loaded from the path provided in the aspose.yml file
+2. Include the files that are required to access the Aspose.Tasks.
+3. Initialize the libraries. The aspose JAVA classes are loaded from the path provided in the aspose.yml file
 ## **Support, Extend and Contribute**
 ### **Support**
 From the very first days of Aspose, we knew that just giving our customers good products would not be enough. We also needed to deliver good service. We are developers ourselves and understand how frustrating it is when a technical issue or a quirk in the software stops you from doing what you need to do. We're here to solve problems, not create them.

@@ -19,8 +19,8 @@ The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) cl
 To declare a task as a parent or a child task in Microsoft Project:
 
 1. In the Task Entry form, select a task and click it.
-1. Select **Outdent** to turn a task into a parent, or,
-1. Select **Indent** to turn a task into a child.
+2. Select **Outdent** to turn a task into a parent, or,
+3. Select **Indent** to turn a task into a child.
 
 
 **Parent tasks and children in Microsoft Project** 

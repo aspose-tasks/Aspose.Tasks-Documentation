@@ -20,7 +20,7 @@ The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calen
 To see overtime cost, overtime rate and overtime work in Microsoft Project:
 
 1. On the Resource sheet, select the **Insert** menu and then select **Column**.
-1. Add the columns. 
+2. Add the columns. 
    **Overtime columns added to the Resource sheet in Microsoft Project** 
 
 ![todo:image_alt_text](overtimes-for-a-resource_1.png)

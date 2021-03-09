@@ -22,7 +22,7 @@ The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) cl
 To view task costs in Microsoft Project:
 
 1. On the Task Entry form, go to the **Insert** menu and select **Columns**.
-1. Add the cost columns.
+2. Add the cost columns.
 
 
 **Task cost in Microsoft Project** 

@@ -10,7 +10,7 @@ url: /java/reporting-services/
 Aspose.Tasks provides reporting services for creating reports from project files similar to Microsoft Project. The SaveReport function is used to create PDF files containing the report's images. This function takes two arguments:
 
 1. the PDF file name. and
-1. the ReportType enumerator.
+2. the ReportType enumerator.
 
 {{% /alert %}} 
 ## **Aspose.Tasks Reporting Services**
@@ -18,21 +18,21 @@ Aspose.Tasks provides reporting services for creating reports from project files
 The following types of reports can be created using Aspose.Tasks:
 
 1. [Project overview](/tasks/java/reporting-services/)
-1. [Resource cost overview](/tasks/java/reporting-services/)
-1. [Cost overview](/tasks/java/reporting-services/)
-1. [Work overview](/tasks/java/reporting-services/)
-1. [Critical tasks](/tasks/java/reporting-services/)
-1. [Milestones](/tasks/java/reporting-services/)
-1. [Late tasks](/tasks/java/reporting-services/)
-1. [Resource overview](/tasks/java/reporting-services/)
-1. [Cost overruns](/tasks/java/reporting-services/)
-1. [Upcoming task](/tasks/java/reporting-services/)
-1. [Task cost overview](/tasks/java/reporting-services/)
-1. [Over-allocated resources](/tasks/java/reporting-services/)
-1. [Slipping tasks](/tasks/java/reporting-services/)
-1. [Best practice analyzer](/tasks/java/reporting-services/)
-1. [Burn down](/tasks/java/reporting-services/)
-1. [Cash flow](/tasks/java/reporting-services/)
+2. [Resource cost overview](/tasks/java/reporting-services/)
+3. [Cost overview](/tasks/java/reporting-services/)
+4. [Work overview](/tasks/java/reporting-services/)
+5. [Critical tasks](/tasks/java/reporting-services/)
+6. [Milestones](/tasks/java/reporting-services/)
+7. [Late tasks](/tasks/java/reporting-services/)
+8. [Resource overview](/tasks/java/reporting-services/)
+9. [Cost overruns](/tasks/java/reporting-services/)
+10. [Upcoming task](/tasks/java/reporting-services/)
+11. [Task cost overview](/tasks/java/reporting-services/)
+12. [Over-allocated resources](/tasks/java/reporting-services/)
+13. [Slipping tasks](/tasks/java/reporting-services/)
+14. [Best practice analyzer](/tasks/java/reporting-services/)
+15. [Burn down](/tasks/java/reporting-services/)
+16. [Cash flow](/tasks/java/reporting-services/)
 
 The sample code snippets below can be used to create these reports. All the sample MPP files used in these examples are present as attachments for testing the sample code.
 #### **Project Overview**

@@ -14,8 +14,8 @@ In Microsoft Project, an extended task attribute is an element used to capture d
 Creating an Extended attribute requires the following steps:
 
 1. Create ExtendedAttributeDefinition for the Attribute with necessary parameters
-1. Create ExtendedAttribute from the definition in the previous step
-1. Add the created ExtendedAttribute to the task
+2. Create ExtendedAttribute from the definition in the previous step
+3. Add the created ExtendedAttribute to the task
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-AddTaskExtendedAttributes-AddTaskExtendedAttributes.java" >}}
 ## **Reading Extended Task Attributes**

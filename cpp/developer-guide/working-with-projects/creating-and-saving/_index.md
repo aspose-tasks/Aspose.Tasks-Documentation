@@ -20,8 +20,8 @@ At present, Aspose.Tasks provides the facility to create the **XML** project f
 The XML project file can be opened in Microsoft Project:
 
 1. On the **File** menu, select **Open**.
-1. Select the XML format (*.xml) option from the file types and browse to the output XML file.
-1. On the **Project** menu, select **Project Information**
+2. Select the XML format (*.xml) option from the file types and browse to the output XML file.
+3. On the **Project** menu, select **Project Information**
 ### **Create an Empty Project And Saving as XML File**
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-CreatingReadingAndSaving-CreateEmptyProjectSaveXML-CreateEmptyProjectSaveXML.cpp" >}}
 ### **Create an Empty Project and Save to Stream**

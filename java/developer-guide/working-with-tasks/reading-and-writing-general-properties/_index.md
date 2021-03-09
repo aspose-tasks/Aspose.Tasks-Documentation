@@ -22,8 +22,8 @@ The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) ex
 To view a task's general properties in Microsoft Project:
 
 1. Open a project.
-1. On the **View** menu, select **More Views** and then **Task Entry** to open the task entry form.
-1. From the **Insert** menu, select **Column** and add the **ID** and **Unique ID** as shown in the screenshot below.
+2. On the **View** menu, select **More Views** and then **Task Entry** to open the task entry form.
+3. From the **Insert** menu, select **Column** and add the **ID** and **Unique ID** as shown in the screenshot below.
 
 **Task general properties view in Microsoft Project** 
 

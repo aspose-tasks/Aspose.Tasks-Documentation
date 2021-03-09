@@ -16,7 +16,7 @@ The CurrencyDigits property exposed by the [Project ](https://apireference.a
 To view the currency digit for a project in Microsoft Project:
 
 1. From the **Tools** menu, select **Options**.
-1. Select the **View** tab.
+2. Select the **View** tab.
 
 **Currency digits in Microsoft Project** 
 

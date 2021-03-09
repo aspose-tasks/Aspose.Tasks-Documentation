@@ -30,7 +30,7 @@ The [Project](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.proj
 To read a password-protected project file:
 
 1. Load a Microsoft Project file.
-1. In the constructor, provide a password as the second argument to the constructor.
+2. In the constructor, provide a password as the second argument to the constructor.
 
 The following code example demonstrates how to read password-protected project file.
 

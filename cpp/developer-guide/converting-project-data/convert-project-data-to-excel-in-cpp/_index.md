@@ -16,7 +16,7 @@ The [Project ](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.pr
 To save a project to XLSX:
 
 1. Load a Microsoft Project file.
-1. Save the project to XLSX using SaveFileFormat.XLSX.
+2. Save the project to XLSX using SaveFileFormat.XLSX.
 ## **Saving a Project as XLSX**
 The following lines of code demonstrate how to achieve this using C++.
 

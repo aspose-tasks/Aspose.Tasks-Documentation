@@ -20,7 +20,7 @@ The [Resource]() class is used to manage costs related to a resource:
 To view resource costs in Microsoft Project:
 
 1. On the Resource sheet, from the **Insert** menu, select **Column**.
-1. Add the columns.
+2. Add the columns.
 ### **Getting Resource Costs in Aspose.Tasks**
 The following example shows how to get task costs using Aspose.Tasks.
 

@@ -16,7 +16,7 @@ The [Asn]() class exposes several properties for handling variance in an assignm
 To see resource assignment variances in Microsoft Project:
 
 1. On the Task Usage screen, select **Insert** and ten **Columns**.
-1. Add the desired columns.
+2. Add the desired columns.
 ### **Getting Assignment Variance in Aspose.Tasks**
 The following example shows how to get the resource work variance using Aspose.Tasks.
 

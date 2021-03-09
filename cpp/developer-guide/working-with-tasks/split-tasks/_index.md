@@ -16,8 +16,8 @@ The SplitParts property exposed by the [Task](http://www.aspose.com/api/net/t
 To split a task in Microsoft Project:
 
 1. Identify a long task and you want to divide.
-1. On the **Task** menu, select the **Schedule** group and click **Split Task**.
-1. Click at the position you want to split the task.
+2. On the **Task** menu, select the **Schedule** group and click **Split Task**.
+3. Click at the position you want to split the task.
 
 To see split tasks in Microsoft Project:
 
@@ -27,11 +27,11 @@ To see split tasks in Microsoft Project:
 To create and split a task, follow these steps:
 
 1. Create a new project.
-1. Create and assign a new calendar for the project.
-1. Create and add a new task in the project.
-1. Create and add a new resource assignment in the project.
-1. Use the SplitTask method exposed by the ResourceAssignment class to split the task.
-1. Write the new project to the disk.
+2. Create and assign a new calendar for the project.
+3. Create and add a new task in the project.
+4. Create and add a new resource assignment in the project.
+5. Use the SplitTask method exposed by the ResourceAssignment class to split the task.
+6. Write the new project to the disk.
 
 The following code shows how to accomplish these tasks:
 

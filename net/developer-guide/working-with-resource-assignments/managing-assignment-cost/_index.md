@@ -16,7 +16,7 @@ The [ResourceAssignment]() class exposes several properties used to manage assig
 To view assignment costs in Microsoft Project:
 
 1. On the Task Usage page, select the **Insert** menu and then **Column**.
-1. Add columns.
+2. Add columns.
 ### **Getting Assignment Costs with Aspose.Tasks**
 The following example shows getting task costs using Aspose.Tasks.
 

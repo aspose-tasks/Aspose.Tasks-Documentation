@@ -28,7 +28,7 @@ You need to install Aspose.Tasks for .NET and make sure that it is registered wi
 
 1. Aspose.Tasks for COM Interop can be registered by executing the following command:
    regasm "C:\Program Files\Aspose\Aspose.Tasks\bin\net20\Aspose.Tasks.DLL" /codebase
-1. Now, the COM type library can be exported in the same directory using the following command:
+2. Now, the COM type library can be exported in the same directory using the following command:
    Regasm “<dir>” /tlb:Aspose.Tasks.tlb
 
 regasm.exe is a tool included in .NET Framework SDK. All the .NET Framework SDK tools are located in the **\Microsoft .NET\Framevork\<FrameworkVersion>** directory. It will run a command prompt with all the necessary environment variables set.

@@ -11,7 +11,7 @@ The CurrencyCode property exposed by the [Project]() class is used to set or get
 To see a project's currency code in Microsoft Project:
 
 1. On the **Tools** menu, select **Options**.
-1. Select the **View** tab
+2. Select the **View** tab
 
 **Currency codes in Microsoft Project** 
 

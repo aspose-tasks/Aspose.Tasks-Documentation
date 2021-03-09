@@ -22,8 +22,8 @@ The static class Tsk contains all the properties related to a Task and can g
 To view a task's general properties in Microsoft Project:
 
 1. Open a project.
-1. On the **View** menu, select **More Views** and then **Task Entry** to open the task entry form.
-1. From the **Insert** menu, select **Column** and add the **ID** and **Unique ID**.
+2. On the **View** menu, select **More Views** and then **Task Entry** to open the task entry form.
+3. From the **Insert** menu, select **Column** and add the **ID** and **Unique ID**.
 
 
 ### **Setting General Properties**

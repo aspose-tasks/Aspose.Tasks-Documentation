@@ -19,9 +19,9 @@ The ConstraintDate and ConstraintType properties are exposed by the [Task](https
 To set constraints in Microsoft Project:
 
 1. On the **View** menu, select **More Views** and then **Task Entry Form**.
-1. Double click a task on the Task Entry Form.
-1. Select the Advance tab.
-1. Set a constraint by selecting an option from the **Constraint type** list and a date for the **Constraint date** list. 
+2. Double click a task on the Task Entry Form.
+3. Select the Advance tab.
+4. Set a constraint by selecting an option from the **Constraint type** list and a date for the **Constraint date** list. 
 
 **Setting constraints in Microsoft Project** 
 

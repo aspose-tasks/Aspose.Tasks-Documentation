@@ -23,7 +23,7 @@ Microsoft Project provides the facility to update and reschedule work through a 
 The example below demonstrates how to update a project through a specified date. The **UpdateProjectWorkAsComplete** method updates all the work as complete through a specified date for an entire project.
 
 1. If the Boolean input parameter is set to true, the method updates only those tasks to 100% complete that have finish dates before the specified completed-through date.
-1. If the Boolean input parameter is set to false, the method calculates a percentage complete value based on the scheduled state and complete-through dates.
-1. If a list of task is specified, the method updates all work as complete through the specified date for the list of tasks.
+2. If the Boolean input parameter is set to false, the method calculates a percentage complete value based on the scheduled state and complete-through dates.
+3. If a list of task is specified, the method updates all work as complete through the specified date for the list of tasks.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Rescheduling-UpdateProjectAndRescheduleUncompletedWork-UpdateProjectAndRescheduleUncompletedWork.cs" >}}

@@ -16,7 +16,7 @@ The [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.t
 To see resource assignment variances in Microsoft Project:
 
 1. On the Task Usage screen, select **Insert** and ten **Columns**.
-1. Add the desired columns.
+2. Add the desired columns.
 
 
 **Variance columns added in Microsoft Project** 

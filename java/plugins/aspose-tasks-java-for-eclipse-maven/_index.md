@@ -55,7 +55,7 @@ You will need to first install Eclipse IDE before downloading the Aspose.Tasks J
 To download Eclipse IDE
 
 1. Goto [https://eclipse.org](https://eclipse.org/).
-1. Download and install the recommended Eclipse IDE for Java SE / EE developers.
+2. Download and install the recommended Eclipse IDE for Java SE / EE developers.
 ### **Download Aspose.Tasks Java (Maven) for Eclipse**
 Following are three recommended methods for the successful downloading and installation of Aspose.Tasks Java (Maven) for Eclipse plugin:
 
@@ -97,8 +97,8 @@ Aspose.Tasks Java (Maven) for Eclipse is open source and its source code is avai
 Below simple steps will smoothly lead to successful configuration of **Aspose.Tasks Java (Maven) for Eclipse** plugin source code in Eclipse IDE
 
 1. Download / Clone the source code.
-1. Choose **File** > **Import > General > Existing Projects into Workspace**
-1. Browse to the latest project source that you have downloaded
-1. Select the Eclipse Project you want to import
-1. Click **Finish**
-1. Aspose.Tasks Java for Eclipse plugin code is now ready to enhance.
+2. Choose **File** > **Import > General > Existing Projects into Workspace**
+3. Browse to the latest project source that you have downloaded
+4. Select the Eclipse Project you want to import
+5. Click **Finish**
+6. Aspose.Tasks Java for Eclipse plugin code is now ready to enhance.

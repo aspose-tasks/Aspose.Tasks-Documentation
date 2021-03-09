@@ -61,10 +61,10 @@ The Prj class exposes a number of properties for managing a project's default pr
 To see the default project information in Microsoft Project:
 
 1. Open a project.
-1. On the **Tools** menu, click **Options**.
-1. Go to the **General** tab.
+2. On the **Tools** menu, click **Options**.
+3. Go to the **General** tab.
    Here, you can see the settings for the default standard and overtime rates.
-1. Go to the **Schedule** tab.
+4. Go to the **Schedule** tab.
    Here, you can see the settings for the default task type and default task start time.
 
 **Default project information in Microsoft Project, as written by Aspose.Tasks** 
@@ -88,14 +88,14 @@ Most programs save summary information with the files they save. Microsoft Proje
 The [Prj](https://apireference.aspose.com/tasks//java/com.aspose.tasks/prj) class exposes a number of properties to set or get summary information about an MPP project file. Aspose.Tasks for Java can update the project summary information and then write the project file back to MPP. To update the project summary information of an existing MPP file:
 
 1. Create an instance of the Project class to read the input MPP file
-1. Set the various properties exposed by the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) object to define summary information.
-1. Save the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) using the Save method of [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class
+2. Set the various properties exposed by the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) object to define summary information.
+3. Save the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) using the Save method of [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class
 
 To see the a file's summary information:
 
-1. Find the file in a file browser.
-1. Right-click the file and select **Properties**.
-1. Go to the **Details** tab.
+4. Find the file in a file browser.
+5. Right-click the file and select **Properties**.
+6. Go to the **Details** tab.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-WriteMPPProjectSummary-writing-mpp-project-summary.java" >}}
 
@@ -133,8 +133,8 @@ The following code reads a project's weekday properties and writes them to a con
 To see weekday properties in Microsoft Project:
 
 1. Open a file.
-1. On the **Tools** menu, click **Options**.
-1. Select the **Calendar** tab. It will look something like the example below.
+2. On the **Tools** menu, click **Options**.
+3. Select the **Calendar** tab. It will look something like the example below.
 
 **Viewing weekday properties in Microsoft Project** 
 
@@ -165,8 +165,8 @@ The above sample code will create the project file.
 To see the currency properties in Microsoft Project:
 
 1. Open the project file.
-1. On the **Tools** menu, select **Options**.
-1. Click the **View** tab. It will look like the one shown below.
+2. On the **Tools** menu, select **Options**.
+3. Click the **View** tab. It will look like the one shown below.
 
 **Reading currency properties in Microsoft Project** 
 
@@ -184,8 +184,8 @@ The static class [Prj](http://www.aspose.com/api/java/tasks/com.aspose.tasks/cla
 To see the task attribute:
 
 1. Open the file with Microsoft Project.
-1. On the **Tools** menu, select **Options**.
-1. Select the **Schedule** tab.
+2. On the **Tools** menu, select **Options**.
+3. Select the **Schedule** tab.
    The tab looks like the one shown below.
 
 **New tasks set to start on the current date** 

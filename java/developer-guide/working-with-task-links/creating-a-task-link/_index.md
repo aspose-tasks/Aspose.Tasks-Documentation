@@ -9,8 +9,8 @@ url: /java/creating-a-task-link/
 A task link is created using the default constructor of [TaskLink](https://apireference.aspose.com/tasks/java/com.aspose.tasks/TaskLink) class which accepts three parameters:
 
 1. The first parameter defines the predecessor Task,
-1. the second parameter defines the successor Task and, finally,
-1. the third parameter defines the task link type from values specified by the TaskLinkType enumeration type.
+2. the second parameter defines the successor Task and, finally,
+3. the third parameter defines the task link type from values specified by the TaskLinkType enumeration type.
 
 The following example creates a link between two tasks with Task1 as predecessor.
 

@@ -20,8 +20,8 @@ At present, Aspose.Tasks provides the facility to create XML project files only.
 The XML project file can be opened in Microsoft Project:
 
 1. ON the **File** menu, select **Open**.
-1. Select the XML format (*.xml) option from the file types and browse to the output XML file.
-1. On the **Project** menu, select **Project Information**.
+2. Select the XML format (*.xml) option from the file types and browse to the output XML file.
+3. On the **Project** menu, select **Project Information**.
 
 **The project information for the output XML file** 
 
@@ -67,7 +67,7 @@ The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/projec
 To read a password-protected project file:
 
 1. Load a Microsoft Project file.
-1. In the constructor, provide a password as the second argument to the constructor.
+2. In the constructor, provide a password as the second argument to the constructor.
 
 The following lines of code show how to achieve this using Java.
 

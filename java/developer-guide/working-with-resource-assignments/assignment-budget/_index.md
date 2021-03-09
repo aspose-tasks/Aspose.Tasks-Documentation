@@ -14,7 +14,7 @@ The [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.t
 To see assignment budgets in Microsoft Project:
 
 1. On the Task Usage page, select the Insert menu and then Column.
-1. Add columns.
+2. Add columns.
 
 **Budget columns added in Microsoft Project** 
 

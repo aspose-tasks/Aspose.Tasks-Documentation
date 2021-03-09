@@ -9,9 +9,9 @@ url: /net/reading-the-critical-path-in-vsto-and-aspose-tasks/
 Following steps are required to accomplish this task:
 
 1. Create a new project in Visual Studio.
-1. In the Solution Explorer, right-click and select Add Reference, then select the COM components tab.
-1. Select the Microsoft Project 12.0 Object Library and then click OK.
-1. This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.Use the code from the following example to read critical tasks. 
+2. In the Solution Explorer, right-click and select Add Reference, then select the COM components tab.
+3. Select the Microsoft Project 12.0 Object Library and then click OK.
+4. This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.Use the code from the following example to read critical tasks. 
 
 {{< highlight csharp >}}
 
@@ -72,10 +72,10 @@ projectApplication.FileCloseAll(PjSaveType.pjDoNotSave);
 The following steps are required to accomplish this task:
 
 1. Create a new project in Visual Studio.
-1. In the Solution Explorer, right-click and select Add Reference, then select the .NET tab.
-1. Select Aspose.Tasks and click OK.
-1. This imports the Aspose.Tasks namespace at the start of the code.
-1. Use the code from the following example to read tasks and resources. 
+2. In the Solution Explorer, right-click and select Add Reference, then select the .NET tab.
+3. Select Aspose.Tasks and click OK.
+4. This imports the Aspose.Tasks namespace at the start of the code.
+5. Use the code from the following example to read tasks and resources. 
 
 {{< highlight csharp >}}
 

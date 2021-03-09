@@ -20,7 +20,7 @@ The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/projec
 To save a project to PDF:
 
 1. Load a Microsoft Project file.
-1. Save the project to PDF using SaveFileFormat.PDF.
+2. Save the project to PDF using SaveFileFormat.PDF.
 
 The following lines of code show how to achieve this.
 

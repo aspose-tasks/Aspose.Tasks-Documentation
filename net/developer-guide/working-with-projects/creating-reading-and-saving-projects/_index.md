@@ -20,8 +20,8 @@ At present, Aspose.Tasks provides the facility to create **XML** project files o
 The XML project file can be opened in Microsoft Project:
 
 1. ON the **File** menu, select **Open**.
-1. Select the XML format (*.xml) option from the file types and browse to the output XML file.
-1. On the **Project** menu, select **Project Information**
+2. Select the XML format (*.xml) option from the file types and browse to the output XML file.
+3. On the **Project** menu, select **Project Information**
 ### **Create an Empty Project And Saving as XML File**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-CreatingReadingAndSaving-CreateEmptyProjectSaveXML-CreateEmptyProjectSaveXML.cs" >}}
 ### **Create an Empty Project and Save to Stream**
@@ -49,7 +49,7 @@ The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) cl
 To read a password-protected project file:
 
 1. Load a Microsoft Project file.
-1. In the constructor, provide a password as the second argument to the constructor.
+2. In the constructor, provide a password as the second argument to the constructor.
 
 The following lines of code demonstrate how to achieve this using C#.
 

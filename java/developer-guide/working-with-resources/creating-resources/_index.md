@@ -14,8 +14,8 @@ The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resou
 The simplest way of creating and adding a resource is to call the Project class' addResource method. Variants of this method let you:
 
 1. Add a resource with the default constructor
-1. Add a named resource
-1. Add a resource before some resource
+2. Add a named resource
+3. Add a resource before some resource
 
 The following code samples show adding resources to a project using each of these methods.
 

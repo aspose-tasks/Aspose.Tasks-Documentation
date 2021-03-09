@@ -20,7 +20,7 @@ The [Resource]() class exposes a number of properties for managing resource over
 To see overtime cost, overtime rate and overtime work in Microsoft Project:
 
 1. On the Resource sheet, select the **Insert** menu, and then select **Column**.
-1. Add the columns.
+2. Add the columns.
 ### **Getting Resource Overtimes in Aspose.Tasks**
 The following example shows how to get resource overtimes using Aspose.Tasks.
 

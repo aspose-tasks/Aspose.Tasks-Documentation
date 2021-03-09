@@ -20,7 +20,7 @@ The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resou
 To view resource costs in Microsoft Project:
 
 1. On the Resource sheet, from the **Insert** menu, select **Column**.
-1. Add the columns.
+2. Add the columns.
 
 
 **Cost columns added to the Resource sheet in Microsoft Project** 

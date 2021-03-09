@@ -11,6 +11,8 @@ Aspose.Tasks for C++ is a native C++ library. The distribution package contains 
 - Microsoft Windows Server 2003 (x64, x86)
 - Microsoft Windows Server 2008 (x64, x86)
 - Microsoft Windows Server 2012 (x64, x86)
+- Microsoft Windows Server 2016 (x64, x86)
+- Microsoft Windows Server 2019 (x64, x86)
 - Microsoft Windows 2000 (x64, x86)
 - Microsoft Windows Vista (x64, x86)
 - Microsoft Windows XP (x64, x86)

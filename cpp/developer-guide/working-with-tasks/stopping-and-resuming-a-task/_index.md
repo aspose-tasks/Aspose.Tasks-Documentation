@@ -19,7 +19,7 @@ The Stop and Resume properties exposed by the [Tsk](http://www.aspose.com/a
 To see a task's stop and resume dates:
 
 1. In the Task Entry form, on the **Insert** menu, select **Column**.
-1. Add the Stop and Resume columns.
+2. Add the Stop and Resume columns.
 ### **Getting Stop and Resume Dates**
 The stop and resume dates are NA if the task has never stopped. For date values equal to NA, Aspose.Tasks API takes the value "1/1/2000" if you're using the evaluation version. When fully licensed, Aspose.Tasks API uses DateTime.MinValue for NA values. The following code example demonstrates the stop and resume dates for all the tasks in a project.
 

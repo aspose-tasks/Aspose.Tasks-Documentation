@@ -16,7 +16,7 @@ The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) cl
 To print a project:
 
 1. Load a Microsoft Project file.
-1. Call the print function along with the specified arguments.
+2. Call the print function along with the specified arguments.
 ### **Print to the Default Printer**
 The following lines of code shows how to achieve this using C#.
 

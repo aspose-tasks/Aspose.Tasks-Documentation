@@ -16,7 +16,7 @@ The Project class exposes the GetPageCount method which is used to get the n
 To save a project to PDF:
 
 1. Load a Microsoft Project file.
-1. Get the project's total page count using the GetPageCount method with optional timescale settings.
+2. Get the project's total page count using the GetPageCount method with optional timescale settings.
 ### **Programming Sample: Get Number of Pages in Project**
 The following lines of code demonstrate how to get a number of pages in the project.
 

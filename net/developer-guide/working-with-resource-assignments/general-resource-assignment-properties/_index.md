@@ -20,8 +20,8 @@ The [ResourceAssignment]() class exposes a number of properties used to set and 
 To see an assignment's general properties in Microsoft Project:
 
 1. From the **View** menu, select **Task Usage**.
-1. From the **Insert** menu, select **Column**.
-1. Add the Start. Finish and Unique ID columns.
+2. From the **Insert** menu, select **Column**.
+3. Add the Start. Finish and Unique ID columns.
 ### **Setting General Resource Assignment Properties using Aspose.Tasks**
 The following example shows how to set these properties from scratch.
 

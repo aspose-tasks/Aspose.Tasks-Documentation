@@ -14,9 +14,9 @@ Aspose.Tasks provides the facility to add new outline code attributes to an exis
 The following code sample defines new outline codes and sets their various fields. The outline codes and values are then added to the project outline codes and the updated data is saved back to MPP file. The steps involved in this activity are:
 
 1. Create an instance of Project Reader.
-1. Read the source MPP file.
-1. Define new OutlineValue objects and set the parameters.
-1. Add the outline codes to the project's codes.
-1. Save the updated project data back to the MPP file.
+2. Read the source MPP file.
+3. Define new OutlineValue objects and set the parameters.
+4. Add the outline codes to the project's codes.
+5. Save the updated project data back to the MPP file.
 ### **Programming Sample**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-UpdateOutlineCodes-UpdateOutlineCodes.cs" >}}
