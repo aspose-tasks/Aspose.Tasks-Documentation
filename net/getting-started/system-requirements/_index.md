@@ -10,15 +10,17 @@ Aspose.Tasks for .NET can be used to build any type of 32-bit or 64-bit .NET app
 ## **Supported Operating Systems**
 Aspose.Tasks for .NET supports any 32-bit or 64-bit operating system where .NET or Mono framework is installed including, but not limited to:
 ### **Windows**
-- Microsoft Windows 2003 Server ( x64, x86)
-- Microsoft Windows 2008 Server ( x64, x86)
-- Microsoft Windows 2012 Server ( x64, x86)
-- Microsoft Windows 2000 ( x64, x86)
-- Microsoft Windows Vista ( x64, x86)
-- Microsoft Windows XP ( x64, x86)
-- Microsoft Windows 7 ( x64, x86)
-- Microsoft Windows 8, 8.1 ( x64, x86)
-- Microsoft Windows 10 ( x64, x86)
+- Microsoft Windows Server 2003 (x64, x86)
+- Microsoft Windows Server 2008 (x64, x86)
+- Microsoft Windows Server 2012 (x64, x86)
+- Microsoft Windows Server 2016 (x64, x86)
+- Microsoft Windows Server 2019 (x64, x86)
+- Microsoft Windows 2000 (x64, x86)
+- Microsoft Windows Vista (x64, x86)
+- Microsoft Windows XP (x64, x86)
+- Microsoft Windows 7 (x64, x86)
+- Microsoft Windows 8, 8.1 (x64, x86)
+- Microsoft Windows 10 (x64, x86)
 ### **Linux**
 - Linux (Ubuntu, OpenSUSE, CentOS and others)
 ### **Mac**
@@ -29,21 +31,28 @@ Aspose.Tasks for .NET supports .NET and Mono frameworks as follows:
 - .NET Framework 2.0
 - .NET Framework 3.5
 - .NET Framework 4.0
-- .NET Framework 4.0_ClientProfile
-- .NET Framework 4.5.0
+- .NET Framework 4.0 Client Profile
+- .NET Framework 4.5
 - .NET Framework 4.5.1
 - .NET Framework 4.5.2
-- .NET Framework 4.6.0
+- .NET Framework 4.6
 - .NET Framework 4.6.2
-- .NET Framework 4.5.0
+- .NET Framework 4.5
 - .NET Framework 4.5.1
-- .NET Framework 4.6.0
+- .NET Framework 4.5.2
+- .NET Framework 4.6
+- .NET Framework 4.6.1
 - .NET Framework 4.6.2
 - .NET Framework 4.7
+- .NET Framework 4.7.1
 - .NET Framework 4.7.2
+- .NET Framework 4.8
 - .NET Standard 2.0 
 - .NET Core 2.0
 - .NET Core 2.1
+- .NET Core 2.2
+- .NET Core 3.1
+- .NET 5
 ### **Mono Framework**
 - Mono 2.6.7 or later
 ## **Development Environments**

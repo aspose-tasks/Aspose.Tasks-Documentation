@@ -53,6 +53,7 @@ Aspose.Tasks for .NET supports:
 - Visual Studio 2012
 - Visual Studio 2015
 - Visual Studio 2017
+- Visual Studio 2019
 ### **Performance and Scalability**
 Aspose.Tasks for .NET is designed to perform equally well server- or client-side. Aspose.Tasks for .NET is a single .NET assembly that can be deployed with any .NET application by simply copying it. You do not have to worry about other services or modules. You can literally generate thousands of documents in minutes with Aspose.Tasks and that involves opening a document, modifying content and formatting or populating it with data and saving it. 
 

@@ -48,9 +48,9 @@ One or more of the following editions of Visual Studio Tools for Office:
 - Microsoft Office Professional 2003 SP1
 - 2007 Microsoft Office system
 ### **Supported Operating Systems**
-Windows 2000; Windows Server 2003; Windows Vista; Windows XP
+Microsoft Windows 2000; Microsoft Windows Server 2003; Microsoft Windows Vista; Microsoft Windows XP; Microsoft Windows 7; Microsoft Windows 8/8.1, Microsoft Windows 10.
 ### **.NET Framework versions supported**
-only .NET framework 2.0 or greater.
+.NET framework 2.0 or greater.
 ## **Downloading**
 You can download the latest code at:
 
