@@ -17,9 +17,6 @@ Following releases of running examples are available to download on below mentio
 ### **GitHub**
 - **Aspose.Tasks Java for PHP Examples**
   - [Aspose.Tasks Java for PHP](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Plugins/Aspose_Tasks_Java_for_PHP)
-### **CodePlex**
-- **Aspose.Tasks Java for PHP Examples**
-  - [Aspose.Tasks Java for PHP](https://asposetasksjavaphp.codeplex.com/)
 ## **How to configure the source code on Linux Platform**
 Please follow these simple steps in order to open and extend the source code while using:
 ## **1. Install Tomcat Server**

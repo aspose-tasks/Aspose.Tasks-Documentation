@@ -31,4 +31,3 @@ print "Project is not ok" . PHP_EOL;
 Download **Verifying Project Structure (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithProjects/VerifyProjectStructure.php)
-- [CodePlex](https://asposetasksjavaphp.codeplex.com/SourceControl/latest#src/aspose/tasks/WorkingWithProjects/VerifyProjectStructure.php)

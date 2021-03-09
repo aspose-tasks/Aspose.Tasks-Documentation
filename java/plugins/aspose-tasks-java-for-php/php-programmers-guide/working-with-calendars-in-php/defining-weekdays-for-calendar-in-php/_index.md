@@ -98,4 +98,3 @@ print "Defined weekdays for calendar, please check the output file.".PHP_EOL;
 Download **Defining Weekdays for Calendar (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithCalendars/DefineWeekdaysForCalendar.php)
-- [CodePlex](https://asposetasksjavaphp.codeplex.com/SourceControl/latest#src/aspose/tasks/WorkingWithCalendars/DefineWeekdaysForCalendar.php)

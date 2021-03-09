@@ -36,4 +36,3 @@ print "Set extended resource attributes.".PHP_EOL;
 Download **Extended Resource Attributes (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithResources/ExtendedResourceAttributes.php)
-- [CodePlex](https://asposetasksjavaphp.codeplex.com/SourceControl/latest#src/aspose/tasks/WorkingWithResources/ExtendedResourceAttributes.php)

@@ -81,12 +81,10 @@ Please check [the video](https://youtu.be/yG8cZ_Fis-I) below to see Aspose.Tasks
 
 **Please use any of the following project's issues tracker:**
 
-- [CodePlex](https://asposetasksjavaintellij.codeplex.com/workitem/list/basic)
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/issues)
 ### **Extend and Contribute**
 **Aspose.Tasks Java for IntelliJ IDEA (Maven)** plugin is open source and its source code is available on the major social coding websites listed below. Developers are encouraged to download the source code and contribute by suggesting or adding new feature or improving the existing ones, so that others could also benefit from it.
 ### **Source Code**
 You can get the latest source code from one of the following locations
 
-- [CodePlex](https://asposetasksjavaintellij.codeplex.com)
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Plugins/Aspose.Tasks-for-Java_for_IntelliJ%28Maven%29)

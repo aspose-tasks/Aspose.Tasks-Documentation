@@ -43,4 +43,3 @@ print "Saved project as pdf, please check the output file.".PHP_EOL;
 Download **Saving a Project as PDF (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithProjects/SaveProjectAsPdf.php)
-- [CodePlex](https://asposetasksjavaphp.codeplex.com/SourceControl/latest#src/aspose/tasks/WorkingWithProjects/SaveProjectAsPdf.php)

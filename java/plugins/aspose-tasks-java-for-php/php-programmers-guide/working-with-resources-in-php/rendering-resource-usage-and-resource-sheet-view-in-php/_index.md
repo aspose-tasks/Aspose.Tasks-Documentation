@@ -91,4 +91,3 @@ print "Created resource sheet view file.".PHP_EOL;
 Download **Rendering Resource Usage and Resource Sheet View (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithResources/RenderResourceUsageAndSheetView.php)
-- [CodePlex](https://asposetasksjavaphp.codeplex.com/SourceControl/latest#src/aspose/tasks/WorkingWithResources/RenderResourceUsageAndSheetView.php)
