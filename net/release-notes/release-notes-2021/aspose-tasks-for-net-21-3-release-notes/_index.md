@@ -39,15 +39,15 @@ TASKSNET-4702: Add a feature to set the document name while printing:
 New overload for Project.Print method was added so that a project can be printed using the specified document name, PrinterSettings and PrintOptions:
 
 {{< highlight csharp >}}
-            Project project = new Project("test.mpp");
-            PrintOptions options = new PrintOptions();
+Project project = new Project("test.mpp");
+PrintOptions options = new PrintOptions();
 
-            PrinterSettings printerSettings = new PrinterSettings
-            {
-                FromPage = 1,
-                ToPage = 1,
-                PrintRange = PrintRange.SomePages
-            };
+PrinterSettings printerSettings = new PrinterSettings
+{
+            FromPage = 1,
+            ToPage = 1,
+            PrintRange = PrintRange.SomePages
+};
 
-            project.Print(printerSettings, options, "Print Document Name");
+project.Print(printerSettings, options, "Print Document Name");
 {{< /highlight >}}

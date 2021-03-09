@@ -124,21 +124,21 @@ Added PageSize.DefinedInView enum value so the user can specify that the project
 These settings can be changed using "Page Setup" dialog of Microsoft Project.
 
 {{< highlight csharp >}}
-            Project project = new Project("test.mpp");
+Project project = new Project("test.mpp");
 
-            var view = project.Views.First(v => v.Screen == ViewScreen.Gantt);
-            Console.WriteLine("Page size specified in view settings: " + view.PageInfo.PageSettings.PaperSize);
-            Console.WriteLine("Page orientation: {0}", view.PageInfo.PageSettings.IsPortrait ? "Portrait" : "Landscape");
+var view = project.Views.First(v => v.Screen == ViewScreen.Gantt);
+Console.WriteLine("Page size specified in view settings: " + view.PageInfo.PageSettings.PaperSize);
+Console.WriteLine("Page orientation: {0}", view.PageInfo.PageSettings.IsPortrait ? "Portrait" : "Landscape");
 
-            ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
-            {
-                SaveToSeparateFiles = true,
-                PageSize = PageSize.DefinedInView,
-                Timescale = Timescale.DefinedInView,
-                StartDate = new DateTime(2012, 12, 22),
-                EndDate = new DateTime(2013, 05, 10),
-                PresentationFormat = PresentationFormat.GanttChart,
-            };
+ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
+{
+            SaveToSeparateFiles = true,
+            PageSize = PageSize.DefinedInView,
+            Timescale = Timescale.DefinedInView,
+            StartDate = new DateTime(2012, 12, 22),
+            EndDate = new DateTime(2013, 05, 10),
+            PresentationFormat = PresentationFormat.GanttChart,
+};
 
-            project.Save("output.png", saveOptions);
+project.Save("output.png", saveOptions);
 {{< /highlight >}}

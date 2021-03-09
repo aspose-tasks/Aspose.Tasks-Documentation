@@ -39,12 +39,12 @@ This page contains release notes information for [Aspose.Tasks for .Net 21.1](ht
 
 TASKSNET-4597: Field 'TaskSummaryName' can be used in view's columns:
 {{< highlight csharp >}}
-            var field = new TableField
-            {
-                Field = Field.TaskSummaryName,
-                Title = "Task Summary Name",
-                Width = 30
-            };
+var field = new TableField
+{
+            Field = Field.TaskSummaryName,
+            Title = "Task Summary Name",
+            Width = 30
+};
 
-            project.Views.ToList()[0].Table.TableFields.Add(field);
+project.Views.ToList()[0].Table.TableFields.Add(field);
 {{< /highlight >}}
