@@ -72,10 +72,10 @@ url: /java/resource-data/
 |62. |ExtendedAttribute |R/W |R/W |R/W |R/W |R/W| |
 |63. |Baseline |R/W |R/W |R/W |R/W |R/W| |
 |64. |OutlineCode |R/W |R/W |R/W |R/W |R/W| |
-|65. |IsCostResource |R/W |N/A |R/W |R/W |R/W|New for MSP 2007 field |
-|66. |AssnOwner |R/W |N/A |– |– |- |New for MSP 2007 field |
-|67. |AssnOwnerGuid |R/W |N/A |– |– |- |New for MSP 2007 field |
-|68. |IsBudget |R/W |N/A |R/W |R/W |R/W|New for MSP 2007 field |
+|65. |IsCostResource |R/W |N/A |R/W |R/W |R/W| |
+|66. |AssnOwner |R/W |N/A |– |– |- | |
+|67. |AssnOwnerGuid |R/W |N/A |– |– |- | |
+|68. |IsBudget |R/W |N/A |R/W |R/W |R/W| |
 |69. |AvailabilityPeriods |R/W |R/W |R/W |R/W |R/W| |
 |70. |Rates |R/W |R/W |R/W |R/W |R/W| |
 |71. |c408000 – c417fff |– |– |– |– |- | |

@@ -13,7 +13,7 @@ url: /java/calendar-data/
 |3. |IsBaseCalendar |R/W |R/W |R/W |R/W |R/W| |
 |4. |BaseCalendarUID |R/W |R/W |R/W |R/W |R/W|(BaseCalendar property) |
 |5. |WeekDays |R/W |R/W |R/W |R/W |R/W| |
-|6. |Exceptions |R/W |NA |R/W |R/W |R/W|New for MSP 2007 field |
-|7. |WorkWeeks |– |N/A |– |– |- |New for MSP 2007 field |
-|8. |IsBaselineCalendar |R/W |N/A |N/A |– |- |New for MSP 2010 field |
+|6. |Exceptions |R/W |NA |R/W |R/W |R/W| |
+|7. |WorkWeeks |– |N/A |– |– |- | |
+|8. |IsBaselineCalendar |R/W |N/A |N/A |– |- | |
 

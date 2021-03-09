@@ -87,7 +87,7 @@ url: /net/project-data/
 |77. |NewTasksAreManual |R/W |N/A |N/A |R/W |R/W |
 |78. |UpdateManuallyScheduledTasksWhenEditingLinks |R/W |N/A |N/A |R/W|R/W |
 |79. |KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled |R/W |N/A |N/A |R/W |R/W |
-|80.|TimeScaleStart|NA|R|R|R|R|
-|81.|TimeScaleFinish|NA|R|R|R|R|
-|82.|ShowProjectSummaryTask|NA|R|R|R|R|
+|80. |TimeScaleStart|NA|R |R |R |R |
+|81. |TimeScaleFinish|NA|R |R |R |R |
+|82. |ShowProjectSummaryTask|NA|R |R |R |R |
 

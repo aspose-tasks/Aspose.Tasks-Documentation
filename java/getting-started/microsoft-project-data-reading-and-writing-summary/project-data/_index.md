@@ -83,8 +83,8 @@ url: /java/project-data/
 |73. |Custom project properties |NA |R |R |R |R | |
 |74. |Comments |N/A |R/W |R/W |R/W |R/W| |
 |75. |Keywords |N/A |R/W |R/W |R/W |R/W| |
-|76. |BaslineCalendar |– |N/A |N/A |– |- |New for MSP 2010 field |
-|77. |NewTasksAreManual |R/W |N/A |N/A |– |- |New for MSP 2010 field |
-|78. |UpdateManuallyScheduledTasksWhenEditingLinks |R/W |N/A |N/A |– |- |New for MSP 2010 field |
-|79. |KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled |R/W |N/A |N/A |– |- |New for MSP 2010 field |
+|76. |BaslineCalendar |– |N/A |N/A |– |- | |
+|77. |NewTasksAreManual |R/W |N/A |N/A |– |- | |
+|78. |UpdateManuallyScheduledTasksWhenEditingLinks |R/W |N/A |N/A |– |- | |
+|79. |KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled |R/W |N/A |N/A |– |- | |
 

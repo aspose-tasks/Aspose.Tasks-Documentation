@@ -97,25 +97,25 @@ url: /net/task-data/
 |87. |ActualWorkProtected |R/W |– |R/W |R/W |R/W | |
 |88. |ActualOvertimeWorkProtected |R/W |– |R/W |R/W |R/W | |
 |89. |Baseline |R/W |R/W |R/W |R/W |R/W | |
-|90. |IsPublished |R/W |N/A |– |– |- |New for MSP 2007 field |
-|91. |StatusManager |R/W |N/A |– |– |- |New for MSP 2007 field |
-|92. |CommitmentStart |R/W |N/A |– |– |- |New for MSP 2007 field |
-|93. |CommitmentFinish |R/W |N/A |– |– |- |New for MSP 2007 field |
-|94. |CommitmentType |R/W |N/A |– |– |- |New for MSP 2007 field |
-|95. |b408000 – b417fff |– |N/A |– |– |- |New for MSP 2007 field |
-|96. |b608000 – b617fff |– |N/A |– |– |- |New for MSP 2007 field |
+|90. |IsPublished |R/W |N/A |– |– |- | |
+|91. |StatusManager |R/W |N/A |– |– |- | |
+|92. |CommitmentStart |R/W |N/A |– |– |- | |
+|93. |CommitmentFinish |R/W |N/A |– |– |- | |
+|94. |CommitmentType |R/W |N/A |– |– |- | |
+|95. |b408000 – b417fff |– |N/A |– |– |- | |
+|96. |b608000 – b617fff |– |N/A |– |– |- | |
 |97. |ExtendedAttribute |R/W |R/W |R/W |R/W |R/W | |
 |98. |OutlineCode |R/W |R/W |R/W |R/W |R/W | |
 |99. |TimephasedData |R/W |R/W |R/W |R/W |R/W | |
 |100. |Project |R/W |R |R |R |R | |
-|101. |DisplayAsSummary |R/W |N/A |N/A |R/W |R/W |New for MSP 2010 field |
-|102. |StartSlack |R/W |R/W |R/W |R/W |R/W |New for MSP 2010 field |
-|103. |FinishSlack |R/W |R/W |R/W |R/W |R/W |New for MSP 2010 field |
-|104. |Active |R/W |N/A |N/A |R/W |R/W |New for MSP 2010 field |
-|105. |Manual |R/W |N/A |N/A |R/W |R/W |New for MSP 2010 field |
-|106. |ManualStart |R/W |N/A |N/A |R/W |R/W |New for MSP 2010 field |
-|107. |ManualFinish |R/W |N/A |N/A |R/W |R/W |New for MSP 2010 field |
-|108. |ManualDuration |R/W |N/A |N/A |R/W |R/W |New for MSP 2010 field |
-|109. |StartText |R/W |N/A |N/A |R/W |R/W |New for MSP 2010 field |
-|110. |FinishText |R/W |N/A |N/A |R/W |R/W |New for MSP 2010 field |
+|101. |DisplayAsSummary |R/W |N/A |N/A |R/W |R/W | |
+|102. |StartSlack |R/W |R/W |R/W |R/W |R/W | |
+|103. |FinishSlack |R/W |R/W |R/W |R/W |R/W | |
+|104. |Active |R/W |N/A |N/A |R/W |R/W | |
+|105. |Manual |R/W |N/A |N/A |R/W |R/W | |
+|106. |ManualStart |R/W |N/A |N/A |R/W |R/W | |
+|107. |ManualFinish |R/W |N/A |N/A |R/W |R/W | |
+|108. |ManualDuration |R/W |N/A |N/A |R/W |R/W | |
+|109. |StartText |R/W |N/A |N/A |R/W |R/W | |
+|110. |FinishText |R/W |N/A |N/A |R/W |R/W | |
 

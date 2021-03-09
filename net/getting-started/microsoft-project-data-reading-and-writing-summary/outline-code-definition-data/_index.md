@@ -21,6 +21,6 @@ url: /net/outline-code-definition-data/
 |11. |AllLevelsRequired |R/W |– |– |– | | |
 |12. |OnlyTableValuesAllowed |R/W |– |R/W |R/W |R/W | |
 |13. |Masks |R/W |R/W |R/W |R/W |R/W | |
-|14. |IsCollapsed |– |N/A |N/A |– | |New for MSP 2010 field |
-|15. |ShowIndent |– |N/A |N/A |R/W |R//W |New for MSP 2010 field |
+|14. |IsCollapsed |– |N/A |N/A |– | | |
+|15. |ShowIndent |– |N/A |N/A |R/W |R//W | |
 

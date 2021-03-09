@@ -65,14 +65,14 @@ url: /java/resource-assignment-data/
 |55. |ActualWorkProtected |R/W |R/W |R/W |R/W |R/W| |
 |56. |ActualOvertimeWorkProtected |R/W |R/W |R/W |R/W |R/W| |
 |57. |CreationDate |R/W |R/W |R/W |R/W |R/W| |
-|58. |AssnOwner |R/W |N/A |- |– |- |New for MSP 2007 field |
-|59. |AssnOwnerGuid |R/W |N/A |– |– |- |New for MSP 2007 field |
-|60. |BudgetCost |R/W |N/A |R/W |R/W |R/W|New for MSP 2007 field |
-|61. |BudgetWork |R/W |N/A |R/W |R/W |R/W|New for MSP 2007 field |
+|58. |AssnOwner |R/W |N/A |- |– |- | |
+|59. |AssnOwnerGuid |R/W |N/A |– |– |- | |
+|60. |BudgetCost |R/W |N/A |R/W |R/W |R/W| |
+|61. |BudgetWork |R/W |N/A |R/W |R/W |R/W| |
 |62. |ExtendedAttribute |R/W |– |– |– |- | |
 |63. |Baseline |R/W |R/W |R/W |R/W |R/W| |
-|64. |f404000 - f4040c8 Elements |– |N/A |– |– |- |New for MSP 2007 field |
-|65. |f408000 - f417fff Elements |– |N/A |– |– |- |New for MSP 2007 field |
+|64. |f404000 - f4040c8 Elements |– |N/A |– |– |- | |
+|65. |f408000 - f417fff Elements |– |N/A |– |– |- | |
 |66. |TimephasedData |R/W |R/W |R/W |R/W |R/W| |
-|67. |RateScale |R/W |N/A |N/A |R/W |R/W|New for MSP 2010 field |
+|67. |RateScale |R/W |N/A |N/A |R/W |R/W| |
 

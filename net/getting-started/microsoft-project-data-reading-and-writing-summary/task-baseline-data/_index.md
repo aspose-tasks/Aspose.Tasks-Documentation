@@ -20,5 +20,5 @@ url: /net/task-baseline-data/
 |10. |Cost |R/W |R/W |R/W |R/W |R/W| |
 |11. |BCWS |R/W |– |– |– |- | |
 |12. |BCWP |R/W |– |– |– |- | |
-|13. |FixedCost |R/W |N/A |R/W |R/W |R/W|New for MSP 2007 field |
+|13. |FixedCost |R/W |N/A |R/W |R/W |R/W| |
 

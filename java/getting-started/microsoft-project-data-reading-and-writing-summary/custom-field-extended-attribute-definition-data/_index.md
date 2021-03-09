@@ -29,5 +29,5 @@ url: /java/custom-field-extended-attribute-definition-data/
 |19. |AppendNewValues |R/W |R |– |– |- | |
 |20. |Default |R/W |R |– |– |- | |
 |21. |Value |R/W |R/W |R/W |R/W |R/W | |
-|22. |SecondaryGuid |– |N/A |N/A |– |- |New for MSP 2010 field |
+|22. |SecondaryGuid |– |N/A |N/A |– |- | |
 

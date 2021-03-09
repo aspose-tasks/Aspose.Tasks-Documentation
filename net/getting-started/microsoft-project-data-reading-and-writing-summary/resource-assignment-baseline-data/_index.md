@@ -9,7 +9,7 @@ url: /net/resource-assignment-baseline-data/
 | :- | :- | :- | :- | :- | :- | :- | :- |
 | | | |**2003** |**2007** |**2010** |**2013** | |
 |1. |TimephasedData |R/W |R/W |R/W |R/W |R/W | |
-|2. |Number |R/W |R |R |R |R| |
+|2. |Number |R/W |R |R |R |R | |
 |3. |Start |R/W |R/W |R/W |R/W |R/W| |
 |4. |Finish |R/W |R/W |R/W |R/W |R/W| |
 |5. |Work |R/W |R/W |R/W |R/W |R/W| |
