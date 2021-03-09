@@ -78,10 +78,8 @@ The following code shows how to accomplish these tasks:
 
 {{< /highlight >}}
 ## **Download Running Code**
-- [Codeplex](https://asposevsto.codeplex.com/SourceControl/latest#Aspose.Tasks Vs VSTO Project/Split Task/)
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO%20Projects/Code%20Comparison%20of%20Common%20Features/Split%20Task)
 - [Code.MSDN](https://code.msdn.microsoft.com/AsposeTasks-Vs-VSTO-v11-168e5b01/view/SourceCode#content)
 ## **Download Sample Code**
-- [Codeplex](https://asposevsto.codeplex.com/releases/view/616887)
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/tag/AsposeTaskNETVsVSTOProjectv1.1)
 - [Code.MSDN](https://code.msdn.microsoft.com/AsposeTasks-Vs-VSTO-v11-168e5b01)

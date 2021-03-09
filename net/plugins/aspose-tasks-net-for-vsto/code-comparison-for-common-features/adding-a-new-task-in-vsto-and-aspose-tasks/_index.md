@@ -94,7 +94,6 @@ project.Save("OutputProject.xml", Aspose.Tasks.Saving.SaveFileFormat.XML);
 
 {{< /highlight >}}
 ## **Download Sample Code**
-- [Codeplex](https://asposevsto.codeplex.com/downloads/get/772964)
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Adding.a.New.Task.Aspose.Tasks.zip)
 - [Sourceforge](https://sourceforge.net/projects/asposevsto/files/Aspose.Tasks%20Vs%20VSTO%20Project/Adding%20a%20New%20Task%20\(Aspose.Tasks\).zip/download)
 - [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Adding%20a%20New%20Task%20\(Aspose.Tasks\).zip)

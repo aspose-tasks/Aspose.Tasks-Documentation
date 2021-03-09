@@ -54,7 +54,6 @@ only .NET framework 2.0 or greater.
 ## **Downloading**
 You can download the latest code at:
 
-- [Codeplex](http://goo.gl/spbIUb)
 - [Github](http://goo.gl/vaB1lL)
 - [Sourceforge](http://goo.gl/F4oLnp)
 - [Bitbucket](http://goo.gl/BzCiz1)
@@ -66,7 +65,6 @@ We offer free support. Anyone who uses our product, whether they have bought the
 
 You can log any issues or suggestions related to Aspose .NET for VSTO using any of the following platforms:
 
-- [Codeplex](http://goo.gl/U54yWo)
 - [Github](http://goo.gl/tDjFqA)
 - [Sourceforge](http://goo.gl/9CgWQu)
 - [Bitbucket](http://goo.gl/q7tEu9)
@@ -75,7 +73,6 @@ Comparison code for Aspose.Tasks for .Net and VSTO source code is available on m
 ### **Source Code**
 You can get the latest source code from one of the following locations.
 
-- [Codeplex](https://goo.gl/FuhcdD)
 - [Github](https://goo.gl/JA8x5M)
 - [Sourceforge](https://goo.gl/XbE5rO)
 - [Bitbucket](https://goo.gl/XBqAzx)
