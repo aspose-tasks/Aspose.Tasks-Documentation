@@ -5,9 +5,9 @@ weight: 110
 url: /java/outline-code-definition-data/
 ---
 
-|**Number** |**Property name** |**XML** |**MPP** |** |** |** |**Comments** |
-| :- | :- | :- | :- | :- | :- | :- | :- |
-| | | |**2003** |**2007** |**2010** |**2013** | |
+|**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |
+| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
+| | | |**2003** |**2007** |**2010** |**2013** |**2016** |**2019** | |
 |1. |Guid |R/W |– |R/W |R/W | | |
 |2. |FieldID |R/W |R |R/W |R/W | | |
 |3. |FieldName |R/W |R |R/W |R/W | | |
