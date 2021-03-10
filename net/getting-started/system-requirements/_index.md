@@ -68,6 +68,6 @@ Aspose.Tasks for .NET can be used to develop applications in any development env
 - MonoDevelop 2.4 and later
 
 ## **Additional Notes about .NET Core/Mono support**
-There are some features of Aspose.Tasks that does not implemented in .NET Core/Mono for Linux/MacOS and supported for .NET Framework/.NET Core/Mono for Windows only:
-- Aspose.Tasks for .NET Core/Mono for Linux does not support reading of MPD files because oo lack of OLE DB drivers for non-Windows platforms.
-- As far as NET Core/Mono for Linux/Mac OS have no support of EMF/WMF picture formats then for RTF header/footer page info that contains images in these formats the only text is exporting.
+There are some features of Aspose.Tasks that does not implement in .NET Core/Mono for Linux/MacOS and supported for .NET Framework/.NET Core/Mono for Windows only:
+- On Linux/MasOS Aspose.Tasks does not support MPD files because there is no OLE DB driver implementation for these OSes. Check, for instance, the Mono [documentation](https://www.mono-project.com/docs/database-access/).
+- Aspose.Tasks does not support the export/import of EMF/WMF images on Linux/MacOS. These formats are usually being used in RTF header/footer of page info. In this case Aspose.Tasks is exporting the text information of headers and/or footers.
