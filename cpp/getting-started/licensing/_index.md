@@ -24,7 +24,7 @@ The project file created from the code looks like the one below in Microsoft Pro
 
 |**Date changes in the evaluation version of Aspose.Tasks**|
 | :- |
-|![todo:image_alt_text](/download/attachments/16286445/1695845003)|
+|![todo:image_alt_text](licensing_1.png)|
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Licensing-EvaluationDateTimeLimitations-DateTimeLimitations.cpp" >}}
 #### **MPP Write Support**
 Aspose.Tasks supports reading MPP files, updating the project summary information and then writing updated project files in original MPP format. That is if original MPP format belongs to Microsoft Project 2003 version, the MPP file updated through Aspose.Tasks API will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010 and 2013 MPP formats. However, this support is only available in licensed versions of Aspose.Tasks for C++.

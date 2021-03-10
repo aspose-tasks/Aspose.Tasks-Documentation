@@ -29,3 +29,4 @@ Aspose.Tasks for C++ can be used to develop applications using any C++ compiler,
 - Microsoft Visual Studio 2017/2019
 ### **Linux**
 - GCC 6
+- CLang 3
