@@ -28,7 +28,7 @@ This page contains release notes information for [Aspose.Tasks for Java 20.12](h
 
 **The following behavior was changed:**
 
-1) *Days on which calendar exceptions are effective are no longer added to Calendar.getWeekDays() collection.*
+*Days on which calendar exceptions are effective are no longer added to Calendar.getWeekDays() collection.*
 
 Consider a project with a calendar in which at least one calendar exception is defined:
 
