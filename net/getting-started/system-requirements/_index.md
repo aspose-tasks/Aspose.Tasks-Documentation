@@ -66,3 +66,8 @@ Aspose.Tasks for .NET can be used to develop applications in any development env
 - Microsoft Visual Studio 2017
 - Microsoft Visual Studio 2019
 - MonoDevelop 2.4 and later
+
+## **Additional Notes about .NET Core/Mono support**
+There are some features of Aspose.Tasks that does not implemented in .NET Core/Mono for Linux/MacOS and supported for .NET Framework/.NET Core/Mono for Windows only:
+- Aspose.Tasks for .NET Core/Mono for Linux does not support reading of MPD files because oo lack of OLE DB drivers for non-Windows platforms.
+- As far as NET Core/Mono for Linux/Mac OS have no support of EMF/WMF picture formats then for RTF header/footer page info that contains images in these formats the only text is exporting.
