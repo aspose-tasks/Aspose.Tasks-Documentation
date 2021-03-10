@@ -61,7 +61,8 @@ This page contains release notes information for [Aspose.Tasks for .Net 21.2](ht
 
 ## **Examples**
 
-TASKSNET-4642: Add support for user-defined page size when saving a project to a graphical format:
+Related issue: TASKSNET-4642 - Add support for user-defined page size when saving a project to a graphical format
+
 SaveOptions.CustomPageSize property added so the user can specify custom page size when saving a project to graphical formats.
 
 {{< highlight csharp >}}
@@ -69,19 +70,19 @@ Project project = new Project("test.mpp");
 
 ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
 {
-            SaveToSeparateFiles = true,
-            Timescale = Timescale.DefinedInView,
-            CustomPageSize = new SizeF(1224, 340),
-            StartDate = new DateTime(2012, 12, 22),
-            EndDate = new DateTime(2013, 05, 10),
-            PresentationFormat = PresentationFormat.ResourceUsage,
+    SaveToSeparateFiles = true,
+    Timescale = Timescale.DefinedInView,
+    CustomPageSize = new SizeF(1224, 340),
+    StartDate = new DateTime(2012, 12, 22),
+    EndDate = new DateTime(2013, 05, 10),
+    PresentationFormat = PresentationFormat.ResourceUsage,
 };
 
 project.Save("output.png", saveOptions);
 {{< /highlight >}}
 
 
-TASKSNET-3585: Add support of "RenderToSinglePage" option to TaskUsage, ResourceUsage, TaskSheet and ResourceSheet views.
+Related issue: TASKSNET-3585 - Add support of "RenderToSinglePage" option to TaskUsage, ResourceUsage, TaskSheet and ResourceSheet views
 
 Now SaveOptions.RenderToSinglePage property can be used to specify that the project should be rendered to single page document. In this case the size of the page is adjusted to fit project on one page.
 SaveOptions.RenderToSinglePage flag is applicable when project is saved to PDF or graphical formats.
@@ -91,11 +92,11 @@ Project project = new Project("test.mpp");
 
 PdfSaveOptions saveOptions = new PdfSaveOptions
 {
-            Timescale = Timescale.DefinedInView,
-            RenderToSinglePage = true,
-            StartDate = new DateTime(2012, 12, 22),
-            EndDate = new DateTime(2013, 05, 10),
-            PresentationFormat = PresentationFormat.TaskUsage
+    Timescale = Timescale.DefinedInView,
+    RenderToSinglePage = true,
+    StartDate = new DateTime(2012, 12, 22),
+    EndDate = new DateTime(2013, 05, 10),
+    PresentationFormat = PresentationFormat.TaskUsage
 };
 
 project.Save("output.pdf", saveOptions);
@@ -106,19 +107,19 @@ Project project = new Project("TestProject.mpp");
 
 ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
 {
-            Timescale = Timescale.DefinedInView,
-            RenderToSinglePage = true,
-            StartDate = new DateTime(2012, 12, 22),
-            EndDate = new DateTime(2013, 05, 10),
-            PresentationFormat = PresentationFormat.TaskUsage,
-            HorizontalResolution = 300,
-            VerticalResolution = 300
+    Timescale = Timescale.DefinedInView,
+    RenderToSinglePage = true,
+    StartDate = new DateTime(2012, 12, 22),
+    EndDate = new DateTime(2013, 05, 10),
+    PresentationFormat = PresentationFormat.TaskUsage,
+    HorizontalResolution = 300,
+    VerticalResolution = 300
 };
 
 project.Save("output.png", saveOptions);
 {{< /highlight >}}
 
-TASKSNET-4608: Portrait/Landscape orientation setting ignored when printing / saving to pdf.
+Related issue: TASKSNET-4608 - Portrait/Landscape orientation setting ignored when printing / saving to pdf
 
 Added PageSize.DefinedInView enum value so the user can specify that the project should be rendered using page size and page orientation settings defined in view's settings.
 These settings can be changed using "Page Setup" dialog of Microsoft Project.
@@ -132,12 +133,12 @@ Console.WriteLine("Page orientation: {0}", view.PageInfo.PageSettings.IsPortrait
 
 ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
 {
-            SaveToSeparateFiles = true,
-            PageSize = PageSize.DefinedInView,
-            Timescale = Timescale.DefinedInView,
-            StartDate = new DateTime(2012, 12, 22),
-            EndDate = new DateTime(2013, 05, 10),
-            PresentationFormat = PresentationFormat.GanttChart,
+    SaveToSeparateFiles = true,
+    PageSize = PageSize.DefinedInView,
+    Timescale = Timescale.DefinedInView,
+    StartDate = new DateTime(2012, 12, 22),
+    EndDate = new DateTime(2013, 05, 10),
+    PresentationFormat = PresentationFormat.GanttChart,
 };
 
 project.Save("output.png", saveOptions);

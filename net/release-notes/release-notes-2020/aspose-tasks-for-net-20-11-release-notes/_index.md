@@ -28,7 +28,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.11](h
 
 **The following behavior was changed:**
 
-1) *Days on which calendar exceptions are effective are no longer added to calendar.WeekDays collection.*
+*Days on which calendar exceptions are effective are no longer added to calendar.WeekDays collection.*
 
 Consider a project with a calendar in which at least one calendar exception is defined:
 

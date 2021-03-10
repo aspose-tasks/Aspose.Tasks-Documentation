@@ -34,14 +34,16 @@ This page contains release notes information for [Aspose.Tasks for C++ 21.1](htt
 
 ## **Examples**
 
-TASKSNET-4597: Field 'TaskSummaryName' can be used in view's columns:
-{{< highlight csharp >}}
-            var field = new TableField
-            {
-                Field = Field.TaskSummaryName,
-                Title = "Task Summary Name",
-                Width = 30
-            };
+Related issue: TASKSNET-4597 - Field 'TaskSummaryName' can be used in view's columns
 
-            project.Views.ToList()[0].Table.TableFields.Add(field);
+In order to show 'TaskSummaryName' column in exported document the next code sample can be used:
+{{< highlight csharp >}}
+var field = new TableField
+{
+    Field = Field.TaskSummaryName,
+    Title = "Task Summary Name",
+    Width = 30
+};
+
+project.Views.ToList()[0].Table.TableFields.Add(field);
 {{< /highlight >}}
