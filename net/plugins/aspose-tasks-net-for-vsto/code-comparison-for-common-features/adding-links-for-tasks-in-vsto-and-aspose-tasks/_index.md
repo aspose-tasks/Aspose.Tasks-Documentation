@@ -5,6 +5,7 @@ weight: 20
 url: /net/adding-links-for-tasks-in-vsto-and-aspose-tasks/
 ---
 
+## **Code Examples**
 ### **VSTO**
 To link a task using VSTO:
 
@@ -135,5 +136,4 @@ prj.Save("Project1.mpp", Aspose.Tasks.Saving.SaveFileFormat.MPP);
 {{< /highlight >}}
 ## **Download Sample Code**
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Adding.Links.for.Tasks.Aspose.Tasks.zip)
-- [Sourceforge](https://sourceforge.net/projects/asposevsto/files/Aspose.Tasks%20Vs%20VSTO%20Project/Adding%20Links%20for%20Tasks%20\(Aspose.Tasks\).zip/download)
 - [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Adding%20Links%20for%20Tasks%20\(Aspose.Tasks\).zip)

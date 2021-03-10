@@ -5,8 +5,8 @@ weight: 10
 url: /net/adding-a-new-task-in-vsto-and-aspose-tasks/
 ---
 
-# **Code Examples**
-## **VSTO**
+## **Code Examples**
+### **VSTO**
 To add a task using VSTO:
 
 1. Create a new project in Visual Studio.
@@ -58,7 +58,7 @@ task.Text1 = "Task1";
 projectApplication.FileCloseAll(Microsoft.Office.Interop.MSProject.PjSaveType.pjSave);
 
 {{< /highlight >}}
-## **Aspose.Tasks**
+### **Aspose.Tasks**
 To add tasks to project files using Aspose.Tasks for .NET:
 
 1. Create a new project in Visual Studio.
@@ -94,7 +94,6 @@ project.CalcTaskUids();
 project.Save("OutputProject.xml", Aspose.Tasks.Saving.SaveFileFormat.XML);
 
 {{< /highlight >}}
-# **Download Sample Code**
+## **Download Sample Code**
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Adding.a.New.Task.Aspose.Tasks.zip)
-- [Sourceforge](https://sourceforge.net/projects/asposevsto/files/Aspose.Tasks%20Vs%20VSTO%20Project/Adding%20a%20New%20Task%20\(Aspose.Tasks\).zip/download)
 - [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Adding%20a%20New%20Task%20\(Aspose.Tasks\).zip)

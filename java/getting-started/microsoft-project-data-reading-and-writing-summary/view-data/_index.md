@@ -2,7 +2,7 @@
 title: View Data
 type: docs
 weight: 130
-url: /net/view-data/
+url: /java/view-data/
 ---
 
 |**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |

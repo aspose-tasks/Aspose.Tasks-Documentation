@@ -2,7 +2,7 @@
 title: GanttChartView Data
 type: docs
 weight: 200
-url: /net/ganttchartview-data/
+url: /java/ganttchartview-data/
 ---
 
 |**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |

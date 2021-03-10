@@ -5,6 +5,7 @@ weight: 60
 url: /net/reading-tasks-and-resources-in-vsto-and-aspose-tasks/
 ---
 
+## **Code Examples**
 ### **VSTO**
 The following steps are required to accomplish this task:
 
@@ -198,5 +199,4 @@ Console.ReadLine();
 {{< /highlight >}}
 ## **Download Sample Code**
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Reading.Tasks.and.Resources.Aspose.Tasks.zip)
-- [Sourceforge](https://sourceforge.net/projects/asposevsto/files/Aspose.Tasks%20Vs%20VSTO%20Project/Reading%20Tasks%20and%20Resources%20\(Aspose.Tasks\).zip/download)
 - [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Reading%20Tasks%20and%20Resources%20\(Aspose.Tasks\).zip)

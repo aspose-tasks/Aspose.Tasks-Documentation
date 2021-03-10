@@ -5,7 +5,8 @@ weight: 50
 url: /net/creating-resources-in-vsto-and-aspose-tasks/
 ---
 
-## **VSTO**
+## **Code Examples**
+### **VSTO**
 Below is code sample to create resource in project.
 
 {{< highlight cs >}}
@@ -33,7 +34,7 @@ Below is code sample to create resource in project.
  MyProject.Resources.Add("Work");
 
 {{< /highlight >}}
-## **Aspose.Tasks**
+### **Aspose.Tasks**
 The [Resource](http://www.aspose.com/docs/display/tasksnet/Aspose.Tasks.Resource+Class) class allows to add a new resource to the project.
 
 {{< highlight cs >}}
@@ -48,8 +49,6 @@ The [Resource](http://www.aspose.com/docs/display/tasksnet/Aspose.Tasks.Resource
 
 {{< /highlight >}}
 ## **Download Running Code**
-- [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO%20Projects/Code%20Comparison%20of%20Common%20Features/Creating%20Resources)
-- [Code.MSDN](https://code.msdn.microsoft.com/AsposeTasks-Vs-VSTO-v11-168e5b01/view/SourceCode#content)
+- [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO/Code%20Comparison/Creating%20Resources)
 ## **Download Sample Code**
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/tag/AsposeTaskNETVsVSTOProjectv1.1)
-- [Code.MSDN](https://code.msdn.microsoft.com/AsposeTasks-Vs-VSTO-v11-168e5b01)

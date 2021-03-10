@@ -5,6 +5,7 @@ weight: 40
 url: /net/create-resources-and-link-in-vsto-and-aspose-tasks/
 ---
 
+## **Code Examples**
 ### **VSTO**
 The following steps are required to accomplish this task:
 
@@ -117,5 +118,4 @@ prj.Save("Project1_CSharp_Aspose.mpp", Aspose.Tasks.Saving.SaveFileFormat.MPP);
 {{< /highlight >}}
 ## **Download Sample Code**
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Create.Resources.and.Link.Aspose.Tasks.zip)
-- [Sourceforge](https://sourceforge.net/projects/asposevsto/files/Aspose.Tasks%20Vs%20VSTO%20Project/Create%20Resources%20and%20Link%20\(Aspose.Tasks\).zip/download)
 - [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Create%20Resources%20and%20Link%20\(Aspose.Tasks\).zip)

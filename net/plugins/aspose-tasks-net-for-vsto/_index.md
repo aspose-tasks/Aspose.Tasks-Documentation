@@ -55,7 +55,6 @@ Microsoft Windows 2000; Microsoft Windows Server 2003; Microsoft Windows Vista; 
 You can download the latest code at:
 
 - [Github](http://goo.gl/vaB1lL)
-- [Sourceforge](http://goo.gl/F4oLnp)
 - [Bitbucket](http://goo.gl/BzCiz1)
 ## **Installing**
 To open the project you need to download and install the latest version of Aspose.Tasks for .NET from [here](http://www.aspose.com/.net/project-management-component.aspx) and include it in the project.
@@ -66,7 +65,6 @@ We offer free support. Anyone who uses our product, whether they have bought the
 You can log any issues or suggestions related to Aspose .NET for VSTO using any of the following platforms:
 
 - [Github](http://goo.gl/tDjFqA)
-- [Sourceforge](http://goo.gl/9CgWQu)
 - [Bitbucket](http://goo.gl/q7tEu9)
 ### **Extend and Contribute**
 Comparison code for Aspose.Tasks for .Net and VSTO source code is available on major social coding websites listed below.Developers are encouraged to download the source code to migrate from VSTO to Aspose.Tasks as per their requirements.
@@ -74,7 +72,6 @@ Comparison code for Aspose.Tasks for .Net and VSTO source code is available on m
 You can get the latest source code from one of the following locations.
 
 - [Github](https://goo.gl/JA8x5M)
-- [Sourceforge](https://goo.gl/XbE5rO)
 - [Bitbucket](https://goo.gl/XBqAzx)
 ### **How to configure the source code**
 Please follow these simple steps to get started

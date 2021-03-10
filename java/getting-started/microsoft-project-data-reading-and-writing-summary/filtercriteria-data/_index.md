@@ -2,7 +2,7 @@
 title: FilterCriteria Data
 type: docs
 weight: 190
-url: /net/filtercriteria-data/
+url: /java/filtercriteria-data/
 ---
 
 |**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |

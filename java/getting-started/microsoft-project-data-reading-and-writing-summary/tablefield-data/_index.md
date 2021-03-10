@@ -2,7 +2,7 @@
 title: TableField Data
 type: docs
 weight: 150
-url: /net/tablefield-data/
+url: /java/tablefield-data/
 ---
 
 |**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |

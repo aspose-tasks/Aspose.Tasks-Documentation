@@ -5,6 +5,7 @@ weight: 70
 url: /net/reading-the-critical-path-in-vsto-and-aspose-tasks/
 ---
 
+## **Code Examples**
 ### **VSTO**
 Following steps are required to accomplish this task:
 
@@ -110,5 +111,4 @@ foreach (Aspose.Tasks.Task task in criticalPath)
 {{< /highlight >}}
 ## **Download Sample Code**
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Reading.the.Critical.Path.Aspose.Tasks.zip)
-- [Sourceforge](https://sourceforge.net/projects/asposevsto/files/Aspose.Tasks%20Vs%20VSTO%20Project/Reading%20the%20Critical%20Path%20\(Aspose.Tasks\).zip/download)
 - [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Reading%20the%20Critical%20Path%20\(Aspose.Tasks\).zip)

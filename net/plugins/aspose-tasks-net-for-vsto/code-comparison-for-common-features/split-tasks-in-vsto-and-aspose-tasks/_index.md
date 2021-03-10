@@ -10,7 +10,9 @@ url: /net/split-tasks-in-vsto-and-aspose-tasks/
 Sometimes it is not possible to complete a task as scheduled and it needs to be split into two or more parts. Aspose.Tasks supports this Microsoft Project feature.
 
 {{% /alert %}} 
-## **VSTO**
+
+## **Code Examples**
+### **VSTO**
 Below is the code for VSTO Project to split tasks:
 
 {{< highlight cs >}}
@@ -39,7 +41,7 @@ Below is the code for VSTO Project to split tasks:
 
 
 {{< /highlight >}}
-## **Aspose.Tasks**
+### **Aspose.Tasks**
 The SplitParts property exposed by the [Task\]() class is used to determine the split parts of a task whereas SplitTask method exposed by the ResourceAssignment class is used to split a single task into multiple parts. SplitParts returns a collection of split parts whereas SplitTask method accepts start date, finish date and calendar arguments to split the task.
 #### **Splitting and Viewing Tasks in Microsoft Project**
 To split a task in Microsoft Project:
@@ -78,8 +80,6 @@ The following code shows how to accomplish these tasks:
 
 {{< /highlight >}}
 ## **Download Running Code**
-- [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO%20Projects/Code%20Comparison%20of%20Common%20Features/Split%20Task)
-- [Code.MSDN](https://code.msdn.microsoft.com/AsposeTasks-Vs-VSTO-v11-168e5b01/view/SourceCode#content)
+- [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO/Code%20Comparison/Split%20Task)
 ## **Download Sample Code**
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/tag/AsposeTaskNETVsVSTOProjectv1.1)
-- [Code.MSDN](https://code.msdn.microsoft.com/AsposeTasks-Vs-VSTO-v11-168e5b01)

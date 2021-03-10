@@ -9,8 +9,10 @@ url: /net/stop-and-resume-a-task-in-vsto-and-aspose-tasks/
 
 A tasks's stop date is the date that it should (or did) end. Sometimes, a task has to be stopped temporarily and then resumed later. Microsoft Project can calculate stop dates, or let users enter them manually.
 
-{{% /alert %}} 
-## **VSTO**
+{{% /alert %}}
+
+## **Code Examples**
+### **VSTO**
 Below is the code of VSTO Project to Stop and Resume a task:
 
 {{< highlight cs >}}
@@ -45,7 +47,7 @@ Below is the code of VSTO Project to Stop and Resume a task:
 
 
 {{< /highlight >}}
-## **Aspose.Tasks**
+### **Aspose.Tasks**
 The Stop and Resume properties exposed by the [Tsk\](/pages/createpage.action?spaceKey=tasksnet&title=Aspose.Tasks.Tsk+class&linkCreation=true&fromPageId=16288574) class are used to read or write a task's stop and resume date:
 
 - Stop: the date a task stops (DateTime).
@@ -78,8 +80,6 @@ The stop and resume dates are NA, if the task has never stopped. For date values
 
 {{< /highlight >}}
 ## **Download Running Code**
-- [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO%20Projects/Code%20Comparison%20of%20Common%20Features/Stop%20and%20Resume%20a%20Task)
-- [Code.MSDN](https://code.msdn.microsoft.com/AsposeTasks-Vs-VSTO-v11-168e5b01/view/SourceCode#content)
+- [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO/Code%20Comparison/Stop%20and%20Resume%20a%20Task)
 ## **Download Sample Code**
 - [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/tag/AsposeTaskNETVsVSTOProjectv1.1)
-- [Code.MSDN](https://code.msdn.microsoft.com/AsposeTasks-Vs-VSTO-v11-168e5b01)

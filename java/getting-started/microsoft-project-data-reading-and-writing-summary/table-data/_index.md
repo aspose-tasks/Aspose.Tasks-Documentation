@@ -1,8 +1,8 @@
 ---
-title: View Data
+title: Table Data
 type: docs
-weight: 130
-url: /net/view-data/
+weight: 140
+url: /java/table-data/
 ---
 
 |**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |
@@ -11,8 +11,12 @@ url: /net/view-data/
 |1. |UID |N/A |R |R |R |R |R |R | |
 |2. |Index |N/A |R |R |R |R |R |R | |
 |3. |Name |N/A |R |R |R |R |R |R | |
-|4. |Screen |N/A |R |R |R |R |R |R | |
+|4. |AdjustHeaderRowHeight |N/A |– |– |– |– |– |– | |
 |5. |ShowInMenu |N/A |R |R |R |R |R |R | |
-|6. |Single |N/A |– |– |– |– |– |– | |
+|6. |DateFormat |N/A |– |– |– |– |– |– | |
 |7. |Type|N/A |R |R |R |R |R |R | |
+|8. |LockFirstColumn|N/A |– |– |– |– |– |– | |
+|9. |RowHeight|N/A |– |– |– |– |– |– | |
+|10. |TableFields|N/A |R |R |R |R |R |R | |
+|11. |TableType|N/A |R |R |R |R |R |R | |
 

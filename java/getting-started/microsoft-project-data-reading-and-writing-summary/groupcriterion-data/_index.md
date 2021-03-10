@@ -2,7 +2,7 @@
 title: GroupCriterion Data
 type: docs
 weight: 170
-url: /net/groupcriterion-data/
+url: /java/groupcriterion-data/
 ---
 
 |**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |
