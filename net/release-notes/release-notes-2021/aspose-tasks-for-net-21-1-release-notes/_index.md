@@ -21,7 +21,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 21.1](ht
 | TASKSNET-4601 | Fix duplicated resources when reading XER of P6XML file | Bug |
 
 
-*Pay attention, if you use Aspose.Tasks for .Net Standard as dll reference (not Nuget version), please update 'System.Drawing.Common' and 'System.Text.Encoding.CodePages' dependencies up to date.*
+*Pay attention, if you use Aspose.Tasks for .Net Standard as DLL reference (not NuGet version), please update 'System.Drawing.Common' and 'System.Text.Encoding.CodePages' dependencies up to date.*
 
 ## **Public API and Backwards Incompatible Changes**
 

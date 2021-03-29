@@ -48,29 +48,14 @@ This is an ASP classic page with VB Script that gathers information about defaul
       If Request.form("stdRate") <> "" AND Request.form("otimeRate") <>  "" Then
 
         'Create a Project
-
         Dim prj
-
         Set prj = CreateObject("Aspose.Tasks.Project")
-
-
-
         'Create a Project Writer
-
         Dim prjWriter
-
         Set prjWriter = CreateObject("Aspose.Tasks.ProjectWriter")
-
-
-
         prj.DefaultStandardRate = Request.form("stdRate")
-
         prj.DefaultOvertimeRate = Request.form("otimeRate")
-
-
-
         prjWriter.Write prj,"prjASP.xml",     Aspose_Tasks.TasksDataFormat.TasksDataFormat_XML        
-
         Response.Write("Project file created in XML format")
 
     %>

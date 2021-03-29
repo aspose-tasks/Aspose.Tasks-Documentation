@@ -1,8 +1,8 @@
 ---
 title: Adding and Removing Calendar Exceptions
 type: docs
-description: "Aspose.Tasks for .NET allows to add or remove Calender Exception using Aspose.Tasks for .NET"
-keywords: "Working with Calendar Exceptions, add calender exceptions, remove calender exceptions, Project Calendar Exception, Aspose.Tasks, C#"
+description: "Aspose.Tasks for .NET allows to add or remove Calendar Exception using Aspose.Tasks for .NET"
+keywords: "Working with Calendar Exceptions, add calendar exceptions, remove calendar exceptions, Project Calendar Exception, Aspose.Tasks, C#"
 weight: 10
 url: /net/adding-and-removing-calendar-exceptions/
 ---

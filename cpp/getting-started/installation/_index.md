@@ -16,7 +16,7 @@ You can follow the steps below to reference the Aspose.Tasks API using the pac
 1. Open your solution/project in Visual Studio.
 2. Select Tools -> Library Package Manager -> Package Manager Console from the menu to open package manager console.
 
-Type the command “**Install-Package Aspose.Tasks.Cpp -Version 19.9.0**” and press enter to install the latest full release into your application. Alternatively, you can add the "**-prerelease**" suffix to the command in order to specify that the latest release including hotfixes is to be installed as well.
+Type the command "**Install-Package Aspose.Tasks.Cpp -Version 19.9.0**” and press enter to install the latest full release into your application. Alternatively, you can add the "**-prerelease**" suffix to the command in order to specify that the latest release including hotfixes is to be installed as well.
 
 ![todo:image_alt_text](installation_2.jpg)
 

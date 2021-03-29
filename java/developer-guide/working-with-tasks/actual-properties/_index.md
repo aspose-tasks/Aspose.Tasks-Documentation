@@ -19,7 +19,7 @@ The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/task) exp
 - ActualDuration: a task's actual duration (TimeSpan).
 - ActualStart: the date and time that a task actually started (Date).
 - ActualFinish: the date and time that a task actually finished (Date).
-- Acwp: the actual cost of the work performed on a task (double).
+- ACWP: the actual cost of the work performed on a task (double).
 
 The ChildTasksCollector class collects all the child tasks from a given RootTask when used by TaskUtils.
 ### **Actual Properties in Microsoft Project**

@@ -22,7 +22,7 @@ On the **View** menu, select **More Views** and then **Task Entry Form**.
 
 ![todo:image_alt_text](/download/attachments/16286499/569271201)
 ### **Setting Link Type with Aspose.Tasks**
-The code sample given below set a link type as “Start-to-Start”, the default link type is “Finish-to-Start”.
+The code sample given below set a link type as "Start-to-Start”, the default link type is "Finish-to-Start”.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTaskLinks-SetTaskLinkType-SetTaskLinkType.cpp" >}}
 ### **Getting Link Type with Aspose.Tasks**

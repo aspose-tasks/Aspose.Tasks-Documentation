@@ -19,7 +19,7 @@ The static class [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/ts
 - ActualDuration: a task's actual duration (TimeSpan).
 - ActualStart: the date and time that a task actually started (DateTime).
 - ActualFinish: the date and time that a task actually finished (DateTime).
-- Acwp: the actual cost of the work performed on a task (double).
+- ACWP: the actual cost of the work performed on a task (double).
 
 The [ChildTasksCollector](https://apireference.aspose.com/tasks/net/aspose.tasks.util/childtaskscollector) class collects all the child tasks from a given RootTask when used by [TaskUtils](https://apireference.aspose.com/tasks/net/aspose.tasks.util/taskutils).
 ### **Actual Properties in Microsoft Project**

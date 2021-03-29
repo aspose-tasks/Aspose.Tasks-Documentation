@@ -67,20 +67,13 @@ projectApplication.FileOpenEx(@"SampleProject.mpp",
 
 Microsoft.Office.Interop.MSProject.Project project = projectApplication.ActiveProject;
 
-int iRecourceId = 1;
-
+int iResourceId = 1;
 foreach (Task tsk in project.Tasks)
-
 {
-
-    string developer = "Developer0" + iRecourceId;
-
-    project.Resources.Add(developer, iRecourceId);
-
-    tsk.Assignments.Add(tsk.ID, iRecourceId, missingValue);
-
-    iRecourceId++;
-
+    string developer = "Developer0" + iResourceId;
+    project.Resources.Add(developer, iResourceId);
+    tsk.Assignments.Add(tsk.ID, iResourceId, missingValue);
+    iResourceId++;
 }
 
 projectApplication.FileCloseAll(Microsoft.Office.Interop.MSProject.PjSaveType.pjSave);

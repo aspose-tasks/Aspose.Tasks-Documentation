@@ -22,7 +22,7 @@ To define link type in Microsoft Project:
 
 ![todo:image_alt_text](defining-link-type_1.png)
 ### **Setting Link Type with Aspose.Tasks**
-The code samples below set a link type as “Finish-to-Start”, the default link type.
+The code samples below set a link type as "Finish-to-Start”, the default link type.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-TaskLinks-DefineLinkType-setting-link-types.java" >}}
 ### **Getting Link Type with Aspose.Tasks**

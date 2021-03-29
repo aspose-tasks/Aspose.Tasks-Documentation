@@ -25,7 +25,7 @@ Open the output file in Microsoft Project and, on the **Project** menu, select
 ## **Defining Weekdays for Calendar**
 Microsoft Project keeps track of which days are considered weekdays in a calendar so that it can calculate project end dates and so on. Aspose.Tasks API allows developers to define weekdays for a calendar associated with a project.
 
-The Days collection exposed by the Calendar class is used to define the weekdays for a calendar. The Days collection represents an array list of WeekDay objets.
+The Days collection exposed by the Calendar class is used to define the weekdays for a calendar. The Days collection represents an array list of WeekDay objects.
 
 The CreateDefaultWorkingDay method exposed by the WeekDay class can further be implemented to define the default day timings, while the FromTime and ToTime properties exposed by the WorkingTime class is used to define the specific timing for a day. FromTime and ToTime support the DateTime datatype.
 

@@ -22,7 +22,7 @@ On the **View** menu, select **More Views** and then **Task Entry Form**.
 
 ![todo:image_alt_text](defining-link-type_1.png)
 ### **Setting Link Type with Aspose.Tasks**
-The code samples below set a link type as “Start-to-Start”, the default link type is “Finish-to-Start”.
+The code samples below set a link type as "Start-to-Start”, the default link type is "Finish-to-Start”.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-SetTaskLinkType-SetTaskLinkType.cs" >}}
 ### **Getting Link Type with Aspose.Tasks**

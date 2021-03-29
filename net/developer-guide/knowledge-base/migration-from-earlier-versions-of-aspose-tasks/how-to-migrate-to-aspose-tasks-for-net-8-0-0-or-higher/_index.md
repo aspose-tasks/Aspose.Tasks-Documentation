@@ -16,8 +16,8 @@ Aspose.Tasks for .NET 8.0.0 is a revamped version of the API that includes consi
 This new API is incompatible with the Legacy API and the objective of this article is to help you migrate your code to the new API.  The article shows comparative code samples of the Legacy and the new API implementation, and includes:
 
 - [Setting Default Project Properties](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
-- [Creating Calendar and Adding to Projectf](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
-- [Make Standard Calender](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
+- [Creating Calendar and Adding to Project](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
+- [Make Standard Calendar](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
 - [Adding Task to Project](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
 - [Adding a Resource to Project](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
 - [Create Resource Assignment](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
@@ -538,13 +538,13 @@ rsc.StandardRate=10;
 
 rsc.OvertimeRate=15;
 
-ResourceAssignment ra = new ResourceAssignment(task, rsc);
+ResourceAssignment assignment = new ResourceAssignment(task, rsc);
 
-ra1.Uid = 1;
+assignment.Uid = 1;
 
-ra1.Start = DateTime.Parse("18-Aug-2009 8:00 AM" );
+assignment.Start = DateTime.Parse("18-Aug-2009 8:00 AM" );
 
-ra1.Finish = DateTime.Parse("18-Aug-2009 5:00 PM" );
+assignment.Finish = DateTime.Parse("18-Aug-2009 5:00 PM" );
 
 project.RootTask = tskRoot;
 
@@ -552,7 +552,7 @@ project.RootTask.Children.Add(task);
 
 project.Resources.Add(res);
 
-project.ResourceAssignments.Add(ra);
+project.ResourceAssignments.Add(assignment);
 
 project.Save("project.xml", SaveFileFormat.XML);
 
@@ -574,13 +574,13 @@ rsc.StandardRate = 10
 
 rsc.OvertimeRate = 15
 
-Dim ra As New ResourceAssignment(task, rsc)
+Dim assignment As New ResourceAssignment(task, rsc)
 
-ra1.Start = DateTime.Parse("18-Aug-2009 8:00 AM" )
+assignment.Start = DateTime.Parse("18-Aug-2009 8:00 AM" )
 
-ra1.Finish = DateTime.Parse("18-Aug-2009 5:00 PM" )
+assignment.Finish = DateTime.Parse("18-Aug-2009 5:00 PM" )
 
-ra1.Uid = 1
+assignment.Uid = 1
 
 project.RootTask = tskRoot
 
@@ -588,7 +588,7 @@ project.RootTask.Children.Add(task)
 
 project.Resources.Add(res)
 
-project.ResourceAssignments.Add(ra)
+project.ResourceAssignments.Add(assignment)
 
 project.Save("project.xml", SaveFileFormat.XML)
 
@@ -608,11 +608,11 @@ rsc.Set(Rsc.StandardRate, 10);
 
 rsc.Set(Rsc.OvertimeRate, 15);
 
-ResourceAssignment assn = project.ResourceAssignments.Add(task, rsc);
+ResourceAssignment assignment = project.ResourceAssignments.Add(task, rsc);
 
-assn.Set(Assn.Start,DateTime.Parse("18-Aug-2009 8:00 AM" );
+assignment.Set(Assn.Start,DateTime.Parse("18-Aug-2009 8:00 AM" );
 
-assn.Set(Assn.Finish, DateTime.Parse("18-Aug-2009 5:00 PM" );
+assignment.Set(Assn.Finish, DateTime.Parse("18-Aug-2009 5:00 PM" );
 
 project.Save("ResourceAssignments.xml", SaveFileFormat.XML);
 
@@ -632,10 +632,10 @@ rsc.[Set](Rsc.StandardRate, 10)
 
 rsc.[Set](Rsc.OvertimeRate, 15)
 
-Dim assn As ResourceAssignment = project.ResourceAssignments.Add(task, rsc)
+Dim assignment As ResourceAssignment = project.ResourceAssignments.Add(task, rsc)
 
-assn.Set(Assn.Start,DateTime.Parse("18-Aug-2009 8:00 AM" )
+assignment.Set(Assn.Start,DateTime.Parse("18-Aug-2009 8:00 AM" )
 
-assn.Set(Assn.Finish, DateTime.Parse("18-Aug-2009 5:00 PM" ) project.Save("ResourceAssignments.xml", SaveFileFormat.XML)
+assignment.Set(Assn.Finish, DateTime.Parse("18-Aug-2009 5:00 PM" ) project.Save("ResourceAssignments.xml", SaveFileFormat.XML)
 
 {{< /highlight >}}

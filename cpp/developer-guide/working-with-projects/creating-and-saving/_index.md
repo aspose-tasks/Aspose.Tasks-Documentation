@@ -13,7 +13,7 @@ Aspose.Tasks can be used to open existing files or creating a new files. This ar
 
 {{% /alert %}} 
 ## **Creating an Empty Project File**
-The [Project ](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.project/)class is the main class in Aspose.Tasks used to set and get properties associated with a project, as well as project behaviour. The Save method offered by this class makes it possible to render the Project to various output formats such as XML, MPP, PDF, HTML, etc. with a single API call. This method accepts a file stream or file name, and one of the values provided by the SaveFileFormat enumeration type.
+The [Project ](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.project/)class is the main class in Aspose.Tasks used to set and get properties associated with a project, as well as project behavior. The Save method offered by this class makes it possible to render the Project to various output formats such as XML, MPP, PDF, HTML, etc. with a single API call. This method accepts a file stream or file name, and one of the values provided by the SaveFileFormat enumeration type.
 
 At present, Aspose.Tasks provides the facility to create the **XML** project files only. The following lines of code create a simple project file in the XML format.
 

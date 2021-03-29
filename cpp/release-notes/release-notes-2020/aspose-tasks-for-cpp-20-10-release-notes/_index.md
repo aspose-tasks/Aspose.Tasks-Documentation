@@ -19,9 +19,9 @@ Aspose.Tasks for C++ is based on the .NET version of the API and provides strict
 | :- | :- | :- |
 |TASKSNET-4453|Add support for reading \ writing of cost time-phased data for resource assignments.|Enhancement|
 |TASKSNET-4447|Fix IsMilestone set to true after project’s recalculation|Bug|
-|TASKSNET-4438|Fix TasksException “TaskEntity.Start is DateTime.MinValue…” when project is recalculated|Bug|
+|TASKSNET-4438|Fix TasksException "TaskEntity.Start is DateTime.MinValue…” when project is recalculated|Bug|
 |TASKSNET-4414|Fix saving of task’s WBS code to Project Server \ Project Online|Bug|
-|TASKSNET-4412|Fix “Key already exists” exception when saving and reading large file to\from ProjectServer|Bug|
+|TASKSNET-4412|Fix "Key already exists” exception when saving and reading large file to\from ProjectServer|Bug|
 |TASKSNET-4411|Fix concurrency issues when accessing Project Server|Bug|
 |TASKSNET-4286|Fix reading \ writing of Task.NotesText from \ to Project Server|Bug|
 

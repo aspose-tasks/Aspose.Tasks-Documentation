@@ -29,7 +29,7 @@ The following metadata is used in this example:
   - Code
   - Group
   - EmailAddress
-  - NtAccount
+  - NTAccount
   - IsGeneric
   - AccrueAt
   - TeamAssignmentPool

@@ -13,8 +13,8 @@ In Microsoft Project, milestones are used to monitor a project's progress. Miles
 ## **Working with Milestones**
 The Tsk class exposes the IsEstimated and IsMilestone properties to manage estimated and milestone tasks:
 
-- IsEstimated: set and get whether a task is estimated (boolean).
-- IsMilestone: set and get whether a task is a milestone (boolean).
+- IsEstimated: set and get whether a task is estimated (bool value).
+- IsMilestone: set and get whether a task is a milestone (bool value).
 ### **Viewing Estimated and Milestone Tasks in Microsoft Project**
 To see whether a task is estimates of marked as a milestone in Microsoft Project:
 

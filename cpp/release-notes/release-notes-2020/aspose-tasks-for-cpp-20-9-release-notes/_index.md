@@ -23,8 +23,8 @@ Aspose.Tasks for C++ is based on the .NET version of the API and provides strict
 |TASKSNET-4365	|Add and ability to assign a cost to the Resource Assignment in manual calculation mode|Enhancement|
 |TASKSNET-4308	|Fix incorrect ActualStart of manual assigned tasks|Bug|
 |TASKSNET-4278	|Fix incorrect calculation of time-phased data for assignment’s remaining work|Bug|
-|TASKSNET-4270	|Fix recalculation of assignments’ work and time-phased data for the task with Type = “FixedWork” when task’s duration is changed|Bug|
-|TASKSNET-4269	|Fix “A generic error occurred in GDI+” exception while rendering MPP file|Bug|
+|TASKSNET-4270	|Fix recalculation of assignments’ work and time-phased data for the task with Type = "FixedWork” when task’s duration is changed|Bug|
+|TASKSNET-4269	|Fix "A generic error occurred in GDI+” exception while rendering MPP file|Bug|
 |TASKSNET-4256	|Fix invalid generated TimephasedData for assignments of Fixed Duration tasks|Bug|
 |TASKSNET-4371	|Fix incorrect reading of MPP with a large number of long assignments|Bug|
 |TASKSNET-4370	|Fix bad performance while deleting of resources when CalculationMode.Manual is set|Bug|

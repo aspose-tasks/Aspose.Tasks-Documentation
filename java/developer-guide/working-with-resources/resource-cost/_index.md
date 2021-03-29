@@ -10,9 +10,9 @@ url: /java/resource-cost/
 The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class is used to manage costs related to a resource:
 
 - Cost represents a resource's total project cost across all assignments (decimal).
-- Bcwp represents the budgeted cost of work performed by a resource (double).
-- Bcws represents the budgeted cost of scheduled work (double).
-- Acwp represents the actual cost of work performed by a resource to date (double).
+- BCWP represents the budgeted cost of work performed by a resource (double).
+- BCWS represents the budgeted cost of scheduled work (double).
+- ACWP represents the actual cost of work performed by a resource to date (double).
 - AccrueAt represents the cost accrual method used for a resource (CostAccrualType).
 
 {{% /alert %}} 

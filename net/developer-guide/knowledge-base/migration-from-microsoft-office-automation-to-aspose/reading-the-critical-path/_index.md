@@ -29,16 +29,11 @@ Following steps are required to accomplish this task:
 
 {{< highlight java >}}
 
-
-
 // Create Application object
-
 Application projectApplication = new ApplicationClass();
-
 object missingValue = System.Reflection.Missing.Value;
 
 // Open an MPP file
-
 projectApplication.FileOpenEx(@"C:\Project1.mpp",
 
     missingValue, missingValue, missingValue, missingValue,
@@ -52,31 +47,21 @@ projectApplication.FileOpenEx(@"C:\Project1.mpp",
     missingValue);
 
 // Create a Project object by assigning active project
-
 Project project = projectApplication.ActiveProject;
 
 // Enumerate the tasks
-
 foreach (Task task in project.Tasks)
-
 {
-
-    //Get critical tasks
-
+    // Get critical tasks
     if (task != null)
-
+    {
         if ((bool)task.Critical)
-
         {
-
             Console.WriteLine(task.ID + "  " + task.Name);
-
             Console.WriteLine(task.Start);
-
             Console.WriteLine(task.Finish + "\n");
-
         }
-
+    }
 }
 
 // Make sure to clean up and close the file
@@ -94,7 +79,6 @@ The following steps are required to accomplish this task:
 3. Select Aspose.Tasks and click **OK**.
    This imports the Aspose.Tasks namespace at the start of the code.
 4. Use the code from the following example to read tasks and resources.
+
 ### **Code Examples - Aspose.Tasks**
-
-
 {{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-KnowledgeBase-ReadCriticalPath-ReadCriticalPath.cs" >}}

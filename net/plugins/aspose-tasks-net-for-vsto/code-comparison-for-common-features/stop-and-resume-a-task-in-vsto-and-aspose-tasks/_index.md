@@ -39,7 +39,7 @@ Below is the code of VSTO Project to Stop and Resume a task:
 
   // Stop a Task
 
-  dynamic StopedDate = MyTask.Stop;
+  dynamic StoppedDate = MyTask.Stop;
 
   // Resume a Task
 
@@ -80,6 +80,6 @@ The stop and resume dates are NA, if the task has never stopped. For date values
 
 {{< /highlight >}}
 ## **Download Running Code**
-- [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO/Code%20Comparison/Stop%20and%20Resume%20a%20Task)
+- [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO/Code%20Comparison/Stop%20and%20Resume%20a%20Task)
 ## **Download Sample Code**
-- [Github](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/tag/AsposeTaskNETVsVSTOProjectv1.1)
+- [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/tag/AsposeTaskNETVsVSTOProjectv1.1)

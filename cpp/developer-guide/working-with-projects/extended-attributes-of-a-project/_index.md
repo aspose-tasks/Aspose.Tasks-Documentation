@@ -15,7 +15,7 @@ In this example, we will demonstrate how to work with Text1 extended attribute o
 
 1. In MSP, go to Project->Custom Fields.
 2. From here, select Task.
-3. Select Text as Custom Field Type from the Type Combobox.
+3. Select Text as Custom Field Type from the Type combo box.
 4. Select Text1 as a custom field that you want to work with
 5. Use the "Rename" button to rename the alias of the field if it is desired and press OK button
 6. Add a new task and insert a new column to the task row with the custom field that you used in the above step

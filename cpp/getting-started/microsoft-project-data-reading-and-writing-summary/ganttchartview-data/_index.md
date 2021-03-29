@@ -16,7 +16,7 @@ url: /cpp/ganttchartview-data/
 |6. |HideRollupBarsWhenSummaryExpanded |N/A |R |R |R |R |R |R | |
 |7. |MiddleTimescaleTier|N/A |R |R |R |R |R |R | |
 |8. |ProgressLines|N/A |R |R |R |R |R |R | |
-|9. |RolUpGanttBars|N/A |R |R |R |R |R |R | |
+|9. |RollUpGanttBars|N/A |R |R |R |R |R |R | |
 |10. |ShowBarSplits|N/A |R |R |R |R |R |R | |
 |11. |ShowDrawings|N/A |R |R |R |R |R |R | |
 |12. |TableTextStyles|N/A |R |R |R |R |R |R | |

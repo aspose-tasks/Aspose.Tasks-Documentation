@@ -121,7 +121,7 @@ project.Save("output.png", saveOptions);
 
 Related issue: TASKSNET-4608 - Portrait/Landscape orientation setting ignored when printing / saving to pdf
 
-Added PageSize.DefinedInView enum value so the user can specify that the project should be rendered using page size and page orientation settings defined in view's settings.
+Added PageSize.DefinedInView value so the user can specify that the project should be rendered using page size and page orientation settings defined in view's settings.
 These settings can be changed using "Page Setup" dialog of Microsoft Project.
 
 {{< highlight csharp >}}
