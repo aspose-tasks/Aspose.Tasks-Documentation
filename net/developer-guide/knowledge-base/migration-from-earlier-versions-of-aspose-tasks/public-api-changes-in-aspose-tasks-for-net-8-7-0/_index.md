@@ -27,6 +27,6 @@ url: /net/public-api-changes-in-aspose-tasks-for-net-8-7-0/
 |Aspose.Tasks.ApplicationInfo.MSP2016 |File was created in Microsoft Project 2016. |
 **The following public methods were added to existing classes:**
 
-|Aspose.Tasks.Project(MspDbSettings) |Inititalizes a new instance of the Project to read data from MS Project Server DB |
+|Aspose.Tasks.Project(MspDbSettings) |Initializes a new instance of the Project to read data from MS Project Server DB |
 | :- | :- |
 

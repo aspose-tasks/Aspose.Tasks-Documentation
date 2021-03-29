@@ -13,7 +13,7 @@ This page list public API changes that were introduced in Aspose.Tasks for .NET 
 
 **UpdateProjectWorkAsComplete(DateTime completeThrough, bool setZeroOrHundredPercentCompleteOnly) method added to Project.**
 
-It updates all work as complete through a specified date for the entire project. Set boolean parameter setZeroOrHundredPercentCompleteOnly to false if you want to calculate whether the task is not started, 100% complete or percentage complete value. Set the setZeroOrHundredPercentCompleteOnly to true if you want in-progress tasks to remain at 0 percent. Any tasks whose scheduled finish date is after the complete-through date will not have any progress updated for them.
+It updates all work as complete through a specified date for the entire project. Set bool parameter setZeroOrHundredPercentCompleteOnly to false if you want to calculate whether the task is not started, 100% complete or percentage complete value. Set the setZeroOrHundredPercentCompleteOnly to true if you want in-progress tasks to remain at 0 percent. Any tasks whose scheduled finish date is after the complete-through date will not have any progress updated for them.
 
 **UpdateProjectWorkAsComplete(DateTime completeThrough, bool setZeroOrHundredPercentCompleteOnly, List<Task> tasks) method added to Project.**
 
@@ -39,4 +39,4 @@ By default tasks are sorted by Task.Id property.
 
 It allows left, right or centered alignment of text in columns of PresentationFormat.GanttChart, PresentationFormat.TaskUsage, PresentationFormat.ResourceUsage and PresentationFormat.ResourceSheet presentation formats.
 **CalcSlacks() method has been removed** 
-The CalcSlacks() method has been removed and is obsolete now as these are already recalculated in Task.Recalculate(Project.RootTask) method with Early/Late dates. Improper use of this method could lead to wrong results and, hence, it has been makred as obsolete now.
+The CalcSlacks() method has been removed and is obsolete now as these are already recalculated in Task.Recalculate(Project.RootTask) method with Early/Late dates. Improper use of this method could lead to wrong results and, hence, it has been marked as obsolete now.

@@ -18,6 +18,6 @@ url: /java/public-api-changes-in-aspose-tasks-for-java-8-6-0/
 |com.aspose.tasks.FileFormat.XER |Represents Primavera Xer format |
 **The following public methods were added to existing classes:**
 
-|Project(PrimaveraDbSettings) |Inititalizes a new instance of the Project class to read data from Primavera DB |
+|Project(PrimaveraDbSettings) |Initializes a new instance of the Project class to read data from Primavera DB |
 | :- | :- |
 

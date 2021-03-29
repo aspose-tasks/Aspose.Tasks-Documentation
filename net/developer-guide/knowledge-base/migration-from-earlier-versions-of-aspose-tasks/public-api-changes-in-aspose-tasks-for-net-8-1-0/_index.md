@@ -24,7 +24,7 @@ url: /net/public-api-changes-in-aspose-tasks-for-net-8-1-0/
 
 |**Property name**|**Description**|
 | :- | :- |
-|List<GanttBarStyle> GanttChartView.CustomBarStyles) |Returns a list of custom gantt bar styles of the Gantt Chart view. |
+|List<GanttBarStyle> GanttChartView.CustomBarStyles) |Returns a list of custom Gantt bar styles of the Gantt Chart view. |
 |bool ExtendedAttribute.ValueReadOnly |Returns a flag which determines whether a value of the ExtendedAttribute instance is read-only. |
 |Project ExtendedAttributeDefinition.ParentProject |Returns a parent project for the instance of the ExtendedAttributeDefinition class. |
 |Project ExtendedAttributeDefinitionCollection.ParentProject |Returns a parent project for the instance of the ExtendedAttributeDefinitionCollection class. |

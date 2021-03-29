@@ -42,7 +42,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 |Aspose.Tasks.VbaModuleAttribute |Represetns the attribute of the VbaModule |
 |Aspose.Tasks.VbaModuleCollection |Collection of the VbaModules |
 |Aspose.Tasks.VbaReferenceCollection |Collection of the VbaReferences |
-|Aspsoe.Tasks.VbaModuleAttributeCollection |Collection of the ModuleAttributes |
+|Aspose.Tasks.VbaModuleAttributeCollection |Collection of the ModuleAttributes |
 |**The following public interfaces were added:**     |**Description**                               |
 |IVbaModule |Represents an interface to work with vbaModule |
 |**The following public properties were added:** |**Description** |

@@ -39,5 +39,5 @@ url: /net/public-api-changes-in-aspose-tasks-for-net-8-5-0/
 
 |Field Name |Description |
 | :- | :- |
-|FileFormat.MPX |Mpx file format |
+|FileFormat.MPX |MPX file format |
 

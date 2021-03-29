@@ -67,7 +67,7 @@ for (auto property : project->get_CustomProps())
 
 Console::WriteLine(project->get_BuiltInProps()->get_Author());
 
-Сonsole::WriteLine(project->get_BuiltInProps()->get_Title());
+Console::WriteLine(project->get_BuiltInProps()->get_Title());
 
 // ... etc.
 

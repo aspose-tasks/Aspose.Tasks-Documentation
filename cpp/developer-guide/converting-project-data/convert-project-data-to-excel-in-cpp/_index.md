@@ -22,7 +22,7 @@ The following lines of code demonstrate how to achieve this using C++.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-SaveProjectAsXLSX-SaveProjectAsXLSX.cpp" >}}
 ### **Using XlsxOptions**
-With XlsOptions, you can modify how the project is exported.
+With XlsxOptions, you can modify how the project is exported.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-UsingXlsxOptions-UsingXlsxOptions.cpp" >}}
 ## **Save Project Data to Spreadsheet2003 XML**

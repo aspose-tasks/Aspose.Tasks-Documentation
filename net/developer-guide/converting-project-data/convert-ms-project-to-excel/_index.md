@@ -24,7 +24,7 @@ The following lines of code show how to achieve this using C#.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectAsXLSX-SaveProjectAsXLSX.cs" >}}
 ### **Using XlsxOptions**
-With XlsOptions, you can modify how the project is exported.
+With XlsxOptions, you can modify how the project is exported.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-UsingXlsxOptions-UsingXlsxOptions.cs" >}}
 ## **Save Project Data to Spreadsheet2003 XML**

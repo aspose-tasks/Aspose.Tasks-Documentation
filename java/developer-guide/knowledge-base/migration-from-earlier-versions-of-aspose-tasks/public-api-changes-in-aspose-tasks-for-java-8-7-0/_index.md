@@ -27,6 +27,6 @@ url: /java/public-api-changes-in-aspose-tasks-for-java-8-7-0/
 |com.aspose.tasks.ApplicationInfo.MSP2016 |File was created in Microsoft Project 2016. |
 **The following public methods were added to existing classes:**
 
-|Project(MspDbSettings) |Inititalizes a new instance of the Project to read data from MS Project Server DB |
+|Project(MspDbSettings) |Initializes a new instance of the Project to read data from MS Project Server DB |
 | :- | :- |
 

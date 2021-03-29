@@ -15,5 +15,5 @@ url: /net/public-api-changes-in-aspose-tasks-for-net-9-0-1/
 
 |**Method Name**|**Description**|
 | :- | :- |
-|Aspose.Tasks.Project(System.IO.Stream stream, PrimaveraXmlReadingOptions options)|Inititalizes a new instance of the Aspose.Tasks.Project class from the Stream with the specified instance of the Aspose.Tasks.PrimaveraXmlReadingOptions class.|
+|Aspose.Tasks.Project(System.IO.Stream stream, PrimaveraXmlReadingOptions options)|Initializes a new instance of the Aspose.Tasks.Project class from the Stream with the specified instance of the Aspose.Tasks.PrimaveraXmlReadingOptions class.|
 
