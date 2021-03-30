@@ -6,7 +6,6 @@ url: /java/aspose-tasks-for-java-9-0-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have implemented 
 
 We have implemented

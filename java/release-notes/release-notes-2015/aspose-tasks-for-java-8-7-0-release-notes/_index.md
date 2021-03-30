@@ -6,7 +6,6 @@ url: /java/aspose-tasks-for-java-8-7-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have supported several important features in this release. Risk 
 analysis tool based on Monte Carlo with pdf report has been implemented.
 We have implemented reading project data from MS Project database. It 

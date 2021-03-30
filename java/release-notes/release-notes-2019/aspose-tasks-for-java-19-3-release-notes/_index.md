@@ -10,7 +10,7 @@ url: /java/aspose-tasks-for-java-19-3-release-notes/
 This page contains release notes information for Aspose.Tasks for Java 19.3.
 
 {{% /alert %}} 
-## **Major Changes**
+## **Major Features**
 - The long-awaited feature of style customization for custom task fields has been implemented.
 - This release includes enhancements and a bunch of fixed bugs connected to PDF export.
 - Also in this release, we made some important enhancements in order to implement better support of custom timephased data for MPP/XML files.

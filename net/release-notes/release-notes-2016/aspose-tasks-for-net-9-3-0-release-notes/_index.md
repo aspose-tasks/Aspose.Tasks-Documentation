@@ -5,7 +5,7 @@ weight: 60
 url: /net/aspose-tasks-for-net-9-3-0-release-notes/
 ---
 
-### **Major Features**
+## **Major Features**
 Improved security and implemented a lot of optimization. We have supported Primavera SQLite database for reading. Recalculation option for ActualWork and RemainingWork
 
 task fields was supported. Some bugs have been fixed. Please see the list of changes below.

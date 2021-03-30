@@ -6,7 +6,6 @@ url: /net/aspose-tasks-for-net-7-4-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have fixed two bugs this release. Note, new features will be added in the revamped 
 version only (8.0.0.0 and upper) but bugs and any regression issues will be 
 fixed in both versions. We recommend our customers to start using the revamped version. Please, see details below. 

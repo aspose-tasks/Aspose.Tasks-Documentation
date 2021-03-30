@@ -6,7 +6,6 @@ url: /java/aspose-tasks-for-java-7-4-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have fixed the issue "Images can not be rendered to PNG, JPG, BMP 
 because of wrong locations in the output compared to .NET version." 
 

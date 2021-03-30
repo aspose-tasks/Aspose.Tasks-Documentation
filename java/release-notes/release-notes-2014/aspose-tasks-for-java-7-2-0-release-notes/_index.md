@@ -6,7 +6,6 @@ url: /java/aspose-tasks-for-java-7-2-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have supported WBS code fields reading and writing this release. 
 We also have provided link arrows between tasks across the pages while 
 MPP to PDF conversion. About 12 bugs were fixed. Please see list of 

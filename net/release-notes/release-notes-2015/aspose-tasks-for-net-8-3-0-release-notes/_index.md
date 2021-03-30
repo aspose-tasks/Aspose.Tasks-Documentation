@@ -6,7 +6,6 @@ url: /net/aspose-tasks-for-net-8-3-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have implemented converting 
 
 We have implemented converting

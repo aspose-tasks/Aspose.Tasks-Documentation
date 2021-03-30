@@ -10,7 +10,7 @@ url: /net/aspose-tasks-for-net-18-4-release-notes/
 This page contains release notes information for Aspose.Tasks for .NET 18.4.
 
 {{% /alert %}} 
-## **Major Changes**
+## **Major Features**
 - Support for Conholdate.Total license
 - Extended Aspose.Tasks collections to support BCL collection interfaces
 ## **Improvements**

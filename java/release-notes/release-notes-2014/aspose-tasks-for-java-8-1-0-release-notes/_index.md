@@ -6,7 +6,6 @@ url: /java/aspose-tasks-for-java-8-1-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have implemented new Aspose.Tasks API. The API is more clear and 
 easy to use. We recommend our customers to start to use the revamped 
 version. Note, we will publish at least three releases of the existing 

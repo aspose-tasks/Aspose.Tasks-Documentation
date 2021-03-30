@@ -6,7 +6,6 @@ url: /net/aspose-tasks-for-net-8-2-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have implemented several new features this release. "Display 
 Details columns in chart area" feature has been supported. Formula 
 calculation and evaluation of functions in formulas have been 

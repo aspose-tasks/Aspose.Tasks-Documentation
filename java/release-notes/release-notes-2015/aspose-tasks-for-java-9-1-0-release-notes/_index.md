@@ -6,7 +6,6 @@ url: /java/aspose-tasks-for-java-9-1-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have implemented Task.DurationText field for mpp writing and 
 reading. New constructor has been added to Project class to work with 
 Primavera Project. Also reading all project UID from Primavera XML has 

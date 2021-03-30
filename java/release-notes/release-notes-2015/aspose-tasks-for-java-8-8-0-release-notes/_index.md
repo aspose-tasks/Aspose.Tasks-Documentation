@@ -6,7 +6,6 @@ url: /java/aspose-tasks-for-java-8-8-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have significantly improved writing and reading for mpp format. We
 have also implemented Task ExtendedAttributes and 
 ExtendedAttributeDefinitions reading from MS Project Server. About ten 

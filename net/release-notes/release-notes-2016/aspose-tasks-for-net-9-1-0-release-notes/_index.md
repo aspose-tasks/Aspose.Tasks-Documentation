@@ -6,7 +6,6 @@ url: /net/aspose-tasks-for-net-9-1-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have implemented Task.DurationText field for mpp writing and 
 reading. Mono platform has been supported for Aspose.Tasks(it is in 
 

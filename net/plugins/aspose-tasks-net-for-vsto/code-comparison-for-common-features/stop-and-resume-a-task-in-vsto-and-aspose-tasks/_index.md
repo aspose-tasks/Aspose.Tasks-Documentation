@@ -48,7 +48,7 @@ Below is the code of VSTO Project to Stop and Resume a task:
 
 {{< /highlight >}}
 ### **Aspose.Tasks**
-The Stop and Resume properties exposed by the [Tsk\](/pages/createpage.action?spaceKey=tasksnet&title=Aspose.Tasks.Tsk+class&linkCreation=true&fromPageId=16288574) class are used to read or write a task's stop and resume date:
+The Stop and Resume properties exposed by the [Tsk](/pages/createpage.action?spaceKey=tasksnet&title=Aspose.Tasks.Tsk+class&linkCreation=true&fromPageId=16288574) class are used to read or write a task's stop and resume date:
 
 - Stop: the date a task stops (DateTime).
 - Resume: the data and time a task restarts (DateTime).

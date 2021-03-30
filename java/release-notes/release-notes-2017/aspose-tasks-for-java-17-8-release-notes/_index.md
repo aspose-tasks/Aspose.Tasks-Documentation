@@ -6,7 +6,7 @@ url: /java/aspose-tasks-for-java-17-8-release-notes/
 ---
 
 {{% alert color="primary" %}} This page contains release notes information for Aspose.Tasks for Java 17.8. {{% /alert %}} 
-## **Major Changes**
+## **Major Features**
 - Support for JDK 1.6 has been discontinued
 ## **Improvements**
 

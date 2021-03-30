@@ -6,7 +6,6 @@ url: /net/aspose-tasks-for-net-8-8-1-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have significantly improved writing and reading for mpp format. We
 have supported export and import Project Data for HTML format. It will 
 allow to work with GroupDocs Editor 

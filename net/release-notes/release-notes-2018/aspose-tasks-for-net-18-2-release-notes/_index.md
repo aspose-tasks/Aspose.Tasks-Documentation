@@ -6,7 +6,7 @@ url: /net/aspose-tasks-for-net-18-2-release-notes/
 ---
 
 {{% alert color="primary" %}}  This page contains release notes information for Aspose.Tasks for .NET 18.2. {{% /alert %}} 
-## **Major Changes**
+## **Major Features**
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |

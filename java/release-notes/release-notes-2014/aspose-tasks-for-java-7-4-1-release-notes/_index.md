@@ -6,7 +6,6 @@ url: /java/aspose-tasks-for-java-7-4-1-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have fixed two bugs this release. Please, see details below. 
 
 We have fixed two bugs this release. Please, see details below.

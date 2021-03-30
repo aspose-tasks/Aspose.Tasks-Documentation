@@ -10,7 +10,7 @@ url: /java/aspose-tasks-for-java-18-3-release-notes/
 This page contains release notes information about Aspose.Tasks for Java 18.3.
 
 {{% /alert %}} 
-## **Major Changes**
+## **Major Features**
 - [Renumbering of WBS Code](/tasks/java/wbs-associated-with-a-task/#wbsassociatedwithatask-renumberwbscodes)
 - Eliminating the [gap between Tasks list and page footer](/tasks/java/reducing-gap-between-tasks-list-and-footer/)
 - Get [page count depending upon start and end date time](/tasks/java/working-with-project-pages/#workingwithprojectpages-programmingsample-getnumberofpagesbasedonstartandenddates)

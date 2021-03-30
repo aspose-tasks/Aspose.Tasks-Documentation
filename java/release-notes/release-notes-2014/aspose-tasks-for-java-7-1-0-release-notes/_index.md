@@ -6,7 +6,6 @@ url: /java/aspose-tasks-for-java-7-1-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We have significantly improved rendering into to pdf format. MPP 
 GantChart TimeScale information is used for rendering specifically. 
 Also, GanttChart rendering resolved for bars that are in footer section.

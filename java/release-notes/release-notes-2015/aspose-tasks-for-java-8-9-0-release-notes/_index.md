@@ -6,7 +6,6 @@ url: /java/aspose-tasks-for-java-8-9-0-release-notes/
 ---
 
 ## **Major Features**
-## **Major Features**
 We
 have supported export and import Project Data for HTML format. It will 
 allow to work with GroupDocs Editor 
