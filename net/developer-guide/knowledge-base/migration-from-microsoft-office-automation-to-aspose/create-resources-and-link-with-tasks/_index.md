@@ -21,21 +21,21 @@ The following steps are required to accomplish this task:
 ### **Code Examples - VSTO**
 The sample project file used in the following code snippets, SampleProject.mpp, can be downloaded from this page attachments. Before resources are created and linked to tasks, the Project1.mpp file looks as below.
 
-**Input file: Gantt chart view** 
+## **Input file: Gantt chart view** 
 
 ![todo:image_alt_text](create-resources-and-link-with-tasks_1.png)
 
-**Input file: Resource sheet view** 
+## **Input file: Resource sheet view** 
 
 ![todo:image_alt_text](create-resources-and-link-with-tasks_2.png)
 
 After processing, the file is updated.
 
-**Output file: Gantt chart view** 
+## **Output file: Gantt chart view** 
 
 ![todo:image_alt_text](create-resources-and-link-with-tasks_3.png)
 
-**Output file: Resource sheet view** 
+## **Output file: Resource sheet view** 
 
 ![todo:image_alt_text](create-resources-and-link-with-tasks_4.png)
 

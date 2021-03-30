@@ -24,7 +24,7 @@ The date year will be converted to 2000 in the projects that will be written thr
 
 The project file created from the code looks like the one below in Microsoft Project. Note that the Start and Finish dates for Task1 have been converted from 06-Apr-2010 to 06-Apr-2000. Similarly, the Start and Finish dates for Task2 have been converted from 10-Apr-2010 to 10-Apr-2000. These dates are written with the same original year if the project is created using a [licensed version of Aspose.Tasks for Java](https://docs.aspose.com/tasks/java/licensing/#applying-the-license).
 
-**Date changes in the evaluation version of Aspose.Tasks** 
+## **Date changes in the evaluation version of Aspose.Tasks** 
 
 ![todo:image_alt_text](licensing_1.png)
 

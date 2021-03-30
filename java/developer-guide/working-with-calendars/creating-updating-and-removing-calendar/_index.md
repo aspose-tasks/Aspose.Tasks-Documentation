@@ -14,11 +14,11 @@ There are three ways of creating a calendar in Aspose.Tasks. The [Calendar](http
 
 Project calendars are returned as CalendarCollection by the getCalendars() method of Project class. When you open the output file in Microsoft Project and, on the **Project** menu, select **Project Information** to access the calendars. 
 
-**Project information showing the calendars no info, no name and cal3** 
+## **Project information showing the calendars info**
 
 ![todo:image_alt_text](creating-updating-and-removing-calendar_1.png)
 
-**Programming Sample**
+## **Programming Sample**
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Calendars-CreateCalendar-CreateCalendar.java" >}}
 
 ## **Defining Weekdays for Calendar**

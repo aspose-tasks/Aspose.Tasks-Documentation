@@ -78,7 +78,7 @@ To see the default project information in Microsoft Project:
 4. Go to the **Schedule** tab.
    Here, you can see the settings for the default task type and default task start time.
 
-**Default project information in Microsoft Project, as written by Aspose.Tasks** 
+## **Default project information in Microsoft Project, as written by Aspose.Tasks** 
 
 ![todo:image_alt_text](working-with-project-properties_2.png)
 ### **Reading Default Properties**
@@ -127,7 +127,7 @@ To see fiscal year properties in Microsoft Project:
 2. On the **Tools** menu, click **Options**.
 3. Click the **Calendar** tab. It will look like the one shown below.
 
-*Checking that the fiscal year properties have been set in Microsoft Project.
+## **Checking that the fiscal year properties have been set in Microsoft Project.**
 
 ![todo:image_alt_text](working-with-project-properties_3.png)
 
@@ -154,7 +154,7 @@ To see weekday properties in Microsoft Project:
 2. On the **Tools** menu, click **Options**.
 3. Select the **Calendar** tab. It will look something like the example below.
 
-**Viewing weekday properties in Microsoft Project** 
+## **Viewing weekday properties in Microsoft Project** 
 
 ![todo:image_alt_text](working-with-project-properties_4.png)
 
@@ -181,7 +181,7 @@ To see the currency properties in Microsoft Project:
 2. On the **Tools** menu, select **Options**.
 3. Click the **View** tab. It will look like the one shown below.
 
-**Reading currency properties in Microsoft Project** 
+## **Reading currency properties in Microsoft Project** 
 
 ![todo:image_alt_text](working-with-project-properties_4.png)
 

@@ -25,7 +25,7 @@ To see fiscal year properties in Microsoft Project:
 2. On the **Tools** menu, click **Options**.
 3. Click the **Calendar** tab. It will look like the one shown below.
 
-*Checking that the fiscal year properties have been set in Microsoft Project.
+Checking that the fiscal year properties have been set in Microsoft Project.
 
 ![todo:image_alt_text](/download/attachments/16286619/1056228256)
 
