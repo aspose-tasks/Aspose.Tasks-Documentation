@@ -8,7 +8,7 @@ url: /cpp/general-project-properties/
 ## **Working with General Project Properties**
 Microsoft Project saves project properties, metadata, for every project. The properties include the project's start and end dates, the current date and the status date, the type of calendar used and when a project is scheduled from. Aspose.Tasks lets you read and set project properties as described below. 
 ### **Reading Project Information**
-The [Project]()[ ](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.project/)class has a number of properties that deal with project properties:
+The [Project]()[ ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project/)class has a number of properties that deal with project properties:
 
 - [StartDate](): the project's start date, of the DateTime data type.
 - [FinishDate](): the project's end date, of the DateTime data type.

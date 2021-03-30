@@ -6,7 +6,7 @@ url: /cpp/task-baseline-duration/
 ---
 
 ## **Task Baseline Duration**
-The Duration and EstimatedDuration properties of the [TaskBaseLine ](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.task_baseline/)class can be used to read and write the scheduled duration when the baseline was saved and determine whether the scheduled duration was estimated or not respectively.
+The Duration and EstimatedDuration properties of the [TaskBaseLine ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.task_baseline/)class can be used to read and write the scheduled duration when the baseline was saved and determine whether the scheduled duration was estimated or not respectively.
 
 - Duration supports the TimeSpan datatype.
 - EstimatedDuration supports the Boolean data type.

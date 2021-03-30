@@ -35,7 +35,7 @@ Below is code sample to create resource in project.
 
 {{< /highlight >}}
 ### **Aspose.Tasks**
-The [Resource](https://www.aspose.com/docs/display/tasksnet/Aspose.Tasks.Resource+Class) class allows to add a new resource to the project.
+The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) class allows to add a new resource to the project.
 
 {{< highlight cs >}}
 

@@ -82,7 +82,7 @@ prj.save("EvalProject.xml", SaveFileFormat.XML);
 #### **MPP Write Support**
 Aspose.Tasks for Java supports reading MPP files, updating the project summary information and then writing updated project files in original the MPP format. That is, if original MPP format belongs to Microsoft Project 2003 version, the MPP file updated through Aspose.Tasks for Java will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010 and 2013 MPP formats. However, this support is only available in licensed versions of Aspose.Tasks for Java.
 ## **Applying the License**
-You can download an evaluation version of **Aspose.Tasks** for Java from [its download page](https://www.aspose.com/downloads/tasks/java). The evaluation version provides absolutely the same capabilities as the licensed version of the product. Furthermore, evaluation version simply becomes licensed when you purchase a license and add a couple of lines of code to apply the license.
+You can download an evaluation version of **Aspose.Tasks** for Java from [its download page](https://downloads.aspose.com/tasks/java). The evaluation version provides absolutely the same capabilities as the licensed version of the product. Furthermore, evaluation version simply becomes licensed when you purchase a license and add a couple of lines of code to apply the license.
 
 Once you are happy with your evaluation of **Aspose.Tasks for Java**, you can [purchase a license](https://purchase.aspose.com/buy) at the Aspose website. Make yourself familiar with the different subscription types offered. If you have any questions, do not hesitate to contact the Aspose sales team.
 
@@ -101,7 +101,7 @@ The license can be loaded from a stream or file in the following locations:
 1. Explicit path.
 2. The folder that contains the Aspose.Tasks.jar.
 
-Use the [License](https://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/License).setLicense method to license the component. Often the easiest way to set a license is to put the license file in the same folder as Aspose.Tasks.jar and specify just the file name without path as shown in the following example:
+Use the [License](https://apireference.aspose.com/tasks//java/com.aspose.tasks/license).setLicense method to license the component. Often the easiest way to set a license is to put the license file in the same folder as Aspose.Tasks.jar and specify just the file name without path as shown in the following example:
 
 **Example 1**
 

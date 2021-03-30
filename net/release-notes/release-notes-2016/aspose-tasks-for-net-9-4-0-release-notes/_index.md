@@ -15,9 +15,9 @@ Aspose.Tasks for .NET API enables application developers to write code for manip
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
-|TASKS-34532 |Support for ExtendedAttributeDefinition.CalculationType and RollupType [writing to mpp](https://www.aspose.com/docs/display/tasksnet/Custom+Field+%28Extended+Attribute%29+Definition+Data)|New Feature |
-|TASKS-34528 |Support for ExtendedAttributeDefinition.CalculationType and RollupType [reading from mpp](https://www.aspose.com/docs/display/tasksnet/Custom+Field+%28Extended+Attribute%29+Definition+Data)|New Feature |
-|TASKS-34553 |Option to [read VBA](/pages/createpage.action?spaceKey=tasksnet&title=Reading+VBA+Information+from+MPP+file+%28zArchived%29&linkCreation=true&fromPageId=16288508) from mpp |New Feature |
+|TASKS-34532 |Support for ExtendedAttributeDefinition.CalculationType and RollupType writing to mpp |New Feature |
+|TASKS-34528 |Support for ExtendedAttributeDefinition.CalculationType and RollupType reading from mpp |New Feature |
+|TASKS-34553 |Option to read VBA from mpp |New Feature |
 |TASKS-34507 |Support Formula Calculation with different types of the ExtendedAttribute |Enhancement |
 |TASKS-34547 |Implement field type converter for the Formula Calculation |Enhancement |
 |TASKS-34503 |Calculation of the formula is not correct |Bug |

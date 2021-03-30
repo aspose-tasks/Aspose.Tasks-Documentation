@@ -11,7 +11,7 @@ A task's priority helps Microsoft Project with automatic resource levelling (a p
 
 {{% /alert %}} 
 ## **Working with Priorities**
-The priorities associated with a class are handled through the Priority property exposed by the [Tsk](https://www.aspose.com/api/net/tasks/aspose.tasks/tsk) class.
+The priorities associated with a class are handled through the Priority property exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class.
 
 - Priority: a task's priority (an integer between 1 and 1000).
 ### **Priorities in Microsoft Project**

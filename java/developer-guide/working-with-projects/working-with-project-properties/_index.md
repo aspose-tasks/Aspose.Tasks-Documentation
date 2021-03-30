@@ -117,7 +117,7 @@ The following code reads a project's fiscal year properties and displays them in
 ## **Weekday Properties**
 Microsoft Project lets users set a number of different weekday properties, for example, what day a week starts on and how many working days are in a month. Aspose.Tasks support these features through a number of properties that can be used both to read weekday properties and to write them to a project.
 
-Aspose.Tasks has a series of properties, exposed by the [Prj](https://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Prj) class, specifically for managing a project's weekday properties:
+Aspose.Tasks has a series of properties, exposed by the [Prj](https://apireference.aspose.com/tasks//java/com.aspose.tasks/prj) class, specifically for managing a project's weekday properties:
 
 - WEEK_START_DAY: the first day of the week. This property takes values defined by the DayType enumeration.
 - DAYS_PER_MONTH: the number of working days in a month, passed as an integer.
@@ -179,7 +179,7 @@ The following example writes currency properties to the project.
 ## **Setting Attributes for New Tasks**
 Microsoft Project allows to set default properties for new tasks added. This article explains how to set the default start date for new tasks using Aspose.Tasks for Java API.
 
-The static class [Prj](https://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/Prj) exposes the NEW_TASK_START_DATE method that defines the start date for a new task. This property supports the values defined by the TaskStartDateType enumeration type.
+The static class [Prj](https://apireference.aspose.com/tasks//java/com.aspose.tasks/prj) exposes the NEW_TASK_START_DATE method that defines the start date for a new task. This property supports the values defined by the TaskStartDateType enumeration type.
 
 To see the task attribute:
 

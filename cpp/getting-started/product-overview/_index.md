@@ -68,7 +68,7 @@ When expecting a reply in the forums, please allow for time zone differences.
 If you have an issue, follow these simple steps to make sure it is resolved efficiently:
 
 - Make sure you use the latest version of the product before reporting an issue. 
-- Have a look through the [forums](https://forum.aspose.com/c/tasks), this documentation Wiki and the [API Reference](https://apireference.aspose.com/cpp/tasks) before reporting an issue. Your question may already have an answer.
+- Have a look through the [forums](https://forum.aspose.com/c/tasks), this documentation Wiki and the [API Reference](https://apireference.aspose.com/tasks/cpp) before reporting an issue. Your question may already have an answer.
 - When reporting an issue, please include the original document and possibly a fragment of your code that causes the problem. If you need to attach multiple files, zip them into one. It is safe to attach your documents in the forums since only you and Aspose's developers have access to attached files.
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.
 

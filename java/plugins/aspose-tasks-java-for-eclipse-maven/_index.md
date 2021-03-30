@@ -64,9 +64,9 @@ Following are three recommended methods for the successful downloading and insta
   [https://marketplace.eclipse.org/content/asposetasks-java-maven-eclipse](https://marketplace.eclipse.org/content/asposetasks-java-maven-eclipse)
   Then select "Aspose.Tasks Java (Maven) for Eclipse" and **Finish**. Accept License Agreement and Install the plugin.
 ## **Installing**
-[Installing Aspose.Tasks Java (Maven) for Eclipse](https://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+Java+for+Eclipse+-+Maven#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Installing)
+[Installing Aspose.Tasks Java (Maven) for Eclipse](https://docs.aspose.com/tasks/java/installing-and-using-aspose-tasks-java-for-eclipse-maven/#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Installing)
 ## **Using the Plugin**
-[Using Aspose.Tasks Java (Maven) for Eclipse](https://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+Java+for+Eclipse+-+Maven#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Using)
+[Using Aspose.Tasks Java (Maven) for Eclipse](https://docs.aspose.com/tasks/java/installing-and-using-aspose-tasks-java-for-eclipse-maven/#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Using)
 ### **How to apply Aspose License?**
 This Plugin uses an evaluation version of Aspose.Tasks. Once you are happy with your evaluation of **Aspose.Tasks for Java**, you can buy a license at the [Aspose website](https://purchase.aspose.com/buy).
 To remove evaluation message and feature limitations, product license should be applied. You will receive a license file after you have purchased the product. Please follow the steps below to apply the license

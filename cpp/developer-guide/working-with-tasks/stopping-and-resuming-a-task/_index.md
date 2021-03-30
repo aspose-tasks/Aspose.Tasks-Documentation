@@ -11,7 +11,7 @@ A tasks' stop date is the date that it should (or did) end. Sometimes, a task ha
 
 {{% /alert %}} 
 ## **Working with Stopped and Resumed Tasks**
-The Stop and Resume properties exposed by the [Tsk](https://www.aspose.com/api/net/tasks/aspose.tasks/tsk) class are used to read or write a task's stop and resume date:
+The Stop and Resume properties exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to read or write a task's stop and resume date:
 
 - Stop: the date a task stops (DateTime).
 - Resume: the date and time a task restarts (DateTime).

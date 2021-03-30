@@ -6,7 +6,7 @@ url: /cpp/assignment-overtime-and-remaining-costs/
 ---
 
 ## **Handling Overtime, Remaining Costs and Work**
-The [Asn ](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.asn/)class exposes a number of properties for handling an assignment's overtime, remaining costs and work:
+The [Asn ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.asn/)class exposes a number of properties for handling an assignment's overtime, remaining costs and work:
 
 - OvertimeCost represents the sum of the actual and remaining overtime costs of an assignment (decimal).
 - OvertimeWork represents the scheduled overtime work for an assignment (TimeSpan).

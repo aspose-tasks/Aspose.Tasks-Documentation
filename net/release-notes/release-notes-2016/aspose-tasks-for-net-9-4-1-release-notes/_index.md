@@ -10,7 +10,7 @@ Aspose.Tasks for .NET API enables application developers to write code for manip
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
-|[TASKSNET-708](https://www.aspose.com/docs/display/tasksnet/Moving+a+Task#MovingaTask-MoveUnderSameParent)|Move task from one position to other under same parent and outline level |New Feature |
+|TASKSNET-708 |Move task from one position to other under same parent and outline level |New Feature |
 |TASKSNET-701 |Project Reading Exception in Multithreaded environment |Bug |
 |TASKSNET-697 |Calendar.GetWorkingTimes returns wrong From & To information |Bug |
 |TASKSNET-703 |Error while reading XML file from primavera |Bug |

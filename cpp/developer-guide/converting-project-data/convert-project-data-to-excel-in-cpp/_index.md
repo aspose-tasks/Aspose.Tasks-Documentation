@@ -11,7 +11,7 @@ This article demonstrates how to save project data to XLSX format using Aspose.T
 
 {{% /alert %}} 
 
-The [Project ](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.project/)class exposes the Save method which is used to save a project in various formats. The Save method allows you to save project tasks, resources and assignments to separate worksheets to XLSX format using the SaveFileFormat enumeration type.
+The [Project ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project/)class exposes the Save method which is used to save a project in various formats. The Save method allows you to save project tasks, resources and assignments to separate worksheets to XLSX format using the SaveFileFormat enumeration type.
 
 To save a project to XLSX:
 

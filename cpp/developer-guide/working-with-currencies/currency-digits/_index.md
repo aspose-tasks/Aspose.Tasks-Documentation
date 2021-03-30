@@ -11,7 +11,7 @@ Currency digits set the number of decimal points (digits after a decimal point) 
 
 {{% /alert %}} 
 ## **Managing Currency Digits**
-The CurrencyDigits property exposed by the [Project ](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.project/)class is used to set or get the number of digits after the decimal symbol for a project's currency. This property supports the integer data type.
+The CurrencyDigits property exposed by the [Project ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project/)class is used to set or get the number of digits after the decimal symbol for a project's currency. This property supports the integer data type.
 
 To view the currency digit for a project in Microsoft Project:
 

@@ -11,7 +11,7 @@ Tasks take time, they have a duration. Realistic task durations help give a real
 
 {{% /alert %}} 
 ## **Working with Durations**
-The Duration and DurationFormat properties exposed by the [Tsk](https://www.aspose.com/api/net/tasks/aspose.tasks/tsk) class are used to determine the planned duration and format of the duration of a task:
+The Duration and DurationFormat properties exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to determine the planned duration and format of the duration of a task:
 
 - Duration sets and gets a task's planned duration (TimeSpan).
 - DurationFormat sets and gets formats defined by the TimeUnitType enumeration.
@@ -26,7 +26,7 @@ The code example given below demonstrates how to increase and decrease the task 
 ## **Calculating Durations**
 It can be useful to calculate the duration of a task in different units such as minutes, hours, etc.
 
-The [Tsk](https://apireference.aspose.com/cpp/tasks/class/aspose.tasks.tsk/) class provides the Duration property for accessing task duration, which returns the Duration class object. The Convert method exposed as part of Duration class can then be used to calculate task durations in different units. This method takes TimeUnitType as the input argument and returns the duration as a double value.
+The [Tsk](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.tsk/) class provides the Duration property for accessing task duration, which returns the Duration class object. The Convert method exposed as part of Duration class can then be used to calculate task durations in different units. This method takes TimeUnitType as the input argument and returns the duration as a double value.
 
 The following code example demonstrates how to use this method to retrieve a task's duration in different units: minute, day, hour, week and month.
 

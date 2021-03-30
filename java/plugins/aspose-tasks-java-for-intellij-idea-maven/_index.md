@@ -68,9 +68,9 @@ To download IntellliJ IDEA
   - In Search Box type: "Aspose"
   - Select "**Aspose.Tasks Java for IntelliJ IDEA Maven**" plugin to install.
 ## **Installing**
-[Installing Aspose.Tasks for IntelliJ IDEA - Maven](https://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+for+IntelliJ+IDEA+-+Maven#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Installing)
+[Installing Aspose.Tasks for IntelliJ IDEA - Maven](https://docs.aspose.com/tasks/java/installing-and-using-aspose-tasks-for-intellij-idea-maven/#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Installing)
 ## **Using**
-[Using Aspose.Tasks for IntelliJ IDEA - Maven](https://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+for+IntelliJ+IDEA+-+Maven#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Using)
+[Using Aspose.Tasks for IntelliJ IDEA - Maven](https://docs.aspose.com/tasks/java/installing-and-using-aspose-tasks-for-intellij-idea-maven/#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Using)
 ## **Video Demo**
 Please check [the video](https://youtu.be/yG8cZ_Fis-I) below to see Aspose.Tasks Maven Project Wizard and Aspose.Tasks Example Wizard in action.
 ## **Support, Extend and Contribute**
