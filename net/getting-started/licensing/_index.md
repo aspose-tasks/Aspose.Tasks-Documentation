@@ -25,7 +25,7 @@ The project file created from the code looks like the one below in Microsoft Pro
 |**Date changes in the evaluation version of Aspose.Tasks**|
 | :- |
 |![todo:image_alt_text](licensing_1.png)|
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-Licensing-EvaluationDateTimeLimitations-DateTimeLimitations.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-EvaluationDateTimeLimitations-DateTimeLimitations.cs" >}}
 #### **MPP Write Support**
 Aspose.Tasks for .NET supports reading MPP files, updating the project summary information and then writing updated project files in original MPP format. If the original MPP format belongs to Microsoft Project 2003 version, the MPP file is updated through Aspose.Tasks for .NET will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010 and 2013 MPP formats. However, this support is only available in licensed versions of Aspose.Tasks for .NET.
 ## **Applying the License**
@@ -58,12 +58,12 @@ license.SetLicense("license.lic");
 #### **Applying a License Using File or Stream**
 This code snippet initializes a license stored in a file or an embedded resource.
 
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-Licensing-ApplyLicenseUsingFile-ApplyLicenseUsingFile.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-ApplyLicenseUsingFile-ApplyLicenseUsingFile.cs" >}}
 
 
 This code snippet initializes a license from a stream.
 
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-Licensing-ApplyLicenseUsingStream-ApplyLicenseUsingStream.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-ApplyLicenseUsingStream-ApplyLicenseUsingStream.cs" >}}
 
 
 #### **Applying a Licenses Using an Embedded Resource**

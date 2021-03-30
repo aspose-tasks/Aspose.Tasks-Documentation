@@ -79,4 +79,4 @@ This imports the [Aspose.Tasks]() namespace at the start of your code. Use the c
 ### **Programming Sample - Aspose.Tasks**
 
 
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-KnowledgeBase-AddNewTask-AddNewTask.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-KnowledgeBase-AddNewTask-AddNewTask.cs" >}}

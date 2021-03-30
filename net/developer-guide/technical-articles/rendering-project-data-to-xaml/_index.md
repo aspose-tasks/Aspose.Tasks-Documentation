@@ -13,10 +13,10 @@ Aspose.Tasks lets you render project data to an XAML file. The easiest way to ac
 ## **Rendering to XAML**
 The following code sample demonstrates how this feature can be used in C#.NET and VB.NET:
 
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-Articles-RenderToXAML-RenderToXAML.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderToXAML-RenderToXAML.cs" >}}
 ### **Render XAML with Options**
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-Articles-RenderXAMLWithOptions-RenderXAMLWithOptions.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderXAMLWithOptions-RenderXAMLWithOptions.cs" >}}
 
 Different presentation formats can be used to render the project to XAML: PresentationFormat.GanttChart, PresentationFormat.TaskUsage, PresentationFormat.ResourceUsage and PresentationFormat.ResourceSheet.
 
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-Articles-RenderDifferentPresentationFormatsToXAML-RenderDifferentPresentationFormatsToXAML.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderDifferentPresentationFormatsToXAML-RenderDifferentPresentationFormatsToXAML.cs" >}}

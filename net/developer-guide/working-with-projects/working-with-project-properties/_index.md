@@ -133,7 +133,7 @@ To see fiscal year properties in Microsoft Project:
 
 The following example writes the fiscal year properties of the project.
 
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-WriteFiscalYearProperties-WriteFiscalYearProperties.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-WriteFiscalYearProperties-WriteFiscalYearProperties.cs" >}}
 ## **Weekday Properties**
 Microsoft Project lets users set a number of different weekday properties. For example, what day a week starts on and how many working days are in a month. Aspose.Tasks support these features through a number of properties that can be used both to **read weekday properties** and to **write them to a project**.
 

@@ -15,4 +15,4 @@ Aspose.Tasks provides the ability to sort tasks by any column in the Gantt chart
 
 
 
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-Articles-SortTasksByColumnInGanttChart-SortTasksByColumnInGanttChart.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-SortTasksByColumnInGanttChart-SortTasksByColumnInGanttChart.cs" >}}

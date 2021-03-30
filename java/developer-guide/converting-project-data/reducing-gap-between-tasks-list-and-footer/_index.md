@@ -11,4 +11,4 @@ Conversion of Project data to different formats can lead to space between the pr
 
 {{% /alert %}} 
 **Eliminating Gap between Tasks List and Document Footer**
-{{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReducingGapBetweenTasksListAndFooter-ReducingGapBetweenTasksListAndFooter.java" >}}
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReducingGapBetweenTasksListAndFooter-ReducingGapBetweenTasksListAndFooter.java" >}}

@@ -81,4 +81,4 @@ The following steps are required to accomplish this task:
 4. Use the code from the following example to read tasks and resources.
 
 ### **Code Examples - Aspose.Tasks**
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-KnowledgeBase-ReadCriticalPath-ReadCriticalPath.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-KnowledgeBase-ReadCriticalPath-ReadCriticalPath.cs" >}}

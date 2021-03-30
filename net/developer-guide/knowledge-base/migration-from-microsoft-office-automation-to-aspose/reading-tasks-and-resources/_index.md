@@ -123,4 +123,4 @@ The following steps are required to accomplish this task:
 ### **Code Examples - Aspose.Tasks**
 
 
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-KnowledgeBase-ReadTaskAndResources-ReadTaskAndResources.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-KnowledgeBase-ReadTaskAndResources-ReadTaskAndResources.cs" >}}

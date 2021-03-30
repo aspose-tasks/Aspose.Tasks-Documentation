@@ -11,19 +11,19 @@ Microsoft Project (MSP) allows developers to save project data (MPP/XML) to comm
 
 {{% /alert %}} 
 ## **Converting to HTML**
-{{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsHtml-save-as-html.java" >}}
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsHtml-save-as-html.java" >}}
 ### **Controlling Document Header Name during Export to HTML**
-{{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsHtml-export-html-document-headers.java" >}}
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsHtml-export-html-document-headers.java" >}}
 ## **Saving a Project as CSV**
 The following code snippet shows how to save a project as a CSV format.
 
-{{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsCsvTextAndTemplate-saving-project-csv.java" >}}
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsCsvTextAndTemplate-saving-project-csv.java" >}}
 
 ## **Save Project to Text**
-{{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsCsvTextAndTemplate-saving-project-text.java" >}}
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsCsvTextAndTemplate-saving-project-text.java" >}}
 
 
 ## **Save Project Data as Template (MPT)**
 The following code snippet shows how to save a project as an MPT format.
 
-{{< gist "aspose-tasks" "378a8af8eeb0c3aa8f0e0095b3bd1d94" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsCsvTextAndTemplate-saving-project-data-template.java" >}}
+{{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsCsvTextAndTemplate-saving-project-data-template.java" >}}

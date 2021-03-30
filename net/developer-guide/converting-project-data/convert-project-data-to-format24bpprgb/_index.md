@@ -13,4 +13,4 @@ Format24bppRgb specifies that the format is 24 bits per pixel; 8 bits each are u
 
 {{% /alert %}} 
 ## **Rendering Project Data to Format24bppRgb and Controlling the Horizontal and Vertical Resolution**
-{{< gist "aspose-tasks" "0655812ac3db2536958f" "Examples-CSharp-ConvertingProjectData-RenderProjectDataToFormat24bppRgb-RenderProjectDataToFormat24bppRgb.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-RenderProjectDataToFormat24bppRgb-RenderProjectDataToFormat24bppRgb.cs" >}}
