@@ -17,10 +17,10 @@ Aspose.Tasks API can use Task, Resource and Project fields as a formula in expre
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Formulae-WorkWithFormulas-TaskFieldsFormula.java" >}}
 
 
-## **Using Arithmetic Expression ((1+3*(2+ -5)+8/2)^3)**
+## **Using Arithmetic Expression**
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Formulae-WorkWithFormulas-UsingArithmeticExpression.java" >}}
 
-## **Using Task Number Fields : (Outline Level + Priority + % Complete|% Complete)/2**
+## **Using Task Number Fields**
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Formulae-WorkWithFormulas-UsingTaskNumberFields.java" >}}
 
 ## **Formula With Boolean Values**

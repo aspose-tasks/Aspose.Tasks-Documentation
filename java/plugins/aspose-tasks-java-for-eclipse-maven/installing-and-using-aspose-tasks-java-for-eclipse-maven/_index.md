@@ -39,7 +39,7 @@ To create **Maven Project** by wizard for using [Aspose.Tasks for Java API](http
 
 {{% alert color="primary" %}} 
 
-To be able to use **Aspose.Tasks Code Example wizard** comfortably: it is recommended to always select **Also Download Code Examples** while creating **Maven Project** on **Aspose.Tasks Maven Project** **wizard**, 
+To be able to use **Aspose.Tasks Code Example wizard** comfortably: it is recommended to always select **Also Download Code Examples** while creating **Maven Project** on **Aspose.Tasks Maven Project Wizard**, 
 
 {{% /alert %}} 
 

@@ -29,6 +29,6 @@ The following are the links to some useful resources you may need to accomplish 
 - [Download Examples at GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-C)
 - [Aspose.Tasks for C++ API Reference Guide](https://apireference.aspose.com/tasks/cpp)
 - [Aspose.Tasks for C++ Free Support Forum](https://forum.aspose.com/c/tasks)
-- [Aspose.Tasks for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
+- [Aspose.Tasks for C++ Paid Support HelpDesk](https://helpdesk.aspose.com/)
 
 

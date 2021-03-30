@@ -27,4 +27,4 @@ The following are the links to some useful resources you may need to accomplish 
 - [Download Examples at GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET)
 - [Aspose.Tasks for .NET API Reference Guide](https://apireference.aspose.com/net/tasks)
 - [Aspose.Tasks for .NET Free Support Forum](https://forum.aspose.com/c/tasks)
-- [Aspose.Tasks for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
+- [Aspose.Tasks for .NET Paid Support HelpDesk](https://helpdesk.aspose.com/)
