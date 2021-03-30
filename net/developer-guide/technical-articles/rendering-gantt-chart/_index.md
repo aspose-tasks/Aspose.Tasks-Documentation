@@ -34,11 +34,9 @@ Also, if SaveOptions.DrawNonWorkingTime (default value = true) is set to false, 
 ### **Example 1: Gantt Chart Bars Not Rolled Up**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderGanttChartWithBarsNotRolledUp-RenderGanttChartWithBarsNotRolledUp.cs" >}}
 
-
-
 **The output from example 1** 
 
-![todo:image_alt_text](rendering-gantt-chart_1.png)
+![rendering Gantt Chart without bar rollup](rendering-gantt-chart_1.png)
 ### **Example 2: Rolling Up Gantt Chart Bars**
 In this example, SaveOptions.RollUpGanttBars = true, SaveOptions.DrawNonWorkingTime = true, and task.HideBar = false for hidden tasks.
 
@@ -48,18 +46,12 @@ In this example, SaveOptions.RollUpGanttBars = true, SaveOptions.DrawNonWorkingT
 
 **The output from example 2** 
 
-![todo:image_alt_text](rendering-gantt-chart_2.png)
-
-
-
+![rendering Gantt Chart with rolled up bar](rendering-gantt-chart_2.png)
 
 ## **Customize Text with Task Bars**
 In this example, the text on the right of the taskbar can be customized by delegate instance. Here we customize the text on the critical tasks.
 
-
-
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-CustomizeTextWithTaskBars-CustomizeTextWithTaskBars.cs" >}}
-
 
 ## **Align Cell Contents**
 Text can be aligned by GanttChartColumn.StringAlignment, ResourceViewColumn.StringAlignment properties. Alignment by default is StringAlignment.Near (left).

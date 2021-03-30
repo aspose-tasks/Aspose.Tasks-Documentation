@@ -15,7 +15,7 @@ To see a project's currency code in Microsoft Project:
 
 **Currency codes in Microsoft Project** 
 
-![todo:image_alt_text](/download/attachments/16286650/1487439706)
+![viewing currency codes](managing-currency-codes_1.png)
 ### **Setting Currency using Aspose.Tasks**
 The following code example demonstrates how to set these properties.
 

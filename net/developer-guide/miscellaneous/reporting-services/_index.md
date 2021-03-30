@@ -76,42 +76,43 @@ The sample code snippets below can be used to create these reports. All the samp
 
 
 #### **Resource Overview**
-![todo:image_alt_text](reporting-services_8.png)
+![exported resource overview report example](reporting-services_8.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveResourceOverviewReport-SaveResourceOverviewReport.cs" >}}
 
 
 #### **Cost Overruns**
-![todo:image_alt_text](reporting-services_9.png)
+![exported cost overruns report example](reporting-services_9.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCostOverrunsReport-SaveCostOverrunsReport.cs" >}}
 
 
 #### **Upcoming Task**
-![todo:image_alt_text](reporting-services_10.png)
+![exported upcoming task report example](reporting-services_10.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveUpcomingTasksReport-SaveUpcomingTasksReport.cs" >}}
 #### **Task Cost Overview**
-![todo:image_alt_text](reporting-services_11.png)
+![exported task cost overview report example](reporting-services_11.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveTaskCostOverviewReport-SaveTaskCostOverviewReport.cs" >}}
 #### **Over-allocated Resources**
-![todo:image_alt_text](reporting-services_12.png)
+![exported over-allocated resources report example](reporting-services_12.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveOverallocatedResourcesReport-SaveOverallocatedResourcesReport.cs" >}}
 #### **Slipping Tasks**
-![todo:image_alt_text](reporting-services_13.png)
+![exported slipping report example](reporting-services_13.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveSlippingTasksReport-SaveSlippingTasksReport.cs" >}}
+
 #### **Best Practice Analyzer**
-![todo:image_alt_text](reporting-services_14.png)
+![exported best practice report example](reporting-services_14.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveBestPracticeAnalyzerReport-SaveBestPracticeAnalyzerReport.cs" >}}
 #### **Burn Down**
-![todo:image_alt_text](reporting-services_15.png)
+![exported practice analyzer report example](reporting-services_15.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveBurnDownReport-SaveBurnDownReport.cs" >}}
 #### **Cash Flow**
-![todo:image_alt_text](reporting-services_16.png)
+![exported burndown report example](reporting-services_16.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCashFlowReport-SaveCashFlowReport.cs" >}}

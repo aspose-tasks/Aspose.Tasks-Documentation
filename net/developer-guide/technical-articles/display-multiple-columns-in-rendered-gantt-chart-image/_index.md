@@ -18,7 +18,7 @@ This article describes how to select project columns to include in a Gantt chart
 ## **Gantt Chart**
 A Gantt chart is a graphical representation of project tasks broken down by days, weeks or months. A project is composed of tasks assigned to different resources. An individual task may be divided into sub-tasks as part of tasks management. Every task has a start date and end date that determines its duration. A Gantt chart in Microsoft Project gives a quick view of such project data. This screenshot shows a typical Gantt chart in Microsoft Project: 
 
-![todo:image_alt_text](display-multiple-columns-in-rendered-gantt-chart-image_1.png)
+![Gantt chart represented by Microsoft Project](display-multiple-columns-in-rendered-gantt-chart-image_1.png)
 ## **Gantt Chart Image in Aspose.Tasks for .NET**
 In Aspose.Tasks for .NET, the Project class is the main class for handling project files. The Project class exposes the Export overload method for exporting project data to different file formats. The users can configure this method to export project data to any supported format by passing parameters:
 
@@ -413,12 +413,10 @@ namespace RenderProject
 
 The following is the image and HTML image produced with the example code: 
 
-![todo:image_alt_text](display-multiple-columns-in-rendered-gantt-chart-image_2.png)
+![resulting HTML exported by Aspose.Tasks 1](display-multiple-columns-in-rendered-gantt-chart-image_2.png)
 
+![resulting HTML exported by Aspose.Tasks 2](display-multiple-columns-in-rendered-gantt-chart-image_3.png)
 
-
-
-![todo:image_alt_text](display-multiple-columns-in-rendered-gantt-chart-image_3.png)
 ## **Conclusion**
 Define image rendering parameters using one of the BaseImageRenderParam constructor overloads and project view to display selected columns in the output image and render a project file to a Gantt chart image using the Export method exposed by the Project class.
 

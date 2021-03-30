@@ -41,7 +41,7 @@ The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) cl
 
 To read project properties in Microsoft Project, click **Project Information** on the **Project** menu.
 
-![todo:image_alt_text](working-with-project-properties_1.png)
+![showing project information in Microsoft Project](working-with-project-properties_1.png)
 
 The programming samples below show how to read and output the project start and end date, whether the project is scheduled from the start or end, author, last author, revision, keywords and comments.
 
@@ -80,7 +80,7 @@ To see the default project information in Microsoft Project:
 
 ## **Default project information in Microsoft Project, as written by Aspose.Tasks** 
 
-![todo:image_alt_text](working-with-project-properties_2.png)
+![showing up default information in Microsoft Project](working-with-project-properties_2.png)
 ### **Reading Default Properties**
 The following example reads a project's default properties and writes them to a console window.
 
@@ -129,7 +129,7 @@ To see fiscal year properties in Microsoft Project:
 
 ## **Checking that the fiscal year properties have been set in Microsoft Project.**
 
-![todo:image_alt_text](working-with-project-properties_3.png)
+![fiscal year properties in Microsoft Project](working-with-project-properties_3.png)
 
 The following example writes the fiscal year properties of the project.
 
@@ -156,7 +156,7 @@ To see weekday properties in Microsoft Project:
 
 ## **Viewing weekday properties in Microsoft Project** 
 
-![todo:image_alt_text](working-with-project-properties_4.png)
+![calendar properties in Microsoft Project](working-with-project-properties_4.png)
 
 The following code writes weekday properties, as shown in the screenshot above, to a project.
 
@@ -183,7 +183,7 @@ To see the currency properties in Microsoft Project:
 
 ## **Reading currency properties in Microsoft Project** 
 
-![todo:image_alt_text](working-with-project-properties_4.png)
+![checking currency properties in Microsoft Project](working-with-project-properties_2.png)
 
 The following example writes currency properties to the project.
 
@@ -193,7 +193,7 @@ Microsoft Project allows to set default properties for new tasks added. This top
 
 The [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj) class exposes the [NewTaskStartDate](https://apireference.aspose.com/tasks/net/aspose.tasks/prj/fields/newtaskstartdate) property that defines the start date for a new task. This property supports the values defined by the [TaskStartDateType](https://apireference.aspose.com/tasks/net/aspose.tasks/taskstartdatetype) enumeration type.
 
-To see the task attribute:
+To see the task attributes:
 
 1. Open the file with Microsoft Project.
 2. On the **Tools** menu, select **Options**.
@@ -202,7 +202,7 @@ To see the task attribute:
 
 **New tasks set to start on the current date** 
 
-![todo:image_alt_text](working-with-project-properties_6.png)
+![altering task's schedule options in Microsoft Project](working-with-project-properties_6.png)
 
 The following lines of code set the new task start date.
 

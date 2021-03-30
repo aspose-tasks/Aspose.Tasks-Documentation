@@ -20,7 +20,7 @@ To view the currency digit for a project in Microsoft Project:
 
 **Currency digits in Microsoft Project** 
 
-![todo:image_alt_text](managing-currency-digits_1.png)
+![altering currency symbol in Microsoft Project](managing-currency-digits_1.png)
 ### **Setting Currency Digits using Aspose.Tasks**
 The following example shows how to set currency digits with Aspose.Tasks.
 

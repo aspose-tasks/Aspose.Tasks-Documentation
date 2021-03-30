@@ -15,14 +15,11 @@ The priorities associated with a class are handled through the Priority proper
 
 - Priority: a task's priority (an integer between 1 and 1000).
 ### **Priorities in Microsoft Project**
-To see a task's priority in Microsoft Project:
-
-1. Double-click a task in the Task Entry form.
-
+To check a task's priority in Microsoft Project one need to double-click a task in the Task Entry form:
 
 **Task priority in Microsoft Project** 
 
-![todo:image_alt_text](/download/attachments/16286626/1513591667)
+![viewing task priorities](handling-priorities_1.png)
 ### **Getting a Task's Priority**
 The code example given below demonstrates how to get a task's priority and write it to a console window using Aspose.Tasks.
 

@@ -14,15 +14,11 @@ A task's priority helps Microsoft Project with automatic resource levelling (a p
 The priorities associated with a class are handled through the Priority property exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class.
 
 - Priority: a task's priority (an integer between 1 and 1000).
-### **Priorities in Microsoft Project**
-To see a task's priority in Microsoft Project:
 
-1. Double-click a task in the Task Entry form.
+### **Task priorities in Microsoft Project**
+To handle a task's priority in Microsoft Project one need to double-click on a task in the Task Entry form:
+![handling the task priority](handling-priorities_1.png)
 
-
-**Task priority in Microsoft Project** 
-
-![todo:image_alt_text](handling-priorities_1.png)
 ### **Getting a Task's Priority**
 The following examples show how to get a task's priority and write it to a console window using Aspose.Tasks.
 

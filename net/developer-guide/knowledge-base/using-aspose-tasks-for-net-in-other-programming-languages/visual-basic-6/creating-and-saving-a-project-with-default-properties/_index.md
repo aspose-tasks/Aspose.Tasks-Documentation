@@ -72,4 +72,4 @@ This is an ASP classic page with VB Script that gathers information about defaul
 
 The project file in XML format thus created with default properties set by the above code will look as follows:
 
-![todo:image_alt_text](1.jpg)
+![default properties of Microsoft Project file](1.jpg)

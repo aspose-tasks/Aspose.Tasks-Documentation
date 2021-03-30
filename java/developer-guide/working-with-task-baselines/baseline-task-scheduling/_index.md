@@ -17,7 +17,7 @@ After saving a baseline, the task baseline schedule can be viewed in Microsoft P
 
 **Baseline start and end dates in Microsoft Project** 
 
-![todo:image_alt_text](baseline-task-scheduling_1.png)
+![show task baseline start/finish in Microsoft Project](baseline-task-scheduling_1.png)
 ### **Getting Task Baseline Schedule using Aspose.Tasks**
 The code below displays the task baseline schedule in a console window after traversing a task's baselines.
 

@@ -17,10 +17,8 @@ To manage predecessor tasks in Microsoft Project:
 2. Double-click the desired task.
 3. Select the Predecessor tab.
 
+![managing predecessor and successor of the task](predecessor-and-successor-tasks_1.png)
 
-**Viewing predecessor tasks in Microsoft Project** 
-
-![todo:image_alt_text](predecessor-and-successor-tasks_1.png)
 ### **Getting Predecessor Tasks with Aspose.Tasks**
 The code samples below displays predecessor and successor task after traversing the task links in the project and writing the results to a console window.
 

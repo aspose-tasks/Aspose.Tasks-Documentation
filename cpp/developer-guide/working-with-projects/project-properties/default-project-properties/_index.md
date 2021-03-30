@@ -29,7 +29,7 @@ To see the default project information in Microsoft Project:
 
 **Default project information in Microsoft Project, as written by Aspose.Tasks** 
 
-![todo:image_alt_text](/download/attachments/16286619/1924835173)
+![show default project properties in Microsoft Project](working-with-project-properties_2.png)
 ### **Reading Default Properties**
 The code example given below demonstrates how to read a project's default properties and writes them to a console window.
 

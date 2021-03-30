@@ -9,7 +9,7 @@ url: /cpp/installation/
 ### **Using NuGet Package Manager**
 NuGet is the easiest way to download and install Aspose APIs. Open Microsoft Visual Studio and NuGet package manager. Search "aspose" to find the desired Aspose API. Click on "Install", the selected API will be downloaded and referenced in your project.
 
-![todo:image_alt_text](installation_1.png)
+![installing Aspose.Tasks for C++ through NuGet step one](installation_1.png)
 ### **Install or Update using the Package Manager Console**
 You can follow the steps below to reference the Aspose.Tasks API using the package manager console:
 
@@ -18,11 +18,11 @@ You can follow the steps below to reference the Aspose.Tasks API using the pac
 
 Type the command "**Install-Package Aspose.Tasks.Cpp -Version 19.9.0**” and press enter to install the latest full release into your application. Alternatively, you can add the "**-prerelease**" suffix to the command in order to specify that the latest release including hotfixes is to be installed as well.
 
-![todo:image_alt_text](installation_2.jpg)
+![installing Aspose.Tasks for C++ through NuGet step two](installation_2.jpg)
 
 You should now find that Aspose.Tasks has successfully been added and referenced in your application for you.
 
-![todo:image_alt_text](/download/attachments/16286440/734664108)
+![installing Aspose.Tasks for C++ through NuGet step three](installation_3.png)
 
 
 ### **Manual Installation**

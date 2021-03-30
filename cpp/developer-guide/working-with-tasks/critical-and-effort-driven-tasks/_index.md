@@ -16,13 +16,9 @@ The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class ex
 - IsCritical sets or gets whether a task is critical (bool value).
 - IsEffortDriven: sets or gets whether a task is effort-driven (bool value).
 ### **Critical and Effort-driven Tasks in Microsoft Project**
-To see whether a task is critical or effort-driven in Microsoft Project:
+To check whether a task is critical or effort-driven in Microsoft Project double-click a task in the Task Entry form:
+![check is task effort driven in Microsoft Project](handling-critical-and-effort-driven-tasks_1.png)
 
-1. Double-click a task in the Task Entry form.
-
-   **An effort-driven task in Microsoft Project** 
-
-![todo:image_alt_text](/download/attachments/16286623/1772931600)
 ### **Getting Critical and Effort-Driven Tasks**
 The following code examples demonstrate how to get information about whether a task is critical or effort-driven.
 

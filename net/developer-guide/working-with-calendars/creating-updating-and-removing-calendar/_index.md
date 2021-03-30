@@ -17,9 +17,9 @@ There are three ways of creating a calendar in Aspose.Tasks. The [Calendar](http
 The following code creates three different calendars, one using each constructor.
 Open the output file in Microsoft Project and, on the **Project** menu, select **Project Information** to access the calendars. 
 
-**Project information showing the calendars no info, no name and cal3** 
+**Project information showing the calendars** 
 
-![todo:image_alt_text](creating-updating-and-removing-calendar_1.png)
+![checking available calendars in Microsoft Project](creating-updating-and-removing-calendar_1.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-CreatingCalendar-CreatingCalendar.cs" >}}
 ## **Defining Weekdays for Calendar**
@@ -33,7 +33,7 @@ The code samples below set weekdays for a project. After running the code, open 
 
 **Defining weekdays in Microsoft Project** 
 
-![todo:image_alt_text](creating-updating-and-removing-calendar_2.png)
+![adding week days in Microsoft Project calendars](creating-updating-and-removing-calendar_2.png)
 
 The code below defines Monday through Thursday as weekdays with default timings, whereas Friday as a weekday with special timings.
 
@@ -64,7 +64,7 @@ In Microsoft Project, open the file output by the code below and, on the **Tools
 
 **The Change Working Times Information dialogue shows the standard calendar used by the project** 
 
-![todo:image_alt_text](creating-updating-and-removing-calendar_3.png)
+![editing calendar working times in Microsoft Project](creating-updating-and-removing-calendar_3.png)
 
 The following lines of code create a standard calendar using both methods.
 

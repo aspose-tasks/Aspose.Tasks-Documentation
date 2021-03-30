@@ -12,15 +12,13 @@ The [LinkType](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink/p
 {{% /alert %}} 
 ## **Defining Link Type**
 To define link type in Microsoft Project:
-On the **View** menu, select **More Views** and then **Task Entry Form**.
 
-1. Double-click the desired task.
-2. Select the **Predecessor** tab.
+1. On the **View** menu, select **More Views** and then **Task Entry Form**.
+2. Double-click the desired task.
+3. Select the **Predecessor** tab.
 
+![defining task links](defining-link-type_1.png)
 
-**Defining link type in Microsoft Project** 
-
-![todo:image_alt_text](defining-link-type_1.png)
 ### **Setting Link Type with Aspose.Tasks**
 The code samples below set a link type as "Start-to-Start”, the default link type is "Finish-to-Start”.
 

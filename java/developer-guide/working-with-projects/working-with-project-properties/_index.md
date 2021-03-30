@@ -69,7 +69,7 @@ To see the default project information in Microsoft Project:
 
 ## **Default project information in Microsoft Project, as written by Aspose.Tasks** 
 
-![todo:image_alt_text](working-with-project-properties_2.png)
+![viewing project properties in Microsoft Project](working-with-project-properties_2.png)
 
 
 ### **Reading Default Properties**
@@ -190,7 +190,7 @@ To see the task attribute:
 
 **New tasks set to start on the current date** 
 
-![todo:image_alt_text](working-with-project-properties_6.png)
+![modify task's schedule options in Microsoft Project](working-with-project-properties_6.png)
 
 
 The following lines of code sets the new task start date.

@@ -27,7 +27,7 @@ To see fiscal year properties in Microsoft Project:
 
 Checking that the fiscal year properties have been set in Microsoft Project.
 
-![todo:image_alt_text](/download/attachments/16286619/1056228256)
+![fiscal year properties in Microsoft Project](working-with-project-properties_3.png)
 
 The code example given below demonstrates how to write the fiscal year properties of the project.
 
@@ -54,7 +54,7 @@ To see weekday properties in Microsoft Project:
 
 **Viewing weekday properties in Microsoft Project** 
 
-![todo:image_alt_text](/download/attachments/16286619/817796928)
+![show project calendar properties in Microsoft Project](working-with-project-properties_4.png)
 
 The code example given below demonstrates how to write weekday properties, as shown in the screenshot above, to a project.
 

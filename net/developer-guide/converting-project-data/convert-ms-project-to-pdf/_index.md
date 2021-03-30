@@ -44,9 +44,9 @@ Aspose.Tasks draws graphical column indicators when rendering project data to ou
 
 |**Indicator Type**|**Graphical Indicator**|
 | :- | :- |
-|Task Indicators|![todo:image_alt_text](convert-ms-project-to-pdf_1.png)|
-|Resource Indicators|![todo:image_alt_text](convert-ms-project-to-pdf_2.png)|
-|Assignment Indicators|![todo:image_alt_text](convert-ms-project-to-pdf_3.png)|
+|Task Indicators|![task graphical indicators](convert-ms-project-to-pdf_1.png)|
+|Resource Indicators|![resource graphical indicators](convert-ms-project-to-pdf_2.png)|
+|Assignment Indicators|![assignment graphical indicators](convert-ms-project-to-pdf_3.png)|
 ## **Saving to Multiple PDF Files**
 To save project data to multiple PDF files, set the SaveToSeparateFiles flag to true.
 

@@ -8,7 +8,7 @@ url: /net/installation/
 ## **Installing Aspose.Tasks for .NET through NuGet**
 NuGet is the easiest way to download and install Aspose APIs for .NET. Open Microsoft Visual Studio and NuGet package manager. Search "aspose" to find the desired Aspose API. Click on "Install", the selected API will be downloaded and referenced in your project.
 
-![todo:image_alt_text](installation_1.png)
+![Aspose.Tasks for .NET NuGet installation step one](installation_1.png)
 ## **Install or Update Aspose.Tasks using the Package Manager Console**
 You can follow the steps below to reference the Aspose.Tasks API using the package manager console:
 
@@ -17,11 +17,12 @@ You can follow the steps below to reference the Aspose.Tasks API using the pac
 
 Type the command "**Install-Package Aspose.Tasks -Version 20.12.0**” and press enter to install the latest full release into your application. Alternatively, you can add the "**-prerelease**" suffix to the command in order to specify that the latest release including hot fixes is to be installed as well.
 
-![todo:image_alt_text](installation_2.png)
+![Aspose.Tasks for .NET NuGet installation step two](installation_2.png)
 
 You should now find that Aspose.Tasks has successfully been added and referenced in your application for you.
 
-![todo:image_alt_text](installation_3.png)
+![Aspose.Tasks for .NET NuGet installation step three](installation_3.png)
+
 ## **Uninstalling Aspose.Tasks for .NET**
 If you installed Aspose.Tasks using the MSI installer, you can remove the component and the associated demos and documentation:
 

@@ -16,7 +16,7 @@ Project calendars are returned as CalendarCollection by the getCalendars() metho
 
 ## **Project information showing the calendars info**
 
-![todo:image_alt_text](creating-updating-and-removing-calendar_1.png)
+![edit resource calendar in Microsoft Project](creating-updating-and-removing-calendar_1.png)
 
 ## **Programming Sample**
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Calendars-CreateCalendar-CreateCalendar.java" >}}

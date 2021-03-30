@@ -16,13 +16,9 @@ The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class expo
 - IsEstimated: set and get whether a task is estimated (boolean).
 - IsMilestone: set and get whether a task is a milestone (boolean).
 ### **Viewing Estimated and Milestone Tasks in Microsoft Project**
-To see whether a task is estimates of marked as a milestone in Microsoft Project:
+To check whether a task is estimates of marked as a milestone in Microsoft Project one need to double-click on a task in the Task Entry form:
 
-1. Double-click a task in the Task Entry form. 
-
-   **Marking an estimated task as a milestone in Microsoft Project** 
-
-![todo:image_alt_text](managing-estimated-and-milestone-tasks_1.png)
+![is the task a milestone or estimated](managing-estimated-and-milestone-tasks_1.png)
 ### **Finding out Whether a Task is Estimated or a Milestone**
 The following code examples show how to find out whether a task is estimated or a milestone using Aspose.Tasks.
 

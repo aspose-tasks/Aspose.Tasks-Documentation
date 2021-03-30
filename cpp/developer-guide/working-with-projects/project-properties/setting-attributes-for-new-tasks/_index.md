@@ -19,7 +19,7 @@ To see the task attribute:
 
 **New tasks set to start on the current date** 
 
-![todo:image_alt_text](/download/attachments/16286619/1508287620)
+![edit task's schedule options in Microsoft Project](working-with-project-properties_6.png)
 
 The code example given below demonstrates how to set the new task start date.
 

@@ -7,7 +7,7 @@ url: /net/product-overview/
 
 {{% alert color="primary" %}} 
 
-![todo:image_alt_text](product-overview_1.png)
+![Aspose.Tasks for .NET logo](product-overview_1.png)
 
 **Welcome to Aspose.Tasks for .NET**
 

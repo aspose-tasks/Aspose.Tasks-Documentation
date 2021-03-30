@@ -19,7 +19,7 @@ Open the output file in Microsoft Project and, on the **Project** menu, select
 
 ## **Project information showing the calendars info** 
 
-![todo:image_alt_text](/download/attachments/16286504/354656011)
+![update resource calendar in Microsoft Project](creating-updating-and-removing-calendar_1.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithCalendars-CreatingUpdatingAndRemoving-CreatingCalendar-CreatingCalendar.cpp" >}}
 ## **Defining Weekdays for Calendar**
@@ -33,7 +33,7 @@ The code samples below set weekdays for a project. After running the code, open 
 
 **Defining weekdays in Microsoft Project** 
 
-![todo:image_alt_text](/download/attachments/16286504/1864672504)
+![edit calendar in Microsoft Project 2010](creating-updating-and-removing-calendar_2.png)
 
 The code sample given below defines Monday through Thursday as weekdays with default timings, whereas Friday as a weekday with special timings.
 
@@ -50,7 +50,7 @@ In Microsoft Project, open the file output by the code below and, on the **Tool
 
 **The Change Working Times Information dialogue shows the standard calendar used by the project** 
 
-![todo:image_alt_text](/download/attachments/16286504/1798742445)
+![editing calendar working times in Microsoft Project](creating-updating-and-removing-calendar_3.png)
 
 The following lines of code create a standard calendar using both methods.
 

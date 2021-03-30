@@ -36,82 +36,82 @@ The following types of report can be created using Aspose.Tasks:
 
 The sample code snippets below can be used to create these reports. All the sample MPP files used in these examples are present as attachments for testing the sample code.
 #### **Project Overview**
-![todo:image_alt_text](/download/attachments/16286635/700743945)
+![todo:image_alt_text](reporting-services_1.png)
 
 
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveProjectOverviewReport-SaveProjectOverviewReport.cpp" >}}
 #### **Resource Cost Overview**
-![todo:image_alt_text](/download/attachments/16286635/218018186)
+![todo:image_alt_text](reporting-services_2.png)
 
 
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveResourceCostOverviewReport-SaveResourceCostOverviewReport.cpp" >}}
 #### **Cost Overview**
-![todo:image_alt_text](/download/attachments/16286635/1844245454)
+![todo:image_alt_text](reporting-services_3.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveCostOverviewReport-SaveCostOverviewReport.cpp" >}}
 
 
 #### **Work Overview**
-![todo:image_alt_text](/download/attachments/16286635/908797316)
+![todo:image_alt_text](reporting-services_4.png)
 
 
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveWorkOverviewReport-SaveWorkOverviewReport.cpp" >}}
 #### **Critical Tasks**
-![todo:image_alt_text](/download/attachments/16286635/2049058696)
+![todo:image_alt_text](reporting-services_5.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveCriticalTasksReport-SaveCriticalTasksReport.cpp" >}}
 #### **Milestones**
-![todo:image_alt_text](/download/attachments/16286635/1198491712)
+![todo:image_alt_text](reporting-services_6.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveMilestonesReport-SaveMilestonesReport.cpp" >}}
 
 
 #### **Late Tasks**
-![todo:image_alt_text](/download/attachments/16286635/1614389436)
+![todo:image_alt_text](reporting-services_7.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveLateTasksReport-SaveLateTasksReport.cpp" >}}
 
 
 #### **Resource Overview**
-![todo:image_alt_text](/download/attachments/16286635/783796369)
+![todo:image_alt_text](reporting-services_8.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveResourceOverviewReport-SaveResourceOverviewReport.cpp" >}}
 
 
 #### **Cost Overruns**
-![todo:image_alt_text](/download/attachments/16286635/1965351689)
+![todo:image_alt_text](reporting-services_9.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveCostOverrunsReport-SaveCostOverrunsReport.cpp" >}}
 
 
 #### **Upcoming Task**
-![todo:image_alt_text](/download/attachments/16286635/1987277305)
+![todo:image_alt_text](reporting-services_10.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveUpcomingTasksReport-SaveUpcomingTasksReport.cpp" >}}
 #### **Task Cost Overview**
-![todo:image_alt_text](/download/attachments/16286635/249488199)
+![todo:image_alt_text](reporting-services_11.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveTaskCostOverviewReport-SaveTaskCostOverviewReport.cpp" >}}
 #### **Over-allocated Resources**
-![todo:image_alt_text](/download/attachments/16286635/1193568242)
+![todo:image_alt_text](reporting-services_12.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveOverallocatedResourcesReport-SaveOverallocatedResourcesReport.cpp" >}}
 #### **Slipping Tasks**
-![todo:image_alt_text](/download/attachments/16286635/2114201691)
+![todo:image_alt_text](reporting-services_13.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveSlippingTasksReport-SaveSlippingTasksReport.cpp" >}}
 #### **Best Practice Analyzer**
-![todo:image_alt_text](/download/attachments/16286635/416357891)
+![todo:image_alt_text](reporting-services_14.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveBestPracticeAnalyzerReport-SaveBestPracticeAnalyzerReport.cpp" >}}
 #### **Burn Down**
-![todo:image_alt_text](/download/attachments/16286635/2057076184)
+![todo:image_alt_text](reporting-services_15.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveBurnDownReport-SaveBurnDownReport.cpp" >}}
 #### **Cash Flow**
-![todo:image_alt_text](/download/attachments/16286635/1602289463)
+![todo:image_alt_text](reporting-services_16.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveCashFlowReport-SaveCashFlowReport.cpp" >}}

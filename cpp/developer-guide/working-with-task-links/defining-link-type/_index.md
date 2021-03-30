@@ -17,10 +17,9 @@ On the **View** menu, select **More Views** and then **Task Entry Form**.
 1. Double-click the desired task.
 2. Select the **Predecessor** tab.
 
-
 **Defining link type in Microsoft Project** 
 
-![todo:image_alt_text](/download/attachments/16286499/569271201)
+![editing task link type in Microsoft Project](defining-link-type_1.png)
 ### **Setting Link Type with Aspose.Tasks**
 The code sample given below set a link type as "Start-to-Start”, the default link type is "Finish-to-Start”.
 

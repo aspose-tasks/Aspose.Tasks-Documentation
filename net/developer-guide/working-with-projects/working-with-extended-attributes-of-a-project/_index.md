@@ -20,11 +20,11 @@ In this example, we will show how to work with Text1 extended attribute of a pro
 5. Use the "Rename" button to rename the alias of the field if it is desired and press OK button
 6. Add a new task and insert a new column to the task row with the custom field that you used in the above step
 
-![todo:image_alt_text](working-with-extended-attributes-of-a-project_1.png)
+![open extended attributes in Microsoft Project](working-with-extended-attributes-of-a-project_1.png)
 ## **Working with Custom Fields/Extended Attributes using Aspose.Tasks API**
 Aspose.Tasks API provides the capability of creating new extended attributes as well as working with Extended attributes already present in a document. Custom fields or Extended Attributes are represented by ExtendedAttributes collection of a project in Aspose.Tasks. It contains all the extended attributes definition of a project document. Some of the mappings of MSP Custom Field definition are as shown in the image below.
 
-![todo:image_alt_text](working-with-extended-attributes-of-a-project_2.png)
+![switching extended attributes in Microsoft Project](working-with-extended-attributes-of-a-project_2.png)
 ### **Creating a New Extended Attribute and Adding it to Task**
 To add a new extended attribute for task or resource, we first need to define and add the extended attribute definition to the ExtendedAttributes collection. [ExtendedAttributeDefinition](https://apireference.aspose.com/tasks/net/aspose.tasks/extendedattributedefinitioncollection/methods/index) class is used to define a new ExtendedAttribute in a project. The FieldId must be set for proper defining an Extended attribute which is linked to [ExtendedAttributeTask](https://apireference.aspose.com/tasks/net/aspose.tasks/extendedattributetask) (in case of Task) or [ExtendedAttributeResource](https://apireference.aspose.com/tasks/net/aspose.tasks/extendedattributeresource) (in case of Resource). The following sample code shows how to define a new Extended Attribute for Text1 field of project. Once the Extended Attribute definition is complete, you can now create a new Extended Attribute from it and assign it to a task.
 
