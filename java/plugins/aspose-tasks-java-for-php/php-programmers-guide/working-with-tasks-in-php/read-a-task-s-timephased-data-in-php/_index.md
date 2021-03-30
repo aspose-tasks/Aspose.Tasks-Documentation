@@ -34,33 +34,33 @@ $task = $project->getRootTask()->getChildren()->add("Task");
 
 $rsc = $project->getResources()->add("Rsc");
 
-$rscc=new Rsc();
+$resource=new Rsc();
 
 $bigDecimal=new BigDecimal();
 
-$rsc->set($rscc->STANDARD_RATE, $bigDecimal->valueOf(10));
+$rsc->set($resource->STANDARD_RATE, $bigDecimal->valueOf(10));
 
-$rsc->set($rscc->OVERTIME_RATE, $bigDecimal->valueOf(15));
+$rsc->set($resource->OVERTIME_RATE, $bigDecimal->valueOf(15));
 
 \# 6 days duration
 
 $task->set($tsk->DURATION, $project->getDuration(6));
 
-$assn = $project->getResourceAssignments()->add($task, $rsc);
+$assignment = $project->getResourceAssignments()->add($task, $rsc);
 
 $d = new Date(0);
 
-$asnn=new Asn();
+$assignment=new Asn();
 
-$assn->set($asnn->STOP, new Date(0));
+$assignment->set($assignment->STOP, new Date(0));
 
-$assn->set($asnn->RESUME, new Date(0));
+$assignment->set($assignment->RESUME, new Date(0));
 
 \# backloaded contour increases task duration from 6 to 10 days
 
 $workContourType=new WorkContourType();
 
-$assn->set($asnn->WORK_CONTOUR, $workContourType->BackLoaded);
+$assignment->set($assignment->WORK_CONTOUR, $workContourType->BackLoaded);
 
 $baselineType=new BaselineType();
 
@@ -70,9 +70,9 @@ $task->set($tsk->PERCENT_COMPLETE, 50);
 
 $timephasedDataType=new TimephasedDataType();
 
-$td = $assn->getTimephasedData($assn->get($asnn->START),
+$td = $assignment->getTimephasedData($assignment->get($assignment->START),
 
-$assn->get($asnn->FINISH),
+$assignment->get($assignment->FINISH),
 
 $timephasedDataType->AssignmentRemainingWork)->toList();
 

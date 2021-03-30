@@ -26,15 +26,15 @@ $i = 0;
 
 while ($i < sizeof($resource_assignments)) {
 
-$ra = $resource_assignments -> get($i);
+$assignment = $resource_assignments -> get($i);
 
-print "COST: " . (string)$ra -> get($asn -> COST).PHP_EOL;
+print "COST: " . (string)$assignment -> get($asn -> COST).PHP_EOL;
 
-print "ACWP: " . (string)$ra -> get($asn -> ACWP).PHP_EOL;
+print "ACWP: " . (string)$assignment -> get($asn -> ACWP).PHP_EOL;
 
-print "BCWP: " . (string)$ra -> get($asn -> BCWP).PHP_EOL;
+print "BCWP: " . (string)$assignment -> get($asn -> BCWP).PHP_EOL;
 
-print "BCWS: " . (string)$ra -> get($asn -> BCWS).PHP_EOL;
+print "BCWS: " . (string)$assignment -> get($asn -> BCWS).PHP_EOL;
 
 print "--------------------------------------------------------".PHP_EOL;
 

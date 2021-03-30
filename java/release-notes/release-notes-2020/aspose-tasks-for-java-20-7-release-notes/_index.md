@@ -22,7 +22,7 @@ This page contains release notes information for [Aspose.Tasks for Java 20.7](ht
 |TASKSNET-2237|Provide a descriptive error message when saving not supported Task property.|Enhancement|
 |TASKSJAVA-1115|Improve performance of timephased data calculation|Enhancement|
 |TASKSNET-4126|Fix 'Timescale Tier' text styles defined in view settings are not applied when project is rendered in graphical format|Enhancement|
-|TASKSNET-4125|Add rendering of customized Gridlines for Middleopottom Tier Column in Gantt chart view|Enhancement|
+|TASKSNET-4125|Add rendering of customized Gridlines for MiddleBottom Tier Column in Gantt chart view|Enhancement|
 |TASKSNET-3081|Add the ability to render 3 and 1 tier(s) on timescale|Enhancement|
 |TASKSNET-3991|Fix reading writing of Rsc.Created field for MPP format|Bug|
 |TASKSNET-3780|Fix calculation of Rsc.OVERALLOCATED property for shared resources|Bug|
@@ -38,7 +38,7 @@ This page contains release notes information for [Aspose.Tasks for Java 20.7](ht
 |TASKSNET-4009|Fix calculation of Duration hash codes|Bug|
 |TASKSNET-3610|Fix update of field data for GanttChart bar styles|Bug|
 |TASKSNET-3578|Fix writing of assignment's "Work" field for material resource|Bug|
-|TASKSNET-2415|Fix incorrect reading/writing of ext attribute FieldId and SecondaryPid|Bug|
+|TASKSNET-2415|Fix incorrect reading/writing of extended attribute FieldId and SecondaryPid|Bug|
 |TASKSJAVA-1157|Milestone property wrong when writing task|Bug|
 |TASKSJAVA-1159|On saving a project the InvalidOperationException exception has been thrown|Bug|
 

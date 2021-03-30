@@ -24,7 +24,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 
 |**Public Methods and Properties Added**|**Description**|
 | :- | :- |
-|com.aspose.tasks.ExtendedAttributeDefinition.createExtendedAttribute(com.aspose.tasks.OutlineValue) |Creates new extended attribute linked with specifiedcom.aspose.tasks.OutlineValue item fromcom.aspose.tasks.OutlineCodeDefinition lookup table. |
+|com.aspose.tasks.ExtendedAttributeDefinition.createExtendedAttribute(com.aspose.tasks.OutlineValue) |Creates new extended attribute linked with specified com.aspose.tasks.OutlineValue item from com.aspose.tasks.OutlineCodeDefinition lookup table. |
 |**Public Enumerations Added**|**Description** |
 |com.aspose.tasks.TaskKey.ExternalKey |Represents the ExternalKey (Task) field. |
 

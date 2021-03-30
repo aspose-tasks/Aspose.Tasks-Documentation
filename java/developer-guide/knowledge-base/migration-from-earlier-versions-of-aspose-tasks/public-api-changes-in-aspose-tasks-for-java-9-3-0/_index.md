@@ -20,7 +20,7 @@ url: /java/public-api-changes-in-aspose-tasks-for-java-9-3-0/
 |com.aspose.tasks.setShowInMenu(boolean) |Sets a flag which determines whether to show the group name in the Group drop-down list in the Ribbon. |
 |com.aspose.tasks.Project.save(OutputStream, /**SaveFileFormat**/int) |Saves the project data to the output stream. |
 |com.aspose.tasks.Project.save(OutputStream, SaveOptions) |Saves the project to the output stream using the specified save options. |
-|**The following fields were added to public enums:**|** |
+|**The following fields were added to public enumerations:**|** |
 |com.aspose.tasks.DateFormat.DateDdMmYyyy |Date format like 17/03/2016 |
 |com.aspose.tasks.DateLabel.DayDdMmYyyy |Day format like 17/03/2016 |
 

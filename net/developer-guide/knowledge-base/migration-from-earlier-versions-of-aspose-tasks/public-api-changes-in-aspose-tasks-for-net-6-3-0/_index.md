@@ -34,9 +34,10 @@ Resource names are rendered by default if BarTextConverter is not provided.
 It allows to specify sorting order of tasks in the Gantt chart view.
 By default tasks are sorted by Task.Id property.
 
-
 **StringAlignment property added to GanttChartColumn and ResourceViewColumn.**
 
 It allows left, right or centered alignment of text in columns of PresentationFormat.GanttChart, PresentationFormat.TaskUsage, PresentationFormat.ResourceUsage and PresentationFormat.ResourceSheet presentation formats.
-**CalcSlacks() method has been removed** 
+
+**CalcSlacks() method has been removed**
+
 The CalcSlacks() method has been removed and is obsolete now as these are already recalculated in Task.Recalculate(Project.RootTask) method with Early/Late dates. Improper use of this method could lead to wrong results and, hence, it has been marked as obsolete now.

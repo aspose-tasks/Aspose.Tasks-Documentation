@@ -14,11 +14,11 @@ To get Task Baseline Duration using **Aspose.Tasks Java for Ruby**, simply invok
 
  data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
 
-onesec = 10000000
+oneSecond = 10000000
 
-onemin = 60 * onesec
+oneMinute = 60 * oneSecond
 
-onehour = 60 * onemin
+oneHour = 60 * oneMinute
 
 \# Instantiate project object
 
@@ -34,7 +34,7 @@ baseline = task.getBaselines().toList().get(0)
 
 duration = baseline.getDuration().toDouble()
 
-baseline_duration = duration / onehour
+baseline_duration = duration / oneHour
 
 puts baseline_duration
 

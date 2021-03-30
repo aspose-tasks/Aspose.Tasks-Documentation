@@ -11,11 +11,7 @@ We have implemented Task.DurationText field for mpp writing and
 reading. Mono platform has been supported for Aspose.Tasks(it is in 
 
 We have implemented Task.DurationText field for mpp writing and 
-reading. Mono platform has been supported for Aspose.Tasks(it is in
-
-dlls only
-
-). About three 
+reading. Mono platform has been supported for Aspose.Tasks(it is in DLLs only). About three 
 bugs have been fixed. Please see the list of changes below. 
 
 ). About three 

@@ -39,7 +39,7 @@ This page contains release notes information for [Aspose.Tasks for Java 19.12](h
 |TASKSNET-2737|Fix saving MPP file with default GanttChartView view|Bug|
 |TASKSNET-2390|Fix non-visible Resource Assignment in Task Usage view in project saved by MPP|Bug|
 |TASKSNET-3525|Fix creation of assignment with material and work resources|Bug|
-|TASKSNET-3511|Fix conholdate license exception while setting|Bug|
+|TASKSNET-3511|Fix Conholdate license exception while setting|Bug|
 |TASKSNET-3510|Fix resave of file results in unreadable MPP|Bug|
 |TASKSNET-3509|Fix exception on loading MPP file|Bug|
 |TASKSNET-3506|Fix reading of ExtendedAttributeDefinition.CalculationType for custom attributes with "Formula" calculation type.|Bug|
@@ -61,7 +61,7 @@ This page contains release notes information for [Aspose.Tasks for Java 19.12](h
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
 |com.aspose.tasks.ResourceAssignmentCollection.add(com.aspose.tasks.Task,com.aspose.tasks.Resource,java.math.BigDecimal)|Adds new assignment to the ResourceAssignmentCollection.|
-|<p>com.aspose.tasks.XlsxOptions.getEncoding</p><p>com.aspose.tasks.XlsxOptions.setEncoding(java.nio.charset.Charset)</p>|Gets or sets the encoding of the resulting .xlsx file.|
+|<p>com.aspose.tasks.XlsxOptions.getEncoding</p><p>com.aspose.tasks.XlsxOptions.setEncoding(java.nio.charset.Charset)</p>|Gets or sets the encoding of the resulting .XLSX file.|
 |com.aspose.tasks.WeekDayCollection.clear|Clear the WeekDayCollection object.|
 |com.aspose.tasks.HtmlImageType|Represents HTML image type.|
 |**The following public enumerations were added:**|**Description**|
@@ -74,5 +74,5 @@ This page contains release notes information for [Aspose.Tasks for Java 19.12](h
 |com.aspose.tasks.HtmlImageType.Svgz|Compressed SVG|
 |com.aspose.tasks.HtmlImageType.Unknown|Unknown format|
 |**The following public methods and properties were deleted:**|**Description**|
-|com.aspose.tasks.setDefaulWorkingTime(com.aspose.tasks.WeekDay)||
+|com.aspose.tasks.setDefaultWorkingTime(com.aspose.tasks.WeekDay)||
 

@@ -39,11 +39,11 @@ The following public fields were added to existing classes:
 |Sub-task |TASKS-33696 |TASKS-33661 Add Task.Deadline rendering in GanttChart |
 |Enhancement |TASKS-33715 |MPP->PDF: Retain same view for Resource Usage, Resource Sheet, Resource Form, Resource Graph, etc |
 |Enhancement |TASKS-33708 |Text alignment and indentation problem in tasks list |
-|Enhancement |TASKS-33705 |Render all the coumns as per source MPP while conversion to PDF |
+|Enhancement |TASKS-33705 |Render all the columns as per source MPP while conversion to PDF |
 |Enhancement |TASKS-33679 |Render whole project as single image without page break borders |
 |Bug |TASKS-33732 |Project to PDF: Resource names jumbles up |
 |Bug |TASKS-33729 |MPP updated by Aspose.Tasks raises error message when modified in MSP |
-|Bug |TASKS-33727 |Issue with dll obfuscations |
+|Bug |TASKS-33727 |Issue with DLL obfuscations |
 |Bug |TASKS-33725 |Exception raised while loading MPP file |
 |Bug |TASKS-33717 |Exception raised while saving project data to MPP |
 |Bug |TASKS-33709 |Inner bar for task is missing in GantChart view time line |

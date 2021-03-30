@@ -26,15 +26,15 @@ $asn=new Asn();
 
 while ($i < sizeof($resource_assignments)){
 
-$ra = $resource_assignments->get($i);
+$assignment = $resource_assignments->get($i);
 
-print "Work Variance: " . (string)$ra -> get($asn -> WORK_VARIANCE).PHP_EOL;
+print "Work Variance: " . (string)$assignment -> get($asn -> WORK_VARIANCE).PHP_EOL;
 
-print "Cost Variance: " . (string)$ra -> get($asn -> COST_VARIANCE).PHP_EOL;
+print "Cost Variance: " . (string)$assignment -> get($asn -> COST_VARIANCE).PHP_EOL;
 
-print "Start Variance: " . (string)$ra -> get($asn -> START_VARIANCE).PHP_EOL;
+print "Start Variance: " . (string)$assignment -> get($asn -> START_VARIANCE).PHP_EOL;
 
-print "Finish Variance: " . (string)$ra -> get($asn -> FINISH_VARIANCE).PHP_EOL;
+print "Finish Variance: " . (string)$assignment -> get($asn -> FINISH_VARIANCE).PHP_EOL;
 
 print "--------------------------------------------------------".PHP_EOL;
 

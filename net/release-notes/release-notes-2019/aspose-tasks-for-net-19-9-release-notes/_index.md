@@ -36,8 +36,8 @@ This page contains release notes information for [Aspose.Tasks for .NET 19.9](ht
 | **The following public methods and properties were added:** | **Description** |
 | :- | :- |
 | Aspose.Tasks.ResourceAssignmentCollection.Add(Aspose.Tasks.Task,Aspose.Tasks.Resource,System.Decimal) | Adds new assignment to the ResourceAssignmentCollection. |
-| Aspose.Tasks.Saving.XlsxOptions.Encoding | Gets or sets the encoding of the resulting .xlsx file. The default value is <see cref="P:System.Text.Encoding.UTF8" />. |
+| Aspose.Tasks.Saving.XlsxOptions.Encoding | Gets or sets the encoding of the resulting .XLSX file. The default value is <see cref="P:System.Text.Encoding.UTF8" />. |
 | Aspose.Tasks.WeekDayCollection.Clear | Clear the WeekDayCollection object.|
 | **The following public methods and properties were deleted:** | **Description** |
-|Aspose.Tasks.WeekDay.SetDefaulWorkingTime(Aspose.Tasks.WeekDay)| |
+|Aspose.Tasks.WeekDay.SetDefaultWorkingTime(Aspose.Tasks.WeekDay)| |
 

@@ -20,7 +20,7 @@ $project = new Project($dataDir . 'test_tasks.mpp');
 
 $cal = $project->getCalendars()->add("Calendar1");
 
-\# Define week days exception for christmis
+\# Define week days exception for Christmas
 
 $except = new CalendarException();
 

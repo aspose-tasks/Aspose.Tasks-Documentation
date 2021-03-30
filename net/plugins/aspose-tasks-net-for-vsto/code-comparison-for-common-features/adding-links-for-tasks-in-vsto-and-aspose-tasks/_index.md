@@ -85,48 +85,44 @@ To link tasks in a project using Aspose.Tasks for .NET:
 
  //Load a project
 
-ProjectReader rdr = new ProjectReader();
+ProjectReader reader = new ProjectReader();
 
 FileStream St = new FileStream("Project.mpp", FileMode.Open);
 
-Project prj = rdr.Read(St);
+Project prj = reader.Read(St);
 
 St.Close();
 
 //Link the tasks
 
-TaskLink tsklnk = new TaskLink(prj.RootTask.Children[0] as Aspose.Tasks.Task, prj.RootTask.Children[1] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
+TaskLink taskLink = new TaskLink(prj.RootTask.Children[0] as Aspose.Tasks.Task, prj.RootTask.Children[1] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
 
-prj.AddTaskLink(tsklnk);
+prj.AddTaskLink(taskLink);
 
-tsklnk = new TaskLink(prj.RootTask.Children[1] as Aspose.Tasks.Task, prj.RootTask.Children[2] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
+taskLink = new TaskLink(prj.RootTask.Children[1] as Aspose.Tasks.Task, prj.RootTask.Children[2] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
 
-prj.AddTaskLink(tsklnk);
+prj.AddTaskLink(taskLink);
 
-tsklnk = new TaskLink(prj.RootTask.Children[2] as Aspose.Tasks.Task, prj.RootTask.Children[3] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
+taskLink = new TaskLink(prj.RootTask.Children[2] as Aspose.Tasks.Task, prj.RootTask.Children[3] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
 
-prj.AddTaskLink(tsklnk);
+prj.AddTaskLink(taskLink);
 
-tsklnk = new TaskLink(prj.RootTask.Children[3] as Aspose.Tasks.Task, prj.RootTask.Children[4] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
+taskLink = new TaskLink(prj.RootTask.Children[3] as Aspose.Tasks.Task, prj.RootTask.Children[4] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
 
-prj.AddTaskLink(tsklnk);
+prj.AddTaskLink(taskLink);
 
-tsklnk = new TaskLink(prj.RootTask.Children[1] as Aspose.Tasks.Task, prj.RootTask.Children[4] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
+taskLink = new TaskLink(prj.RootTask.Children[1] as Aspose.Tasks.Task, prj.RootTask.Children[4] as Aspose.Tasks.Task, TaskLinkType.FinishToStart);
 
-prj.AddTaskLink(tsklnk);
+prj.AddTaskLink(taskLink);
 
 //Display links among the tasks
 
-ArrayList allinks = new ArrayList(prj.TaskLinks);
+ArrayList allLinks = new ArrayList(prj.TaskLinks);
 
-foreach (TaskLink tasklnk in allinks)
-
+foreach (TaskLink taskLink1 in allLinks)
 {
-
-	Console.WriteLine("From ID = " + tasklnk.PredTask.Id + "=>To ID = " + tasklnk.SuccTask.Id);
-
+	Console.WriteLine("From ID = " + taskLink1.PredTask.Id + "=>To ID = " + taskLink1.SuccTask.Id);
 	Console.WriteLine("________________________________________");
-
 }
 
 //Save the project

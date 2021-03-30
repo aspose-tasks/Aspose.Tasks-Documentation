@@ -81,10 +81,10 @@ Value.NumberValue (int) property is deprecated and will be removed in v.20.8. Us
 | Aspose.Tasks.ProjectServerManager.GetProject(System.Guid) |Gets the project with the specified GUID from the Project Online Project Server instance. |
 | Aspose.Tasks.ProjectServerManager.GetProjectRawData(System.Guid) |Gets the project's binary data for troubleshooting purposes. |
 | Aspose.Tasks.ProjectServerManager.GetProjectList |Gets the list of published projects in the current Project Online account Project Server instance. |
-| Aspose.Tasks.ProjectServerManager.UpdateProject(Aspose.Tasks.Project) |Updates existing projects in Project Serverroject Online instance using default save options. The existing project will be overwritten. |
-| Aspose.Tasks.ProjectServerManager.UpdateProject(Aspose.Tasks.Project,Aspose.Tasks.ProjectServerSaveOptions) |Updates existing projects in Project Serverroject Online instance using the specified save options. The existing project will be overwritten. |
-| Aspose.Tasks.ProjectServerManager.CreateNewProject(Aspose.Tasks.Project) |Creates a new project in Project Serverroject Online instance using default save options. |
-| Aspose.Tasks.ProjectServerManager.CreateNewProject(Aspose.Tasks.Project,Aspose.Tasks.ProjectServerSaveOptions) |Creates new project in Project Serverroject Online instance using the specified save options. |
+| Aspose.Tasks.ProjectServerManager.UpdateProject(Aspose.Tasks.Project) |Updates existing projects in Project Server Online instance using default save options. The existing project will be overwritten. |
+| Aspose.Tasks.ProjectServerManager.UpdateProject(Aspose.Tasks.Project,Aspose.Tasks.ProjectServerSaveOptions) |Updates existing projects in Project Server Online instance using the specified save options. The existing project will be overwritten. |
+| Aspose.Tasks.ProjectServerManager.CreateNewProject(Aspose.Tasks.Project) |Creates a new project in Project Server Online instance using default save options. |
+| Aspose.Tasks.ProjectServerManager.CreateNewProject(Aspose.Tasks.Project,Aspose.Tasks.ProjectServerSaveOptions) |Creates new project in Project Server Online instance using the specified save options. |
 | Aspose.Tasks.ProjectServerSaveOptions.#ctor |Initializes a new instance of the <see cref="T:Aspose.Tasks.ProjectServerSaveOptions" /> class. |
 | Aspose.Tasks.ProjectServerSaveOptions.ProjectName |Gets or sets the name of a project which is displayed in the Project Server Project Online projects list. It should be unique within the Project Server Project Online instance. |
 | Aspose.Tasks.ProjectServerSaveOptions.ProjectGuid |Gets or sets a unique identifier of a project. It should be unique within the Project Server Project Online instance. |

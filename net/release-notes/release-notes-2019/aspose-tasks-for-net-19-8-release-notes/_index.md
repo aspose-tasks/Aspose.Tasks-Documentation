@@ -18,7 +18,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 19.8](ht
 |TASKSNET-3414 | Page order ignored when saving into PDF |Bug |
 |TASKSNET-3412 | Fix TasksReadingException on loading MS Project xml file |Bug |
 |TASKSNET-3391 | Fix double-parsing of Mpp structure when .mpp file is opened |Bug |
-|TASKSNET-3364 | Fix incorrect writing/reading of ext attributes when baseline and null resource assignment were added |Bug |
+|TASKSNET-3364 | Fix incorrect writing/reading of extended attributes when baseline and null resource assignment were added |Bug |
 |TASKSNET-3331 | Fix incorrect calculation of tasks' ids |Bug |
 |TASKSNET-3330 | Elements missing in exported PDF |Bug |
 |TASKSNET-3164 | Too many external resources when rendering Project to HTML |Bug |

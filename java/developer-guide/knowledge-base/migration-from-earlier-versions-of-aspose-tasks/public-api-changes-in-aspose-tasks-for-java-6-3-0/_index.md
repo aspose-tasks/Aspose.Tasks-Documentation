@@ -5,7 +5,7 @@ weight: 10
 url: /java/public-api-changes-in-aspose-tasks-for-java-6-3-0/
 ---
 
-The following changes have been made to the public API that may include addition/removal of new methods/enums, deprecation of methods and new features.
+The following changes have been made to the public API that may include addition/removal of new methods/enumerations, deprecation of methods and new features.
 
 **UpdateProjectWorkAsComplete(DateTime completeThrough, bool setZeroOrHundredPercentCompleteOnly) method added to Project.**
 
@@ -35,4 +35,4 @@ By default tasks are sorted by Task.Id property.
 It allows left, right or centered alignment of text in columns of PresentationFormat.GanttChart, PresentationFormat.TaskUsage, PresentationFormat.ResourceUsage and PresentationFormat.ResourceSheet presentation formats.
 
 **CalcSlacks() method has been removed
-**The CalcSlacks() method has been removed and is obsolete now as these are already recalculated in Task.Recalculate(Project.RootTask) method with Early/Late dates. Improper use of this method could lead to wrong results and, hence, it has been makred as obsolete now.
+**The CalcSlacks() method has been removed and is obsolete now as these are already recalculated in Task.Recalculate(Project.RootTask) method with Early/Late dates. Improper use of this method could lead to wrong results and, hence, it has been marked as obsolete now.

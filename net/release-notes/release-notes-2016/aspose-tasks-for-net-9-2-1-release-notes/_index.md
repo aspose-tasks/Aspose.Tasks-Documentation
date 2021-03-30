@@ -9,7 +9,7 @@ url: /net/aspose-tasks-for-net-9-2-1-release-notes/
 ## **Major Features**
 We have supported MPD format for reading. Timescale tier labels has been customized according to current Culture Info. Work weeks information reading was supported. Two bugs have been fixed. Please see the list of changes below. 
 
-We havesupported MPD formatfor reading.Timescale tier labelshasbeen customizedaccording to current Culture Info.Work weeks information reading was supported. Two bugs have been fixed. Please see the list of changes below.
+We have supported MPD format for reading.Timescale tier labels has been customized according to current Culture Info.Work weeks information reading was supported. Two bugs have been fixed. Please see the list of changes below.
 ## **All Changes**
 All Changes
 

@@ -15,7 +15,7 @@ Please make sure you meet the following requirements before downloading and runn
 ## **Download from GitHub**
 All examples of Aspose.Tasks for .NET are hosted on [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET).
 
-- You can either clone the repository using your favourite GitHub client or download the ZIP file from here.</li>
+- You can either clone the repository using your favorite GitHub client or download the ZIP file from here.</li>
 - Extract the contents of the ZIP file to any folder on your computer. All the examples are located in the **Examples** folder.
 - There is a Visual Studio solution file, Aspose.Tasks.Examples.CSharp.sln in the folder.
 - The projects are created in Visual Studio 2013, but the solution files are compatible with Visual Studio 2010 SP1 and higher.

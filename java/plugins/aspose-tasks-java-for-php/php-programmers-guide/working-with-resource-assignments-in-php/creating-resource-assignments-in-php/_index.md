@@ -20,7 +20,7 @@ $task = $project->getRootTask()->getChildren()->add("Task");
 
 $rsc = $project->getResources()->add("Rsc");
 
-$assn = $project->getResourceAssignments()->add($task, $rsc);
+$assignment = $project->getResourceAssignments()->add($task, $rsc);
 
 print "Created resource assignment.".PHP_EOL;
 

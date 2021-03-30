@@ -28,9 +28,9 @@ i = 0
 
 while i < resource_assignments.size()
 
-  ra = resource_assignments.get(i)
+  assignment = resource_assignments.get(i)
 
-  if ra.get(Rjb::import('com.aspose.tasks.Asn').STOP).toString() == "1/1/2000"
+  if assignment.get(Rjb::import('com.aspose.tasks.Asn').STOP).toString() == "1/1/2000"
 
     puts "NA"
 
@@ -40,7 +40,7 @@ while i < resource_assignments.size()
 
   end
 
-  if ra.get(Rjb::import('com.aspose.tasks.Asn').RESUME).toString() == "1/1/2000"
+  if assignment.get(Rjb::import('com.aspose.tasks.Asn').RESUME).toString() == "1/1/2000"
 
     puts "NA"
 

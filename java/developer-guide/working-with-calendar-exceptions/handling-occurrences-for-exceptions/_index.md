@@ -6,7 +6,7 @@ url: /java/handling-occurrences-for-exceptions/
 ---
 
 **Handling Occurrences for Exceptions**
-The setOccurrences and setEnteredbyOccurences methods exposed by the [CalendarException](https://apireference.aspose.com/tasks/java/com.aspose.tasks/CalendarException) class is used to handle occurrences for an exception. Occurrences supports the integer data type, and EnteredbyOccurences supports a Boolean data type.
+The setOccurrences and setEnteredbyOccurences methods exposed by the [CalendarException](https://apireference.aspose.com/tasks/java/com.aspose.tasks/CalendarException) class is used to handle occurrences for an exception. Occurrences supports the integer data type, and EnteredByOccurrences supports a Boolean data type.
 
 **Programming Example**
 

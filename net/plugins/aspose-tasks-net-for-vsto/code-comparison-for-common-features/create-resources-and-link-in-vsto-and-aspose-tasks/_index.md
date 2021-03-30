@@ -37,19 +37,19 @@ projectApplication.FileOpenEx("Project1.mpp",
 
 Microsoft.Office.Interop.MSProject.Project project = projectApplication.ActiveProject;
 
-int iRecourceId = 1;
+int iResourceId = 1;
 
 foreach (Task tsk in project.Tasks)
 
 {
 
-	string developer = "Developer0" + iRecourceId;
+	string developer = "Developer0" + iResourceId;
 
-	project.Resources.Add(developer, iRecourceId);
+	project.Resources.Add(developer, iResourceId);
 
-	tsk.Assignments.Add(tsk.ID, iRecourceId, missingValue);
+	tsk.Assignments.Add(tsk.ID, iResourceId, missingValue);
 
-	iRecourceId++;
+	iResourceId++;
 
 }
 
@@ -83,11 +83,11 @@ for (int i = 1; i <= 5; i++)
 
 {
 
-	string devloper = "Developer0" + i;
+	string developer = "Developer0" + i;
 
 	//Create resource
 
-	Resource rec = new Resource(devloper);
+	Resource rec = new Resource(developer);
 
 	rec.Type = ResourceType.Work;
 
@@ -97,9 +97,9 @@ for (int i = 1; i <= 5; i++)
 
 	//define assignment
 
-	ResourceAssignment ra = new ResourceAssignment((Aspose.Tasks.Task)collector.Tasks[i], rec);
+	ResourceAssignment assignment = new ResourceAssignment((Aspose.Tasks.Task)collector.Tasks[i], rec);
 
-	prj.ResourceAssignments.Add(ra);
+	prj.ResourceAssignments.Add(assignment);
 
 }
 

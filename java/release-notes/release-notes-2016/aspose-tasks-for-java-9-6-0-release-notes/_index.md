@@ -23,7 +23,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 | :- | :- |
 |com.aspose.tasks.CalendarExceptionCollection.addRange(com.aspose.tasks.private.Collections.Generic.IGenericEnumerable) |Adds range of exceptions to the internal list. |
 |com.aspose.tasks.CalendarExceptionCollection.clear() |Removes all items from the Aspose.Tasks.CalendarExceptionCollection. |
-|com.aspose.tasks.TimephasedDataCollection.selectBetweenStartAndFinish(int,java.util.Date,java.util.Date) |Selects all timephases between "startTime" and "finishTime". Has O(log n) complexity in averagecase. |
+|com.aspose.tasks.TimephasedDataCollection.selectBetweenStartAndFinish(int,java.util.Date,java.util.Date) |Selects all time phases between "startTime" and "finishTime". Has O(log n) complexity in average case. |
 |**The following public enumerations were added:** |**Description** |
 |com.aspose.tasks.DateLabel.DayDiDdSpace |Examples: M 30, T 1 |
 |com.aspose.tasks.DateLabel.DayDiDdNoSpace |Examples: M30, T1 |

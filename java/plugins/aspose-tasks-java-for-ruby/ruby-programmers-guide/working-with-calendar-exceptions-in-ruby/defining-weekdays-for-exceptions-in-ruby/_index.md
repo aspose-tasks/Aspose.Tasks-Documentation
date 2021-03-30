@@ -24,7 +24,7 @@ project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp
 
 cal = project.getCalendars().add("Calendar1")
 
-\# Define week days exception for christmis
+\# Define week days exception for Christmas
 
 except = Rjb::import('com.aspose.tasks.CalendarException').new
 

@@ -62,7 +62,7 @@ If these be loaded using the API, they may lead to an exception. In order to ign
 ## **Read Password Protected Projects (2003 Format)**
 ` `This topic shows how to read password protected projects in 2003 format using Aspose.Tasks for Java.
 
-The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes the Project() constructor which is capable of reading password protecte*d files in 2003 format. Saving a password-protected file is not supported yet.
+The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes the Project() constructor which is capable of reading password protected files in 2003 format. Saving a password-protected file is not supported yet.
 
 To read a password-protected project file:
 

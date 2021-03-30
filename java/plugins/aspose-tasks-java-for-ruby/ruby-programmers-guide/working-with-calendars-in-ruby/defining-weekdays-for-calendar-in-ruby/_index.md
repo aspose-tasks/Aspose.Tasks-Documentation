@@ -26,29 +26,29 @@ cal = project.getCalendars().add("Calendar1")
 
 weekday = Rjb::import('com.aspose.tasks.WeekDay')
 
-daytype = Rjb::import('com.aspose.tasks.DayType')
+dayType = Rjb::import('com.aspose.tasks.DayType')
 
-\# Add working days monday through thursday with default timings
+\# Add working days Monday through Thursday with default timings
 
-cal.getWeekDays().add(weekday.createDefaultWorkingDay(daytype.Monday))
+cal.getWeekDays().add(weekday.createDefaultWorkingDay(dayType.Monday))
 
-cal.getWeekDays().add(weekday.createDefaultWorkingDay(daytype.Tuesday))
+cal.getWeekDays().add(weekday.createDefaultWorkingDay(dayType.Tuesday))
 
-cal.getWeekDays().add(weekday.createDefaultWorkingDay(daytype.Wednesday))
+cal.getWeekDays().add(weekday.createDefaultWorkingDay(dayType.Wednesday))
 
-cal.getWeekDays().add(weekday.createDefaultWorkingDay(daytype.Thursday))
+cal.getWeekDays().add(weekday.createDefaultWorkingDay(dayType.Thursday))
 
-cal.getWeekDays().add(Rjb::import('com.aspose.tasks.WeekDay').new(daytype.Saturday))
+cal.getWeekDays().add(Rjb::import('com.aspose.tasks.WeekDay').new(dayType.Saturday))
 
-cal.getWeekDays().add(Rjb::import('com.aspose.tasks.WeekDay').new(daytype.Sunday))
+cal.getWeekDays().add(Rjb::import('com.aspose.tasks.WeekDay').new(dayType.Sunday))
 
-\# Set friday as short working day
+\# Set Friday as short working day
 
-myWeekDay = Rjb::import('com.aspose.tasks.WeekDay').new(daytype.Friday)
+myWeekDay = Rjb::import('com.aspose.tasks.WeekDay').new(dayType.Friday)
 
 \# Sets working time. Only time part of DateTime is important
 
-wt1 = Rjb::import('com.aspose.tasks.WorkingTime').new
+time1 = Rjb::import('com.aspose.tasks.WorkingTime').new
 
 calTime = Rjb::import('java.util.Calendar').getInstance()
 
@@ -56,31 +56,31 @@ calTime.set(1,1,1,9,0,0)
 
 date = calTime.getTime()
 
-wt1.setFromTime(date)
+time1.setFromTime(date)
 
 calTime.set(1,1,1,12,0,0)
 
 date = calTime.getTime()
 
-wt1.setToTime(date)
+time1.setToTime(date)
 
-wt2 = Rjb::import('com.aspose.tasks.WorkingTime').new
+time2 = Rjb::import('com.aspose.tasks.WorkingTime').new
 
 calTime.set(1,1,1,13,0,0)
 
 date = calTime.getTime()
 
-wt2.setFromTime(date)
+time2.setFromTime(date)
 
 calTime.set(1,1,1,16,0,0)
 
 date = calTime.getTime()
 
-wt2.setToTime(date)
+time2.setToTime(date)
 
-myWeekDay.getWorkingTimes().add(wt1)
+myWeekDay.getWorkingTimes().add(time1)
 
-myWeekDay.getWorkingTimes().add(wt2)
+myWeekDay.getWorkingTimes().add(time2)
 
 myWeekDay.setDayWorking(true)
 

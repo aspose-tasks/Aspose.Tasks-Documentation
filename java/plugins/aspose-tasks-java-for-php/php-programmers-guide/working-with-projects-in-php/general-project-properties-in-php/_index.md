@@ -34,9 +34,9 @@ print "Project Finish Date : " . (string)$project -> get($prj -> FINISH_DATE).PH
 
 }
 
-$strSchdl = $project->get($prj->SCHEDULE_FROM_START)->getValue() ? "Project Start Date" : "Project Finish Date";
+$strSchedule = $project->get($prj->SCHEDULE_FROM_START)->getValue() ? "Project Start Date" : "Project Finish Date";
 
-print "Project Schedule From : " . (string)$strSchdl.PHP_EOL;
+print "Project Schedule From : " . (string)$strSchedule.PHP_EOL;
 
 print "Current Date : " . (string)$project->get($prj->CURRENT_DATE).PHP_EOL;
 

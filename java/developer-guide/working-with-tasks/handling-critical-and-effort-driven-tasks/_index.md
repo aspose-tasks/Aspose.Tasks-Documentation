@@ -7,7 +7,7 @@ url: /java/handling-critical-and-effort-driven-tasks/
 
 {{% alert color="primary" %}} 
 
-Microsoft Project recognised a number of different types of tasks. Tasks with no duration, for example, are considered milestones by default. Critical tasks make up the critical path, one or a series of tasks that, ultimately, determines how long a project will take.
+Microsoft Project recognized a number of different types of tasks. Tasks with no duration, for example, are considered milestones by default. Critical tasks make up the critical path, one or a series of tasks that, ultimately, determines how long a project will take.
 
 {{% /alert %}} 
 ## **Working with Critical and Effort-Driven Tasks**

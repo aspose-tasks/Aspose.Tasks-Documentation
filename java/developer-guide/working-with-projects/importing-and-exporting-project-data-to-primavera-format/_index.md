@@ -73,10 +73,10 @@ private static void addJDBCDriver(File file) throws Exception
 }
 
 {{< /highlight >}}
-## **Support for SqLite Database**
+## **Support for SQLite Database**
 {{< highlight java >}}
 
- const string connectionString = "Data Source=d:\\DB\\PPMDBSQLite.db";
+const string connectionString = "Data Source=d:\\DB\\PPMDBSQLite.db";
 
 const int projectId = 4502;
 

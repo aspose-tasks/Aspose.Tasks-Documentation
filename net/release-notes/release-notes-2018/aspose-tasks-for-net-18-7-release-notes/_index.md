@@ -21,7 +21,7 @@ url: /net/aspose-tasks-for-net-18-7-release-notes/
 |TASKSNET-2508|Incorrect finish dates for tasks with splits|Bug|
 |TASKSNET-2506|Timephased data displayed incorrectly after a resave|Bug|
 |TASKSNET-2504|Fix duplicated "OutlineCode" elements in project's xml|Bug|
-|TASKSNET-2503|AT brokes MPP file when tasks has splits|Bug|
+|TASKSNET-2503|AT brakes MPP file when tasks has splits|Bug|
 |TASKSNET-2494|Incorrect duration in XML with custom timephased data|Bug|
 |TASKSNET-2480|Duration changed due to update the percentage complete|Bug|
 |TASKSNET-2479|LinkType changes after saving data to MPX|Bug|

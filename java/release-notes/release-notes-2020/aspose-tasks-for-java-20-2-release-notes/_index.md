@@ -50,7 +50,7 @@ This page contains release notes information for [Aspose.Tasks for Java 20.2](ht
 |com.aspose.tasks.RateByDateCollection.#ctor||
 |com.aspose.tasks.RateCollection.isReadOnly|Gets a value indicating whether the collection is read-only.|
 |com.aspose.tasks.RateCollection.get(java.lang.Object)|Gets the element with the specified key.|
-|com.aspose.tasks.RateCollection.put(java.lang.Integer,RateByDateCollection)|Setsthe element with the specified key.|
+|com.aspose.tasks.RateCollection.put(java.lang.Integer,RateByDateCollection)|Sets the element with the specified key.|
 |com.aspose.tasks.RateCollection.add(java.util.Date,int)|Adds a new <see cref="T:com.aspose.tasks.Rate" /> instance to this collection.|
 |com.aspose.tasks.RateCollection.toList(int)|Converts the RateCollection object to a list of <see cref="T:com.aspose.tasks.Rate" /> objects.|
 |com.aspose.tasks.TaskBaseline.equals(com.aspose.tasks.TaskBaseline)|Returns a value indicating whether this instance is equal to the specified TaskBaseline object.|
@@ -64,8 +64,8 @@ This page contains release notes information for [Aspose.Tasks for Java 20.2](ht
 |com.aspose.tasks.Saving.PdfPermissions.None|Specifies permissions to use for accessing a PDF document.|
 |**The following public enumerations were deleted:**|**Description**|
 |com.aspose.tasks.Field.ResourceGroupbySummary||
-|com.aspose.tasks.PrjKey.CurrencySybmol||
-|com.aspose.tasks.ResourceUsageViewField.WorkAvailablility||
+|com.aspose.tasks.PrjKey.CurrencySymbol||
+|com.aspose.tasks.ResourceUsageViewField.WorkAvailability||
 |com.aspose.tasks.RscKey.GroupbySummary||
 |com.aspose.tasks.PdfPermissions.DisallowAll||
 

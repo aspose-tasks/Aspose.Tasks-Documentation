@@ -45,7 +45,7 @@ This page contains release notes information for [Aspose.Tasks for Java 19.10](h
 |TASKSNET-3414|Page order ignored when saving into PDF|Bug|
 |TASKSNET-3412|Fix TasksReadingException on loading MS Project XML file|Bug|
 |TASKSNET-3391|Fix double-parsing of MPP structure when .mpp file is opened|Bug|
-|TASKSNET-3364|Fix incorrect writing/reading of ext attributes when baseline and null resource assignment were added|Bug|
+|TASKSNET-3364|Fix incorrect writing/reading of extended attributes when baseline and null resource assignment were added|Bug|
 |TASKSNET-3331|Fix incorrect calculation of tasks' ids|Bug|
 |TASKSNET-3330|Elements missing in exported PDF|Bug|
 |TASKSNET-3164|Too many external resources when rendering Project to HTML|Bug|
@@ -68,8 +68,8 @@ This page contains release notes information for [Aspose.Tasks for Java 19.10](h
 |com.aspose.tasks.Project.setBaselineSaveTime(int,java.util.Date)|Sets the baseline save time.|
 |com.aspose.tasks.ExtendedAttribute.toString|Returns short string representation of an extended attribute.|
 |com.aspose.tasks.ProjectOnlineReader.getProjectRawData(java.util.UUID)|Gets the project's binary data for troubleshooting purposes.|
-|com.aspose.tasks.ProjectServerCredentials.#ctor(String,String,String)|Initializes a new instance of the com.aspose.tasks.ProjectServerCredentials class using url of sharepoint site, user name and password.|
-|com.aspose.tasks.ProjectServerCredentials.getUserName|Gets the user name for sharepoint site|
+|com.aspose.tasks.ProjectServerCredentials.#ctor(String,String,String)|Initializes a new instance of the com.aspose.tasks.ProjectServerCredentials class using url of SharePoint site, user name and password.|
+|com.aspose.tasks.ProjectServerCredentials.getUserName|Gets the user name for SharePoint site|
 |com.aspose.tasks.Value.getDurationValue||
 |com.aspose.tasks.Value.setDurationValue||
 |**The following public enumerations were added:**|**Description**|

@@ -18,15 +18,15 @@ $project = new Project($dataDir . 'test_tasks.mpp');
 
 $res = $project->getResources()->toList()->get(0);
 
-$ea = new ExtendedAttribute();
+$attribute = new ExtendedAttribute();
 
-$ea->setFieldId("11");
+$attribute->setFieldId("11");
 
-$ea->setValue("MyValueEA");
+$attribute->setValue("MyValueEA");
 
-$ea->setValueGuid("MyValueGuidEA");
+$attribute->setValueGuid("MyValueGuidEA");
 
-$res->getExtendedAttributes()->add($ea);
+$res->getExtendedAttributes()->add($attribute);
 
 print "Set extended resource attributes.".PHP_EOL;
 

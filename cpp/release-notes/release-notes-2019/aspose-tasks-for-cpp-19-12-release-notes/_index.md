@@ -42,8 +42,8 @@ Aspose.Tasks for C++ is based on the .NET version of the API and provides strict
 | Aspose.Tasks.Visualization.TextStyle.Dispose |  |
 | **The following public enumerations were changed:** | **New name** |
 | Aspose.Tasks.Field.ResourceGroupbySummary | ResourceGroupBySummary |
-| Aspose.Tasks.PrjKey.CurrencySybmol | CurrencySymbol |
-| Aspose.Tasks.ResourceUsageViewField.WorkAvailablility | WorkAvailability |
+| Aspose.Tasks.PrjKey.CurrencySymbol | CurrencySymbol |
+| Aspose.Tasks.ResourceUsageViewField.WorkAvailability| WorkAvailability |
 | Aspose.Tasks.RscKey.GroupbySummary | GroupBySummary |
 | Aspose.Tasks.Saving.PdfPermissions.DisallowAll | None |
 | **The following public enumerations were added:** | **Description** |

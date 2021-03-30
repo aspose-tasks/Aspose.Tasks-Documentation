@@ -28,11 +28,11 @@ i = 0
 
 while i < resource_assignments.size()
 
-  ra = resource_assignments.get(i)
+  assignment = resource_assignments.get(i)
 
-  puts "Buget Cost: " + ra.get(Rjb::import('com.aspose.tasks.Asn').BUDGET_COST).toString()
+  puts "Budget Cost: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').BUDGET_COST).toString()
 
-  puts "Buget Work: " + ra.get(Rjb::import('com.aspose.tasks.Asn').BUDGET_WORK).toString()
+  puts "Budget Work: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').BUDGET_WORK).toString()
 
   puts "--------------------------------------------------------"
 

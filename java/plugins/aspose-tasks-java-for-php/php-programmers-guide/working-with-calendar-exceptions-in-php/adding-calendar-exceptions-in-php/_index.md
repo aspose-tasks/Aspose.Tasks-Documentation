@@ -20,7 +20,7 @@ $cal = $project->getCalendars()->toList()->get(0);
 
 \# Add an exception
 
-$calExc = new CalendarException();
+$calException = new CalendarException();
 
 $calendar=new Calendar();
 
@@ -28,15 +28,15 @@ $calObject = $calendar->getInstance();
 
 $calObject->set(2009, 1, 1, 0, 0, 0);
 
-$calExc->setFromDate($calObject->getTime());
+$calException->setFromDate($calObject->getTime());
 
 $calObject->set(2009, 1, 3, 0, 0, 0);
 
-$calExc->setToDate($calObject->getTime());
+$calException->setToDate($calObject->getTime());
 
-$cal->getExceptions()->add($calExc);
+$cal->getExceptions()->add($calException);
 
-print "Added calendar excpetion.".PHP_EOL;
+print "Added calendar exception.".PHP_EOL;
 
 
 {{< /highlight >}}

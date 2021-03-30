@@ -28,9 +28,9 @@ while i < calendars.size()
 
   cal = calendars.get(i)
 
-  calexc = cal.getExceptions().getCount()
+  calException = cal.getExceptions().getCount()
 
-  if calexc > 0
+  if calException > 0
 
     puts "From: " + calexc.getFromDate().toString()
 

@@ -28,15 +28,15 @@ i = 0
 
 while i < resource_assignments.size()
 
-  ra = resource_assignments.get(i)
+  assignment = resource_assignments.get(i)
 
-  puts "COST: " + ra.get(Rjb::import('com.aspose.tasks.Asn').COST).to_string
+  puts "COST: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').COST).to_string
 
-  puts "ACWP: " + ra.get(Rjb::import('com.aspose.tasks.Asn').ACWP).to_string
+  puts "ACWP: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').ACWP).to_string
 
-  puts "BCWP: " + ra.get(Rjb::import('com.aspose.tasks.Asn').BCWP).to_string
+  puts "BCWP: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').BCWP).to_string
 
-  puts "BCWS: " + ra.get(Rjb::import('com.aspose.tasks.Asn').BCWS).to_string
+  puts "BCWS: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').BCWS).to_string
 
   puts "--------------------------------------------------------"
 

@@ -28,17 +28,17 @@ i = 0
 
 while i < resource_assignments.size()
 
-  ra = resource_assignments.get(i)
+  assignment = resource_assignments.get(i)
 
-  puts "Overtime Cost: " + ra.get(Rjb::import('com.aspose.tasks.Asn').OVERTIME_COST).toString()
+  puts "Overtime Cost: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').OVERTIME_COST).toString()
 
-  puts "Overtime Work: " + ra.get(Rjb::import('com.aspose.tasks.Asn').OVERTIME_WORK).toString()
+  puts "Overtime Work: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').OVERTIME_WORK).toString()
 
-  puts "Remaining Cost: " + ra.get(Rjb::import('com.aspose.tasks.Asn').REMAINING_COST).toString()
+  puts "Remaining Cost: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').REMAINING_COST).toString()
 
-  puts "Remaining Overtime Cost: " + ra.get(Rjb::import('com.aspose.tasks.Asn').REMAINING_OVERTIME_COST).toString()
+  puts "Remaining Overtime Cost: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').REMAINING_OVERTIME_COST).toString()
 
-  puts "Remaining Overtime Work: " + ra.get(Rjb::import('com.aspose.tasks.Asn').REMAINING_OVERTIME_WORK).toString()
+  puts "Remaining Overtime Work: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').REMAINING_OVERTIME_WORK).toString()
 
   puts "--------------------------------------------------------"
 

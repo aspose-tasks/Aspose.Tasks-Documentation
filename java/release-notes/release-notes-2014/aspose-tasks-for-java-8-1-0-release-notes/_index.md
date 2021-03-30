@@ -8,7 +8,7 @@ url: /java/aspose-tasks-for-java-8-1-0-release-notes/
 ## **Major Features**
 ## **Major Features**
 We have implemented new Aspose.Tasks API. The API is more clear and 
-easy to use. We recomend our customers to start to use the revamped 
+easy to use. We recommend our customers to start to use the revamped 
 version. Note, we will publish at least three releases of the existing 
 API along side the new version. Bugs and any regression issues will be 
 fixed in both versions but new features will be added in the revamped 
@@ -19,7 +19,7 @@ implemented. Six bugs have been fixed. Please, see list of all features
 below. 
 
 We have implemented new Aspose.Tasks API. The API is more clear and 
-easy to use. We recomend our customers to start to use the revamped 
+easy to use. We recommend our customers to start to use the revamped 
 version. Note, we will publish at least three releases of the existing 
 API along side the new version. Bugs and any regression issues will be 
 fixed in both versions but new features will be added in the revamped 
@@ -81,7 +81,7 @@ Description
 |Bug |TASKS-33893 |MPP->XML raises ArgumentOutOfRangeException |
 |Bug |TASKS-33877 |Output MPP file cannot be opened in MSP 2007 after updating the hyperlinks |
 |Bug |TASKS-33887 |Wrong behavior in Manual Mode |
-|Bug |TASKS-33903 |Project.Recalcuate raises Exception |
-|Bug |TASKS-33904 |Error raised when saved File using Aspose.Tasks is opened, modified, saved and reopened wiht MSP |
+|Bug |TASKS-33903 |Project.Recalculate raises Exception |
+|Bug |TASKS-33904 |Error raised when saved File using Aspose.Tasks is opened, modified, saved and reopened with MSP |
 |Bug |TASKS-33907 |OutlineOutdent and OutlineIndent not working properly |
 

@@ -34,7 +34,7 @@ options.setPresentationFormat(Rjb::import('com.aspose.tasks.PresentationFormat')
 
 project.save(data_dir + "task_days.pdf", options)
 
-\# Set the Tiemscale settings to ThirdsOfMonths
+\# Set the Timescale settings to ThirdsOfMonths
 
 options.setTimescale(Rjb::import('com.aspose.tasks.Timescale').ThirdsOfMonths)
 

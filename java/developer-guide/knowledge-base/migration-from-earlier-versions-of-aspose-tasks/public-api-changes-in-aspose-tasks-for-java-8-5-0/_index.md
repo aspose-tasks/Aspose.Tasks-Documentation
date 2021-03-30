@@ -25,7 +25,7 @@ url: /java/public-api-changes-in-aspose-tasks-for-java-8-5-0/
 
 |Field Name |Description |
 | :- | :- |
-|com.aspose.tasks.FileFormat.MPX |Mpx file format |
+|com.aspose.tasks.FileFormat.MPX |MPX file format |
 **The following public methods were added to existing classes:**
 
 |Method Name |Description |

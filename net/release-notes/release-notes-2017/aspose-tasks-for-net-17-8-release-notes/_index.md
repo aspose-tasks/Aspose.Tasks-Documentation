@@ -36,14 +36,14 @@ This release provides the capability of reading/writing RateScale information fo
 |Aspose.Tasks.Visualization.TextStyle.Dispose|Performs application-defined tasks associated with releasing unmanaged resources.|
 |**The following public enumerations were added:**|**Description**|
 |Aspose.Tasks.BuildVersionInfo.AssemblyInformationalVersion|The informational version number of the assembly.|
-|Aspose.Tasks.RateScaleType.Undefined|Inidcates Undefined rate scale type.|
-|Aspose.Tasks.RateScaleType.Minute|Inidcates Minute rate scale type.|
-|Aspose.Tasks.RateScaleType.Hour|Inidcates Hour rate scale type.|
-|Aspose.Tasks.RateScaleType.Day|Inidcates Day rate scale type.|
-|Aspose.Tasks.RateScaleType.Week|Inidcates Week rate scale type.|
-|Aspose.Tasks.RateScaleType.Month|Inidcates Month rate scale type.|
-|Aspose.Tasks.RateScaleType.Quarter|Inidcates Quarter rate scale type.|
-|Aspose.Tasks.RateScaleType.Year|Inidcates Year rate scale type.|
+|Aspose.Tasks.RateScaleType.Undefined|Indicates Undefined rate scale type.|
+|Aspose.Tasks.RateScaleType.Minute|Indicates Minute rate scale type.|
+|Aspose.Tasks.RateScaleType.Hour|Indicates Hour rate scale type.|
+|Aspose.Tasks.RateScaleType.Day|Indicates Day rate scale type.|
+|Aspose.Tasks.RateScaleType.Week|Indicates Week rate scale type.|
+|Aspose.Tasks.RateScaleType.Month|Indicates Month rate scale type.|
+|Aspose.Tasks.RateScaleType.Quarter|Indicates Quarter rate scale type.|
+|Aspose.Tasks.RateScaleType.Year|Indicates Year rate scale type.|
 |Aspose.Tasks.TaskKey.SummaryProgress|Represents the Summary Progress (Task) field.|
 |Aspose.Tasks.TaskKey.TaskIsAssigned|Represents the TaskIsAssigned (Task) field.|
 

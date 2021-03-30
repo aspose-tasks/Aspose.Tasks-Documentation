@@ -311,19 +311,19 @@ rsc.setStandardRate(BigDecimal.valueOf(10));
 
 rsc.setOvertimeRate(BigDecimal.valueOf(15));
 
-ResourceAssignment ra = new ResourceAssignment(task, rsc);
+ResourceAssignment assignment = new ResourceAssignment(task, rsc);
 
-ra.setUid(1);
+assignment.setUid(1);
 
 java.util.Calendar cal = java.util.Calendar.getInstance();
 
 cal.set(2009, 8, 18, 0, 0, 0);
 
-ra.setStart(cal.getTime());
+assignment.setStart(cal.getTime());
 
 cal.set(2009,8,20,0,0,0);
 
-ra.setFinish(cal.getTime() );
+assignment.setFinish(cal.getTime() );
 
 project.setRootTask(tskRoot);
 
@@ -331,7 +331,7 @@ project.getRootTask().getChildren().add(task);
 
 project.getResources().add(rsc);
 
-project.getResourceAssignments().add(ra);
+project.getResourceAssignments().add(assignment);
 
 project.save("project.xml", SaveFileFormat.XML);
 
@@ -351,17 +351,17 @@ rsc.set(Rsc.STANDARD_RATE, BigDecimal.valueOf(10));
 
 rsc.set(Rsc.OVERTIME_RATE, BigDecimal.valueOf(15));
 
-ResourceAssignment assn = project.getResourceAssignments().add(task, rsc);
+ResourceAssignment assignment = project.getResourceAssignments().add(task, rsc);
 
 java.util.Calendar cal = java.util.Calendar.getInstance();
 
 cal.set(2014,3,4,0,0,0);
 
-assn.set(Asn.START,cal.getTime());
+assignment.set(Asn.START,cal.getTime());
 
 cal.set(2014,3,4,0,0,0);
 
-assn.set(Asn.FINISH, cal.getTime());
+assignment.set(Asn.FINISH, cal.getTime());
 
 project.save("ResourceAssignments.xml", SaveFileFormat.XML);
 

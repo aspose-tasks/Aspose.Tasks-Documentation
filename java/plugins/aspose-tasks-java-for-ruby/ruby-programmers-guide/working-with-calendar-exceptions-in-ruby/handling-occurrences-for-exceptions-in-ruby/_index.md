@@ -20,7 +20,7 @@ except.setOccurrences(5)
 
 except.setType(Rjb::import('com.aspose.tasks.CalendarExceptionType').YearlyByDay)
 
-puts "Set Occurences for exeptions"
+puts "Set Occurrences for exceptions"
 
 {{< /highlight >}}
 ## **Download Running Code**

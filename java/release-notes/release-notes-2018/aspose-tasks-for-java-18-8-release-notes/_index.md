@@ -107,7 +107,7 @@ This page contains release notes information for Aspose.Tasks for Java 18.8.
 |**The following public enumerations were added:**|**Description**|
 |com.aspose.tasks.DayOfWeek|Represents the day of the week.|
 |com.aspose.tasks.PrjKey.Guid|Represents the guid of a project.|
-|**The following public methodsand propertieshad been obsolete more than one year andwere deleted:**|**Description**|
+|**The following public methods and properties had been obsolete more than one year and were deleted:**|**Description**|
 |com.aspose.tasks.TaskCollection.getCount||
 |com.aspose.tasks.WeekDayCollection.getCount||
 

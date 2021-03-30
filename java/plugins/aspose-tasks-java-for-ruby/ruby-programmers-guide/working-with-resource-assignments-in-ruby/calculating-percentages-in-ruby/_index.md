@@ -26,9 +26,9 @@ i = 0
 
 while i < resource_assignments.size()
 
-  ra = resource_assignments.get(i)
+  assignment = resource_assignments.get(i)
 
-  puts "Percentage of the Completed Work: " + ra.get(Rjb::import('com.aspose.tasks.Asn').PERCENT_WORK_COMPLETE).toString()
+  puts "Percentage of the Completed Work: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').PERCENT_WORK_COMPLETE).toString()
 
   puts "--------------------------------------------------------"
 

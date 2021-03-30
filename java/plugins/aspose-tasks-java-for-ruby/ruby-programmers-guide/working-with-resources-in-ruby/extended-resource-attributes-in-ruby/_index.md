@@ -22,15 +22,15 @@ project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp
 
 res = project.getResources().toList().get(0)
 
-ea = Rjb::import('com.aspose.tasks.ExtendedAttribute').new
+attribute = Rjb::import('com.aspose.tasks.ExtendedAttribute').new
 
-ea.setFieldId("11")
+attribute.setFieldId("11")
 
-ea.setValue("MyValueEA")
+attribute.setValue("MyValueEA")
 
-ea.setValueGuid("MyValueGuidEA")
+attribute.setValueGuid("MyValueGuidEA")
 
-res.getExtendedAttributes().add(ea)
+res.getExtendedAttributes().add(attribute)
 
 puts "Set extended resource attributes."
 

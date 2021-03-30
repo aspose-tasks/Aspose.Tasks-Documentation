@@ -6,7 +6,7 @@ url: /java/adding-and-removing-calendar-exceptions/
 ---
 
 **Working with Calendar Exceptions**
-The [CalendarException](https://apireference.aspose.com/tasks/java/com.aspose.tasks/CalendarException) class is used to represent a Calendar Exception object. The [Exceptionscollection](https://apireference.aspose.com/tasks/java/com.aspose.tasks/CalendarExceptionCollection) class can be obtained by using the Project class's getCalendars() method that can be used to retrieve existing exceptions, manage new exceptions added to it and remove existing exceptions.
+The [CalendarException](https://apireference.aspose.com/tasks/java/com.aspose.tasks/CalendarException) class is used to represent a Calendar Exception object. The [ExceptionCollection](https://apireference.aspose.com/tasks/java/com.aspose.tasks/CalendarExceptionCollection) class can be obtained by using the Project class's getCalendars() method that can be used to retrieve existing exceptions, manage new exceptions added to it and remove existing exceptions.
 
 **Programming Sample**
 

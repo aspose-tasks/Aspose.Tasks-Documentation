@@ -2,7 +2,7 @@
 title: Reading VBA Information from MPP file
 type: docs
 description: "Aspose.Tasks API provides support for reading VBA information from the MPP file"
-keywords: "reading VBA information from MPP, Read MPP File using Macro, Read Modules Information from VBA, Read References Information from VBA, Read VBA Project Information, Asppose.Tasks, C#"
+keywords: "reading VBA information from MPP, Read MPP File using Macro, Read Modules Information from VBA, Read References Information from VBA, Read VBA Project Information, Aspose.Tasks, C#"
 weight: 10
 url: /net/reading-vba-information-from-mpp-file/
 ---

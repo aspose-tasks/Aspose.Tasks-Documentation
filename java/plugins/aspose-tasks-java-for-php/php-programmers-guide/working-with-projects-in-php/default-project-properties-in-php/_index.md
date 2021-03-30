@@ -28,7 +28,7 @@ print "New Task Default Start: ". (string)$project->get($prj->DEFAULT_START_TIME
 
 print "New Task Default Type: ". (string)$project->get($prj->DEFAULT_TASK_TYPE).PHP_EOL;
 
-print "Resouce Default Standard Rate: ". (string)$project->get($prj->DEFAULT_STANDARD_RATE).PHP_EOL;
+print "Resource Default Standard Rate: ". (string)$project->get($prj->DEFAULT_STANDARD_RATE).PHP_EOL;
 
 print "Resource Default Overtime Rate: ". (string)$project->get($prj->DEFAULT_OVERTIME_RATE).PHP_EOL;
 

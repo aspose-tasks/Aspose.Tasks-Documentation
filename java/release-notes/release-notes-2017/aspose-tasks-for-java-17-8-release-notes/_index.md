@@ -24,7 +24,7 @@ url: /java/aspose-tasks-for-java-17-8-release-notes/
 |TASKSNET-1586|Company Information written to MPP is not displayed in MPP|Bug|
 |TASKSNET-2018|Program hangs while loading MPP into Project|Bug|
 |TASKSNET-2014|MPP file raises TasksReadingException|Bug|
-|TASKSNET-1993|MPP file saved by MSP 2016 ver 1706 raises exception while loading into Project|Bug|
+|TASKSNET-1993|MPP file saved by MSP 2016 version 1706 raises exception while loading into Project|Bug|
 |TASKSNET-1990|An entry with the same key already exists - exception|Bug|
 |TASKSNET-1989|Exception raised while loading attached MPP|Bug|
 |TASKSNET-1985|TaskReadingException while loading MPP file|Bug|
@@ -78,14 +78,14 @@ url: /java/aspose-tasks-for-java-17-8-release-notes/
 |**The following public enumerations were added:**|**Description**|
 |com.aspose.tasks.RateScaleType|Specifies the rate scale type.|
 |**The following fields were added to public enums:**|**Description**|
-|com.aspose.tasks.RateScaleType.Day|Inidcates Day rate scale type.|
-|com.aspose.tasks.RateScaleType.Hour|Inidcates Hour rate scale type.|
-|com.aspose.tasks.RateScaleType.Minute|Inidcates Minute rate scale type.|
-|com.aspose.tasks.RateScaleType.Month|Inidcates Month rate scale type.|
-|com.aspose.tasks.RateScaleType.Quarter|Inidcates Quarter rate scale type.|
-|com.aspose.tasks.RateScaleType.Undefined|Inidcates Undefined rate scale type.|
-|com.aspose.tasks.RateScaleType.Week|Inidcates Week rate scale type.|
-|com.aspose.tasks.RateScaleType.Year|Inidcates Year rate scale type.|
+|com.aspose.tasks.RateScaleType.Day|Indicates Day rate scale type.|
+|com.aspose.tasks.RateScaleType.Hour|Indicates Hour rate scale type.|
+|com.aspose.tasks.RateScaleType.Minute|Indicates Minute rate scale type.|
+|com.aspose.tasks.RateScaleType.Month|Indicates Month rate scale type.|
+|com.aspose.tasks.RateScaleType.Quarter|Indicates Quarter rate scale type.|
+|com.aspose.tasks.RateScaleType.Undefined|Indicates Undefined rate scale type.|
+|com.aspose.tasks.RateScaleType.Week|Indicates Week rate scale type.|
+|com.aspose.tasks.RateScaleType.Year|Indicates Year rate scale type.|
 |com.aspose.tasks.TaskKey.SummaryProgress|Represents the Summary Progress (Task) field.|
 |com.aspose.tasks.TaskKey.TaskIsAssigned|Represents the TaskIsAssigned (Task) field.|
 |**|**|

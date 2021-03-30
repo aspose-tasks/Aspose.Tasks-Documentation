@@ -26,17 +26,17 @@ $i = 0;
 
 while ($i < sizeof($resource_assignments)) {
 
-$ra = $resource_assignments -> get($i);
+$assignment = $resource_assignments -> get($i);
 
-print "Overtime Cost: " . $ra -> get($asn -> OVERTIME_COST).PHP_EOL;
+print "Overtime Cost: " . $assignment -> get($asn -> OVERTIME_COST).PHP_EOL;
 
-print "Overtime Work: " . $ra -> get($asn -> OVERTIME_WORK).PHP_EOL;
+print "Overtime Work: " . $assignment -> get($asn -> OVERTIME_WORK).PHP_EOL;
 
-print "Remaining Cost: " . $ra -> get($asn -> REMAINING_COST).PHP_EOL;
+print "Remaining Cost: " . $assignment -> get($asn -> REMAINING_COST).PHP_EOL;
 
-print "Remaining Overtime Cost: " . $ra -> get($asn -> REMAINING_OVERTIME_COST).PHP_EOL;
+print "Remaining Overtime Cost: " . $assignment -> get($asn -> REMAINING_OVERTIME_COST).PHP_EOL;
 
-print "Remaining Overtime Work: " . $ra -> get($asn -> REMAINING_OVERTIME_WORK).PHP_EOL;
+print "Remaining Overtime Work: " . $assignment -> get($asn -> REMAINING_OVERTIME_WORK).PHP_EOL;
 
 print "--------------------------------------------------------".PHP_EOL;
 

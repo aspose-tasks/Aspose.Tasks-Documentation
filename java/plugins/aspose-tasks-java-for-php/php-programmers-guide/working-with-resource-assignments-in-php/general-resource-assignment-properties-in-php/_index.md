@@ -26,15 +26,15 @@ $i = 0;
 
 while ($i < sizeof($resource_assignments)){
 
-$ra = $resource_assignments->get($i);
+$assignment = $resource_assignments->get($i);
 
 $asn=new Asn();
 
-print $ra->get($asn->UID).PHP_EOL;//.to_string
+print $assignment->get($asn->UID).PHP_EOL;//.to_string
 
-print $ra->get($asn->START).PHP_EOL;//.to_string
+print $assignment->get($asn->START).PHP_EOL;//.to_string
 
-print $ra->get($asn->FINISH).PHP_EOL;//.to_string
+print $assignment->get($asn->FINISH).PHP_EOL;//.to_string
 
 print "--------------------------------------------------------".PHP_EOL;
 
@@ -63,15 +63,15 @@ $task = $project->getRootTask()->getChildren()->add("Task");
 
 $rsc = $project->getResources()->add("Rsc");
 
-$rscc=new Rsc();
+$resource=new Rsc();
 
 $bigDecimal=new BigDecimal();
 
-$rsc->set($rscc->STANDARD_RATE, $bigDecimal->valueOf(10));
+$rsc->set($resource->STANDARD_RATE, $bigDecimal->valueOf(10));
 
-$rsc->set($rscc->OVERTIME_RATE, $bigDecimal->valueOf(15));
+$rsc->set($resource->OVERTIME_RATE, $bigDecimal->valueOf(15));
 
-$assn = $project->getResourceAssignments()->add($task, $rsc);
+$assignment = $project->getResourceAssignments()->add($task, $rsc);
 
 print "Set resource assignment properties.".PHP_EOL;
 

@@ -38,9 +38,9 @@ while ($i < sizeof($tasks)) {
 
 $task = $tasks -> get($i);
 
-print $str_ed = $task -> get($tsk -> IS_EFFORT_DRIVEN) != null ? "EffortDriven" : "Non-EffortDriven".PHP_EOL;
+print $str_effort_driven = $task -> get($tsk -> IS_EFFORT_DRIVEN) != null ? "EffortDriven" : "Non-EffortDriven".PHP_EOL;
 
-print $str_crit = $task -> get($tsk -> IS_CRITICAL) != null ? "Critical" : "Non-Critical".PHP_EOL;
+print $str_is_critical = $task -> get($tsk -> IS_CRITICAL) != null ? "Critical" : "Non-Critical".PHP_EOL;
 
 $i += 1;
 

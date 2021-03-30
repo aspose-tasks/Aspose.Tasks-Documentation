@@ -13,7 +13,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.11](h
 ## **All Changes**
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
-| TASKSNET-4520 | Add suport for "Clear" operation for project's OleObjects collection | Enhancement |
+| TASKSNET-4520 | Add support for "Clear" operation for project's OleObjects collection | Enhancement |
 | TASKSNET-4497 | Refactor API for CalendarExceptions | Enhancement |
 | TASKSNET-4444 | Add an API for getting a count of consumed bytes \ credits when Metered license is used | Enhancement |
 | TASKSNET-3896 | Add API for saving more than 1 page to MemoryStream | Enhancement |

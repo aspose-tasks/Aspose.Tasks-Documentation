@@ -7,7 +7,7 @@ url: /net/rendering-resource-usage-view/
 
 {{% alert color="primary" %}} 
 
-Being able to render individual project views, for example, resource usage against tasks is a common requirement for a developer who works with Microsoft Project files. Aspose.Tasks API supports this requirement and lets you render project resources to various formats e.g. PDF. Resource usage can be rendered using Aspose.Tasks' [PresentationFormat]() with different timescale settings like Days, ThirdofMonths and Months.
+Being able to render individual project views, for example, resource usage against tasks is a common requirement for a developer who works with Microsoft Project files. Aspose.Tasks API supports this requirement and lets you render project resources to various formats e.g. PDF. Resource usage can be rendered using Aspose.Tasks' [PresentationFormat]() with different timescale settings like Days, ThirdOfMonths and Months.
 
 {{% /alert %}} 
 ## **Rendering Resource Usage View**

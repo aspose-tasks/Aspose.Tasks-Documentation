@@ -11,7 +11,7 @@ This page contains release notes information of Aspose.Tasks for Java 18.6.
 
 {{% /alert %}} 
 ## **Major Improvements**
-- Support for [reading/writing of extended attributes to resourceassignment](/tasks/java/adding-extended-attributes-to-resource-assignments/)
+- Support for [reading/writing of extended attributes to resource assignment](/tasks/java/adding-extended-attributes-to-resource-assignments/)
 - Validation of work contour type for manual tasks and assignments without resource
 ## **All Changes**
 
@@ -31,7 +31,7 @@ This page contains release notes information of Aspose.Tasks for Java 18.6.
 |TASKSNET-2435|Partial baselines are skipped when reading assignments' baselines|Bug|
 |TASKSNET-2433|XER to MPP raises TaskWritingException|Bug|
 |TASKSNET-2428|Baseline* extended attribute values for assignments are lost in AT-resaved file.|Bug|
-|TASKSNET-2400|Wrong duration set for all tasks when edays set for a task|Bug|
+|TASKSNET-2400|Wrong duration set for all tasks when elapsed days set for a task|Bug|
 |TASKSNET-2388|Wrong dates/duration set in MPP for CalculationMode.None and IsManual = true|Bug|
 |TASKSNET-2364|Extra extended attribute value fetched for a task|Bug|
 |TASKSNET-2330|Schedule is broken after a resave of XML MSP project with custom timephased data|Bug|

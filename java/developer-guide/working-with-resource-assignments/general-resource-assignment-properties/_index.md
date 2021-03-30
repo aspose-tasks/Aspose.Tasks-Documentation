@@ -13,7 +13,7 @@ An assignment is a resource that has been assigned to a specific task. Each reso
 ## **Working with General Assignment Properties**
 The [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.tasks/ResourceAssignment) class exposes a number of properties used to set and get general assignment properties:
 
-- Uid sets and gets an assingment's unique ID (integer).
+- Uid sets and gets an assignment's unique ID (integer).
 - Start sets and gets an assignment's start date (java.util.Date).
 - Finish sets and gets an assignment's end date (java.util.Date).
 

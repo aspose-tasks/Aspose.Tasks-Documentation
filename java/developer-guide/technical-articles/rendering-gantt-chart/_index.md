@@ -128,7 +128,7 @@ Task task1 = project.addTask("Task 1");
 
 Task task2 = project.addTask("Task 2");
 
-double dDuration = OneHour * 8.0 * 3.0;	//3 days taks
+double dDuration = OneHour * 8.0 * 3.0;	//3 days tasks
 
 task1.setDuration((long) dDuration);
 

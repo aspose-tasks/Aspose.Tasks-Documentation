@@ -18,17 +18,17 @@ $project = new Project($dataDir . 'test_tasks.mpp');
 
 $tsk = new Tsk();
 
-$allinks = $project->getTaskLinks()->toList();
+$allLinks = $project->getTaskLinks()->toList();
 
 $i = 0;
 
-while ($i < sizeof($allinks)) {
+while ($i < sizeof($allLinks)) {
 
-$tsklnk = $allinks -> get($i);
+$tskLink = $allLinks -> get($i);
 
-print "Predecessor " . (string)$tsklnk -> getPredTask() -> get($tsk-> NAME).PHP_EOL;
+print "Predecessor " . (string)$tskLink -> getPredTask() -> get($tsk-> NAME).PHP_EOL;
 
-print "Successor " . (string)$tsklnk -> getSuccTask() -> get($tsk -> NAME).PHP_EOL;
+print "Successor " . (string)$tskLink -> getSuccTask() -> get($tsk -> NAME).PHP_EOL;
 
 print "------------------------------------------------------".PHP_EOL;
 

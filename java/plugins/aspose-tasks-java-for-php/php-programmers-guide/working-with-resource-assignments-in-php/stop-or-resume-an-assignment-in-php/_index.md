@@ -26,21 +26,9 @@ $asn=new Asn();
 
 while ($i < sizeof($resource_assignments)) {
 
-$ra = $resource_assignments -> get($i);
+$assignment = $resource_assignments -> get($i);
 
-if ((string)$ra -> get($asn -> STOP) == "1/1/2000") {
-
-print "NA".PHP_EOL;
-
-}
-
-else {
-
-print (string)$ra -> get($asn -> STOP);
-
-}
-
-if ((string)$ra -> get($asn -> RESUME) == "1/1/2000"){
+if ((string)$assignment -> get($asn -> STOP) == "1/1/2000") {
 
 print "NA".PHP_EOL;
 
@@ -48,7 +36,19 @@ print "NA".PHP_EOL;
 
 else {
 
-print (string)$ra -> get($asn -> RESUME);
+print (string)$assignment -> get($asn -> STOP);
+
+}
+
+if ((string)$assignment -> get($asn -> RESUME) == "1/1/2000"){
+
+print "NA".PHP_EOL;
+
+}
+
+else {
+
+print (string)$assignment -> get($asn -> RESUME);
 
 }
 

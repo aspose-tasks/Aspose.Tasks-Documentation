@@ -22,17 +22,17 @@ project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp
 
 tsk = Rjb::import('com.aspose.tasks.Tsk')
 
-allinks = project.getTaskLinks().toList()
+allLinks = project.getTaskLinks().toList()
 
 i = 0
 
-while i < allinks.size()
+while i < allLinks.size()
 
-  tsklnk = allinks.get(i)
+  taskLink = allLinks.get(i)
 
-  puts "Predecessor " + tsklnk.getPredTask().get(tsk.NAME).to_string
+  puts "Predecessor " + taskLink.getPredTask().get(tsk.NAME).to_string
 
-  puts "Successor " + tsklnk.getSuccTask().get(tsk.NAME).to_string
+  puts "Successor " + taskLink.getSuccTask().get(tsk.NAME).to_string
 
   puts "------------------------------------------------------"
 

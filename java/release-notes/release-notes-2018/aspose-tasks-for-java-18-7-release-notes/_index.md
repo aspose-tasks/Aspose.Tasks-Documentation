@@ -12,7 +12,7 @@ This page contains release notes information for Aspose.Tasks for Java 18.7.
 {{% /alert %}} 
 ## **Major Improvements**
 - Support for saving fonts/images/css styles separately when saving as HTML
-- Support for OnlyTbleValuesAllowed in Extended Attribute
+- Support for OnlyTableValuesAllowed in Extended Attribute
 ## **Breaking Changes**
 - Methods save and saveAsTemplate in Project class can now throw java.io.IOException.
 ## **All Changes**
@@ -27,7 +27,7 @@ This page contains release notes information for Aspose.Tasks for Java 18.7.
 |TASKSNET-2508|Incorrect finish dates for tasks with splits|Bug|
 |TASKSNET-2506|Timephased data displayed incorrectly after a resave|Bug|
 |TASKSNET-2504|Fix duplicated "OutlineCode" elements in project's xml|Bug|
-|TASKSNET-2503|AT brokes MPP file when tasks has splits|Bug|
+|TASKSNET-2503|AT brakes MPP file when tasks has splits|Bug|
 |TASKSNET-2494|Incorrect duration in XML with custom timephased data|Bug|
 |TASKSNET-2480|Duration changed due to update the percentage complete|Bug|
 |TASKSJAVA-590|LinkType changes after saving data to MPX|Bug|
@@ -64,7 +64,7 @@ This page contains release notes information for Aspose.Tasks for Java 18.7.
 |com.aspose.tasks.ImageSavingArgs.getImageType|Gets a HTML image type.|
 |com.aspose.tasks.OutlineValue.getDurationValue|Gets the duration if Type is Duration.|
 |com.aspose.tasks.OutlineValue.setDurationValue(com.aspose.tasks.Duration)|Sets the duration if Type is Duration.|
-|com.aspose.tasks.ResourceSavingArgs.#ctor|Initializes a new instance of the ResourceSavingArgsclass.|
+|com.aspose.tasks.ResourceSavingArgs.#ctor|Initializes a new instance of the ResourceSavingArgs class.|
 |com.aspose.tasks.ResourceSavingArgs.getFileName|Gets the supposed file name that goes from converter to code of custom method.|
 |com.aspose.tasks.ResourceSavingArgs.getKeepStreamOpen|Gets a value indicating whether the stream will be kept open after resource saving finishes.|
 |com.aspose.tasks.ResourceSavingArgs.getStream|Gets the binary content of saved file.|
@@ -99,8 +99,8 @@ This page contains release notes information for Aspose.Tasks for Java 18.7.
 |**Added Public Enumerations**|**Description**|
 |com.aspose.tasks.FontFaceType.NotSpecified|Font type is not specified.|
 |com.aspose.tasks.FontFaceType.Ttf|The true type font.|
-|com.aspose.tasks.FontFaceType.Eot|The eot font.|
-|com.aspose.tasks.FontFaceType.Woff|The woff font.|
+|com.aspose.tasks.FontFaceType.Eot|The EOT font.|
+|com.aspose.tasks.FontFaceType.Woff|The WOFF font.|
 |com.aspose.tasks.ResourceExportType.NoExport|No export.|
 |com.aspose.tasks.ResourceExportType.AsFile|Export as a file.|
 |com.aspose.tasks.ResourceExportType.AsEmbedded|Exported as an embedded resource.|

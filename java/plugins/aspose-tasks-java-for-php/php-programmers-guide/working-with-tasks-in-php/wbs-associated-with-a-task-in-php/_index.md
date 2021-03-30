@@ -6,7 +6,7 @@ url: /java/wbs-associated-with-a-task-in-php/
 ---
 
 ## **Aspose.Tasks - WBS Associated with a Task**
-To WBS Associated with a Task using **Aspose.Tasks Java for PHP**, simply invoke **WbsAssociatedWithTask** module. Here you can see example code.
+To WBS Associated with a Task using **Aspose.Tasks Java for PHP**, simply invoke **WBSAssociatedWithTask** module. Here you can see example code.
 
 **PHP Code**
 

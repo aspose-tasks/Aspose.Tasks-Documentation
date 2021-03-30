@@ -9,12 +9,12 @@ url: /net/aspose-tasks-for-net-8-9-0-release-notes/
 ## **Major Features**
 We have implemented reading Primavera XML file with multiple 
 projects. Primavera Xml Save Option has been supported. We have also 
-implemenetd adding an image to header and legend of project. About nine 
+implemented adding an image to header and legend of project. About nine 
 bugs have been fixed. Please see the list of changes below. 
 
 We have implemented reading Primavera XML file with multiple 
 projects. Primavera Xml Save Option has been supported. We have also 
-implemenetd adding an image to header and legend of project. About nine 
+implemented adding an image to header and legend of project. About nine 
 bugs have been fixed. Please see the list of changes below.
 ## **All Changes**
 All Changes
@@ -58,7 +58,7 @@ Description
 |Bug |TASKS-34260 |HtmlSaveOptions class is missing in latest version |
 |Bug |TASKS-34259 |MSP does not show task split when opening resaved mpp file. |
 |Bug |TASKS-34245 |OutlineValue properties not read properly from MPP |
-|Bug |TASKS-34242 |Task segments (Splitted task) are lost while saving XML to MPP using Aspose.Tasks |
+|Bug |TASKS-34242 |Task segments are lost while saving XML to MPP using Aspose.Tasks |
 |Bug |TASKS-34239 |Loading Primavera XML file raises NullReferenceException |
 |Bug |TASKS-34236 |Calendar Exceptions not read properly |
 |Bug |TASKS-34235 |Prj.MinutesPerDay returns 0 for Primavera Project file |

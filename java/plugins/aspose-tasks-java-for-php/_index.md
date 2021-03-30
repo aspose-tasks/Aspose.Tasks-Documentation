@@ -86,7 +86,7 @@ If any error message appears then install  **FastCGI** by issuing the followin
 
 {{< /highlight >}}
 
-After installing php5.5 cgi, restart tomcat8 server and check <http://localhost:8080/JavaBridge> again in the browser.
+After installing php5.5 CGI, restart tomcat8 server and check <http://localhost:8080/JavaBridge> again in the browser.
 
 If **JAVA_HOME** error is displayed, then open /etc/default/tomcat8 file and uncomment the line that sets the JAVA_HOME. Check <http://localhost:8080/JavaBridge> in browser again, it should come with PHP/JavaBridge Examples page. 
 ## **3. Configure Aspose.Tasks Java for PHP Examples**
@@ -94,7 +94,7 @@ Clone, PHP examples by issuing the following commands inside webapps/JavaBridge 
 
 {{< highlight actionscript3 >}}
 
- $ git init&nbsp;
+ $ git init
 
 $ git clone [https://github.com/asposeslides/Aspose_Slides_Java/tree/master/Plugins/Aspose_Tasks_Java_for_PHP] 
 

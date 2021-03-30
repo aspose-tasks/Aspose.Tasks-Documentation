@@ -16,7 +16,7 @@ The [Exceptions](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Cal
 To see a list of exceptions in Microsoft Project:
 
 1. Open a file.
-2. From the **Tools** menu, select **Change Working Time** to open the Change Woking Time dialog.
+2. From the **Tools** menu, select **Change Working Time** to open the Change Working Time dialog.
    The screenshot below shows the dialog for the project saved with the code below.
 
 **Exceptions defined for working days** 

@@ -22,7 +22,7 @@ $calendarExceptionType=new CalendarExceptionType();
 
 $except->setType($calendarExceptionType->YearlyByDay);
 
-print "Set Occurences for exeptions".PHP_EOL;
+print "Set Occurrences for exceptions".PHP_EOL;
 
 {{< /highlight >}}
 ## **Download Running Code**

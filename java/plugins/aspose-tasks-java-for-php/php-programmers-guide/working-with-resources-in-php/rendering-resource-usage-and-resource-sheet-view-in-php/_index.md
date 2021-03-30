@@ -36,7 +36,7 @@ $options->setPresentationFormat($presentationFormat->ResourceUsage);
 
 $project->save($dataDir . "result_days.pdf", $options);
 
-\# Set the Tiemscale settings to ThirdsOfMonths
+\# Set the Timescale settings to ThirdsOfMonths
 
 $options->setTimescale($timescale->ThirdsOfMonths);
 

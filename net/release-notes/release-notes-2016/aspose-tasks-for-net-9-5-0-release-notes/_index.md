@@ -14,7 +14,7 @@ Aspose.Tasks for .NET API enables application developers to write code for manip
 |TASKSNET-728 |Performance is too slow with large number of tasks ~10K+|Enhancement |
 |TASKSNET-1589 |PhysicalPercentComplete not saved in MPP file |Bug |
 |TASKSNET-1573 |Predecessors information changed while loading and saving MPP (.NET) |Bug |
-|TASKSNET-1563 |Custom Field marked as Loopkup while adding extended attribute to MPP file |Bug |
+|TASKSNET-1563 |Custom Field marked as Lookup while adding extended attribute to MPP file |Bug |
 |TASKSNET-1559 |All tasks in Primavera XML file cannot be read |Bug |
 |TASKSNET-706 |Reading Project file raises Project Reading Exception |Bug |
 |TASKSNET-698 |Cropped image when converting project document to image with Vertical\Horizontal Resolution settings |Bug |

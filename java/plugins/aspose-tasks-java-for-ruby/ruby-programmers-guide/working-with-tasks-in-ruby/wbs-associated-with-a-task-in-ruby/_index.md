@@ -6,7 +6,7 @@ url: /java/wbs-associated-with-a-task-in-ruby/
 ---
 
 ## **Aspose.Tasks - WBS Associated with a Task**
-To WBS Associated with a Task using **Aspose.Tasks Java for Ruby**, simply invoke **WbsAssociatedWithTask** module. Here you can see example code.
+To WBS Associated with a Task using **Aspose.Tasks Java for Ruby**, simply invoke **WBSAssociatedWithTask** module. Here you can see example code.
 
 **Ruby Code**
 

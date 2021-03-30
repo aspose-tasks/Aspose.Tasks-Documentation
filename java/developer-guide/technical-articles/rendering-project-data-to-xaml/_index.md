@@ -63,7 +63,7 @@ Project project = new Project("NewProductDev.mpp");
 
 //PresentationFormat presentationFormat = PresentationFormat.GanttChart;
 
-String resFile = "NewProductDev GanttChart" + ".xaml";
+String resFile = "NewProductDev GanttChart.xaml";
 
 SaveOptions options = new XamlOptions();
 

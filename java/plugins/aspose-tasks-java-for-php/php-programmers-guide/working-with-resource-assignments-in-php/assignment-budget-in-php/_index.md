@@ -26,11 +26,11 @@ $i = 0;
 
 while ($i < sizeof($resource_assignments)){
 
-$ra = $resource_assignments->get($i);
+$assignment = $resource_assignments->get($i);
 
-print "Buget Cost: " . (string)$ra -> get($asn -> BUDGET_COST).PHP_EOL;
+print "Budget Cost: " . (string)$assignment -> get($asn -> BUDGET_COST).PHP_EOL;
 
-print "Buget Work: " . (string)$ra -> get($asn -> BUDGET_WORK).PHP_EOL;
+print "Budget Work: " . (string)$assignment -> get($asn -> BUDGET_WORK).PHP_EOL;
 
 print "--------------------------------------------------------" . PHP_EOL;
 

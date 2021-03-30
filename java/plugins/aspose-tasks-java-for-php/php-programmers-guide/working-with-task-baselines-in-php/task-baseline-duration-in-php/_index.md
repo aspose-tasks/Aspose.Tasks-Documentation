@@ -12,11 +12,11 @@ To get Task Baseline Duration using **Aspose.Tasks Java for PHP**, simply invoke
 
 {{< highlight php >}}
 
- $onesec = 10000000;
+ $oneSecond = 10000000;
 
-$onemin = 60 * $onesec;
+$oneMinute = 60 * $oneSecond;
 
-$onehour = 60 * $onemin;
+$oneHour = 60 * $oneMinute;
 
 \# Instantiate project object
 
@@ -34,7 +34,7 @@ $baseline = $task->getBaselines()->toList()->get(0);
 
 $duration = (double)(string)($baseline->getDuration());
 
-$baseline_duration = $duration / $onehour;
+$baseline_duration = $duration / $oneHour;
 
 print $baseline_duration .PHP_EOL;
 

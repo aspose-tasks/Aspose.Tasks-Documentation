@@ -26,15 +26,15 @@ i = 0
 
 while i < resource_assignments.size()
 
-  ra = resource_assignments.get(i)
+  assignment = resource_assignments.get(i)
 
-  puts "Work Variance: " + ra.get(Rjb::import('com.aspose.tasks.Asn').WORK_VARIANCE).toString()
+  puts "Work Variance: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').WORK_VARIANCE).toString()
 
-  puts "Cost Variance: " + ra.get(Rjb::import('com.aspose.tasks.Asn').COST_VARIANCE).toString()
+  puts "Cost Variance: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').COST_VARIANCE).toString()
 
-  puts "Start Variance: " + ra.get(Rjb::import('com.aspose.tasks.Asn').START_VARIANCE).toString()
+  puts "Start Variance: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').START_VARIANCE).toString()
 
-  puts "Finish Variance: " + ra.get(Rjb::import('com.aspose.tasks.Asn').FINISH_VARIANCE).toString()
+  puts "Finish Variance: " + assignment.get(Rjb::import('com.aspose.tasks.Asn').FINISH_VARIANCE).toString()
 
   puts "--------------------------------------------------------"
 

@@ -31,7 +31,7 @@ Working hours are typically defined as a range of hours over a day, on specific 
 The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class exposes two overloaded methods for finding working hours on or between dates:
 
 - getWorkingHours(Date dt) returns a long data type to hold the working hours on a date passed.
-- getWorkingHours(Date startdt,Date enddt) returns a WorkUnit object to define the working hours between two dates.
+- getWorkingHours(Date startdt, Date enddt) returns a WorkUnit object to define the working hours between two dates.
 
 The following example shows how to find the duration in minutes, hours and days between two dates.
 

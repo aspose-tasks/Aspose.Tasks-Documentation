@@ -38,7 +38,7 @@ print "Duration in Hours: ". (string)$duration.PHP_EOL;
 
 $task->set($tsk->DURATION, $task->get($tsk->DURATION)->subtract(0.5));
 
-print "0.5 wks: " . (string)$task->get($tsk->DURATION).PHP_EOL;
+print "0.5 weeks: " . (string)$task->get($tsk->DURATION).PHP_EOL;
 
 {{< /highlight >}}
 ## **Download Running Code**

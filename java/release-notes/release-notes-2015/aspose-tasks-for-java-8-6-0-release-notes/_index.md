@@ -7,12 +7,12 @@ url: /java/aspose-tasks-for-java-8-6-0-release-notes/
 
 ## **Major Features**
 ## **Major Features**
-We have suported major feature - reading project data from Primavera 
+We have supported major feature - reading project data from Primavera 
 database. It allows to cover a lot of scenarios of working with 
 Primavera database and Aspose.Tasks library. Five bugs have been fixed. Please 
 see the list of changes below. 
 
-We have suported major feature - reading project data from Primavera 
+We have supported major feature - reading project data from Primavera 
 database. It allows to cover a lot of scenarios of working with 
 Primavera database and Aspose.Tasks library. Five bugs have been fixed. Please 
 see the list of changes below.
@@ -36,7 +36,7 @@ The following public methods were added to existing classes:
 |**Issue Type** |**Key** |**Summary** |
 | :- | :- | :- |
 |Task |TASKS-34079 |Implement Project data reading from Primavera DB |
-|Enhancement |TASKS-34111 |Project Structure verfiication functinoality missing in Aspose.Tasks for Java |
+|Enhancement |TASKS-34111 |Project Structure verification functionality missing in Aspose.Tasks for Java |
 |Bug |TASKS-34104 |Error in task start/finish dates calculation while setting task duration for a project with 24 hour calendar |
 |Bug |TASKS-34103 |Setting the task duration hangs while project containing 24 Hour calendar |
 |Bug |TASKS-34073 |Exception raised while loading MPP file with resource assignment work having 100000hrs |

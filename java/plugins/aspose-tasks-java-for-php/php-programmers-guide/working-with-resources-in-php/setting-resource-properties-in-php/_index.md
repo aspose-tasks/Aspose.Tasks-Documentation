@@ -20,13 +20,13 @@ $rsc = $project->getResources()->add("Rsc");
 
 \# set resource properties
 
-$rscc=new Rsc();
+$resource=new Rsc();
 
 $bigDecimal=new BigDecimal();
 
-$rsc->set($rscc->STANDARD_RATE, $bigDecimal->valueOf(15));
+$rsc->set($resource->STANDARD_RATE, $bigDecimal->valueOf(15));
 
-$rsc->set($rscc->OVERTIME_RATE, $bigDecimal->valueOf(20));
+$rsc->set($resource->OVERTIME_RATE, $bigDecimal->valueOf(20));
 
 print "Set resource properties".PHP_EOL;
 

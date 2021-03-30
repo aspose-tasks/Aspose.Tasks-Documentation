@@ -83,10 +83,10 @@ Value.getNumberValue()/Value.setNumberValue(int) property is deprecated and will
 |com.aspose.tasks.ProjectServerManager.getProject(java.util.UUID)|Gets the project with the specified guid from the Project Online Project Server instance.|
 |com.aspose.tasks.ProjectServerManager.getProjectRawData(java.util.UUID)|Gets the project's binary data for troubleshooting purposes.|
 |com.aspose.tasks.ProjectServerManager.getProjectList|Gets the list of published projects in the current Project Online account Project Server instance.|
-|com.aspose.tasks.ProjectServerManager.updateProject(com.aspose.tasks.Project)|Updates existing project in Project Serverroject Online instance using default save options. The existing project will be overwritten.|
-|com.aspose.tasks.ProjectServerManager.updateProject(<br>``com.aspose.tasks.Project,com.aspose.tasks.ProjectServerSaveOptions)|Updates existing project in Project Serverroject Online instance using the specified save options. The existing project will be overwritten.|
-|com.aspose.tasks.ProjectServerManager.createNewProject(com.aspose.tasks.Project)|Creates new project in Project Serverroject Online instance using default save options.|
-|com.aspose.tasks.ProjectServerManager.createNewProject(<br>``com.aspose.tasks.Project,com.aspose.tasks.ProjectServerSaveOptions)|Creates new project in Project Serverroject Online instance using the specified save options.|
+|com.aspose.tasks.ProjectServerManager.updateProject(com.aspose.tasks.Project)|Updates existing project in Project Server Online instance using default save options. The existing project will be overwritten.|
+|com.aspose.tasks.ProjectServerManager.updateProject(<br>``com.aspose.tasks.Project,com.aspose.tasks.ProjectServerSaveOptions)|Updates existing project in Project Server Online instance using the specified save options. The existing project will be overwritten.|
+|com.aspose.tasks.ProjectServerManager.createNewProject(com.aspose.tasks.Project)|Creates new project in Project Server Online instance using default save options.|
+|com.aspose.tasks.ProjectServerManager.createNewProject(<br>``com.aspose.tasks.Project,com.aspose.tasks.ProjectServerSaveOptions)|Creates new project in Project Server Online instance using the specified save options.|
 |com.aspose.tasks.ProjectServerSaveOptions.#ctor|Initializes a new instance of the <see cref="T:com.aspose.tasks.ProjectServerSaveOptions" /> class.|
 |com.aspose.tasks.ProjectServerSaveOptions.getProjectName<br>com.aspose.tasks.ProjectServerSaveOptions.setProjectName(String)|Gets or sets name of a project which is displayed in Project Server Project Online projects list. Should be unique within Project Server Project Online instance.|
 |com.aspose.tasks.ProjectServerSaveOptions.getProjectGuid<br>com.aspose.tasks.ProjectServerSaveOptions.setProjectGuid(java.util.UUID)|Gets or sets unique identifier of a project. Should be unique within Project Server Project Online instance.|

@@ -39,7 +39,7 @@ The following public properties were added to existing classes:
 
 |**Issue Type** |**Key** |**Summary** |
 | :- | :- | :- |
-|New Feature |TASKS-33967 |TASKS-33909 Implement reading reccuring tasks data from mpp |
+|New Feature |TASKS-33967 |TASKS-33909 Implement reading recurring tasks data from mpp |
 |New Feature |TASKS-33978 |TASKS-33909 Implement recurring task data writing to mpp |
 |New Feature |TASKS-33748 |Option to convert MPP to MPX format |
 |New Feature |TASKS-33925 |Implement formula calculation |

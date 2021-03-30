@@ -8,15 +8,15 @@ url: /java/aspose-tasks-for-java-9-4-0-release-notes/
 Aspose.Tasks for Java API enables application developers to write code for manipulating Microsoft Project documents without it being installed on the systems. It provides support for Microsoft Project (MPP/XML) as well as Primavera File Formats. Project data can be exported to a number of formats including PDF, PNG, BMP and others.
 ### **Major Features**
 - Support for CalculationType and RollupType reading/Writing for an Extended Attribute
-- Support for [reading Vba from MPP](/tasks/java/reading-vba-information-from-mpp-file-html/) file
+- Support for [reading VBA from MPP](/tasks/java/reading-vba-information-from-mpp-file-html/) file
 - Implementation of Field Type converter for the Formula Calculation
 ### **Features and Improvements**
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
-|TASKS-34532 |Implemented ExntendedAttributeDefinition.CalculationType, ExtendedAttributeDefinition.RollupType writing to mpp |New Feature |
-|TASKS-34528 |Implemented ExntendedAttributeDefinition.CalculationType, ExtendedAttributeDefinition.RollupType reading from mpp |New Feature |
-|TASKS-34553 |Option to read Vba from mpp |New Feature |
+|TASKS-34532 |Implemented ExtendedAttributeDefinition.CalculationType, ExtendedAttributeDefinition.RollupType writing to mpp |New Feature |
+|TASKS-34528 |Implemented ExtendedAttributeDefinition.CalculationType, ExtendedAttributeDefinition.RollupType reading from mpp |New Feature |
+|TASKS-34553 |Option to read VBA from mpp |New Feature |
 |TASKS-34507 |Support Formula Calculation with different types of the ExtendedAttribute |Enhancement |
 |TASKS-34547 |Implement field type converter for the Formula Calculation |Enhancement |
 |TASKS-34503 |Calculation of the formula is not correct |Bug |
@@ -31,15 +31,15 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 |TASKS-34567 |Wrong resource assignment units work per day |Bug |
 |TASKS-34596 |Calculation Mode:None, Child duration displayed in minutes |Bug |
 |TASKS-34587 |Tsk.WBS returns null if calculation mode set to None |Bug |
-|TASKS-34597 |Wrong outlinecode reading |Bug |
+|TASKS-34597 |Wrong outline code reading |Bug |
 ### **Public API and Backwards Incompatible Changes**
 
 |**The following public classes were added:**       |**Description**                                |
 | :- | :- |
-|Aspose.Tasks.VbaProject |Represents the Vba Project |
-|Aspose.Tasks.VbaModule |Represents the Vba Module |
-|Aspose.Tasks.VbaReference |Represents the Vba reference |
-|Aspose.Tasks.VbaModuleAttribute |Represetns the attribute of the VbaModule |
+|Aspose.Tasks.VbaProject |Represents the VBA Project |
+|Aspose.Tasks.VbaModule |Represents the VBA Module |
+|Aspose.Tasks.VbaReference |Represents the VBA reference |
+|Aspose.Tasks.VbaModuleAttribute |Represents the attribute of the VbaModule |
 |Aspose.Tasks.VbaModuleCollection |Collection of the VbaModules |
 |Aspose.Tasks.VbaReferenceCollection |Collection of the VbaReferences |
 |Aspose.Tasks.VbaModuleAttributeCollection |Collection of the ModuleAttributes |
@@ -58,6 +58,6 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 |Aspose.Tasks.VbaModule.Attributes |Represents a collection of VbaModuleAttributeCollection |
 |Aspose.Tasks.VbaModuleAttribute.Key |The key of the attribute |
 |Aspose.Tasks.VbaModuleAttribute.Value |The value of the attribute |
-|Aspose.Tasks.VbaReference.Name |The name and full path to the reference of the vba project |
+|Aspose.Tasks.VbaReference.Name |The name and full path to the reference of the VBA project |
 |Aspose.Tasks.VbaReference.LibIdentifier |The Identifier of the library |
 

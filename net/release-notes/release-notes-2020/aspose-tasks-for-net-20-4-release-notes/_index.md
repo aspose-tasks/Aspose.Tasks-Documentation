@@ -16,7 +16,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.4](ht
 | :- | :- | :- |
 |TASKSNET-3937 | Fix exception on Project.Print |Bug|
 |TASKSNET-3913 | Fix serialization of null tasks when project is created / updated using PWA |Bug|
-|TASKSNET-3899 | Field.OutlineCode not working when saving to xlsx |Bug|
+|TASKSNET-3899 | Field.OutlineCode not working when saving to XLSX file |Bug|
 
 ## **Public API and Backwards Incompatible Changes**
 

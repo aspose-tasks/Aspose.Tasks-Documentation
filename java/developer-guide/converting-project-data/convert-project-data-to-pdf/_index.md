@@ -30,7 +30,7 @@ The following lines of code show how to achieve this.
 ### **Supported Graphical Column Indicators**
 Aspose.Tasks draw graphical column indicators while rendering project data to PDF. The following are the graphical indicators supported by Aspose.Tasks.
 
-|**Indicator Type**|**Graphical Representators**|
+|**Indicator Type**|**Graphical Representation**|
 | :- | :- |
 |Task Indicators|![todo:image_alt_text](convert-project-data-to-pdf_1.png)|
 |Resource Indicators|![todo:image_alt_text](convert-project-data-to-pdf_2.png)|
@@ -42,13 +42,13 @@ To save the project data to multiple PDF files, set the SaveToSeparateFiles flag
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsPdf-save-to-multiple-pdf-pages.java" >}}
 
 
-### **Customising TextStyle for Project Data**
-Aspose.Tasks allows you to customize the text style for overallocated resources. By default, the style for overallocated resources is similar to Microsoft Project (MSP), that is, it is red and bold. TextItemType.OverallocatedResources enables you to customize the colour and style for overallocated resources. The example below shows how.
+### **Customizing TextStyle for Project Data**
+Aspose.Tasks allows you to customize the text style for overallocated resources. By default, the style for overallocated resources is similar to Microsoft Project (MSP), that is, it is red and bold. TextItemType.OverallocatedResources enables you to customize the color and style for overallocated resources. The example below shows how.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsPdf-customizing-text-style-for-project-data.java" >}}
 
 
-### **Customising Date Format**
+### **Customizing Date Format**
 Aspose.Tasks give developers control over date formatting when rendering project data to output. The following example shows how to use the DateFormat enumerator to specify the date format.
 
 **Java**
@@ -56,8 +56,8 @@ Aspose.Tasks give developers control over date formatting when rendering project
 {{< highlight java >}}
 
  Project project = new Project();
- Date dt = new Date();
- project.setStartDate(dt);
+ Date date = new Date();
+ project.setStartDate(date);
  
  // By default project.DateFormat == DateFormat.Date_ddd_mm_dd_yy (Mon 09/22/14)
  // customize DateFormat (September 22, 2014)
@@ -66,7 +66,7 @@ Aspose.Tasks give developers control over date formatting when rendering project
  project.save("saved.pdf", SaveFileFormat.PDF);
  
  //Export to date format 19/07/2016
- project.setDateFomrat(DateFormat.DateDdMmYyyy);
+ project.setDateFormat(DateFormat.DateDdMmYyyy);
  
  project.save("p2.pdf", SaveFileFormat.PDF);
 {{< /highlight >}}

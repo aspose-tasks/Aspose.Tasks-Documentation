@@ -13,7 +13,7 @@ Used by Project.save method when saving project data to Oracle Primavera P6 xml 
 
 **com.aspose.tasks.SaveFileFormat.PrimaveraXER field added.**
 
-Used by Project.save method when saving project data to Oracle Primavera P6 xer format.
+Used by Project.save method when saving project data to Oracle Primavera P6 XER format.
 
 **com.aspose.tasks.PrimaveraSaveOptions class added.**
 

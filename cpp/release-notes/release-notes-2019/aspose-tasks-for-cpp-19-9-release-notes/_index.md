@@ -21,7 +21,7 @@ Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, ma
 - Read MPP project files, update their summary information and write them in original MPP format
 - Read MPP project files and convert them to XML format using Aspose.Tasks for C++ (the XML can be manipulated by implementing a custom XML parser)
 - Change main project settings like schedule type, start and finish dates
-- Change default project settings like default standard rate, default overtime rate, default task type, default fixed cost accrual, etc
+- Change default project settings like default standard rate, default overtime rate, default task type, default fixed cost accrual, etc.
 - Manage extended attributes
 - Define weekdays for the project
 - Define weekdays for calendars and calendar exceptions

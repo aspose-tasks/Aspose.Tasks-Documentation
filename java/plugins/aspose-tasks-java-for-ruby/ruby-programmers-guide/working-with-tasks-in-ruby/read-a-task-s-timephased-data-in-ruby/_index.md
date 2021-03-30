@@ -44,25 +44,25 @@ rsc.set(Rjb::import('com.aspose.tasks.Rsc').OVERTIME_RATE, Rjb::import('java.mat
 
 task.set(tsk.DURATION, project.getDuration(6))
 
-assn = project.getResourceAssignments().add(task, rsc)
+assignment = project.getResourceAssignments().add(task, rsc)
 
 d = Rjb::import('java.util.Date').new(0)
 
-assn.set(Rjb::import('com.aspose.tasks.Asn').STOP, Rjb::import('java.util.Date').new(0))
+assignment.set(Rjb::import('com.aspose.tasks.Asn').STOP, Rjb::import('java.util.Date').new(0))
 
-assn.set(Rjb::import('com.aspose.tasks.Asn').RESUME, Rjb::import('java.util.Date').new(0))
+assignment.set(Rjb::import('com.aspose.tasks.Asn').RESUME, Rjb::import('java.util.Date').new(0))
 
 \# backloaded contour increases task duration from 6 to 10 days
 
-assn.set(Rjb::import('com.aspose.tasks.Asn').WORK_CONTOUR, Rjb::import('com.aspose.tasks.WorkContourType').BackLoaded)
+assignment.set(Rjb::import('com.aspose.tasks.Asn').WORK_CONTOUR, Rjb::import('com.aspose.tasks.WorkContourType').BackLoaded)
 
 project.setBaseline(Rjb::import('com.aspose.tasks.BaselineType').Baseline)
 
 task.set(tsk.PERCENT_COMPLETE, 50)
 
-td = assn.getTimephasedData(assn.get(Rjb::import('com.aspose.tasks.Asn').START), 
+td = assignment.getTimephasedData(assignment.get(Rjb::import('com.aspose.tasks.Asn').START), 
 
-							assn.get(Rjb::import('com.aspose.tasks.Asn').FINISH), 
+							assignment.get(Rjb::import('com.aspose.tasks.Asn').FINISH), 
 
 							Rjb::import('com.aspose.tasks.TimephasedDataType').AssignmentRemainingWork).toList()
 

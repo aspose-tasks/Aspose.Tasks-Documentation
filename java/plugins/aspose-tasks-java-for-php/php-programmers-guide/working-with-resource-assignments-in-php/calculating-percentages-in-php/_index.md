@@ -26,9 +26,9 @@ $asn=new Asn();
 
 while ($i < sizeof($resource_assignments)) {
 
-$ra = $resource_assignments -> get($i);
+$assignment = $resource_assignments -> get($i);
 
-print "Percentage of the Completed Work: " . (string)$ra -> get($asn -> PERCENT_WORK_COMPLETE).PHP_EOL;// . toString()
+print "Percentage of the Completed Work: " . (string)$assignment -> get($asn -> PERCENT_WORK_COMPLETE).PHP_EOL;// . toString()
 
 print "--------------------------------------------------------".PHP_EOL;
 

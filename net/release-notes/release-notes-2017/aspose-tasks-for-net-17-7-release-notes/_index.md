@@ -17,7 +17,7 @@ This page contains release notes of Aspose.Tasks for .NET 17.7.
 |TASKSNET-1818|Add [support for text style](/tasks/net/working-with-project-views/#workingwithprojectviews-supportfortextstyling) information.|Enhancement|
 |TASKSNET-2018|Program hangs while loading MPP into Project|Bug|
 |TASKSNET-2014|MPP file raises TasksReadingException|Bug|
-|TASKSNET-1993|MPP file saved by MSP 2016 ver 1706 raises exception while loading into Project|Bug|
+|TASKSNET-1993|MPP file saved by MSP 2016 version 1706 raises exception while loading into Project|Bug|
 |TASKSNET-1990|An entry with the same key already exists - exception|Bug|
 |TASKSNET-1989|Exception raised while loading attached MPP|Bug|
 |TASKSNET-1985|TaskReadingException while loading MPP file|Bug|

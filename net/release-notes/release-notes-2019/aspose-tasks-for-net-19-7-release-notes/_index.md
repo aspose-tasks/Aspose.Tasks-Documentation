@@ -50,9 +50,9 @@ var username = "admin@contoso.onmicrosoft.com";
 
 SecureString password = new SecureString();
 
-var pwdS = "MyPassword";
+var password = "MyPassword";
 
-foreach (char c in pwdS)
+foreach (char c in password)
 
 {
 
@@ -74,13 +74,13 @@ Now a user has an option to specify SiteUrl, username, and password in order to 
 
 {{< highlight csharp >}}
 
- string sharepointDomainAddress = "https://contoso.sharepoint.com";
+ string sharePointDomainAddress = "https://contoso.sharepoint.com";
 
 string userName = "admin@contoso.onmicrosoft.com";
 
 string password = "MyPassword";
 
-var credentials = new ProjectServerCredentials(sharepointDomainAddress, userName, password);
+var credentials = new ProjectServerCredentials(sharePointDomainAddress, userName, password);
 
 ProjectOnlineReader reader = new ProjectOnlineReader(credentials);
 

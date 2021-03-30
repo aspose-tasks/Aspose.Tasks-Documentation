@@ -9,7 +9,7 @@ url: /java/aspose-tasks-java-for-intellij-idea-maven/
 ### **IntelliJ IDEA**
 **IntelliJ IDEA** is a Java integrated development environment (IDE) for software developers. It is developed by JetBrains. Originally created for Java, it currently supports a wide variety of languages, including JavaScript, Groovy, HTML, CSS, RSS, R, Haskell, PHP, Ruby, Python, Scala, Clojure, and Kotlin.
 
-In a 2010 **Infoworld** report, IntelliJ received the highest test center score out of the four top Java programming tools: Eclipse, IntelliJ IDEA, NetBeans and Oracle JDeveloper.
+In a 2010 **InfoWorld** report, IntelliJ received the highest test center score out of the four top Java programming tools: Eclipse, IntelliJ IDEA, NetBeans and Oracle JDeveloper.
 ### **Aspose.Tasks for Java**
 [Aspose.Tasks](http://www.aspose.com/java/project-management-component.aspx) for Java is a project management API that enables Java application developers to provide Microsoft Project® document manipulation capability in their applications – all without using Microsoft Project®. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
 ### **Aspose.Tasks Java for IntelliJ IDEA - Maven**
@@ -54,16 +54,16 @@ You will need to first install IntelliJ IDEA CE / UE before downloading the **As
 
 To download IntellliJ IDEA
 
-1. Goto <https://www.jetbrains.com/idea/download/>
+1. Go to <https://www.jetbrains.com/idea/download/>
 2. Select your running OS
 3. Click on UE or CE download.
 ### **Downloading Aspose.Tasks Java for IntelliJ IDEA plugin (Maven)**
 - The plugin can be directly downloaded from the [JetBrains plugin hosting URL](https://goo.gl/jEvBef) - on IntelliJ IDEA Plugin Repository
   and later can be installed using the IDE option: 
-  - Goto **File** > **Settings**...>**Plugins**
+  - Go to **File** > **Settings**...>**Plugins**
   - Select "**Install plugin from Disk"**
 - Or it can be directly installed (without manual downloading from JetBrains plugin hosting URL) using the IDE options: 
-  - Goto **File** > **Settings**...>**Plugins**
+  - Go to **File** > **Settings**...>**Plugins**
   - Select **"Browse Repositories"**
   - In Search Box type: "Aspose"
   - Select "**Aspose.Tasks Java for IntelliJ IDEA Maven**" plugin to install.

@@ -40,7 +40,7 @@ puts "Duration in Hours: "+ duration.toString()
 
 task.set(tsk.DURATION, task.get(tsk.DURATION).subtract(0.5))
 
-puts "0.5 wks: " + task.get(tsk.DURATION).toString()
+puts "0.5 weeks: " + task.get(tsk.DURATION).toString()
 
 {{< /highlight >}}
 ## **Download Running Code**

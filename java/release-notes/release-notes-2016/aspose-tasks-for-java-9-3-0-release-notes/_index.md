@@ -11,7 +11,7 @@ Improved security and implemented a lot of optimization. We have supported Prima
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
-|TASKS-34444|Support for Primavera SQLite db|New Feature|
+|TASKS-34444|Support for Primavera SQLite database|New Feature|
 |TASKS-34499|Support recalculation option for ActualWork and RemainingWork task fields|New Feature|
 |TASKS-34509 |Provide new date format DateFormat.DateDdMMYyyy to render date like 19/07/2016 |Enhancement |
 |TASKS-34409 |Aspose.Tasks API reads only first value of each list item |Bug |
@@ -45,7 +45,7 @@ com.aspose.tasks.getShowInMenu Returns a flag which determines whether to show t
 com.aspose.tasks.setShowInMenu(boolean) Sets a flag which determines whether to show the group name in the Group drop-down list in the Ribbon.
 com.aspose.tasks.Project.save(OutputStream, /**SaveFileFormat**/int) Saves the project data to the output stream.
 com.aspose.tasks.Project.save(OutputStream, SaveOptions) Saves the project to the output stream using the specified save options.
-The following fields were added to public enums:
+The following fields were added to public enumerations:
 
 com.aspose.tasks.DateFormat.DateDdMmYyyy Date format like 17/03/2016
 com.aspose.tasks.DateLabel.DayDdMmYyyy Day format like 17/03/2016

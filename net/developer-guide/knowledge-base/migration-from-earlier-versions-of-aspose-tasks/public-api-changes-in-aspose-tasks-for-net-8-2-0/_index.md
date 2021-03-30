@@ -9,5 +9,5 @@ The following public methods were added to existing classes:
 
 |**Method Name**|**Description**|
 | :- | :- |
-|static Duration Duration.Parse(String) |Converts the specified string to the instance of Duration struct. |
+|static Duration Duration.Parse(String) |Converts the specified string to the instance of Duration structure. |
 
