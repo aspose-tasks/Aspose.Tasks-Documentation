@@ -80,7 +80,7 @@ project.Save(resFile, options);
 
 **Output from example 1** 
 
-![todo:image_alt_text](rendering-gantt-chart_1.jpg)
+![todo:image_alt_text](rendering-gantt-chart_1.png)
 ### **Example 2**
 In this example, SaveOptions.RollUpGanttBars = true, SaveOptions.DrawNonWorkingTime = true, and task.HideBar = false for hidden tasks.
 
@@ -108,7 +108,7 @@ project.save("RollUpGanttBars.pdf", options);
 
 **Output from example 2** 
 
-![todo:image_alt_text](rendering-gantt-chart_2.jpg)
+![todo:image_alt_text](rendering-gantt-chart_2.png)
 ## **Customizing Text with Task Bars**
 In this example, the text on the right of the task bar can be customized by delegate instance. Here we customize text on the critical tasks.
 
