@@ -17,8 +17,6 @@ With Aspose.Tasks for .NET, it is possible to program with Microsoft Project fil
 
 {{% /alert %}} 
 
-### **Aspose.Tasks for .NET Resources**
-
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Tasks for .NET Features](/tasks/net/product-overview)
@@ -44,8 +42,6 @@ Aspose.Tasks for Java is a class library that enables Java application developer
 
 {{% /alert %}} 
 
-### **Aspose.Tasks for Java Resources**
-
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Tasks for Java Online Documentation](/tasks/java/)
@@ -70,8 +66,6 @@ The following are the links to some useful resources you may need to accomplish 
 Aspose.Tasks for C++ is a native class library that enables C++ applications to read and write Microsoft Project® files without using Microsoft Project®. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
 {{% /alert %}} 
-
-### **Aspose.Tasks for C++ Resources**
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
