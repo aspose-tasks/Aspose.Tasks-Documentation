@@ -7,13 +7,13 @@ url: /java/aspose-tasks-java-for-php/
 
 # **Introduction to Aspose.Tasks Java for PHP**
 ## **PHP / Java Bridge**
-The PHP/Java Bridge is an implementation of a streaming, XML-based [network protocol](http://php-java-bridge.sourceforge.net/pjb/PROTOCOL.TXT), which can be used to connect a native script engine, for example PHP, Scheme or Python, with a Java virtual machine. It is up to 50 times faster than local RPC via SOAP, requires less resources on the web-server side. It is [faster](http://php-java-bridge.sourceforge.net/pjb/FAQ.html#performance) and more reliable than direct communication via the Java Native Interface, and it requires no additional components to invoke Java procedures from PHP or PHP procedures from Java.
+The PHP/Java Bridge is an implementation of a streaming, XML-based [network protocol](https://php-java-bridge.sourceforge.net/pjb/PROTOCOL.TXT), which can be used to connect a native script engine, for example PHP, Scheme or Python, with a Java virtual machine. It is up to 50 times faster than local RPC via SOAP, requires less resources on the web-server side. It is [faster](https://php-java-bridge.sourceforge.net/pjb/FAQ.html#performance) and more reliable than direct communication via the Java Native Interface, and it requires no additional components to invoke Java procedures from PHP or PHP procedures from Java.
 
-Read more at [sourceforge.net](http://php-java-bridge.sourceforge.net/pjb/)
+Read more at [sourceforge.net](https://php-java-bridge.sourceforge.net/pjb/)
 ## **Aspose.Tasks for Java**
 Aspose.Tasks for Java is a project management API that enables Java application developers to provide Microsoft Project® document manipulation capability in their applications – all without using Microsoft Project®. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
 ## **Aspose.Tasks Java for PHP**
-Project Aspose.Tasks for PHP shows how different tasks can be performed using Aspose.Tasks Java APIs in PHP. This project is aimed to provide useful examples for PHP Developers who want to utilize Aspose.Tasks for Java in their PHP Projects using [PHP/Java Bridge](http://php-java-bridge.sourceforge.net/pjb/).
+Project Aspose.Tasks for PHP shows how different tasks can be performed using Aspose.Tasks Java APIs in PHP. This project is aimed to provide useful examples for PHP Developers who want to utilize Aspose.Tasks for Java in their PHP Projects using [PHP/Java Bridge](https://php-java-bridge.sourceforge.net/pjb/).
 ## **System Requirements**
 **Following are the system requirements to use Aspose.Tasks Java for PHP:**
 
@@ -29,8 +29,8 @@ Project Aspose.Tasks for PHP shows how different tasks can be performed using As
 ## **Download Required Libraries**
 Download required libraries mentioned below. These are the required for executing Aspose.Tasks Java for PHP examples.
 
-- **Aspose:** [Aspose.Tasks for Java Component](http://www.aspose.com/community/files/72/java-components/aspose.tasks-for-java/default.aspx)
-- [PHP/Java Bridge](http://citylan.dl.sourceforge.net/project/php-java-bridge/Binary%20package/php-java-bridge_6.2.1/php-java-bridge_6.2.1_documentation.zip)
+- **Aspose:** [Aspose.Tasks for Java Component](https://downloads.aspose.com/tasks/net)
+- [PHP/Java Bridge](scitylan.dl.sourceforge.net/project/php-java-bridge/Binary%20package/php-java-bridge_6.2.1/php-java-bridge_6.2.1_documentation.zip)
 ## **Download Examples from Social Coding Sites**
 Following releases of running examples are available to download on below mentioned social coding sites:
 
@@ -53,7 +53,7 @@ In order to download the PHP/JavaBridge binaries, issue following command on the
 
 {{< highlight actionscript3 >}}
 
-  wget http://citylan.dl.sourceforge.net/project/php-java-bridge/Binary%20package/php-java-bridge_6.2.1/php-java-bridge_6.2.1_documentation.zip 
+  wget https://citylan.dl.sourceforge.net/project/php-java-bridge/Binary%20package/php-java-bridge_6.2.1/php-java-bridge_6.2.1_documentation.zip 
 
 {{< /highlight >}}
 
@@ -76,7 +76,7 @@ This will extract **JavaBridge.war** file. Copy it to tomcat88 **webapps** f
 {{< /highlight >}}
 
 
-By copying, tomcat8 will automatically create a new folder "**JavaBridge**" in **webapps**. Once the folder is created, make sure your tomcat8 is running and then check <http://localhost:8080/JavaBridge> in browser, it should open a default page of JavaBridge. 
+By copying, tomcat8 will automatically create a new folder "**JavaBridge**" in **webapps**. Once the folder is created, make sure your tomcat8 is running and then check <https://localhost:8080/JavaBridge> in browser, it should open a default page of JavaBridge. 
 
 If any error message appears then install  **FastCGI** by issuing the following command on Linux console.
 
@@ -86,9 +86,9 @@ If any error message appears then install  **FastCGI** by issuing the followin
 
 {{< /highlight >}}
 
-After installing php5.5 CGI, restart tomcat8 server and check <http://localhost:8080/JavaBridge> again in the browser.
+After installing php5.5 CGI, restart tomcat8 server and check <https://localhost:8080/JavaBridge> again in the browser.
 
-If **JAVA_HOME** error is displayed, then open /etc/default/tomcat8 file and uncomment the line that sets the JAVA_HOME. Check <http://localhost:8080/JavaBridge> in browser again, it should come with PHP/JavaBridge Examples page. 
+If **JAVA_HOME** error is displayed, then open /etc/default/tomcat8 file and uncomment the line that sets the JAVA_HOME. Check <https://localhost:8080/JavaBridge> in browser again, it should come with PHP/JavaBridge Examples page. 
 ## **3. Configure Aspose.Tasks Java for PHP Examples**
 Clone, PHP examples by issuing the following commands inside webapps/JavaBridge folder.  
 
@@ -108,14 +108,14 @@ Please follow below simple steps to configure PHP/Java Bridge on Windows Platfor
 
 \3. Install Apache Tomcat 8.0. You can download it here
 
-4.Download [JavaBridge.war](http://sourceforge.net/projects/php-java-bridge/files/Binary%20package/php-java-bridge_6.2.1/JavaBridgeTemplate621.war/download). Copy this file to tomcat webapps directory.
+4.Download [JavaBridge.war](https://sourceforge.net/projects/php-java-bridge/files/Binary%20package/php-java-bridge_6.2.1/JavaBridgeTemplate621.war/download). Copy this file to tomcat webapps directory.
 (ex: C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps )
 
 \5. Restart tomcat apache service.
 
-6.Go to <http://localhost:8080/JavaBridge/test.php> to check if php works. You can find other examples in there
+6.Go to <https://localhost:8080/JavaBridge/test.php> to check if php works. You can find other examples in there
 
-7.Copy your [Aspose.Tasks Java](http://www.aspose.com/community/files/72/java-components/aspose.tasks-for-java/default.aspx) jar file to C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\JavaBridge\WEB-INF\lib
+7.Copy your [Aspose.Tasks Java](https://downloads.aspose.com/tasks/java) jar file to C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\JavaBridge\WEB-INF\lib
 
 \8. Clone [Aspose.Tasks Java for PHP](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Plugins/Aspose_Tasks_Java_for_PHP) examples inside C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ folder.
 

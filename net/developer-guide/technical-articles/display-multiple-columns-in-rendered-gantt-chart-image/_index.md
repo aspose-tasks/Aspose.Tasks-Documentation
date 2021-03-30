@@ -420,6 +420,6 @@ The following is the image and HTML image produced with the example code:
 
 ![todo:image_alt_text](display-multiple-columns-in-rendered-gantt-chart-image_3.png)
 ## **Conclusion**
-Define image rendering parameters using one of the [BaseImageRenderParam](http://www.aspose.com/documentation/.net-components/aspose.tasks-for-.net/aspose.tasks.visualization.baseimagerenderparam.html) constructor overloads and project view to display selected columns in the output image and render a project file to a Gantt chart image using the [Export](http://www.aspose.com/documentation/.net-components/aspose.tasks-for-.net/aspose.tasks.project.export_overloads.html) method exposed by the [Project](http://www.aspose.com/documentation/.net-components/aspose.tasks-for-.net/aspose.tasks.project.html) class.
+Define image rendering parameters using one of the [BaseImageRenderParam](https://www.aspose.com/documentation/.net-components/aspose.tasks-for-.net/aspose.tasks.visualization.baseimagerenderparam.html) constructor overloads and project view to display selected columns in the output image and render a project file to a Gantt chart image using the [Export](https://www.aspose.com/documentation/.net-components/aspose.tasks-for-.net/aspose.tasks.project.export_overloads.html) method exposed by the [Project](https://www.aspose.com/documentation/.net-components/aspose.tasks-for-.net/aspose.tasks.project.html) class.
 
 The rendered image may be customized to show the number of pages within the available range.

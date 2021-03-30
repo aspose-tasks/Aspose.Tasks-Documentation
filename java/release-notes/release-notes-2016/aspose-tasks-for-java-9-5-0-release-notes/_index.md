@@ -14,7 +14,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
-|TASKSNET-729 |Provide option for [excluding document header name](http://www.aspose.com/docs/display/tasksjava/Saving+Project+Data+to+CSV%2C+Text+and+Template+%28MPT%29+Formats#SavingProjectDatatoCSV%2CTextandTemplate%28MPT%29Formats-ConvertToHtmlWithHeaderControl) during Project->HTML |Enhancement |
+|TASKSNET-729 |Provide option for [excluding document header name](https://www.aspose.com/docs/display/tasksjava/Saving+Project+Data+to+CSV%2C+Text+and+Template+%28MPT%29+Formats#SavingProjectDatatoCSV%2CTextandTemplate%28MPT%29Formats-ConvertToHtmlWithHeaderControl) during Project->HTML |Enhancement |
 |TASKSNET-728 |Performance is too slow with large number of tasks ~10K+ |Enhancement |
 |TASKSJAVA-216 |Predecessors information changed while loading and saving MPP (.NET) |Bug |
 |TASKSNET-1563 |Custom Field marked as Lookup while adding extended attribute to MPP file |Bug |

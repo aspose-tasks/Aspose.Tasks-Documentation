@@ -11,12 +11,12 @@ url: /java/aspose-tasks-java-for-intellij-idea-maven/
 
 In a 2010 **InfoWorld** report, IntelliJ received the highest test center score out of the four top Java programming tools: Eclipse, IntelliJ IDEA, NetBeans and Oracle JDeveloper.
 ### **Aspose.Tasks for Java**
-[Aspose.Tasks](http://www.aspose.com/java/project-management-component.aspx) for Java is a project management API that enables Java application developers to provide Microsoft Project® document manipulation capability in their applications – all without using Microsoft Project®. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
+[Aspose.Tasks](https://products.aspose.com/tasks/java) for Java is a project management API that enables Java application developers to provide Microsoft Project® document manipulation capability in their applications – all without using Microsoft Project®. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
 ### **Aspose.Tasks Java for IntelliJ IDEA - Maven**
-- Aspose.Tasks Java for IntelliJ IDEA (Maven) is an **IntelliJ IDEA Plugin** which lets you create maven projects (i.e. created project contains Aspose.Tasks for Java API maven dependency) and download source code examples of the API for using [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx).
-- This plugin helps you to work with [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx) inside your favorite IntelliJ IDEA. 
+- Aspose.Tasks Java for IntelliJ IDEA (Maven) is an **IntelliJ IDEA Plugin** which lets you create maven projects (i.e. created project contains Aspose.Tasks for Java API maven dependency) and download source code examples of the API for using [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java).
+- This plugin helps you to work with [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) inside your favorite IntelliJ IDEA. 
 
-![todo:image_alt_text](http://i.imgur.com/KWKGljg.png)
+![todo:image_alt_text](https://i.imgur.com/KWKGljg.png)
 
 
 **WIZARDS**:
@@ -24,9 +24,9 @@ The plugin contains two wizards -----
 
 **Wizard 1:** Aspose.Tasks Maven Project
 
-- Plugin's **Aspose Maven Project Wizard** lets developers to create [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx) Maven project.
-- The reference of [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0) and gets added in the pom.xml.
-- The created project will always contain most recent available version Maven Dependency for [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx).
+- Plugin's **Aspose Maven Project Wizard** lets developers to create [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) Maven project.
+- The reference of [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](https://maven.aspose.com/artifactory/webapp/home.html?0) and gets added in the pom.xml.
+- The created project will always contain most recent available version Maven Dependency for [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java).
 - The wizard steps also present with the option for downloading [Source Code Examples for using Aspose.Tasks for Java API](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples)
 
 **Wizard 2:** Aspose.Tasks Examples
@@ -68,9 +68,9 @@ To download IntellliJ IDEA
   - In Search Box type: "Aspose"
   - Select "**Aspose.Tasks Java for IntelliJ IDEA Maven**" plugin to install.
 ## **Installing**
-[Installing Aspose.Tasks for IntelliJ IDEA - Maven](http://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+for+IntelliJ+IDEA+-+Maven#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Installing)
+[Installing Aspose.Tasks for IntelliJ IDEA - Maven](https://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+for+IntelliJ+IDEA+-+Maven#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Installing)
 ## **Using**
-[Using Aspose.Tasks for IntelliJ IDEA - Maven](http://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+for+IntelliJ+IDEA+-+Maven#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Using)
+[Using Aspose.Tasks for IntelliJ IDEA - Maven](https://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+for+IntelliJ+IDEA+-+Maven#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Using)
 ## **Video Demo**
 Please check [the video](https://youtu.be/yG8cZ_Fis-I) below to see Aspose.Tasks Maven Project Wizard and Aspose.Tasks Example Wizard in action.
 ## **Support, Extend and Contribute**

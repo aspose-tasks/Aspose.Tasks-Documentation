@@ -10,7 +10,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|TASKSNET-1729|Improve public API to simplify[working with Custom Fields](https://docs.asposeptyltd.com/display/tasksjava/Extended+Task+Attributes#ExtendedTaskAttributes-AddingExtendedAttributeInformationforaTask).|Enhancement|
+|TASKSNET-1729|Improve public API to simplify[working with Custom Fields](https://docs.aspose.com/display/tasksjava/Extended+Task+Attributes#ExtendedTaskAttributes-AddingExtendedAttributeInformationforaTask).|Enhancement|
 |TASKSNET-1737|Extended attribute lookup table is not showed in XML format.|Bug|
 |TASKSNET-1723|MPP cannot be loaded into Project object|Bug|
 |TASKSNET-1719|False lookup table attached with an extended attribute while adding lookup with another extended attribute|Bug|

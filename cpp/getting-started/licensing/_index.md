@@ -10,7 +10,7 @@ A free evaluation version of Aspose.Tasks for C++ can be downloaded from the dow
 
 {{% alert color="primary" %}} 
 
-If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](http://www.aspose.com/corporate/purchase/temporary-license.aspx)?
+If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](https://purchase.aspose.com/temporary-license)?
 
 {{% /alert %}} 
 ### **PDF Creator Information**
@@ -29,9 +29,9 @@ The project file created from the code looks like the one below in Microsoft Pro
 #### **MPP Write Support**
 Aspose.Tasks supports reading MPP files, updating the project summary information and then writing updated project files in original MPP format. That is if original MPP format belongs to Microsoft Project 2003 version, the MPP file updated through Aspose.Tasks API will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010 and 2013 MPP formats. However, this support is only available in licensed versions of Aspose.Tasks for C++.
 ## **Applying the License**
-Once you are happy with your [evaluation](/pages/createpage.action?spaceKey=taskscpp&title=Evaluate+Aspose.Tasks&linkCreation=true&fromPageId=95322916) of Aspose.Tasks for C++, buy a license at the Aspose website: <http://www.aspose.com/purchase/default.aspx>. Make yourself familiar with the different [licenses](http://www.aspose.com/corporate/purchase/policies/License-Types/default.aspx) offered. If you have any questions, [contact the Aspose sales team](http://www.aspose.com/corporate/contact/default.aspx) and they'll be happy to help you.
+Once you are happy with your evaluation of Aspose.Tasks for C++, buy a license at the Aspose website: <https://purchase.aspose.com/buy>. Make yourself familiar with the different [licenses](https://purchase.aspose.com/policies/license-types/) offered. If you have any questions, [contact the Aspose sales team](https://about.aspose.com/contact) and they'll be happy to help you.
 
-Every Aspose license carries a one-year [subscription](http://www.aspose.com/corporate/purchase/policies/Subscriptions.aspx) for free upgrades to any new versions or fixes that come out during this time. Technical support is free and unlimited and provided both to licensed and evaluation users.
+Every Aspose license carries a one-year [subscription](https://purchase.aspose.com/policies/subscriptions) for free upgrades to any new versions or fixes that come out during this time. Technical support is free and unlimited and provided both to licensed and evaluation users.
 
 The license is a plain-text XML file that contains details such as the product name, number of licensed developers, subscription expiry date and so on. The file is digitally signed, so do not modify the file: even adding an extra line break to the file invalidates it.
 ### **When to Apply a License**
@@ -64,4 +64,4 @@ Another neat way of packaging the license with your application and making sure 
 2. Select the file in the Solution Explorer.
 3. Set **Build Action** to **Embedded Resource** in the Properties window.
 
-To access the license embedded in the assembly (as an embedded resource), you don't have to call the Microsoft .NET Framework's System.Reflection.Assembly class' GetExecutingAssembly and GetManifestResourceStream methods. Instead, just add the license file as an embedded resource to your project and pass the name of the license file to the [License](/pages/createpage.action?spaceKey=taskscpp&title=License+class&linkCreation=true&fromPageId=95322916) class' [SetLicense](/pages/createpage.action?spaceKey=taskscpp&title=SetLicense+Method&linkCreation=true&fromPageId=95322916) method. The License class will automatically find the license file in the embedded resources.
+To access the license embedded in the assembly (as an embedded resource), you don't have to call the Microsoft .NET Framework's System.Reflection.Assembly class' GetExecutingAssembly and GetManifestResourceStream methods. Instead, just add the license file as an embedded resource to your project and pass the name of the license file to the License class' SetLicense method. The License class will automatically find the license file in the embedded resources.

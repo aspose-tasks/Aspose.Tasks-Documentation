@@ -27,7 +27,7 @@ Project Aspose.Tasks Java for Ruby shows how different tasks can be performed us
 ### **Download Required Libraries**
 Download required libraries mentioned below. These are the required for executing Aspose.Tasks Java for Ruby examples.
 
-- [Aspose.Tasks for Java Component](http://www.aspose.com/community/files/72/java-components/aspose.tasks-for-java/default.aspx)
+- [Aspose.Tasks for Java Component](https://downloads.aspose.com/tasks/java)
 ### **Download Examples from Social Coding Sites**
 Following releases of running examples are available to download on below mentioned social coding sites:
 
@@ -47,7 +47,7 @@ It is very simple and easy to install Aspose.Tasks Java for Ruby gem, please fol
 {{< /highlight >}}
 
 1. Download required Aspose.Tasks for Java Component from following link.
-   <http://www.aspose.com/community/files/72/java-components/aspose.tasks-for-java/default.aspx>
+   <https://downloads.aspose.com/tasks/java>
 2. Create "jars" folder at root of the Aspose.Tasks Java for Ruby gem and copy downloaded component into it.
 ### **Using**
 Include the required files to get project version.

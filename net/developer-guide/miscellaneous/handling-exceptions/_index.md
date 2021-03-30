@@ -6,7 +6,7 @@ url: /net/handling-exceptions/
 ---
 
 ## **Handling Exceptions**
-Sometimes, Aspose customers are unable to load their projects because of unsupported features and other issues and do not want to share their projects for analysis on our [Support forums](http://www.aspose.com/community/forums/default.aspx).
+Sometimes, Aspose customers are unable to load their projects because of unsupported features and other issues and do not want to share their projects for analysis on our [Support forums](https://forum.aspose.com/).
 
 The LogText property exposed by the [TasksReadingException]() class is used to deal with such cases. You can use this property to identify the problematic section of the project, for example, a problematic task, resource, resource assignment etc.
 

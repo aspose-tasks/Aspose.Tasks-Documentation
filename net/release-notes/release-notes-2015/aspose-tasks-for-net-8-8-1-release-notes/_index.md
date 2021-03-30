@@ -12,16 +12,11 @@ allow to work with GroupDocs Editor
 
 We have significantly improved writing and reading for mpp format. We
 have supported export and import Project Data for HTML format. It will 
-allow to work with GroupDocs Editor
-
-<http://groupdocs.com>
-
-.
+allow to work with GroupDocs Editor <https://groupdocs.com>.
 Also we have implemented Task ExtendedAttributes and 
 ExtendedAttributeDefinitions reading from MS Project Server. About ten 
-bugs have been fixed. Please see the list of changes below. 
+bugs have been fixed. Please see the list of changes below.
 
-.
 Also we have implemented Task ExtendedAttributes and 
 ExtendedAttributeDefinitions reading from MS Project Server. About ten 
 bugs have been fixed. Please see the list of changes below.

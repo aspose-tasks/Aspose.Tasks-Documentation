@@ -6,13 +6,13 @@ url: /java/licensing/
 ---
 
 ## **Evaluate Aspose.Tasks**
-A free evaluation version of Aspose.Tasks for Java can be downloaded from [download section](http://www.aspose.com/community/files/72/java-components/aspose.tasks-for-java/default.aspx) of Aspose.Tasks for Java. 
+A free evaluation version of Aspose.Tasks for Java can be downloaded from [download section](https://downloads.aspose.com/tasks/java) of Aspose.Tasks for Java. 
 
 
 
 {{% alert color="primary" %}} 
 
-If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](http://www.aspose.com/corporate/purchase/temporary-license.aspx)?
+If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](https://purchase.aspose.com/temporary-license)?
 
 {{% /alert %}} 
 ### **PDF Creator Information**
@@ -82,15 +82,15 @@ prj.save("EvalProject.xml", SaveFileFormat.XML);
 #### **MPP Write Support**
 Aspose.Tasks for Java supports reading MPP files, updating the project summary information and then writing updated project files in original the MPP format. That is, if original MPP format belongs to Microsoft Project 2003 version, the MPP file updated through Aspose.Tasks for Java will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010 and 2013 MPP formats. However, this support is only available in licensed versions of Aspose.Tasks for Java.
 ## **Applying the License**
-You can download an evaluation version of **Aspose.Tasks** for Java from [its download page](http://www.aspose.com/downloads/tasks/java). The evaluation version provides absolutely the same capabilities as the licensed version of the product. Furthermore, evaluation version simply becomes licensed when you purchase a license and add a couple of lines of code to apply the license.
+You can download an evaluation version of **Aspose.Tasks** for Java from [its download page](https://www.aspose.com/downloads/tasks/java). The evaluation version provides absolutely the same capabilities as the licensed version of the product. Furthermore, evaluation version simply becomes licensed when you purchase a license and add a couple of lines of code to apply the license.
 
-Once you are happy with your evaluation of **Aspose.Tasks**, you can [purchase a license](http://www.aspose.com/Purchase/Components/Default.aspx) at the Aspose website. Make yourself familiar with the different subscription types offered. If you have any questions, do not hesitate to contact the Aspose sales team.
+Once you are happy with your evaluation of **Aspose.Tasks for Java**, you can [purchase a license](https://purchase.aspose.com/buy) at the Aspose website. Make yourself familiar with the different subscription types offered. If you have any questions, do not hesitate to contact the Aspose sales team.
 
 Every Aspose license carries a one-year subscription for free upgrades to any new versions or fixes that come out during this time. Technical support is free and unlimited and provided both to licensed and evaluation users.
 
 
 
-If you want to test **Aspose.Tasks** without evaluation version limitations, request a 30-day temporary license. Please refer to [How to get a Temporary License?](http://www.aspose.com/corporate/how-to-get-temporary-license.aspx) for more information.
+If you want to test **Aspose.Tasks** without evaluation version limitations, request a 30-day temporary license. Please refer to [How to get a Temporary License?](https://purchase.aspose.com/temporary-license) for more information.
 ### **Setting a License**
 The license is a plain text XML file that contains details such as the product name, number of developers it is licensed to, subscription expiry date and so on. The file is digitally signed, so do not modify the file; even the inadvertent addition of an extra line break into the file will invalidate it.
 
@@ -101,7 +101,7 @@ The license can be loaded from a stream or file in the following locations:
 1. Explicit path.
 2. The folder that contains the Aspose.Tasks.jar.
 
-Use the [License](http://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/License).setLicense method to license the component. Often the easiest way to set a license is to put the license file in the same folder as Aspose.Tasks.jar and specify just the file name without path as shown in the following example:
+Use the [License](https://www.aspose.com/api/java/tasks/com.aspose.tasks/classes/License).setLicense method to license the component. Often the easiest way to set a license is to put the license file in the same folder as Aspose.Tasks.jar and specify just the file name without path as shown in the following example:
 
 **Example 1**
 

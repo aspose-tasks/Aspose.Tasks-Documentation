@@ -12,19 +12,19 @@ url: /net/convert-ms-project-to-html-csv-text-and-template-mpt/
 Microsoft Project (MSP) allows developers to save project data (MPP/XML) to HTML, comma-delimited (CSV), text and MPT templates. Aspose.Tasks also allows you to save project data to the same formats similar to MSP. This is achieved using the standard Save method exposed by the [Project]() class.
 
 {{% /alert %}} 
-# **Saving Project Data as HTML**
+## **Saving Project Data as HTML**
 Aspose.Tasks can export project data to HTML format. It allows to save all the data to HTML or export only required pages to HTML by using the SaveOptions as shown in the following code samples.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectDataAsHTML-SaveProjectDataAsHTML.cs" >}}
 
 
-#### **Controlling Document Header Name during Export to HTML**
+### **Controlling Document Header Name during Export to HTML**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-ControlHeaderNameDuringHTMLExport-ControlHeaderNameDuringHTMLExport.cs" >}}
-#### **Saving Fonts, Images and CSS Styles Separately**
+### **Saving Fonts, Images and CSS Styles Separately**
 Aspose.Tasks API gives you enough power to save fonts, images, and CSS styles information separately to files while saving Project Data to HTML. This is achieved using the HtmlSaveOptions class by providing information about CSS, Font and Image destinations. 
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-ResourcePrefixForNestedResources-ResourcePrefixForNestedResources.cs" >}}
-#### **Adding Page Prefix in CSS Classes While Exporting to HTML**
+### **Adding Page Prefix in CSS Classes While Exporting to HTML**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-AddingCssStylePrefix-AddingCssStylePrefix.cs" >}}
 ## **Saving a Project as CSV**
 The following code snippet shows how to save a project as a CSV format.

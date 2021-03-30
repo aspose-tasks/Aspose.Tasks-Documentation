@@ -81,14 +81,14 @@ For the reasons specified above, Aspose .NET components cannot be used on server
 ## **Technical Support**
 Aspose provides unlimited free technical support for all its products. The support is available to all users, including ones running an evaluation.
 
-If you need help, [**visit the Aspose.Forums**](http://www.aspose.com/community/forums/default.aspx). Post your question in the Aspose.Tasks for .NET forum and it will be answered within a few hours.
+If you need help, [**visit the Aspose.Forums**](https://forum.aspose.com/). Post your question in the Aspose.Tasks for .NET forum and it will be answered within a few hours.
 
 When expecting a reply in the forums, please allow for time zone differences.
 ### **Reporting an Issue**
 If you have an issue, follow these simple steps to make sure it is resolved efficiently:
 
 - Make sure you use the latest version of the product before reporting an issue. 
-- Have a look through the [forums](http://www.aspose.com/community/forums/default.aspx), this documentation Wiki and the [API Reference](https://apireference.aspose.com/tasks/net) before reporting an issue. Your question may already have an answer.
+- Have a look through the [forums](https://forum.aspose.com/), this documentation Wiki and the [API Reference](https://apireference.aspose.com/tasks/net) before reporting an issue. Your question may already have an answer.
 - When reporting an issue, please include the original document and possibly a fragment of your code that causes the problem. If you need to attach multiple files, zip them into one. It is safe to attach your documents in the forums since only you and Aspose's developers have access to the attached files.
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.
 

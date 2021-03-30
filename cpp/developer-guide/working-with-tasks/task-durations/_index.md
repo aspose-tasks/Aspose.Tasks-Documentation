@@ -11,7 +11,7 @@ Tasks take time, they have a duration. Realistic task durations help give a real
 
 {{% /alert %}} 
 ## **Working with Durations**
-The Duration and DurationFormat properties exposed by the [Tsk](http://www.aspose.com/api/net/tasks/aspose.tasks/tsk) class are used to determine the planned duration and format of the duration of a task:
+The Duration and DurationFormat properties exposed by the [Tsk](https://www.aspose.com/api/net/tasks/aspose.tasks/tsk) class are used to determine the planned duration and format of the duration of a task:
 
 - Duration sets and gets a task's planned duration (TimeSpan).
 - DurationFormat sets and gets formats defined by the TimeUnitType enumeration.

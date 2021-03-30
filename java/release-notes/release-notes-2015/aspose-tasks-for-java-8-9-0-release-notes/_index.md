@@ -12,9 +12,7 @@ allow to work with GroupDocs Editor
 
 We
 have supported export and import Project Data for HTML format. It will 
-allow to work with GroupDocs Editor
-
-<http://groupdocs.com>
+allow to work with GroupDocs Editor <https://www.groupdocs.com/>
 
 . We have implemented reading Primavera XML file with multiple 
 projects. Primavera Xml Save Option has been supported. We have also 

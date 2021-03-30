@@ -10,7 +10,7 @@ A free evaluation version of Aspose.Tasks for .NET can be downloaded from the do
 
 {{% alert color="primary" %}} 
 
-If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](http://www.aspose.com/corporate/purchase/temporary-license.aspx)?
+If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](https://purchase.aspose.com/temporary-license)?
 
 {{% /alert %}} 
 ### **PDF Creator Information**
@@ -29,7 +29,7 @@ The project file created from the code looks like the one below in Microsoft Pro
 #### **MPP Write Support**
 Aspose.Tasks for .NET supports reading MPP files, updating the project summary information and then writing updated project files in original MPP format. If the original MPP format belongs to Microsoft Project 2003 version, the MPP file is updated through Aspose.Tasks for .NET will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010 and 2013 MPP formats. However, this support is only available in licensed versions of Aspose.Tasks for .NET.
 ## **Applying the License**
-Once you are happy with your evaluation of Aspose.Tasks for .NET, buy a license at the Aspose website: <https://purchase.aspose.com/buy>. Make yourself familiar with the different [licenses](https://purchase.aspose.com/policies/license-types/) offered. If you have any questions, [contact the Aspose sales team](https://about.aspose.com/contact) and they'll be happy to help you.
+Once you are happy with your evaluation of **Aspose.Tasks for .NET**, you can buy a license at the Aspose website: <https://purchase.aspose.com/buy>. Make yourself familiar with the different [licenses](https://purchase.aspose.com/policies/license-types/) offered. If you have any questions, [contact the Aspose sales team](https://about.aspose.com/contact) and they'll be happy to help you.
 
 Aspose.Tasks supports two license types: perpetual (pay once) and metered (pay-per-use). For more details please refer to [License Types](https://purchase.aspose.com/policies/license-types/) page.
 

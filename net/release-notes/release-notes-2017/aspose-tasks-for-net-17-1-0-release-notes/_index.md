@@ -12,7 +12,7 @@ This month's release includes a simplified method for working with custom fields
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|TASKSNET-1729|Improve public API to simplify [working with Custom Fields](http://docs.asposeptyltd.com/display/tasksnet/Working+with+Extended+Task+Attributes#WorkingwithExtendedTaskAttributes-AddingExtendedAttributeInformationforaTask).|Enhancement|
+|TASKSNET-1729|Improve public API to simplify [working with Custom Fields](https://docs.aspose.com/display/tasksnet/Working+with+Extended+Task+Attributes#WorkingwithExtendedTaskAttributes-AddingExtendedAttributeInformationforaTask).|Enhancement|
 |TASKSNET-1737|Extended attribute lookup table is not showed in XML format.|Bug|
 |TASKSNET-1723|MPP cannot be loaded into Project object|Bug|
 |TASKSNET-1719|False lookup table attached with an extended attribute while adding lookup with another extended attribute|Bug|

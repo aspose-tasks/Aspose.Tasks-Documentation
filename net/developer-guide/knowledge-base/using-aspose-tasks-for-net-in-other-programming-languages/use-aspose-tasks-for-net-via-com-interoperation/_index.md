@@ -21,8 +21,8 @@ Aspose.Tasks objects are .NET objects, but when used via COM Interop, they appea
 Here are the topics that you will eventually need to master:
 
 - Using COM objects in your programming language. See your programming language documentation and the language-specific topics further in this documentation.
-- Working with COM objects exposed by .NET COM Interop. See [Interoperating With Unmanaged Code](http://msdn.microsoft.com/en-us/library/sd10k43k.aspx) and [Exposing .NET Framework Components to COM](http://msdn.microsoft.com/en-us/library/zsfww439%28v=vs.110%29.aspx) in MSDN.
-- The Aspose.Tasks document object model. See Aspose.Tasks [Developer Guide](/tasks/net/developer-guide/) and [API Reference](http://www.aspose.com/api/net/tasks).
+- Working with COM objects exposed by .NET COM Interop. See [Interoperating With Unmanaged Code](https://docs.microsoft.com/en-us/dotnet/framework/interop/?redirectedfrom=MSDN) and [Exposing .NET Framework Components to COM](https://docs.microsoft.com/en-us/dotnet/framework/interop/exposing-dotnet-components-to-com?redirectedfrom=MSDN) in MSDN.
+- The Aspose.Tasks document object model. See Aspose.Tasks [Developer Guide](/tasks/net/developer-guide/) and [API Reference](https://www.aspose.com/api/net/tasks).
 ### **Register Aspose.Tasks for .NET with COM Interop**
 You need to install Aspose.Tasks for .NET and make sure that it is registered with COM Interop (ensuring that it can be called from unmanaged code).
 

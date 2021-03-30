@@ -13,7 +13,7 @@ If you have linked a task from one project to a task from the other project, the
 
 ![todo:image_alt_text](/download/attachments/16286500/407880160)
 
-The ExternalId property exposed by the [Task](http://www.aspose.com/api/net/tasks/aspose.tasks/task) class is used to find an external task's original ID. The Id property returns the ID of the external task in the **external** project whereas the ExternalId property returns the ID of the external task in the **original** project.
+The ExternalId property exposed by the [Task](https://www.aspose.com/api/net/tasks/aspose.tasks/task) class is used to find an external task's original ID. The Id property returns the ID of the external task in the **external** project whereas the ExternalId property returns the ID of the external task in the **original** project.
 
 The code example given below finds the original and external ID of a task.
 

@@ -81,5 +81,5 @@ This table lists important Aspose.Tasks for C++ technical resources.
 |[Aspose.Tasks home page](https://products.aspose.com/tasks/cpp)|Product home page.|
 |[Aspose.Tasks blog](https://blog.aspose.com/category/tasks/)|Check this often for information about new releases and useful tips about Aspose.Tasks.|
 |[Aspose.Tasks for C++ support forum](https://forum.aspose.com/c/tasks)|Post your questions and issues here for a speedy resolution.|
-|[Aspose.Tasks for C++ product documentation](http://docs.aspose.com/display/taskscpp/Home)|Full online documentation that includes this documentation as well as Aspose.Tasks API Reference.|
+|[Aspose.Tasks for C++ product documentation](https://docs.aspose.com/display/taskscpp/Home)|Full online documentation that includes this documentation as well as Aspose.Tasks API Reference.|
 

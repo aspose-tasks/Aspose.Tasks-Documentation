@@ -11,16 +11,16 @@ Eclipse IDE is a famous Java Integrated Development Environment (IDE). The IDE i
 
 The Eclipse IDE can be extended with additional software components. Eclipse calls these software components Plug-ins. Several Open Source projects and companies have extended the Eclipse IDE or created standalone applications (Eclipse RCP) on top of the Eclipse framework.
 ### **Aspose.Tasks for Java**
-[Aspose.Tasks for Java ](http://www.aspose.com/java/project-management-component.aspx)is a project management component that enables Java application developers to provide Microsoft Project ® documents manipulation capability in their applications – all without using Microsoft Project ®.
+[Aspose.Tasks for Java](https://products.aspose.com/tasks/java) is a project management component that enables Java application developers to provide Microsoft Project ® documents manipulation capability in their applications – all without using Microsoft Project ®.
 
-[Aspose.Tasks for Java](http://www.aspose.com/java/project-management-component.aspx) API exposes the complete project document structure to read and write Microsoft Project documents in both MPP and XML formats. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
+[Aspose.Tasks for Java](https://products.aspose.com/tasks/java) API exposes the complete project document structure to read and write Microsoft Project documents in both MPP and XML formats. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
 
-[Aspose.Tasks for Java](http://www.aspose.com/java/project-management-component.aspx) supports rendering tasks, resources and resource assignment data to various output formats such as JPG, PNG, PDF, XML, XAML, HTML, BMP, XPS, TIFF and SVG. In addition, it is possible to export project data to CSV, TXT, XLS, XLSX and MPT formats as well.
+[Aspose.Tasks for Java](https://products.aspose.com/tasks/java) supports rendering tasks, resources and resource assignment data to various output formats such as JPG, PNG, PDF, XML, XAML, HTML, BMP, XPS, TIFF and SVG. In addition, it is possible to export project data to CSV, TXT, XLS, XLSX and MPT formats as well.
 ### **Aspose.Tasks Java (Maven) for Eclipse**
-- Aspose.Tasks Java (Maven) for Eclipse is a Plugin for **Eclipse IDE** by **Aspose.** This Plugin is intended for developers using Maven platform for Java developments and want to use [Aspose.Tasks for Java](http://www.aspose.com/java/project-management-component.aspx) in their projects. The Plugin lets you create maven projects for using [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx) and also download [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) of the API.
-- The plugin provides following features to work with [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx) within **Eclipse IDE** comfortably: 
+- Aspose.Tasks Java (Maven) for Eclipse is a Plugin for **Eclipse IDE** by **Aspose.** This Plugin is intended for developers using Maven platform for Java developments and want to use [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) in their projects. The Plugin lets you create maven projects for using [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) and also download [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) of the API.
+- The plugin provides following features to work with [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) within **Eclipse IDE** comfortably: 
 
-![todo:image_alt_text](http://i.imgur.com/KWKGljg.png)
+![todo:image_alt_text](https://i.imgur.com/KWKGljg.png)
 
 
 **WIZARDS**:
@@ -28,17 +28,17 @@ The plugin contains two wizards -----
 
 **       ****Aspose.Tasks Maven Project (wizard)**
 
-- This New Project wizard lets developers to create **Maven** project for using [Aspose.Tasks for Java](http://www.aspose.com/java/project-management-component.aspx) from **New -> Project -> Maven-> Aspose.Tasks Maven Project.**
-- The reference of [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0) and gets added in the pom.xml.
-- The created project will always contain most recent available version **Maven** Dependency for [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx).
-- The wizard steps also presents with the option for downloading [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) for using [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx).
+- This New Project wizard lets developers to create **Maven** project for using [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) from **New -> Project -> Maven-> Aspose.Tasks Maven Project.**
+- The reference of [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](https://maven.aspose.com/artifactory/webapp/home.html?0) and gets added in the pom.xml.
+- The created project will always contain most recent available version **Maven** Dependency for [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java).
+- The wizard steps also presents with the option for downloading [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) for using [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java).
 
 **       ****Aspose.Tasks Code Example (wizard)**
 
-- This New File wizard lets you copy the downloaded [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) into your project for using [Aspose.Tasks for Java](http://www.aspose.com/java/project-management-component.aspx) from **New -> Other -> Java -> Aspose.Tasks Code Example.**
+- This New File wizard lets you copy the downloaded [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) into your project for using [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) from **New -> Other -> Java -> Aspose.Tasks Code Example.**
 - Available samples are displayed in tree format from where the user can select them categorically.
 - All the examples within the selected category will get copied to the project's "**com.aspose.tasks.examples**" package folder along with the required resources within "**src/main/resources**" folder needed to run the examples.
-- [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) of [Aspose.Tasks for Java API](http://www.aspose.com/java/project-management-component.aspx) are meant for demonstrating the various of the API.
+- [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) of [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) are meant for demonstrating the various of the API.
 - The wizard will also look for and updates for newly available [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) from [Aspose.Tasks for Java examples repository.](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples)
 ## **System Requirements and Supported Platforms**
 ### **System Requirements**
@@ -61,14 +61,14 @@ Following are three recommended methods for the successful downloading and insta
 
 - Drag and drop installation from [Eclipse Marketplace](https://marketplace.eclipse.org/content/asposetasks-java-maven-eclipse) to your Eclipse workspace.
 - Or go to **Help** > **Install New Software...** > Enter following update site url in **Work with**:
-  [http://cdn.aspose.com/marketplace/eclipse/java/maven/aspose-tasks](http://cdn.aspose.com/marketplace/eclipse/java/maven/asposetasks/)
+  [https://marketplace.eclipse.org/content/asposetasks-java-maven-eclipse](https://marketplace.eclipse.org/content/asposetasks-java-maven-eclipse)
   Then select "Aspose.Tasks Java (Maven) for Eclipse" and **Finish**. Accept License Agreement and Install the plugin.
 ## **Installing**
-[Installing Aspose.Tasks Java (Maven) for Eclipse](http://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+Java+for+Eclipse+-+Maven#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Installing)
+[Installing Aspose.Tasks Java (Maven) for Eclipse](https://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+Java+for+Eclipse+-+Maven#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Installing)
 ## **Using the Plugin**
-[Using Aspose.Tasks Java (Maven) for Eclipse](http://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+Java+for+Eclipse+-+Maven#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Using)
+[Using Aspose.Tasks Java (Maven) for Eclipse](https://www.aspose.com/docs/display/tasksjava/Installing+and+Using+Aspose.Tasks+Java+for+Eclipse+-+Maven#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Using)
 ### **How to apply Aspose License?**
-This Plugin uses an evaluation version of Aspose.Tasks. Once you are happy with your evaluation, you can purchase a license at the [Aspose website](http://www.aspose.com/purchase/default.aspx).
+This Plugin uses an evaluation version of Aspose.Tasks. Once you are happy with your evaluation of **Aspose.Tasks for Java**, you can buy a license at the [Aspose website](https://purchase.aspose.com/buy).
 To remove evaluation message and feature limitations, product license should be applied. You will receive a license file after you have purchased the product. Please follow the steps below to apply the license
 
 - Make sure the license file is named as **Aspose.Tasks.Java.lic**

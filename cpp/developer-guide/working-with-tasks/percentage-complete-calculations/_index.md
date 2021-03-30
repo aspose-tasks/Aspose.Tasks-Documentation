@@ -11,7 +11,7 @@ Microsoft Project shows the percentage of a task that's been completed. The perc
 
 {{% /alert %}} 
 ## **Percentages**
-The [Tsk](http://www.aspose.com/api/net/tasks/aspose.tasks/tsk) class exposes a number of properties used to calculate percentages:
+The [Tsk](https://www.aspose.com/api/net/tasks/aspose.tasks/tsk) class exposes a number of properties used to calculate percentages:
 
 - PercentComplete represents the completed percentage of a task's duration (integer).
 - PercentWorkComplete represents the completed percentage of a task's work (integer).
@@ -30,7 +30,7 @@ The following code example demonstrates how to get the percentages of work relat
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-ReadTaskPercentageCompletion-ReadTaskPercentageCompletion.cpp" >}}
 ## **Changing Task Progress**
-Aspose.Tasks API supports changing a task's progress in terms of its percentage completion through the [Task](http://www.aspose.com/api/net/tasks/aspose.tasks/task) class' SetPercentComplete() method. This method takes an integer argument as input for the percentage work completed.
+Aspose.Tasks API supports changing a task's progress in terms of its percentage completion through the [Task](https://www.aspose.com/api/net/tasks/aspose.tasks/task) class' SetPercentComplete() method. This method takes an integer argument as input for the percentage work completed.
 
 The following piece of code shows how to change the progress of a task.
 
