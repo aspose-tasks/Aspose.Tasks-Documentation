@@ -22,7 +22,7 @@ To see a task's duration in Microsoft Project:
 
    **Setting task duration in Microsoft Project** 
 
-![todo:image_alt_text](managing-durations_1.png)
+![how to manage task duration in Microsoft Project](managing-durations_1.png)
 ### **Setting task duration using Aspose.Tasks**
 The following examples increases and decreases the task duration to 1 week and half week respectively.
 

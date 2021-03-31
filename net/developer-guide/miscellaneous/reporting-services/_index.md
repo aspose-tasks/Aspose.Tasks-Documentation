@@ -35,42 +35,40 @@ The following types of reports can be created using Aspose.Tasks:
 16. Cash flow
 
 The sample code snippets below can be used to create these reports. All the sample MPP files used in these examples are present as attachments for testing the sample code.
+
 #### **Project Overview**
-![todo:image_alt_text](reporting-services_1.png)
-
-
+![exported project overview report example](reporting-services_1.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveProjectOverviewReport-SaveProjectOverviewReport.cs" >}}
+
 #### **Resource Cost Overview**
-![todo:image_alt_text](reporting-services_2.png)
-
-
+![exported resource cost overview report example](reporting-services_2.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveResourceCostOverviewReport-SaveResourceCostOverviewReport.cs" >}}
+
 #### **Cost Overview**
-![todo:image_alt_text](reporting-services_3.png)
+![exported cost overview report example](reporting-services_3.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCostOverviewReport-SaveCostOverviewReport.cs" >}}
 
-
 #### **Work Overview**
-![todo:image_alt_text](reporting-services_4.png)
-
-
+![exported work overview report example](reporting-services_4.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveWorkOverviewReport-SaveWorkOverviewReport.cs" >}}
+
 #### **Critical Tasks**
-![todo:image_alt_text](reporting-services_5.png)
+![exported critical tasks report example](reporting-services_5.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCriticalTasksReport-SaveCriticalTasksReport.cs" >}}
+
 #### **Milestones**
-![todo:image_alt_text](reporting-services_6.png)
+![exported milestones report example](reporting-services_6.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveMilestonesReport-SaveMilestonesReport.cs" >}}
 
 
 #### **Late Tasks**
-![todo:image_alt_text](reporting-services_7.png)
+![exported late tasks report example](reporting-services_7.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveLateTasksReport-SaveLateTasksReport.cs" >}}
 

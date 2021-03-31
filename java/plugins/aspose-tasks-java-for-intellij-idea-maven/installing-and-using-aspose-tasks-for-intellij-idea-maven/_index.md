@@ -20,15 +20,11 @@ The  plugin is listed on IntelliJ IDEA’s CE [official plugin website](https:/
 ### **Aspose.Tasks Maven Project Wizard**
 Installing this plugin will introduce a new project type – 
 
-![todo:image_alt_text](https://download-codeplex.sec.s-msft.com/Download/SourceControlFileDownload.ashx?ProjectName=aspose-tasksjavaintellij&changeSetId=a7c87493df4ac41c39a1f25064d9689b137631db&itemId=src%2fresources%2fasposeSmall.png)
-
 **Aspose.Tasks Maven Project** – into IntelliJ IDEA, which will enable you to create Aspose.Tasks Maven based project for using [Aspose.Tasks for Java API. ](https://goo.gl/n0EeSM). 
 
 ![todo:image_alt_text](idea_plugin_1.png)
 ### **Aspose.Tasks Example Wizard**
 An option for creating [Example Source Codes for using Aspose.Tasks for Java API](https://goo.gl/bSyHrp) in the project, will also appear after the installation under "New" menu (using Right Click -> New **OR** File menu->New) – 
-
-![todo:image_alt_text](https://download-codeplex.sec.s-msft.com/Download/SourceControlFileDownload.ashx?ProjectName=aspose-tasksjavaintellij&changeSetId=a7c87493df4ac41c39a1f25064d9689b137631db&itemId=src%2fresources%2fasposeSmall.png)
 
 **Aspose.Tasks Example**
 

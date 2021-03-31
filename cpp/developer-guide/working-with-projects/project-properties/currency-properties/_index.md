@@ -26,9 +26,7 @@ To see the currency properties in Microsoft Project:
 2. On the **Tools** menu, select **Options**.
 3. Click the **View** tab and for Project 2016 **Display**. It will look like the one shown below.
 
-**Reading currency properties in Microsoft Project 2016** 
-
-![todo:image_alt_text](currency-properties_1.png)
+![edit currency properties in Microsoft Project 2016](currency-properties_1.png)
 
 The code example given below demonstrates how to write currency properties to the project.
 

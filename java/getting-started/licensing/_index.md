@@ -26,7 +26,7 @@ The project file created from the code looks like the one below in Microsoft Pro
 
 ## **Date changes in the evaluation version of Aspose.Tasks** 
 
-![todo:image_alt_text](licensing_1.png)
+![changed dates in evaluated version of Aspose.Tasks for Java](licensing_1.png)
 
 **Java**
 

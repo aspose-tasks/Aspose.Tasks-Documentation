@@ -7,7 +7,7 @@ url: /java/product-overview/
 
 {{% alert color="primary" %}} 
 
-![todo:image_alt_text](product-overview_1.png)
+![Aspose.Tasks for Java logo](product-overview_1.png)
 
 **Welcome to Aspose.Tasks for Java!**
 

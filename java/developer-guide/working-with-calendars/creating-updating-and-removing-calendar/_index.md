@@ -32,7 +32,7 @@ The code samples below set weekdays for a project. After running the code, open 
 
 **Defining weekdays in Microsoft Project** 
 
-![todo:image_alt_text](creating-updating-and-removing-calendar_2.png)
+![edit calendar working times in Microsoft Project](creating-updating-and-removing-calendar_2.png)
 
 **Programming Sample**
 

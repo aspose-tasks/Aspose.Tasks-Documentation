@@ -10,7 +10,7 @@ url: /java/installing-and-using-aspose-tasks-java-for-eclipse-maven/
 
 - To open it, select **Plugins** from the **Tools** menu in Eclipse. 
 
-![todo:image_alt_text](https://i.imgur.com/ihr0lbC.png)
+![todo:image_alt_text](image_1.png)
 
 - This adds the **Aspose.Tasks Maven Project** in New Project wizard and **Aspose.Tasks Code Example** in New File wizard of Eclipse IDE.
 ## **Using**
@@ -21,19 +21,17 @@ To create **Maven Project** by wizard for using [Aspose.Tasks for Java API](http
 2. Select **Aspose.Tasks Maven Project** in the **Maven** category.
 3. Click **Next**. 
 
-![todo:image_alt_text](https://i.imgur.com/lURyuwW.png)
+![todo:image_alt_text](image_2.png)
 
 1. Provide **Project Name, Location, GroupId, ArtifactId** and **Version** for your Maven Project and click **Finish.** 
 
-![todo:image_alt_text](https://i.imgur.com/uyB6Es9.png)
+![todo:image_alt_text](image_3.png)
 
 1. This will retrieve the [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) latest [Maven Dependency](https://maven.aspose.com/repository/ext-release-local/com/aspose/aspose-tasks/) reference from [Aspose Cloud Maven Repository](https://maven.aspose.com/artifactory/webapp/home.html?0) and configure it in **pom.xml**. If you have opted for **Also Download Code Examples,** downloading of the **Code Examples** will also begin from the [Aspose.Tasks for Java API Examples Repository. ](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples)
-2. Following **Maven** Project will be created on your **Eclipse IDE** on completion of the wizard: 
-
-![todo:image_alt_text](/download/thumbnails/16580610/434715868)
-
-1. The created **Maven Project** is configured to use **Aspose.Tasks for Java API** and ready to be enhanced as per your Project requirements.
+2. The **Maven** project will be created on your **Eclipse IDE** on completion of the wizard.
+3. The created **Maven Project** is configured to use **Aspose.Tasks for Java API** and ready to be enhanced as per your Project requirements.
    If you have opted to download [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples), you can use **Aspose.Tasks Code Example (wizard)** for importing needed **Code Examples** of [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) API into your project.
+
 ### **Aspose.Tasks Code Example (wizard)**
 **Aspose.Tasks Code Example wizard** allows you to try out many samples provided for [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) API.
 
@@ -49,11 +47,11 @@ To use examples, just:
 2. Choose your project and then select **Aspose.Tasks Code Example** in the **Java** category.
 3. Click **Next**. 
 
-![todo:image_alt_text](https://i.imgur.com/I0UIVYM.png)
+![todo:image_alt_text](image_4.png)
 
 1. Expand the tree to select **Code Example** category and click **Finish**. 
 
-![todo:image_alt_text](https://i.imgur.com/cXJ1DcH.png)
+![todo:image_alt_text](image_5.png)
 
 1. This will copy the selected category **Code Examples** Java files into the project under **com.aspose.tasks.examples** package. Also any required resources needed by the Code Examples will be copied into **src/main/resources** folder
 2. Review the example code, compile and run.
