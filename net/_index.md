@@ -25,6 +25,6 @@ The following are the links to some useful resources you may need to accomplish 
 - [Download Aspose.Tasks for .NET](https://downloads.aspose.com/tasks/net)
 - [Install Aspose.Tasks for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Tasks/)
 - [Download Examples at GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET)
-- [Aspose.Tasks for .NET API Reference Guide](https://apireference.aspose.com/net/tasks)
-- [Aspose.Tasks for .NET Free Support Forum](https://forum.aspose.com/c/tasks)
+- [Aspose.Tasks for .NET API Reference Guide](https://apireference.aspose.com/tasks/net)
+- [Aspose.Tasks for .NET Free Support Forum](https://forum.aspose.com/c/tasks/15)
 - [Aspose.Tasks for .NET Paid Support HelpDesk](https://helpdesk.aspose.com/)

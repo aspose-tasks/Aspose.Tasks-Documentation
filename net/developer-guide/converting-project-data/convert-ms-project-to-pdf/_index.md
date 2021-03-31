@@ -15,7 +15,7 @@ Aspose.Tasks API provides the capability to render project data in PDF format. T
 
 
 ## **Saving a Project as a PDF**
-The [Project](https://apireference.aspose.com/net/tasks/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The [Save](https://apireference.aspose.com/tasks/net/aspose.tasks.project/save/methods/3) method allows you to render project data to PDF using the [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
+The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The [Save](https://apireference.aspose.com/tasks/net/aspose.tasks.project/save/methods/3) method allows you to render project data to PDF using the [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
 
 To save a project to PDF:
 

@@ -26,8 +26,8 @@ The following are the links to some useful resources you may need to accomplish 
 - [Download Aspose.Tasks for .NET](https://downloads.aspose.com/tasks/net)
 - [Install Aspose.Tasks for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Tasks/)
 - [Download Examples at GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET)
-- [Aspose.Tasks for .NET API Reference Guide](https://apireference.aspose.com/net/tasks)
-- [Aspose.Tasks for .NET Free Support Forum](https://forum.aspose.com/c/tasks)
+- [Aspose.Tasks for .NET API Reference Guide](https://apireference.aspose.com/tasks/net)
+- [Aspose.Tasks for .NET Free Support Forum](https://forum.aspose.com/c/tasks/15)
 - [Aspose.Tasks for .NET Paid Support HelpDesk](https://helpdesk.aspose.com/)
 
 ## **Aspose.Tasks for Java**
@@ -52,7 +52,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Tasks for Java from Maven Repository](/tasks/java/installation)
 - [Aspose.Tasks for Java API Reference Guide](https://apireference.aspose.com/tasks/java)
 - [Download Aspose.Tasks for Java from GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-Java)
-- [Aspose.Tasks for Java Free Support Forum](https://forum.aspose.com/c/tasks)
+- [Aspose.Tasks for Java Free Support Forum](https://forum.aspose.com/c/tasks/15)
 - [Aspose.Tasks for Java Paid Support HelpDesk](https://helpdesk.aspose.com/)
 
 ## **Aspose.Tasks for C++**
@@ -77,5 +77,5 @@ The following are the links to some useful resources you may need to accomplish 
 - [Install Aspose.Tasks for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Tasks.Cpp/)
 - [Aspose.Tasks for C++ API Reference Guide](https://apireference.aspose.com/tasks/cpp)
 - [Download Aspose.Tasks for C++ from GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-C)
-- [Aspose.Tasks for C++ Free Support Forum](https://forum.aspose.com/c/tasks)
+- [Aspose.Tasks for C++ Free Support Forum](https://forum.aspose.com/c/tasks/15)
 - [Aspose.Tasks for C++ Paid Support HelpDesk](https://helpdesk.aspose.com/)
