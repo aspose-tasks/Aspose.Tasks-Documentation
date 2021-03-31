@@ -19,7 +19,7 @@ To see whether a task is critical or effort-driven in Microsoft Project:
 
    **An effort-driven task in Microsoft Project** 
 
-![todo:image_alt_text](handling-critical-and-effort-driven-tasks_1.png)
+![handling critical and effort driven tasks in Microsoft Project](handling-critical-and-effort-driven-tasks_1.png)
 ### **Getting Critical and Effort-driven Tasks**
 The following code examples show how to get information about whether a task is critical or effort-driven.
 

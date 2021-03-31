@@ -21,10 +21,10 @@ To see a task's stop and resume dates:
 1. In the Task Entry form, on the **Inset** menu, select **Column**.
 2. Add the Stop and Resume columns.
 
-
 **The Stop and Resume columns in Microsoft Project** 
 
-![todo:image_alt_text](stop-and-resume-a-task_1.png)
+![work with Stopped or Resumed tasks in Microsoft Project](stop-and-resume-a-task_1.png)
+
 ### **Getting Stop and Resume Dates**
 The stop and resume dates are not available if the task has never stopped. For date values equal to NA, Aspose.Tasks take the value "1/1/2000" if you're using the evaluation version. When fully licensed, Aspose.Tasks uses DateTime.MinValue for NA values. The following examples display's the stop and resume dates for all the tasks in a project.
 

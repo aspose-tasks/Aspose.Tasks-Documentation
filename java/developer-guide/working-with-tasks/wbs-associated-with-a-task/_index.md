@@ -23,7 +23,7 @@ To view WBS information in Microsoft Project:
 
 **Work breakdown structure in Microsoft Project** 
 
-![todo:image_alt_text](wbs-associated-with-a-task_1.png)
+![WBS associated with tasks](wbs-associated-with-a-task_1.png)
 ### **Getting WBS in Aspose.Tasks**
 The following examples show how to get a task's WBS value using Aspose.Tasks.
 

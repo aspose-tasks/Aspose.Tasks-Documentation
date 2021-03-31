@@ -23,21 +23,21 @@ The sample project file used in the following code snippets, SampleProject.mpp, 
 
 ## **Input file: Gantt chart view** 
 
-![todo:image_alt_text](create-resources-and-link-with-tasks_1.png)
+![show input Gantt chart view](create-resources-and-link-with-tasks_1.png)
 
 ## **Input file: Resource sheet view** 
 
-![todo:image_alt_text](create-resources-and-link-with-tasks_2.png)
+![show input resource sheet view](create-resources-and-link-with-tasks_2.png)
 
 After processing, the file is updated.
 
 ## **Output file: Gantt chart view** 
 
-![todo:image_alt_text](create-resources-and-link-with-tasks_3.png)
+![show output Gantt chart view](create-resources-and-link-with-tasks_3.png)
 
 ## **Output file: Resource sheet view** 
 
-![todo:image_alt_text](create-resources-and-link-with-tasks_4.png)
+![show output resource sheet chart view](create-resources-and-link-with-tasks_4.png)
 
 
 

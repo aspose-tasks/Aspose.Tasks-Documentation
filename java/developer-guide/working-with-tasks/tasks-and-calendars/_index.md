@@ -22,7 +22,7 @@ To create a calendar for a task in Microsoft Project:
 
 **The Change Working Time dialog showing a custom-made calendar** 
 
-![todo:image_alt_text](tasks-and-calendars_1.png)
+![changing working time in resource calendar in Microsoft Project](tasks-and-calendars_1.png)
 ### **Setting Task Calendar**
 Create a standard calendar and create a task. Assign the Calendar to the task.
 
