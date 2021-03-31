@@ -19,11 +19,11 @@ With Aspose.Tasks for .NET, it is possible to program with Microsoft Project fil
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Tasks for .NET Features](/tasks/net/product-overview)
-- [Aspose.Tasks for .NET Developer Guide](/tasks/net/developer-guide)
-- [Aspose.Tasks for .NET Release Notes](/tasks/net/release-notes)
-- [Aspose.Tasks for .NET Product Page](https://products.aspose.com/tasks/net)
-- [Download Aspose.Tasks for .NET](https://downloads.aspose.com/tasks/net)
+- [Aspose.Tasks for .NET Features](/tasks/net/product-overview/)
+- [Aspose.Tasks for .NET Developer Guide](/tasks/net/developer-guide/)
+- [Aspose.Tasks for .NET Release Notes](/tasks/net/release-notes/)
+- [Aspose.Tasks for .NET Product Page](https://products.aspose.com/tasks/net/)
+- [Download Aspose.Tasks for .NET](https://downloads.aspose.com/tasks/net/)
 - [Install Aspose.Tasks for .NET NuGet Package](https://www.nuget.org/packages/Aspose.Tasks/)
 - [Download Examples at GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET)
 - [Aspose.Tasks for .NET API Reference Guide](https://apireference.aspose.com/tasks/net)
@@ -45,11 +45,11 @@ Aspose.Tasks for Java is a class library that enables Java application developer
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Tasks for Java Online Documentation](/tasks/java/)
-- [Aspose.Tasks for Java Features](/tasks/java/product-overview)
-- [Aspose.Tasks for Java Release Notes](/tasks/java/release-notes)
+- [Aspose.Tasks for Java Features](/tasks/java/product-overview/)
+- [Aspose.Tasks for Java Release Notes](/tasks/java/release-notes/)
 - [Aspose.Tasks for Java Product Page](https://products.aspose.com/tasks/java)
 - [Download Aspose.Tasks for Java](https://downloads.aspose.com/tasks/java)
-- [Install Aspose.Tasks for Java from Maven Repository](/tasks/java/installation)
+- [Install Aspose.Tasks for Java from Maven Repository](/tasks/java/installation/)
 - [Aspose.Tasks for Java API Reference Guide](https://apireference.aspose.com/tasks/java)
 - [Download Aspose.Tasks for Java from GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-Java)
 - [Aspose.Tasks for Java Free Support Forum](https://forum.aspose.com/c/tasks/15)
@@ -70,10 +70,10 @@ Aspose.Tasks for C++ is a native class library that enables C++ applications to 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Tasks for C++ Online Documentation](/tasks/cpp/)
-- [Aspose.Tasks for C++ Features](/tasks/cpp/product-overview)
-- [Aspose.Tasks for C++ Release Notes](/tasks/cpp/release-notes)
-- [Aspose.Tasks for C++ Product Page](https://products.aspose.com/tasks/cpp)
-- [Download Aspose.Tasks for C++](https://downloads.aspose.com/tasks/cpp)
+- [Aspose.Tasks for C++ Features](/tasks/cpp/product-overview/)
+- [Aspose.Tasks for C++ Release Notes](/tasks/cpp/release-notes/)
+- [Aspose.Tasks for C++ Product Page](https://products.aspose.com/tasks/cpp/)
+- [Download Aspose.Tasks for C++](https://downloads.aspose.com/tasks/cpp/)
 - [Install Aspose.Tasks for C++ NuGet Package](https://www.nuget.org/packages/Aspose.Tasks.Cpp/)
 - [Aspose.Tasks for C++ API Reference Guide](https://apireference.aspose.com/tasks/cpp)
 - [Download Aspose.Tasks for C++ from GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-C)
