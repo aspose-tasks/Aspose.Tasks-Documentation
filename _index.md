@@ -59,7 +59,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 {{% alert color="primary" %}}
 
-<img src="home_3.png" alt="Aspose.Tasks for C++ Product Logo" style="zoom:50%;" />
+![Aspose.Tasks for C++ Product Logo](home_3.png)
 
 **Welcome to Aspose.Tasks for C++!**
 
