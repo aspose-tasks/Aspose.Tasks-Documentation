@@ -109,7 +109,7 @@ In this example Aspose.Tasks will attempt to find the license file in the folder
 
 **Java**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  com.aspose.tasks.License license = new com.aspose.tasks.License();
 
@@ -123,7 +123,7 @@ Initializes a license from a stream.
 
 **Java**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  com.aspose.tasks.License license = new com.aspose.tasks.License();
 

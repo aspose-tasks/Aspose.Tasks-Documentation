@@ -34,9 +34,9 @@ The following code snippet shows how to save a project as a CSV format.
 
 The following lines of code show how to write string data to a project using CsvOptions, DataCategory and CsvTextDelimiter.
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
- string CSV = @"ID;Resource_Name;Group_Name;Max_Units;Peak;Std_Rate;Ovt_Rate;Cost;Work
+string CSV = @"ID;Resource_Name;Group_Name;Max_Units;Peak;Std_Rate;Ovt_Rate;Cost;Work
 
 1;Clerical Support;Office;200%;100%;$50.00/hr;$0.00/hr;$1600.00;32 hrs
 

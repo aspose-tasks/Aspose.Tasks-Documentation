@@ -54,7 +54,7 @@ If the SaveOptions.RollUpGanttBars property is set to true, any summary task in 
 ### **Example 1**
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  PdfSaveOptions options = new PdfSaveOptions();
 

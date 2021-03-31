@@ -39,7 +39,7 @@ Once created, you are able to access the object’s methods and properties, as i
 
 
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
  Dim prj As New Aspose_Tasks.Project
 

@@ -27,7 +27,7 @@ Following steps are required to accomplish this task:
 ### **Code Examples - VSTO**
 
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
 // Create Application object
 Application projectApplication = new ApplicationClass();

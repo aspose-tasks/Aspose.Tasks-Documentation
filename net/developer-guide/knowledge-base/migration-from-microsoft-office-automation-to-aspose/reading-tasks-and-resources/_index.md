@@ -21,7 +21,7 @@ The following steps are required to accomplish this task:
 ### **Code Examples - VSTO**
 
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
 
 

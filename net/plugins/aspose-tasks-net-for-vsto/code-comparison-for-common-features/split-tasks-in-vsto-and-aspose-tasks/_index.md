@@ -67,7 +67,7 @@ To create and split a task, follow these steps:
 
 The following code shows how to accomplish these tasks:
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
   string FileName = "MyProject.mpp";
 

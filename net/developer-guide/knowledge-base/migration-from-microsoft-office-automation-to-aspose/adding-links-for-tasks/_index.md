@@ -28,7 +28,7 @@ This imports the Microsoft.Office.Interop.MSProject namespace at the start of yo
 ### **Programming Samples - VSTO**
 
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
 
 

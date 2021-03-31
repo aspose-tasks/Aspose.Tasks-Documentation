@@ -41,7 +41,7 @@ The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/projec
 ### **Reading Project Files as a Template**
 **Java**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Read a project from a template
  Project project = new Project("d:\\Project1.mpp");

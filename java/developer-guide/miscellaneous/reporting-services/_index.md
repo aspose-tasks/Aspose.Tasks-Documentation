@@ -96,7 +96,7 @@ project6.saveReport("WorkOverview.pdf", ReportType.WorkOverview);
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Critical Tasks
 
@@ -110,7 +110,7 @@ project7.saveReport("CriticalTasks.pdf", ReportType.CriticalTasks);
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Milestones
 
@@ -124,7 +124,7 @@ project8.saveReport("Milestones.pdf", ReportType.Milestones);
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Late Tasks
 
@@ -138,7 +138,7 @@ project9.saveReport("LateTasks.pdf", ReportType.LateTasks);
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Resource Overview
 
@@ -152,7 +152,7 @@ project10.saveReport("ResourceOverview.pdf", ReportType.ResourceOverview);
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Cost Overruns
 
@@ -166,7 +166,7 @@ project11.saveReport("CostOverruns.pdf", ReportType.CostOverruns);
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Upcoming Task
 
@@ -180,7 +180,7 @@ project12.saveReport("UpcomingTasks.pdf", ReportType.UpcomingTask);
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Task Cost Overview
 
@@ -194,7 +194,7 @@ project13.saveReport("TaskCostOverview.pdf", ReportType.TaskCostOverview);
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Over allocated Resources
 
@@ -208,7 +208,7 @@ project14.saveReport("OverAllocatedResources.pdf", ReportType.OverallocatedResou
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Slipping Tasks
 
@@ -222,7 +222,7 @@ project15.saveReport("SlippingTasks.pdf", ReportType.SlippingTasks);
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Best Practice Analyzer
 
@@ -236,7 +236,7 @@ project16.saveReport("BestPracticeAnalyzer.pdf", ReportType.BestPracticeAnalyzer
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Burn down
 
@@ -250,7 +250,7 @@ project17.saveReport("Burndown.pdf", ReportType.Burndown);
 
 **C#**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
  //Cash Flow
 

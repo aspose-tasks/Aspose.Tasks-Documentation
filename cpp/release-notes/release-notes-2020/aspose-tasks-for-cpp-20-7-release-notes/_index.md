@@ -19,13 +19,13 @@ In Aspose.Tasks for .NET 20.7 the requirements to a site URL for Project Server 
 Users now should specify the full URL of PWA endpoint when using ProjectServerCredentials:
 
 Before Aspose.Tasks for .NET 20.7:
-{{< highlight csharp >}}
+{{< highlight cpp >}}
 var windowsCredentials = ...
 var projectServerCredentials = new ProjectServerCredentials("https://project_server_instance.local", windowsCredentials);
 {{< /highlight >}}
 
 Since Aspose.Tasks for .NET 20.7:
-{{< highlight csharp >}}
+{{< highlight cpp >}}
 var windowsCredentials = ...
 var projectServerCredentials = new ProjectServerCredentials("https://project_server_instance.local/sites/pwa", windowsCredentials);
 {{< /highlight >}}

@@ -35,13 +35,13 @@ The number of pages in the rendered image depends on the task's net duration. Th
 
 You pass the number of pages to be rendered in the image. For example, this code example defines an image that is 800x600, with no zoom factor and only one page of the project data:
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
  BaseImageRenderParam imageRenderingParameters=new BaseImageRenderParam(null, Point.Empty, new Size(800, 600),100, 0, true);
 
 {{< /highlight >}}
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
  Dim imageRenderingParameters As New BaseImageRenderParam(Nothing, Point.Empty, New Size(800, 600),100, 0, True)
 
@@ -49,7 +49,7 @@ You pass the number of pages to be rendered in the image. For example, this code
 ### **ProjectView Type**
 The ProjectView class can be used to display specific columns in the output image. A constructor of this class takes an array list of the GanttChartColumn class as its argument. The example code shows how it works:
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
  //Create the view columns
 
@@ -72,7 +72,7 @@ The constructor of the GanttChartColumn class takes three arguments - the column
 
 In the above code example, TaskToColumnTextConverter delegate calls three target methods, TaskName, TaskNotes and TaskResources, to convert the data in these columns to text. The three methods are implemented in the following code example.
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
  /// <summary>
 
@@ -198,7 +198,7 @@ private string TaskResources(Task task)
 ### **Using Export Method Exposed by Project Class**
 After defining the image rendering parameters and project view, use the Export method of the Project class to render the project data to a Gantt chart image as shown in the code below:
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
  project.Export(RenderFormat.Image, PresentationFormat.GanttChart, "project.html", new BaseImageRenderParam(null, new Point(), new Size(1200, 800), 100, 0, false), true, null, view);
 
@@ -206,7 +206,7 @@ After defining the image rendering parameters and project view, use the Export m
 ### **Complete Code Listing**
 The complete source code listing in the form of a Console Application is as under:
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
  using System;
 

@@ -9,7 +9,7 @@ This is an ASP classic page with VB Script that gathers information about defaul
 
 
 
-{{< highlight java >}}
+{{< highlight csharp >}}
 
 
 
