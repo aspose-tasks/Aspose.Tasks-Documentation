@@ -21,7 +21,7 @@ At the moment, Aspose.Tasks can export Microsoft Project to Microsoft Project's 
 
 
 ### **Ignoring invalid characters during loading Project**
-Some files may have invalid characters in the custom fields. MS Project does not allow invalid character so the files have been created or manipulated with automation or some other tools. If these files are loaded using the API, they may lead to an exception. In order to ignore such invalid characters, the overloaded constructor of Project class can be used with the delegate method ParseErrorCallBack.
+Some files may have invalid characters in the custom fields. Microsoft Project does not allow invalid character so the files have been created or manipulated with automation or some other tools. If these files are loaded using the API, they may lead to an exception. In order to ignore such invalid characters, the overloaded constructor of Project class can be used with the delegate method ParseErrorCallBack.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-CreatingReadingAndSaving-IgnoreInvalidCharactersDuringloadingProject-IgnoreInvalidCharactersDuringloadingProject.cpp" >}}
 ## **Read Password Protected Projects (2003 Format)**

@@ -1,8 +1,8 @@
 ---
 title: Convert MS Project to HTML, CSV, Text and Template MPT
 type: docs
-description: "Aspose.Tasks for .NET allows converting MS Project (MPP) to HTML, CSV, Text and Template MPT format."
-keywords: "Export your project to HTML, MPP to HTML, MPP to CSV, MPP to Text, MPP to MPT, Convert MPP to Text, Convert MS Project to HTML, Convert MPP to MPT, convert MPP to CSV, Save Project Data as MPT Template, Aspose.Tasks, C#"
+description: "Aspose.Tasks for .NET allows converting Microsoft Project (MPP) to HTML, CSV, Text and Template MPT format."
+keywords: "Export your project to HTML, MPP to HTML, MPP to CSV, MPP to Text, MPP to MPT, Convert MPP to Text, Convert Microsoft Project to HTML, Convert MPP to MPT, convert MPP to CSV, Save Project Data as MPT Template, Aspose.Tasks, C#"
 weight: 50
 url: /net/convert-ms-project-to-html-csv-text-and-template-mpt/
 ---

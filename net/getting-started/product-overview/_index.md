@@ -22,7 +22,7 @@ Aspose.Tasks supports MPP, MPT, XML, XLSX, HTML, PDF, XAML and other formats. Wi
 Aspose.Tasks offers a wide arrange of features for creating, reading, manipulating and saving project files:
 
 - Read, change and write Microsoft Project® documents
-- Read MPP projects (native MS Project format and Microsoft Project Online format) and XML project formats. MS Project 2003, 2007, 2010, 2013, 2016 and 2019 MPP formats are supported
+- Read MPP projects (native Microsoft Project format and Microsoft Project Online format) and XML project formats. Microsoft Project 2003, 2007, 2010, 2013, 2016 and 2019 MPP formats are supported
 - Create, update and write projects in XML project format
 - Read MPP project files, update their summary information and write them in original MPP format
 - Read MPP project files and convert them to XML format using Aspose.Tasks for .NET (the XML can be manipulated by implementing a custom XML parser)
@@ -58,7 +58,7 @@ Aspose.Tasks for .NET supports:
 Aspose.Tasks for .NET is designed to perform equally well server- or client-side. Aspose.Tasks for .NET is a single .NET assembly that can be deployed with any .NET application by simply copying it. You do not have to worry about other services or modules. You can literally generate thousands of documents in minutes with Aspose.Tasks and that involves opening a document, modifying content and formatting or populating it with data and saving it. 
 
 Aspose.Tasks is developed in a way that only one thread works on a document at a time. It is a typical scenario to have one thread working on one document. Different threads can safely work on different documents at the same time.
-### **Supported MS Project Versions**
+### **Supported Microsoft Project Versions**
 - 2003
 - 2007
 - 2010

@@ -6,9 +6,9 @@ url: /net/working-with-page-header-footer/
 ---
 
 ## **Reading Header and Footer Information from MPP file**
-Aspose.Tasks API provides the capability to read the Header and Footer information from MPP file. The API has classes mapped to each tab of MS Project Page Setup dialog as detailed in the section below.
+Aspose.Tasks API provides the capability to read the Header and Footer information from MPP file. The API has classes mapped to each tab of Microsoft Project Page Setup dialog as detailed in the section below.
 
-- MS Project Page Setup dialog box has 6 tabs (see screenshot). These tabs are mapped to new classes:
+- Microsoft Project Page Setup dialog box has 6 tabs (see screenshot). These tabs are mapped to new classes:
   - Page tab -> Aspose.Tasks.Visualization.PageSettings class
   - Margins tab -> Aspose.Tasks.Visualization.PageMargins class
   - Header, footer tabs -> Aspose.Tasks.Visualization.HeaderFooterInfo class

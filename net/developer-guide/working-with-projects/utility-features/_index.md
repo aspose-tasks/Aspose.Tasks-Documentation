@@ -42,6 +42,6 @@ Embedded objects (those which were created from the file by selecting a file pat
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Miscellaneous-ExtractEmbeddedObjects-ExtractEmbeddedObjects.cs" >}}
 
-Embedded objects which were created inside MS Project application can be extracted this way:
+Embedded objects which were created inside Microsoft Project application can be extracted this way:
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Miscellaneous-EmbeddedObjectsCreatedInsideApplication-EmbeddedObjectsCreatedInsideApplication.cs" >}}

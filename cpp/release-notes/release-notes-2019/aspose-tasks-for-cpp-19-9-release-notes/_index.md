@@ -16,7 +16,7 @@ Aspose.Tasks for C++ has been launched. It allows you to read and write Micros
 Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, manipulating and saving project files:
 
 - Read, change and write Microsoft Project® documents
-- Read MPP projects (native MS Project format) and XML project formats. MS Project 2003, 2007, 2010, 2013, 2016 and 2019 MPP formats are supported
+- Read MPP projects (native Microsoft Project format) and XML project formats. Microsoft Project 2003, 2007, 2010, 2013, 2016 and 2019 MPP formats are supported
 - Create, update and write projects in XML project format
 - Read MPP project files, update their summary information and write them in original MPP format
 - Read MPP project files and convert them to XML format using Aspose.Tasks for C++ (the XML can be manipulated by implementing a custom XML parser)
@@ -36,7 +36,7 @@ Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, ma
 - Resource prefix implementation for nested resources
 - Support of setting CSS prefix for HTML export
 - Set custom date format while exporting to PDF format
-## **Supported MS Project Versions**
+## **Supported Microsoft Project Versions**
 - 2003
 - 2007
 - 2010

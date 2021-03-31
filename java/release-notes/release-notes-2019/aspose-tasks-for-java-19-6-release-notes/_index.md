@@ -13,7 +13,7 @@ This page contains release notes information for [Aspose.Tasks for Java 19.6](ht
 
 
 ## **Features**
-- The support ofMS Project 2019 has been added.
+- The support of Microsoft Project 2019 has been added.
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

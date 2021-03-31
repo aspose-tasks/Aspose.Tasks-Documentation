@@ -39,7 +39,7 @@ We mentioned earlier that Aspose.Tasks can export to Microsoft Project's XML for
 ### **Import Project Data from Microsoft MPD File**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-CreatingReadingAndSaving-ImportProjectDataFromMPDFile-ImportProjectDataFromMPDFile.cs" >}}
 ### **Ignoring invalid characters during loading Project**
-Some files may have invalid characters in the custom fields. MS Project does not allow invalid character so the files have been created or manipulated with automation or some other tools.
+Some files may have invalid characters in the custom fields. Microsoft Project does not allow invalid character so the files have been created or manipulated with automation or some other tools.
 If these be loaded using the API, they may lead to an exception. In order to ignore such invalid characters, the overloaded constructor of Project class can be used with the delegate method ParseErrorCallBack.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-CreatingReadingAndSaving-IgnoreInvalidCharactersDuringloadingProject-IgnoreInvalidCharactersDuringloadingProject.cs" >}}

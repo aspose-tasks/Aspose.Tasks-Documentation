@@ -19,7 +19,7 @@ The [Project]()[ ](https://apireference.aspose.com/tasks/cpp/class/aspose.task
 
 To read project properties in Microsoft Project, click **Project Information** on the **Project** menu.
 
-![project information in MS Project 2010](working-with-project-properties_1.png)
+![project information in Microsoft Project 2010](working-with-project-properties_1.png)
 
 The code example given below demonstrates how to read and output the project start and end date, whether the project is scheduled from the start or end, author, last author, revision, keywords and comments.
 

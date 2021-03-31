@@ -20,8 +20,8 @@ Using Aspose.Tasks for Java in your applications gives you the following benefit
 Aspose.Tasks offers a wide arrange of features for creating, reading, manipulating and saving project files:
 
 - Read, change and write Microsoft Project® documents.
-- Read MPP projects (native MS Project format and Microsoft Office 365 Project Online format) and XML project formats. MS Project 2003, 2007, 2010, 2013 and 2016 MPP formats are supported
-- Create, update and write projects in an XML project format. MS Project 2003, 2007, 2010, 2013 and 2016 are supported.
+- Read MPP projects (native Microsoft Project format and Microsoft Office 365 Project Online format) and XML project formats. Microsoft Project 2003, 2007, 2010, 2013 and 2016 MPP formats are supported
+- Create, update and write projects in an XML project format. Microsoft Project 2003, 2007, 2010, 2013 and 2016 are supported.
 - Read MPP project files, update their summary information and write them in original MPP format.
 - Read MPP project files and convert them to XML format using Aspose.Tasks for Java (the XML can be manipulated by implementing a custom XML parser).
 - Change main project settings like schedule type, start and finish dates.

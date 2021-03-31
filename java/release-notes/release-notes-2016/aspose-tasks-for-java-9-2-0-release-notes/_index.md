@@ -8,24 +8,7 @@ url: /java/aspose-tasks-for-java-9-2-0-release-notes/
 ## **Major Features**
 We have supported MPD format for reading. Timescale tier labels has been customized according to current Culture Info. Two bugs have been fixed. Please see the list of changes below.
 
-We have supported MPD format for reading. Timescale tier labels has been customized according to current Culture Info. Two bugs have been fixed. Please see the list of changes below.
 ## **All Changes**
-All Changes
-
-Issue Type
-
-Key
-
-Summary
-
-timescale tier labels
-
-MS Project MPD
-# **Public API and Backwards Incompatible Changes**
-The following public classes were added:
-
-The following public methods were added to existing classes:
-
 |**Issue Type**|**Key**|**Summary**|
 | :- | :- | :- |
 |Bug|TASKS-34383|Wrong parent value Id retrieved from Outline codes in MPP|

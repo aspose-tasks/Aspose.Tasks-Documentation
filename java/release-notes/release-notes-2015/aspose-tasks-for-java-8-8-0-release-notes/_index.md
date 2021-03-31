@@ -8,12 +8,12 @@ url: /java/aspose-tasks-for-java-8-8-0-release-notes/
 ## **Major Features**
 We have significantly improved writing and reading for mpp format. We
 have also implemented Task ExtendedAttributes and 
-ExtendedAttributeDefinitions reading from MS Project Server. About ten 
+ExtendedAttributeDefinitions reading from Microsoft Project Server. About ten 
 bugs have been fixed. Please see the list of changes below. 
 
 We have significantly improved writing and reading for mpp format. We
 have also implemented Task ExtendedAttributes and 
-ExtendedAttributeDefinitions reading from MS Project Server. About ten 
+ExtendedAttributeDefinitions reading from Microsoft Project Server. About ten 
 bugs have been fixed. Please see the list of changes below.
 ## **All Changes**
 All Changes
@@ -45,8 +45,8 @@ The following public methods were added to existing classes:
 |Task |TASKS-34218 |Implement reading/writing Table.RowHeight and Table.DateFormat fields to mpp format |
 |Task |TASKS-34202 |Read Timeline View data from mpp format |
 |Task |TASKS-34201 |Read Task.DisplayOnTimeline field |
-|Task |TASKS-34180 |Implement Task ExtendedAttributes reading from MS Project DB |
-|Task |TASKS-34167 |Implement ExtendedAttributeDefinitions reading from MS Project DB |
+|Task |TASKS-34180 |Implement Task ExtendedAttributes reading from Microsoft Project DB |
+|Task |TASKS-34167 |Implement ExtendedAttributeDefinitions reading from Microsoft Project DB |
 |Task |TASKS-34144 |Implement Calendar binary data reading from MSP database |
 |Task |TASKS-34116 |Implement Export/Import Project Data as HTML |
 |Sub-task |TASKS-34217 |TASKS-33909 Implement reading/writing Table.ShowInMenu field for 2007-2013 mpp formats |

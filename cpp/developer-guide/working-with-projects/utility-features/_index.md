@@ -42,6 +42,6 @@ Embedded objects (those which were created from the file by selecting a file pat
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-Miscellaneous-ExtractEmbeddedObjects-ExtractEmbeddedObjects.cpp" >}}
 
-Embedded objects which were created inside MS Project application can be extracted this way:
+Embedded objects which were created inside Microsoft Project application can be extracted this way:
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-Miscellaneous-EmbeddedObjectsCreatedInsideApplication-EmbeddedObjectsCreatedInsideApplication.cpp" >}}

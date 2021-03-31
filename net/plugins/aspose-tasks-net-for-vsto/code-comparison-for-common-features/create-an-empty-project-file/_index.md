@@ -7,7 +7,7 @@ url: /net/create-an-empty-project-file/
 
 ## **Code Examples**
 ### **VSTO**
-Below is the code to add project file in MS Project
+Below is the code to add project file in Microsoft Project
 
 {{< highlight cs >}}
 

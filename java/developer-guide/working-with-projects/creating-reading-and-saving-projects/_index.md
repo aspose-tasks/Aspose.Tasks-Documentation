@@ -55,7 +55,7 @@ Aspose.Tasks API now allows to read Project data from the Microsoft Project data
 ### **Reading Project Data from Microsoft Access Database (MPD)**
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadingProjectDataFromMicrosoftAccessDatabase-ReadingProjectDataFromMicrosoftAccessDatabase.java" >}}
 ### **Ignoring invalid characters during loading Project**
-Some files may have invalid characters in the custom fields. MS Project does not allow invalid character so the files have been created or manipulated with automation or some other tools.
+Some files may have invalid characters in the custom fields. Microsoft Project does not allow invalid character so the files have been created or manipulated with automation or some other tools.
 If these be loaded using the API, they may lead to an exception. In order to ignore such invalid characters, the overloaded constructor of the Project class can be used with the delegate method ParseErrorCallBack.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-IgnoringInvalidCharactersDuringLoadingProject-IgnoringInvalidCharactersDuringLoadingProject.java" >}}

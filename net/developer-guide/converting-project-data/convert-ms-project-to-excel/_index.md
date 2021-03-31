@@ -1,8 +1,8 @@
 ---
 title: Convert MS Project to Excel
 type: docs
-description: "Aspose.Tasks for .NET allows converting MS Project (MPP) to Microsoft XLS and XLSX format."
-keywords: "Export your project to Excel, MPP to XLS, Convert your MPP to XLS, Convert MS Project to Excel, convert MPP to XLSX, Aspose.Tasks, C#"
+description: "Aspose.Tasks for .NET allows converting Microsoft Project (MPP) to Microsoft XLS and XLSX format."
+keywords: "Export your project to Excel, MPP to XLS, Convert your MPP to XLS, Convert Microsoft Project to Excel, convert MPP to XLSX, Aspose.Tasks, C#"
 weight: 30
 url: /net/convert-ms-project-to-excel/
 ---
