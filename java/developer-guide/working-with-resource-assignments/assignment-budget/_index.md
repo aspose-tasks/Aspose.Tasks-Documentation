@@ -18,7 +18,8 @@ To see assignment budgets in Microsoft Project:
 
 **Budget columns added in Microsoft Project** 
 
-![todo:image_alt_text](assignment-budget_1.png)
+![show budget columns in Microsoft Project 2019](assignment-budget_1.png)
+
 ### **Getting Assignment Budget with Aspose.Tasks**
 The following example shows how to get an assignment budget using Aspose.Tasks.
 

@@ -18,7 +18,8 @@ To see an assignment's stop and resume dates in Microsoft Project:
 
 **Assignment stop and resume dates in Microsoft Project** 
 
-![todo:image_alt_text](stop-or-resume-an-assignment_1.png)
+![checking resource assignments stop/resume dates in Microsoft Project 2013](stop-or-resume-an-assignment_1.png)
+
 ### **Getting an Assignment's Stop and Resume Dates using Aspose.Tasks**
 If an assignment hasn't been stopped, the stop and resume dates have the value NA. In the evaluation version of Aspose.Tasks, values equal to NA gets the value "1/1/2000". In the licensed version, NA values equal DateTime.MinValue.
 

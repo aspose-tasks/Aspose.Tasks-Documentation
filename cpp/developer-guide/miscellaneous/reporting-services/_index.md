@@ -12,7 +12,8 @@ Aspose.Tasks API provides reporting services for creating reports from project f
 1. the PDF file name, and
 2. the ReportType enumerator.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Aspose.Tasks Reporting Services**
 ### **Types of Report**
 The following types of report can be created using Aspose.Tasks:
@@ -35,83 +36,83 @@ The following types of report can be created using Aspose.Tasks:
 16. Cash flow
 
 The sample code snippets below can be used to create these reports. All the sample MPP files used in these examples are present as attachments for testing the sample code.
+
 #### **Project Overview**
-![todo:image_alt_text](reporting-services_1.png)
-
-
+![exported project overview report example C++](reporting-services_1.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveProjectOverviewReport-SaveProjectOverviewReport.cpp" >}}
+
 #### **Resource Cost Overview**
-![todo:image_alt_text](reporting-services_2.png)
-
-
+![exported resource cost overview report example C++](reporting-services_2.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveResourceCostOverviewReport-SaveResourceCostOverviewReport.cpp" >}}
+
 #### **Cost Overview**
-![todo:image_alt_text](reporting-services_3.png)
+![exported cost overview report example C++](reporting-services_3.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveCostOverviewReport-SaveCostOverviewReport.cpp" >}}
 
-
 #### **Work Overview**
-![todo:image_alt_text](reporting-services_4.png)
-
-
+![exported work overview report example C++](reporting-services_4.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveWorkOverviewReport-SaveWorkOverviewReport.cpp" >}}
+
 #### **Critical Tasks**
-![todo:image_alt_text](reporting-services_5.png)
+![exported critical tasks report example C++](reporting-services_5.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveCriticalTasksReport-SaveCriticalTasksReport.cpp" >}}
+
 #### **Milestones**
-![todo:image_alt_text](reporting-services_6.png)
+![exported milestones report example C++](reporting-services_6.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveMilestonesReport-SaveMilestonesReport.cpp" >}}
 
-
 #### **Late Tasks**
-![todo:image_alt_text](reporting-services_7.png)
+![exported late tasks report example C++](reporting-services_7.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveLateTasksReport-SaveLateTasksReport.cpp" >}}
 
-
 #### **Resource Overview**
-![todo:image_alt_text](reporting-services_8.png)
+![exported resource overview report example C++](reporting-services_8.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveResourceOverviewReport-SaveResourceOverviewReport.cpp" >}}
 
-
 #### **Cost Overruns**
-![todo:image_alt_text](reporting-services_9.png)
+![exported cost overruns report example C++](reporting-services_9.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveCostOverrunsReport-SaveCostOverrunsReport.cpp" >}}
 
-
 #### **Upcoming Task**
-![todo:image_alt_text](reporting-services_10.png)
+![exported upcoming task report example C++](reporting-services_10.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveUpcomingTasksReport-SaveUpcomingTasksReport.cpp" >}}
+
 #### **Task Cost Overview**
-![todo:image_alt_text](reporting-services_11.png)
+![exported task cost overview report example C++](reporting-services_11.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveTaskCostOverviewReport-SaveTaskCostOverviewReport.cpp" >}}
+
 #### **Over-allocated Resources**
-![todo:image_alt_text](reporting-services_12.png)
+![exported over-allocated resources report example C++](reporting-services_12.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveOverallocatedResourcesReport-SaveOverallocatedResourcesReport.cpp" >}}
+
 #### **Slipping Tasks**
-![todo:image_alt_text](reporting-services_13.png)
+![exported slipping report example C++](reporting-services_13.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveSlippingTasksReport-SaveSlippingTasksReport.cpp" >}}
+
 #### **Best Practice Analyzer**
-![todo:image_alt_text](reporting-services_14.png)
+![exported best practice report example C++](reporting-services_14.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveBestPracticeAnalyzerReport-SaveBestPracticeAnalyzerReport.cpp" >}}
+
 #### **Burn Down**
-![todo:image_alt_text](reporting-services_15.png)
+![exported practice analyzer report example C++](reporting-services_15.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveBurnDownReport-SaveBurnDownReport.cpp" >}}
+
 #### **Cash Flow**
-![todo:image_alt_text](reporting-services_16.png)
+![exported burndown report example C++](reporting-services_16.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-SaveCashFlowReport-SaveCashFlowReport.cpp" >}}

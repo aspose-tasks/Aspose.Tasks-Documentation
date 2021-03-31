@@ -20,7 +20,8 @@ To view assignment costs in Microsoft Project:
 
 **Resource cost columns in Microsoft Project** 
 
-![todo:image_alt_text](managing-assignment-cost_1.png)
+![modify resource costs in Microsoft Project 2010](managing-assignment-cost_1.png)
+
 ### **Getting Assignment Costs with Aspose.Tasks**
 The following example shows getting task costs using Aspose.Tasks.
 

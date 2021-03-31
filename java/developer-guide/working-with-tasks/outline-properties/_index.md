@@ -21,10 +21,9 @@ In Microsoft Project, outline number and outline level properties can be viewed 
 1. On the **Insert** menu, select **columns**.
 2. Add the OutlineNumber and OutlineLevel columns.
 
-
 **Outline properties in Microsoft Project** 
+![checking outline properties in Microsoft Project](outline-properties_1.png)
 
-![todo:image_alt_text](outline-properties_1.png)
 ### **Getting Outline Properties in Aspose.Tasks**
 The following example shows how to get the outline level and outline number information about a task using Aspose.Tasks.
 

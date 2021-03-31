@@ -20,10 +20,10 @@ To see the resource work variance in Microsoft Project:
 1. On the Resource Sheet, go to the **Insert** menu and select **Column**.
 2. Add the Variance column.
 
-
 **Variance in Microsoft Project** 
 
-![todo:image_alt_text](handling-variances_1.png)
+![handling resource variances in Microsoft Project 2010](handling-variances_1.png)
+
 ### **Getting Resource Work Variance in Aspose.Tasks**
 The following examples show how to get resource work variance using Aspose.Tasks.
 

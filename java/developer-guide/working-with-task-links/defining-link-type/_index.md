@@ -17,10 +17,10 @@ To define link type in Microsoft Project:
 2. Double-click the desired task.
 3. Select the **Predecessor** tab.
 
-
 **Defining link type in Microsoft Project** 
 
-![todo:image_alt_text](defining-link-type_1.png)
+![show task link type Microsoft Project](defining-link-type_1.png)
+
 ### **Setting Link Type with Aspose.Tasks**
 The code samples below set a link type as "Finish-to-Start”, the default link type.
 

@@ -15,14 +15,14 @@ The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) cl
 
 - IsEstimated: set and get whether a task is estimated (boolean).
 - IsMilestone: set and get whether a task is a milestone (boolean).
+
 ### **Viewing Estimated and Milestone Tasks in Microsoft Project**
-To see whether a task is estimated or marked as a milestone in Microsoft Project:
+To see whether a task is estimated or marked as a milestone in Microsoft Project double-click a task in the Task Entry form.
 
-1. Double-click a task in the Task Entry form. 
+**Marking an estimated task as a milestone in Microsoft Project** 
 
-   **Marking an estimated task as a milestone in Microsoft Project** 
+![managing estimated milestone tasks in Microsoft Project](managing-estimated-milestone-tasks_1.png)
 
-![todo:image_alt_text](managing-estimated-milestone-tasks_1.png)
 ### **Finding out Whether a Task is Estimated or a Milestone**
 The following code examples show how to find out whether a task is estimated or a milestone using Aspose.Tasks.
 

@@ -15,15 +15,17 @@ The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calen
 - OvertimeCost represents the sum of an actual and remaining overtime cost (decimal).
 - OvertimeWork represents the amount of overtime work scheduled for a task
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Resource Overtimes**
 To see overtime cost, overtime rate and overtime work in Microsoft Project:
 
 1. On the Resource sheet, select the **Insert** menu and then select **Column**.
 2. Add the columns. 
-   **Overtime columns added to the Resource sheet in Microsoft Project** 
 
-![todo:image_alt_text](overtimes-for-a-resource_1.png)
+**Overtime columns added to the Resource sheet in Microsoft Project** 
+![overtime resource values in Microsoft Project](overtimes-for-a-resource_1.png)
+
 ### **Getting Resource Overtimes in Aspose.Tasks**
 The following example shows how to get resource overtimes using Aspose.Tasks.
 

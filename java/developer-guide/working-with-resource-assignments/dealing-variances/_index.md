@@ -18,10 +18,10 @@ To see resource assignment variances in Microsoft Project:
 1. On the Task Usage screen, select **Insert** and ten **Columns**.
 2. Add the desired columns.
 
-
 **Variance columns added in Microsoft Project** 
 
-![todo:image_alt_text](dealing-variances_1.png)
+![dealing with variances in Microsoft Project 2010](dealing-variances_1.png)
+
 ### **Getting Assignment Variance in Aspose.Tasks**
 The following example shows how to get the resource work variance using Aspose.Tasks.
 

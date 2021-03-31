@@ -24,10 +24,9 @@ To view task costs in Microsoft Project:
 1. On the Task Entry form, go to the **Insert** menu and select **Columns**.
 2. Add the cost columns.
 
-
 **Task cost in Microsoft Project** 
+![edit task costs in Microsoft Project](managing-task-costs_1.png)
 
-![todo:image_alt_text](managing-task-costs_1.png)
 ### **Getting Task Costs**
 The following examples show how to get a task's cost using Aspose.Tasks.
 

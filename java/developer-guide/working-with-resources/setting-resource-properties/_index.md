@@ -23,10 +23,10 @@ To view a resource's general properties in Microsoft Project:
 2. From the **Insert** menu, select **Column**.
 3. Add the Start, Finish, ID and unique ID columns.
 
-
 **General resource properties in Microsoft Project** 
 
-![todo:image_alt_text](setting-resource-properties_1.png)
+![show general resource properties in Microsoft Project](setting-resource-properties_1.png)
+
 ### **Setting General Resource Properties using Aspose.Tasks**
 The following example gives a detailed code sample about setting resource properties.
 

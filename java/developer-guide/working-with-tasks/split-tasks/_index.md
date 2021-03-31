@@ -23,9 +23,10 @@ To see split tasks in Microsoft Project:
 
 1. On the **View** menu, select **Gantt Chart**.
    Split tasks are linked by a dotted line. 
-   **Split tasks in Microsoft Project** 
 
-![todo:image_alt_text](split-tasks_1.png)
+**Split tasks in Microsoft Project** 
+![split task in Microsoft Project](split-tasks_1.png)
+
 ### **Creating and Splitting Task**
 To create and split a task, follow these steps:
 

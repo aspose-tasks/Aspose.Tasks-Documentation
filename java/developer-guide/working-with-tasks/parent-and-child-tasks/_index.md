@@ -22,13 +22,14 @@ To declare a task as a parent or a child task in Microsoft Project:
 2. Select **Outdent** to turn a task into a parent, or,
 3. Select **Indent** to turn a task into a child.
 
-
 **Parent tasks and children in Microsoft Project** 
 
-![todo:image_alt_text](parent-and-child-tasks_1.png)
+![parent child relations in Microsoft Project](parent-and-child-tasks_1.png)
+
 ### **Getting Parent and Child Tasks**
 The following examples show viewing parent and child tasks in a project using Aspose.Tasks.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-ParentAndChildTasks-get-child-tasks.java" >}}
+
 ### **Setting Child Tasks**
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-ParentAndChildTasks-set-child-tasks.java" >}}

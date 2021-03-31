@@ -69,7 +69,7 @@ In Microsoft Project, open the file output by the code below and, on the **Tools
 
 **The Change Working Times Information dialog shows the standard calendar used by the project** 
 
-![todo:image_alt_text](creating-updating-and-removing-calendar_3.png)
+![change working times in standard calendar in Microsoft Project](creating-updating-and-removing-calendar_3.png)
 
 **Programming Sample**
 

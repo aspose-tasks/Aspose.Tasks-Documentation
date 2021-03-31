@@ -16,14 +16,11 @@ In Aspose.Tasks, the CrossProjectName and IsCrossProject properties exposed by t
 - CrossProjectName represents the external predecessor project (string).
 - IsCrossProject determines whether a predecessor is part of another project (Boolean).
 
-To manage cross-project predecessor tasks in Microsoft Project:
-
-1. From the **Tools** menu, select **Links between Projects**.
-
+To manage cross-project predecessor tasks in Microsoft Project from the **Tools** menu, select **Links between Projects**.
 
 **Cross-project predecessors in Microsoft Project** 
+![shows external predecessors in Microsoft Project](cross-project-predecessors_1.png)
 
-![todo:image_alt_text](cross-project-predecessors_1.png)
 ### **Getting Cross-Project Predecessor Tasks using Aspose.Tasks**
 Here, we shall display predecessor and successor task traversing the task links in the project.
 

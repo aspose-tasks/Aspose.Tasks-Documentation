@@ -22,14 +22,12 @@ To see the physical percent complete in Microsoft Project:
 1. On the Task Entry form, from the **Insert** menu, select **Column**.
 2. Add the column.
 
-To see the completed percentage in Microsoft Project:
+To see the completed percentage in Microsoft Project on the Task Entry form, double-click the desired column:
 
-1. On the Task Entry form, double-click the desired column.
+**A task's completed percentage in Microsoft Project, and, below it, it's physical completion percentage.**
 
+![check percentage complete in Microsoft Project](percentage-complete-calculations_1.png)
 
-**A task's completed percentage in Microsoft Project, and, below it, it's physical completion percentage.** 
-
-![todo:image_alt_text](percentage-complete-calculations_1.png)
 ### **Getting Percentages in Aspose.Tasks**
 The following example shows how to get the percentages of work relating to tasks using Aspose.Tasks.
 

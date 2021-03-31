@@ -20,10 +20,10 @@ To see assignment overtime, remaining cost and work in Microsoft Project:
 1. On the Task Usage screen, select the **Insert** menu, then **Column**.
 2. Add the desired columns.
 
-
 **Overtime, remaining costs and work columns added in Microsoft Project** 
 
-![todo:image_alt_text](handling-overtime-remaining-costs-and-work_1.png)
+![overtime, remaining costs and works in Microsoft Project](handling-overtime-remaining-costs-and-work_1.png)
+
 ### **Getting Assignment Overtimes in Aspose.Tasks**
 The following example shows how to get assignment overtimes, remaining costs and work using Aspose.Tasks.
 

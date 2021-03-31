@@ -27,7 +27,7 @@ To view a task's general properties in Microsoft Project:
 
 **Task general properties view in Microsoft Project** 
 
-![todo:image_alt_text](reading-and-writing-general-properties_1.png)
+![read and write general properties of Microsoft Project](reading-and-writing-general-properties_1.png)
 ### **Setting General Properties**
 To set the properties shown in the screenshot above, use the code below.
 

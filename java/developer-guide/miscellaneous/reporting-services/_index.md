@@ -36,7 +36,7 @@ The following types of reports can be created using Aspose.Tasks:
 
 The sample code snippets below can be used to create these reports. All the sample MPP files used in these examples are present as attachments for testing the sample code.
 #### **Project Overview**
-![todo:image_alt_text](reporting-services_1.png)
+![exported project overview report example Java](reporting-services_1.png)
 
 **Java**
 
@@ -44,13 +44,13 @@ The sample code snippets below can be used to create these reports. All the samp
 
  //Project OverView
 
-Project project3 = new Project("Cyclic stucture.mpp");
+Project project3 = new Project("Cyclic structure.mpp");
 
 project3.saveReport("ProjectOverView.pdf", ReportType.ProjectOverview);
 
 {{< /highlight >}}
 #### **Resource Cost Overview**
-![todo:image_alt_text](reporting-services_2.png)
+![exported resource cost overview report example Java](reporting-services_2.png)
 
 **Java**
 
@@ -64,7 +64,7 @@ project4.saveReport("ResourceCostOverview.pdf", ReportType.ResourceCostOverview)
 
 {{< /highlight >}}
 #### **Cost Overview**
-![todo:image_alt_text](reporting-services_3.png)
+![exported cost overview report example Java](reporting-services_3.png)
 
 **Java**
 
@@ -78,7 +78,7 @@ project5.saveReport("CostOverview.pdf", ReportType.CostOverview);
 
 {{< /highlight >}}
 #### **Work Overview**
-![todo:image_alt_text](reporting-services_4.png)
+![exported work overview report example Java](reporting-services_4.png)
 
 **Java**
 
@@ -92,7 +92,7 @@ project6.saveReport("WorkOverview.pdf", ReportType.WorkOverview);
 
 {{< /highlight >}}
 #### **Critical Tasks**
-![todo:image_alt_text](reporting-services_5.png)
+![exported critical tasks report example Java](reporting-services_5.png)
 
 **C#**
 
@@ -106,7 +106,7 @@ project7.saveReport("CriticalTasks.pdf", ReportType.CriticalTasks);
 
 {{< /highlight >}}
 #### **Milestones**
-![todo:image_alt_text](reporting-services_6.png)
+![exported milestones report example Java](reporting-services_6.png)
 
 **C#**
 
@@ -120,7 +120,7 @@ project8.saveReport("Milestones.pdf", ReportType.Milestones);
 
 {{< /highlight >}}
 #### **Late Tasks**
-![todo:image_alt_text](reporting-services_7.png)
+![exported late tasks report example Java](reporting-services_7.png)
 
 **C#**
 
@@ -134,7 +134,7 @@ project9.saveReport("LateTasks.pdf", ReportType.LateTasks);
 
 {{< /highlight >}}
 #### **Resource Overview**
-![todo:image_alt_text](reporting-services_8.png)
+![exported resource overview report example Java](reporting-services_8.png)
 
 **C#**
 
@@ -148,7 +148,7 @@ project10.saveReport("ResourceOverview.pdf", ReportType.ResourceOverview);
 
 {{< /highlight >}}
 #### **Cost Overruns**
-![todo:image_alt_text](reporting-services_9.png)
+![exported cost overruns report example Java](reporting-services_9.png)
 
 **C#**
 
@@ -162,7 +162,7 @@ project11.saveReport("CostOverruns.pdf", ReportType.CostOverruns);
 
 {{< /highlight >}}
 #### **Upcoming Task**
-![todo:image_alt_text](reporting-services_10.png)
+![exported upcoming task report example Java](reporting-services_10.png)
 
 **C#**
 
@@ -176,7 +176,7 @@ project12.saveReport("UpcomingTasks.pdf", ReportType.UpcomingTask);
 
 {{< /highlight >}}
 #### **Task Cost Overview**
-![todo:image_alt_text](reporting-services_11.png)
+![exported task cost overview report example Java](reporting-services_11.png)
 
 **C#**
 
@@ -190,7 +190,7 @@ project13.saveReport("TaskCostOverview.pdf", ReportType.TaskCostOverview);
 
 {{< /highlight >}}
 #### **Over-allocated Resources**
-![todo:image_alt_text](reporting-services_12.png)
+![exported over-allocated resources report example Java](reporting-services_12.png)
 
 **C#**
 
@@ -204,7 +204,7 @@ project14.saveReport("OverAllocatedResources.pdf", ReportType.OverallocatedResou
 
 {{< /highlight >}}
 #### **Slipping Tasks**
-![todo:image_alt_text](reporting-services_13.png)
+![exported slipping report example Java](reporting-services_13.png)
 
 **C#**
 
@@ -212,13 +212,13 @@ project14.saveReport("OverAllocatedResources.pdf", ReportType.OverallocatedResou
 
  //Slipping Tasks
 
-Project project15 = new Project("Cyclic stucture.mpp");
+Project project15 = new Project("Cyclic structure.mpp");
 
 project15.saveReport("SlippingTasks.pdf", ReportType.SlippingTasks);
 
 {{< /highlight >}}
 #### **Best Practice Analyzer**
-![todo:image_alt_text](reporting-services_14.png)
+![exported best practice report example Java](reporting-services_14.png)
 
 **C#**
 
@@ -226,13 +226,13 @@ project15.saveReport("SlippingTasks.pdf", ReportType.SlippingTasks);
 
  //Best Practice Analyzer
 
-Project project16 = new Project("Cyclic stucture.mpp");
+Project project16 = new Project("Cyclic structure.mpp");
 
 project16.saveReport("BestPracticeAnalyzer.pdf", ReportType.BestPracticeAnalyzer);
 
 {{< /highlight >}}
 #### **Burn Down**
-![todo:image_alt_text](reporting-services_15.png)
+![exported practice analyzer report example Java](reporting-services_15.png)
 
 **C#**
 
@@ -240,13 +240,13 @@ project16.saveReport("BestPracticeAnalyzer.pdf", ReportType.BestPracticeAnalyzer
 
  //Burn down
 
-Project project17 = new Project("Cyclic stucture.mpp");
+Project project17 = new Project("Cyclic structure.mpp");
 
 project17.saveReport("Burndown.pdf", ReportType.Burndown);
 
 {{< /highlight >}}
 #### **Cash Flow**
-![todo:image_alt_text](reporting-services_16.png)
+![exported burndown report example Java](reporting-services_16.png)
 
 **C#**
 

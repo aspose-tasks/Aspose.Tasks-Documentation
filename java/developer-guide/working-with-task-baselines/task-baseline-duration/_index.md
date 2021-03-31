@@ -17,10 +17,10 @@ After saving a baseline, the task baseline duration can be viewed in Microsoft P
 2. From the **Insert** menu, select **Columns**.
 3. Add the Baseline Duration column.
 
-
 **Task baseline duration in Microsoft Project** 
 
-![todo:image_alt_text](task-baseline-duration_1.png)
+![compare task baselines in Microsoft Project](task-baseline-duration_1.png)
+
 ### **Getting Task Baseline Duration using Aspose.Tasks**
 The code below displays the task baseline duration in the console window after traversing the task baselines of a task.
 

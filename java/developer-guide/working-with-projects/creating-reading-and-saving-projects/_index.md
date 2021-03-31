@@ -25,11 +25,13 @@ The XML project file can be opened in Microsoft Project:
 
 **The project information for the output XML file** 
 
-![todo:image_alt_text](creating-reading-and-saving-projects_1.png)
+![check project properties of resaved Microsoft Project XML file](creating-reading-and-saving-projects_1.png)
+
 ### **Create an Empty Project Using File Stream**
 The given below code example shows how to create an empty project using file stream with Aspose.Tasks. 
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-CreateEmptyProjectFile-CreateEmptyProjectFile.java" >}}
+
 ## **Reading a Project File**
 Aspose.Tasks lets you open existing files and manipulate them as well as creating new files. This topic shows how a Project file can be read using the Project class's constructor.
 

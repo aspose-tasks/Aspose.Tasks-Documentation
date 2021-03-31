@@ -18,19 +18,18 @@ The [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.t
 - Finish sets and gets an assignment's end date (java.util.Date).
 
 To see an assignment's general properties in Microsoft Project:
-From the **View** menu, select **Task Usage**.
-From the **Insert** menu, select **Column**.
-Add the Start. Finish and Unique ID columns.
-
+1. From the **View** menu, select **Task Usage**.
+2. From the **Insert** menu, select **Column**.
+3. Add the Start. Finish and Unique ID columns.
 
 **General assignment properties viewed in Microsoft Project** 
 
-![todo:image_alt_text](general-resource-assignment-properties_1.png)
+![open resource assignment properties in Microsoft Project](general-resource-assignment-properties_1.png)
+
 ### **Setting General Resource Assignment Properties using Aspose.Tasks**
 The following example shows how to set these properties from scratch.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-ResourceAssignments-ResourceAssignmentProperties-setting-resource-assignment-properties.java" >}}
+
 ### **Getting General Resource Assignment Properties using Aspose.Tasks**
-
-
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-ResourceAssignments-ResourceAssignmentProperties-getting-resource-assignment-properties.java" >}}

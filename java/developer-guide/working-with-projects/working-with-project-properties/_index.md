@@ -29,15 +29,17 @@ To read project properties in Microsoft Project, click **Project Information** o
 
 ## **Reading project properties in Microsoft Project** 
 
-![todo:image_alt_text](working-with-project-properties_1.png)
+![working with Microsoft Project properties](working-with-project-properties_1.png)
 
 The programming samples below show how to read and output the project start and end date, whether the project is scheduled from the start or end, the current date, status date, and the calendar type.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-GeneralProjectProperties-ReadProjectInfo-reading-project-properties.java" >}}
+
 ### **Writing Project Information**
 Aspose.Tasks for Java can write as well as [read project information](/tasks/java/working-with-project-properties/). The code samples below show how to set the scheduling start point, the start date, current date, status date, and calendar type.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-GeneralProjectProperties-WriteProjectInfo-writing-project-properties.java" >}}
+
 ## **Determining Project Version**
 Aspose.Tasks for Java lets you retrieve project file information such as the version of Microsoft Project that the file was created with. The Project class exposes the get() method for getting this information using the static [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class.
 
@@ -138,7 +140,7 @@ To see weekday properties in Microsoft Project:
 
 ## **Viewing weekday properties in Microsoft Project** 
 
-![todo:image_alt_text](working-with-project-properties_4.png)
+![edit calendar weekday Microsoft Project](working-with-project-properties_4.png)
 
 The following code writes weekday properties, as shown in the screenshot above, to a project.
 
@@ -170,7 +172,7 @@ To see the currency properties in Microsoft Project:
 
 ## **Reading currency properties in Microsoft Project** 
 
-![todo:image_alt_text](working-with-project-properties_4.png)
+![check currency properties in Microsoft Project](working-with-project-properties_4.png)
 
 The following example writes currency properties to the project.
 
@@ -191,7 +193,6 @@ To see the task attribute:
 **New tasks set to start on the current date** 
 
 ![modify task's schedule options in Microsoft Project](working-with-project-properties_6.png)
-
 
 The following lines of code sets the new task start date.
 

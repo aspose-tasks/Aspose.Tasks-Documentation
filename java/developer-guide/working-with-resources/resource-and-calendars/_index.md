@@ -18,7 +18,8 @@ To define a calendar for a resource in Microsoft Project:
 
 **Changing working times in Microsoft Project** 
 
-![todo:image_alt_text](resource-and-calendars_1.png)
+![changing working times in Microsoft Project](resource-and-calendars_1.png)
+
 ### **Setting Resource Calendar using Aspose.Tasks**
 The following code creates a standard calendar and resource and then assigns the calendar to the resource.
 

@@ -37,80 +37,81 @@ The following types of reports can be created using Aspose.Tasks:
 The sample code snippets below can be used to create these reports. All the sample MPP files used in these examples are present as attachments for testing the sample code.
 
 #### **Project Overview**
-![exported project overview report example](reporting-services_1.png)
+![exported project overview report example .NET](reporting-services_1.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveProjectOverviewReport-SaveProjectOverviewReport.cs" >}}
 
 #### **Resource Cost Overview**
-![exported resource cost overview report example](reporting-services_2.png)
+![exported resource cost overview report example .NET](reporting-services_2.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveResourceCostOverviewReport-SaveResourceCostOverviewReport.cs" >}}
 
 #### **Cost Overview**
-![exported cost overview report example](reporting-services_3.png)
+![exported cost overview report example .NET](reporting-services_3.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCostOverviewReport-SaveCostOverviewReport.cs" >}}
 
 #### **Work Overview**
-![exported work overview report example](reporting-services_4.png)
+![exported work overview report example .NET](reporting-services_4.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveWorkOverviewReport-SaveWorkOverviewReport.cs" >}}
 
 #### **Critical Tasks**
-![exported critical tasks report example](reporting-services_5.png)
+![exported critical tasks report example .NET](reporting-services_5.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCriticalTasksReport-SaveCriticalTasksReport.cs" >}}
 
 #### **Milestones**
-![exported milestones report example](reporting-services_6.png)
+![exported milestones report example .NET](reporting-services_6.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveMilestonesReport-SaveMilestonesReport.cs" >}}
 
-
 #### **Late Tasks**
-![exported late tasks report example](reporting-services_7.png)
+![exported late tasks report example .NET](reporting-services_7.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveLateTasksReport-SaveLateTasksReport.cs" >}}
 
-
 #### **Resource Overview**
-![exported resource overview report example](reporting-services_8.png)
+![exported resource overview report example .NET](reporting-services_8.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveResourceOverviewReport-SaveResourceOverviewReport.cs" >}}
 
-
 #### **Cost Overruns**
-![exported cost overruns report example](reporting-services_9.png)
+![exported cost overruns report example .NET](reporting-services_9.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCostOverrunsReport-SaveCostOverrunsReport.cs" >}}
 
-
 #### **Upcoming Task**
-![exported upcoming task report example](reporting-services_10.png)
+![exported upcoming task report example .NET](reporting-services_10.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveUpcomingTasksReport-SaveUpcomingTasksReport.cs" >}}
+
 #### **Task Cost Overview**
-![exported task cost overview report example](reporting-services_11.png)
+![exported task cost overview report example .NET](reporting-services_11.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveTaskCostOverviewReport-SaveTaskCostOverviewReport.cs" >}}
+
 #### **Over-allocated Resources**
-![exported over-allocated resources report example](reporting-services_12.png)
+![exported over-allocated resources report example .NET](reporting-services_12.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveOverallocatedResourcesReport-SaveOverallocatedResourcesReport.cs" >}}
+
 #### **Slipping Tasks**
-![exported slipping report example](reporting-services_13.png)
+![exported slipping report example .NET](reporting-services_13.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveSlippingTasksReport-SaveSlippingTasksReport.cs" >}}
 
 #### **Best Practice Analyzer**
-![exported best practice report example](reporting-services_14.png)
+![exported best practice report example .NET](reporting-services_14.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveBestPracticeAnalyzerReport-SaveBestPracticeAnalyzerReport.cs" >}}
+
 #### **Burn Down**
-![exported practice analyzer report example](reporting-services_15.png)
+![exported practice analyzer report example .NET](reporting-services_15.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveBurnDownReport-SaveBurnDownReport.cs" >}}
+
 #### **Cash Flow**
-![exported burndown report example](reporting-services_16.png)
+![exported burndown report example .NET](reporting-services_16.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCashFlowReport-SaveCashFlowReport.cs" >}}
