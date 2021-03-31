@@ -10,39 +10,20 @@ We have significantly improved rendering into to pdf format. MPP
 GantChart TimeScale information is used for rendering specifically. 
 Also, GanttChart rendering resolved for bars that are in footer section.
 Saving Project Data to multiple PDF files option was supported. Eight 
-bugs were fixed. Please see list of all changes below. 
-
-We have significantly improved rendering into to pdf format. MPP 
-GantChart TimeScale information is used for rendering specifically. 
-Also, GanttChart rendering resolved for bars that are in footer section.
-Saving Project Data to multiple PDF files option was supported. Eight 
 bugs were fixed. Please see list of all changes below.
+
 ## **All Changes**
-All Changes
-
-Retain the text color
-
-Customize Date/Time format
-
-Project Data to multiple PDF
-# **Public API and Backwards Incompatible Changes**
-The following public enumerations were added:
-
-The following public methods were added to existing classes:
-
-The following public fields were added to existing classes:
-
 |**Task** |**TASKS-33767** |**Implement SF links rendering** |
 | :- | :- | :- |
 |Task |TASKS-33762 |Implement manual column rendering as Task Mode with indicator |
 |Task |TASKS-33746 |Implement field aliases rendering when saving project views |
-|Sub-task |TASKS-33770 |TASKS-33756 Implement original label format rendering for timescale tiers. |
-|Sub-task |TASKS-33769 |TASKS-33756 Implement Gantt Chart timescale tiers rendering for weeks-years and days. |
-|Sub-task |TASKS-33744 |TASKS-33661 Add Inactive milestone, inactive summary and manual summary roll up rendering to GanttChart and page legend |
-|Sub-task |TASKS-33740 |TASKS-33661 Add start/finish/duration only to page legend |
-|Sub-task |TASKS-33739 |TASKS-33661 Add task splits rendering to GanttChart and page legend |
-|Sub-task |TASKS-33738 |TASKS-33661 Add external tasks rendering in GanttChart and page legend |
-|Sub-task |TASKS-33737 |TASKS-33661 Add project info to legend |
+|Task |TASKS-33770 |TASKS-33756 Implement original label format rendering for timescale tiers. |
+|Task |TASKS-33769 |TASKS-33756 Implement Gantt Chart timescale tiers rendering for weeks-years and days. |
+|Task |TASKS-33744 |TASKS-33661 Add Inactive milestone, inactive summary and manual summary roll up rendering to GanttChart and page legend |
+|Task |TASKS-33740 |TASKS-33661 Add start/finish/duration only to page legend |
+|Task |TASKS-33739 |TASKS-33661 Add task splits rendering to GanttChart and page legend |
+|Task |TASKS-33738 |TASKS-33661 Add external tasks rendering in GanttChart and page legend |
+|Task |TASKS-33737 |TASKS-33661 Add project info to legend |
 |Enhancement |TASKS-33765 |Retain the text color while MPP -> PDF conversion |
 |Enhancement |TASKS-33756 |Use source MPP GantChart TimeScale information for rendering to PDF |
 |Enhancement |TASKS-33755 |Customize Date/Time format from source MPP to PDF |

@@ -114,8 +114,8 @@ This page contains release notes information for [Aspose.Tasks for .NET 19.12](h
 | **The following public enumerations were deleted:** | **Description** |
 | :- | :- |
 | Aspose.Tasks.Field.ResourceGroupbySummary |  |
-| Aspose.Tasks.PrjKey.CurrencySybmol |  |
-| Aspose.Tasks.ResourceUsageViewField.WorkAvailablility |  |
+| Aspose.Tasks.PrjKey.CurrencySymbol |  |
+| Aspose.Tasks.ResourceUsageViewField.WorkAvailability |  |
 | Aspose.Tasks.RscKey.GroupbySummary |  |
 | Aspose.Tasks.Saving.PdfPermissions.DisallowAll |  |
 | Aspose.Tasks.Visualization.RenderResult.OK |  |

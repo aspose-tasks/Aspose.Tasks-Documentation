@@ -5,18 +5,10 @@ weight: 80
 url: /java/aspose-tasks-for-java-8-4-0-release-notes/
 ---
 
-Four bugs have been fixed this release. Please, see list of all details below. 
-
+## **Major Features**
 Four bugs have been fixed this release. Please, see list of all details below.
+
 ## **All Changes**
-All Changes
-
-Issue Type
-
-Key
-
-Summary
-
 |**Issue Type** |**Key** |**Summary** |
 | :- | :- | :- |
 |Bug |TASKS-33990 |Calendar Add ( String name, Calendar baseCalendar ) doesn't add new calendar to the project |

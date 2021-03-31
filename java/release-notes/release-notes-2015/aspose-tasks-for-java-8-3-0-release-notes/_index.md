@@ -9,27 +9,9 @@ url: /java/aspose-tasks-for-java-8-3-0-release-notes/
 We have implemented converting MPP to MPX format. Option to set start
 date for GanttChart view has been supported. Also formula calculation 
 and evaluation of functions in formulas have been implemented. About 
-eight bugs have been fixed. Please, see list of all features below. 
-
-We have implemented converting MPP to MPX format. Option to set start
-date for GanttChart view has been supported. Also formula calculation 
-and evaluation of functions in formulas have been implemented. About 
 eight bugs have been fixed. Please, see list of all features below.
+
 ## **All Changes**
-All Changes
-
-convert MPP to MPX
-
-set start date for GanttChart view
-# **Public API and Backwards Incompatible Changes**
-The following public classes were added:
-
-The following public fields were added to existing classes:
-
-The following public methods were added to existing classes:
-
-The following public properties were added to existing classes:
-
 |**Issue Type** |**Key** |**Summary** |
 | :- | :- | :- |
 |New Feature |TASKS-33967 |TASKS-33909 Implement reading recurring tasks data from mpp |

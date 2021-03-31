@@ -11,8 +11,7 @@ We have supported MPD format for reading. Timescale tier labels has been customi
 ## **All Changes**
 |**Issue Type**|**Key**|**Summary**|
 | :- | :- | :- |
+|New Feature|TASKS-20255|Add MS Project MPD files reading support.|
+|Enhancement|TASKS-34380|Customize timescale tier labels according to current CultureInfo|
 |Bug|TASKS-34383|Wrong parent value Id retrieved from Outline codes in MPP|
 |Bug|TASKS-34381|Loading a project raises exception due to missing font on system|
-|Enhancement|TASKS-34380|Customize timescale tier labels according to current CultureInfo|
-|New Feature|TASKS-20255|Add MS Project MPD files reading support.|
-

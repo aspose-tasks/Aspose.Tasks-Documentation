@@ -54,10 +54,10 @@ The following public properties were added to existing classes:
 |Task |TASKS-34167 |Implement ExtendedAttributeDefinitions reading from Microsoft Project DB |
 |Task |TASKS-34144 |Implement Calendar binary data reading from MSP database |
 |Task |TASKS-34116 |Implement Export/Import Project Data as HTML |
-|Sub-task |TASKS-34217 |TASKS-33909 Implement reading/writing Table.ShowInMenu field for 2007-2013 mpp formats |
-|Sub-task |TASKS-34205 |TASKS-33909 Write Timeline View data to mpp |
-|Sub-task |TASKS-34209 |TASKS-33909 Implement Page Setup Header, Footer and Legend text writing to mpp |
-|Sub-task |TASKS-34199 |TASKS-33909 Implement Project DisplayOptions reading/writing |
+|Task |TASKS-34217 |TASKS-33909 Implement reading/writing Table.ShowInMenu field for 2007-2013 mpp formats |
+|Task |TASKS-34205 |TASKS-33909 Write Timeline View data to mpp |
+|Task |TASKS-34209 |TASKS-33909 Implement Page Setup Header, Footer and Legend text writing to mpp |
+|Task |TASKS-34199 |TASKS-33909 Implement Project DisplayOptions reading/writing |
 |Enhancement |TASKS-34120 |Date localization while exporting to PDF |
 |Bug |TASKS-34225 |StackOverflow exception raised while loading this MPP file |
 |Bug |TASKS-34222 |Resaving MPP duplicates hyperlink in Task Notes |

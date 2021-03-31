@@ -6,32 +6,10 @@ url: /java/aspose-tasks-for-java-9-0-0-release-notes/
 ---
 
 ## **Major Features**
-We have implemented 
+We have implemented enhancement which allow to read subproject info (inserted project information). 
+Also about six bugs have been fixed. Please see the list of changes below. 
 
-We have implemented
-
-enhancement
-
-which allow to read subproject info (inserted project information). 
-Also about six bugs have been fixed. Please see the list of changes 
-below. 
-
-which allow to read subproject info (inserted project information). 
-Also about six bugs have been fixed. Please see the list of changes 
-below.
 ## **All Changes**
-All Changes
-
-Issue Type
-
-Key
-
-Summary
-# **Public API and Backwards Incompatible Changes**
-None. 
-
-None.
-
 |**Issue Type** |**Key** |**Summary** |
 | :- | :- | :- |
 |Bug |TASKS-34281 |Exception while adding resource assignment to task with duration ZERO |

@@ -10,53 +10,18 @@ We have implemented several new features this release. "Display
 Details columns in chart area" feature has been supported. Formula 
 calculation and evaluation of functions in formulas have been 
 implemented. Eight bugs have been fixed. Please, see list of all 
-features below. 
-
-We have implemented several new features this release. "Display 
-Details columns in chart area" feature has been supported. Formula 
-calculation and evaluation of functions in formulas have been 
-implemented. Eight bugs have been fixed. Please, see list of all 
 features below.
+
 ## **All Changes**
-All Changes
-
-Issue Type
-
-Key
-
-Summary
-
-cost usage fields rendering in Details Column
-
-Task and Resource work/cost/number fields
-
-Task and Resource DateTime/boolean fields
-
-Implement calculation of Math functions
-
-Implement calculation of Text functions
-
-Implement calculation of Date/Time functions
-
-Display Details columns in chart area
-# **Public API and Backwards Incompatible Changes**
-The following public methods were added to existing classes: 
-
-The following public methods were added to existing classes:
-
-Method Name
-
-Description
-
 |**Issue Type** |**Key** |**Summary** |
 | :- | :- | :- |
-|Sub-task |TASKS-33916 |TASKS-33797 Implement cost usage fields rendering in Details Column according to Usage Details settings |
-|Sub-task |TASKS-33932 |TASKS-33925 Implement Task and Resource work/cost/number fields calculation in expressions |
-|Sub-task |TASKS-33935 |TASKS-33925 Implement Task and Resource DateTime/boolean fields calculation in expressions |
-|Sub-task |TASKS-33939 |TASKS-33925 Implement calculation of Project fields in expressions |
-|Sub-task |TASKS-33947 |TASKS-33938 Implement calculation of Math functions |
-|Sub-task |TASKS-33950 |TASKS-33938 Implement calculation of Text functions |
-|Sub-task |TASKS-33951 |TASKS-33938 Implement calculation of Date/Time functions |
+|Task |TASKS-33916 |TASKS-33797 Implement cost usage fields rendering in Details Column according to Usage Details settings |
+|Task |TASKS-33932 |TASKS-33925 Implement Task and Resource work/cost/number fields calculation in expressions |
+|Task |TASKS-33935 |TASKS-33925 Implement Task and Resource DateTime/boolean fields calculation in expressions |
+|Task |TASKS-33939 |TASKS-33925 Implement calculation of Project fields in expressions |
+|Task |TASKS-33947 |TASKS-33938 Implement calculation of Math functions |
+|Task |TASKS-33950 |TASKS-33938 Implement calculation of Text functions |
+|Task |TASKS-33951 |TASKS-33938 Implement calculation of Date/Time functions |
 |Investigation |TASKS-33936 |Aspose.Tasks 8.1.0 does not have a strong name |
 |Enhancement |TASKS-33797 |Display Details columns in chart area |
 |Bug |TASKS-33930 |Not correct reading "timephased data" from .mpp file |

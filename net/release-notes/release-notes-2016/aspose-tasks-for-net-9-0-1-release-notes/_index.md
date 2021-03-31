@@ -10,34 +10,9 @@ We have implemented enhancement which allow to read subproject info (inserted pr
 constructor has been added to Project class to work with Primavera 
 Project. Also reading all project UID from Primavera XML has been 
 implemented. About six bugs have been fixed. Please see the list of 
-changes below. 
-
-which allow to read subproject info (inserted project information). New
-constructor has been added to Project class to work with Primavera 
-Project. Also reading all project UID from Primavera XML has been 
-implemented. About six bugs have been fixed. Please see the list of 
 changes below.
+
 ## **All Changes**
-All Changes
-
-Issue Type
-
-Key
-
-Summary
-# **Public API and Backwards Incompatible Changes**
-The following public classes were added:
-
-Class Name
-
-Description
-
-The following public methods were added to existing classes:
-
-Method Name
-
-Description
-
 |**Issue Type** |**Key** |**Summary** |
 | :- | :- | :- |
 |Bug |TASKS-34281 |Exception while adding resource assignment to task with duration ZERO |
