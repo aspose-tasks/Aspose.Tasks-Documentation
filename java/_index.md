@@ -24,7 +24,7 @@ The following are the links to some useful resources you may need to accomplish 
 - [Aspose.Tasks for Java Release Notes](/tasks/java/release-notes/)
 - [Aspose.Tasks for Java Product Page](https://products.aspose.com/tasks/java/)
 - [Install Aspose.Tasks for Java from Maven Repository](/tasks/java/installation/)
-- [Aspose.Tasks for Java API Reference Guide](https://apireference.aspose.com/tasks/java/)
+- [Aspose.Tasks for Java API Reference Guide](https://apireference.aspose.com/tasks/java)
 - [Download Aspose.Tasks for Java from GitHub Repository](https://github.com/aspose-tasks/Aspose.Tasks-for-Java)
 - [Aspose.Tasks for Java Free Support Forum](https://forum.aspose.com/c/tasks/15)
 - [Aspose.Tasks for Java Paid Support HelpDesk](https://helpdesk.aspose.com/)
