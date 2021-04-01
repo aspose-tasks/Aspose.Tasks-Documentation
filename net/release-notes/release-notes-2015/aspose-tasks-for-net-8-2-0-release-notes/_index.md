@@ -1,16 +1,13 @@
 ---
 title: Aspose.Tasks for .NET 8.2.0 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for .NET 8.2.0."
 type: docs
-weight: 60
+weight: 90
 url: /net/aspose-tasks-for-net-8-2-0-release-notes/
 ---
 
 ## **Major Features**
-We have implemented several new features this release. "Display 
-Details columns in chart area" feature has been supported. Formula 
-calculation and evaluation of functions in formulas have been 
-implemented. Eight bugs have been fixed. Please, see list of all 
-features below.
+We have implemented several new features this release. "Display Details columns in chart area" feature has been supported. Formula calculation and evaluation of functions in formulas have been implemented. Eight bugs have been fixed. Please, see list of all features below.
 
 ## **All Changes**
 |**Issue Type** |**Key** |**Summary** |
@@ -34,4 +31,12 @@ features below.
 |Bug |TASKS-33942 |Wrong timephased data for the assignment |
 |Bug |TASKS-33937 |GUIDs are overwritten in MPP file |
 |Bug |TASKS-33960 |Duration set to Empty and Summary tasks duration not calculated automatically |
+
+## **Public API and Backwards Incompatible Changes**
+
+The following public methods were added to existing classes:
+
+|**Method Name**|**Description**|
+| :- | :- |
+|static Duration Duration.Parse(String) |Converts the specified string to the instance of Duration structure. |
 

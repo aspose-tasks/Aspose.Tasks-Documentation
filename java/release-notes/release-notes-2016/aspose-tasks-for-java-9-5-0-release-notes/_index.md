@@ -23,7 +23,8 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 |TASKSNET-698 |Cropped image when converting project document to image with Vertical\Horizontal Resolution settings |Bug |
 |TASKSNET-695 |Setting Task Notes to Chinese not working |Bug |
 |TASKSJAVA-200 |Notes not updated in MPP file |Bug |
-### **Public API and Backward Incompatible Changes**
+
+## **Public API and Backwards Incompatible Changes**
 
 |**The following public methods and properties were added:** |**Description** |
 | :- | :- |

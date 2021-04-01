@@ -1,7 +1,8 @@
 ---
 title: Aspose.Tasks for .NET 8.6.0 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for .NET 8.6.0."
 type: docs
-weight: 30
+weight: 60
 url: /net/aspose-tasks-for-net-8-6-0-release-notes/
 ---
 
@@ -21,4 +22,23 @@ see the list of changes below.
 |Bug |TASKS-34073 |Exception raised while loading MPP file with resource assignment work having 100000hrs |
 |Bug |TASKS-34072 |SF link is rendered incorrectly |
 |Bug |TASKS-34071 |Difference in dates calculation using SF Predecessor before and after saving project to file |
+
+
+## **Public API and Backwards Incompatible Changes**
+
+**The following public classes were added:**
+
+|Class name |Description |
+| :- | :- |
+|DbSettings |Allows to specify settings to read from project database. |
+|PrimaveraDbSettings |Allows to set necessary options to read project data from Primavera database. |
+**The following public fields were added to existing classes:**
+
+|Field Name |Description |
+| :- | :- |
+|FileFormat.XER |Represents Primavera Xer format |
+**The following public methods were added to existing classes:**
+
+|Project(PrimaveraDbSettings) |Initializes a new instance of the Project class to read data from Primavera DB |
+| :- | :- |
 

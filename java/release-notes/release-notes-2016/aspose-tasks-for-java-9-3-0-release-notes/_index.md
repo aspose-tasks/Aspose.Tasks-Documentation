@@ -25,7 +25,8 @@ Improved security and implemented a lot of optimization. We have supported Prima
 |TASKS-34500 |The signature of Aspose.Tasks.msi is corrupt or invalid |Bug |
 |TASKS-34502 |Reading MPP file raises ProjectReadingException |Bug |
 |TASKS-34513 |Resaving the MPP file raises exception |Bug |
-### **Public API and Backwards Incompatible Changes**
+
+## **Public API and Backwards Incompatible Changes**
 The following public classes were added:
 
 Class Name Description

@@ -20,7 +20,8 @@ Aspose.Tasks for .NET API enables application developers to write code for manip
 |TASKSNET-1604 |Wrong split task data saved to MPP|Bug|
 |TASKSNET-1593 |Custom field with custom values in dropdown cannot be retrieved from MPP|Bug|
 |TASKSNET-1589 |PhysicalPercentComplete not saved in MPP file|Bug|
-### **Public API and Backwards Incompatible Changes**
+
+## **Public API and Backwards Incompatible Changes**
 
 |**The following public methods and properties were added:** |**Description** |
 | :- | :- |

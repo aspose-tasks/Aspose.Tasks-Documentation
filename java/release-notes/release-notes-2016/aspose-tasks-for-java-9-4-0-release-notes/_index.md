@@ -33,7 +33,8 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 |TASKS-34596 |Calculation Mode:None, Child duration displayed in minutes |Bug |
 |TASKS-34587 |Tsk.WBS returns null if calculation mode set to None |Bug |
 |TASKS-34597 |Wrong outline code reading |Bug |
-### **Public API and Backwards Incompatible Changes**
+
+## **Public API and Backwards Incompatible Changes**
 
 |**The following public classes were added:**       |**Description**                                |
 | :- | :- |

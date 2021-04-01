@@ -12,7 +12,8 @@ This page contains release notes information for Aspose.Tasks for C++ 19.12 vers
 {{% /alert %}} 
 
 Aspose.Tasks for C++ is based on the .NET version of the API and provides strictly the same functionality as Aspose.Tasks for .NET provides, excluding printing, database I/O operations, Project Online support, and EMF/WMF format support.
-## **Public API and Backward Incompatible Changes**
+
+## **Public API and Backwards Incompatible Changes**
 
 |**The following public types were added:** | **Description** |
 | :- | :- |

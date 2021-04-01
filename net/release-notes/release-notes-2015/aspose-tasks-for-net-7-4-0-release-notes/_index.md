@@ -1,7 +1,8 @@
 ---
 title: Aspose.Tasks for .NET 7.4.0 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for .NET 7.4.0."
 type: docs
-weight: 70
+weight: 100
 url: /net/aspose-tasks-for-net-7-4-0-release-notes/
 ---
 
