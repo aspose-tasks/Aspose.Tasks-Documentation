@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks for .NET 19.2 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for .NET 19.2."
 type: docs
 weight: 130
 url: /net/aspose-tasks-for-net-19-2-release-notes/

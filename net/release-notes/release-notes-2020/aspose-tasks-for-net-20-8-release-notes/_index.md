@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks for .NET 20.8 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for .NET 20.8."
 type: docs
 weight: 8
 url: /net/aspose-tasks-for-net-20-8-release-notes/

@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks for .NET 20.2 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for .NET 20.2."
 type: docs
 weight: 70
 url: /net/aspose-tasks-for-net-20-2-release-notes/
@@ -63,7 +64,7 @@ foreach (var property in project.CustomProps)
 
 Console.WriteLine(project.BuiltInProps.Author);
 
-Сonsole.WriteLine(project.BuiltInProps.Title);
+Console.WriteLine(project.BuiltInProps.Title);
 
 // ... etc.
 

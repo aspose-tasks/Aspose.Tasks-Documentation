@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks for .NET 16.11.0 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for .NET 16.11.0."
 type: docs
 weight: 10
 url: /net/aspose-tasks-for-net-16-11-0-release-notes/

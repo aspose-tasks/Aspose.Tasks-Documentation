@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks for .NET 9.3.0 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for .NET 9.3.0."
 type: docs
 weight: 60
 url: /net/aspose-tasks-for-net-9-3-0-release-notes/
