@@ -1,5 +1,6 @@
 ---
 title: Product Overview
+description: "Aspose.Tasks for C++ is a cross-platform class library that enables C++ applications to read, edit, save and convert Microsoft Project MPP/XML and Primavera XER/P6 XML files without using Microsoft Project or Oracle Primavera software."
 type: docs
 weight: 10
 url: /cpp/product-overview/
