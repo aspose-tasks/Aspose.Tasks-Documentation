@@ -22,3 +22,21 @@ see the list of changes below.
 |Bug |TASKS-34072 |SF link is rendered incorrectly |
 |Bug |TASKS-34071 |Difference in dates calculation using SF Predecessor before and after saving project to file |
 
+
+## **Public API and Backwards Incompatible Changes**
+
+**The following public classes were added:**
+
+|Class name |Description |
+| :- | :- |
+|DbSettings |Allows to specify settings to read from project database. |
+|PrimaveraDbSettings |Allows to set necessary options to read project data from Primavera database. |
+**The following public fields were added to existing classes:**
+
+|Field Name |Description |
+| :- | :- |
+|com.aspose.tasks.FileFormat.XER |Represents Primavera Xer format |
+**The following public methods were added to existing classes:**
+
+|Project(PrimaveraDbSettings) |Initializes a new instance of the Project class to read data from Primavera DB |
+| :- | :- |

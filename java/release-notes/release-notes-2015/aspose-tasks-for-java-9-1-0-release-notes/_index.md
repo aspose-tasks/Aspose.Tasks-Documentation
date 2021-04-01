@@ -23,3 +23,16 @@ of changes below.
 |Bug |TASKS-34329 |Reading MPP file raises ProjectReadingException |
 |Bug |TASKS-34320 |Project reading exception raised while loading the project |
 
+## **Public API and Backwards Incompatible Changes**
+
+**The following public classes were added:**
+
+|**Class Name**|**Description**|
+| :- | :- |
+|com.aspose.tasks.PrimaveraXmlReader |Represents a reader which reads Project UIDs from Primavera Xml file |
+**The following public fields were added to existing classes:**
+
+|**Field Name**|**Description**|
+| :- | :- |
+|com.aspose.tasks.TaskKey.DurationText |Represents the DurationText (Task) field. |
+|com.aspose.tasks.Tsk.DURATION_TEXT |Returns the task's duration text. |

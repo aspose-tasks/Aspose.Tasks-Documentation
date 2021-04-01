@@ -35,3 +35,19 @@ all changes below.
 |Bug |TASKS-33787 |Value Mismatch for Column Max. Units |
 |Bug |TASKS-33728 |WBS values missing in the output MPP |
 
+## **Public API and Backwards Incompatible Changes**
+
+**The following public classes were added:**
+
+|Class Name |Description |
+| :- | :- |
+|WBSCodeDefinition |Represents a WBS Code Definition |
+|WBSCodeMask |Represents WBS Code mask |
+|WBSCodeMaskCollection |Represents a collection of WBSCodeMask objects |
+|WBSSequence |Specifies sequence for WBSCodeMask |
+**The following public methods were added to existing classes:**
+
+|Method Name |Description |
+| :- | :- |
+|Project.getWBSCodeDefinition |Returns WBS Code Definition for the project. |
+|Project.setWBSCodeDefinition |Sets WBS Code Definition for the project. |
