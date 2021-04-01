@@ -1,5 +1,5 @@
 ---
-title: Release Notes
+title: Aspose.Tasks for Java Release Notes
 description: "The page enlists the release notes for Aspose.Tasks for Java."
 type: docs
 weight: 50
