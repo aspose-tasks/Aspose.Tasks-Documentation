@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks for .NET
+description: "Aspose.Tasks for .NET is a class library that enables .NET applications to generate, modify, convert, render, and print MPP, Primavera XML files without using Microsoft Project or Oracle Primavera software."
 type: docs
 weight: 10
 url: /net/
@@ -10,7 +11,7 @@ is_root: true
 
 ![Aspose.Tasks for .NET Product Logo](home_1.png)
 
-Aspose.Tasks for .NET is a class library that enables .NET applications to read and write Microsoft Project® files without using Microsoft Project®. It is currently the only .NET component that provides this functionality. Aspose.Tasks for .NET is a mature product that offers stability and flexibility. As with all of the Aspose file management components, Aspose.Tasks for .NET works well with both Win Form and WebForm applications.
+Aspose.Tasks for .NET is a class library that enables .NET applications to read and write Microsoft Project® files without using Microsoft Project®. It is currently the only .NET component that provides this functionality. Aspose.Tasks for .NET is a mature product that offers stability and flexibility. As with all of the Aspose file management components, Aspose.Tasks for .NET works well with both Windows Forms and Web Forms applications.
 
 With Aspose.Tasks for .NET, it is possible to program with Microsoft Project files without Microsoft Office Automation. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
