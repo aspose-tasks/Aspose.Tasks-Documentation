@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks for Java 20.4 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for Java 20.4."
 type: docs
 weight: 30
 url: /java/aspose-tasks-for-java-20-4-release-notes/

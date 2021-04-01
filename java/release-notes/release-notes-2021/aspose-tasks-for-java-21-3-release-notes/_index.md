@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks for Java 21.3 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for Java 21.3."
 type: docs
 weight: 49
 url: /java/aspose-tasks-for-java-21-3-release-notes/

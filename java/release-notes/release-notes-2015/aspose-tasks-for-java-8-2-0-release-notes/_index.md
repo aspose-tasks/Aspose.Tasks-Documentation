@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks for Java 8.2.0 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for Java 8.2.0."
 type: docs
 weight: 100
 url: /java/aspose-tasks-for-java-8-2-0-release-notes/
