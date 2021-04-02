@@ -1,10 +1,7 @@
 ---
 title: Working with Currencies in PHP
+description: "Learn how to manage currency settings in Microsoft Project files using Aspose.Tasks Java for PHP."
 type: docs
 weight: 30
 url: /java/working-with-currencies-in-php/
 ---
-
-**This section includes the following topics:**
-
-- [Managing Currency Codes in PHP](/tasks/java/managing-currency-codes-in-php/)
