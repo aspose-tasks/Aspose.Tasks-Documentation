@@ -37,7 +37,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 
 ## **Public API and Backwards Incompatible Changes**
 
-|**The following public classes were added:**       |**Description**                                |
+|**The following public classes were added:**|**Description**|
 | :- | :- |
 |Aspose.Tasks.VbaProject |Represents the VBA Project |
 |Aspose.Tasks.VbaModule |Represents the VBA Module |
@@ -46,7 +46,8 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 |Aspose.Tasks.VbaModuleCollection |Collection of the VbaModules |
 |Aspose.Tasks.VbaReferenceCollection |Collection of the VbaReferences |
 |Aspose.Tasks.VbaModuleAttributeCollection |Collection of the ModuleAttributes |
-|**The following public interfaces were added:**     |**Description**                               |
+
+|**The following public interfaces were added:**|**Description**|
 |IVbaModule |Represents an interface to work with vbaModule |
 |**The following public properties were added:** |**Description** |
 |Aspose.Tasks.VbaProject.CompilationArguments |Conditional Compilation Arguments for source code |
