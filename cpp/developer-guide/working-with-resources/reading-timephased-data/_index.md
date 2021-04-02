@@ -7,7 +7,7 @@ url: /cpp/reading-timephased-data/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API supports reading a resource's timephased data from Microsoft Project (MPP) files.
+Aspose.Tasks for C++ API supports reading a resource's timephased data from Microsoft Project (MPP) files.
 
 {{% /alert %}} 
 ## **Reading Timephased Resource Data**

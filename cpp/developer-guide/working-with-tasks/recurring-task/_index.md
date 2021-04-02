@@ -7,7 +7,7 @@ url: /cpp/recurring-task/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API allows developers to create recurring tasks and define recurrence patterns.
+Aspose.Tasks for C++ API allows developers to create recurring tasks and define recurrence patterns.
 
 {{% /alert %}} 
 ## **Adding New Recurring Tasks**

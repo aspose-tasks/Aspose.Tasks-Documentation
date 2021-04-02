@@ -6,7 +6,7 @@ url: /cpp/general-calendar-properties/
 ---
 
 ## **General Calendar Properties**
-Microsoft Project uses calendars and other information to calculate project end dates. Aspose.Tasks API supports calendar functionality. This article illustrates the calendar properties that can be set and shows how they are applied in code.
+Microsoft Project uses calendars and other information to calculate project end dates. Aspose.Tasks for C++ API supports calendar functionality. This article illustrates the calendar properties that can be set and shows how they are applied in code.
 
 The Calendar exposes a number of properties used to define the base calendar in Microsoft Outlook:
 

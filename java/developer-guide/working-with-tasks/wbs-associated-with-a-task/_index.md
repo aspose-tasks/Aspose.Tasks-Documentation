@@ -29,6 +29,6 @@ The following examples show how to get a task's WBS value using Aspose.Tasks.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-WbsAssociatedWithTask-wbs-association.java" >}}
 ## **Renumber WBS Codes**
-Aspose.Tasks API can renumber WBS codes similar to MSP's "Renumber" function.
+Aspose.Tasks for Java API can renumber WBS codes similar to MSP's "Renumber" function.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-WbsAssociatedWithTask-RenumberTaskWBSCodes.java" >}}

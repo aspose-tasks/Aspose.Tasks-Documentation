@@ -11,7 +11,7 @@ NuGet is the easiest way to download and install Aspose APIs. Open Microsoft Vis
 
 ![installing Aspose.Tasks for C++ through NuGet step one](installation_1.png)
 ### **Install or Update using the Package Manager Console**
-You can follow the steps below to reference the Aspose.Tasks API using the package manager console:
+You can follow the steps below to reference the Aspose.Tasks for C++ API using the package manager console:
 
 1. Open your solution/project in Visual Studio.
 2. Select Tools -> Library Package Manager -> Package Manager Console from the menu to open package manager console.

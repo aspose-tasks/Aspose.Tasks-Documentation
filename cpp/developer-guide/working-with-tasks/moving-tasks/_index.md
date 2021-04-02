@@ -7,7 +7,7 @@ url: /cpp/moving-tasks/
 
 {{% alert color="primary" %}} 
 
-Microsoft Project allows moving one task under another task. In this case, the child tasks of the selected tasks are also moved with it. Aspose.Tasks API provides the same feature by moving a task under another task. This can be achieved by adding the selected task to the children of the new parent as shown in this article. The task can be moved under a different parent or the same parent.
+Microsoft Project allows moving one task under another task. In this case, the child tasks of the selected tasks are also moved with it. Aspose.Tasks for C++ API provides the same feature by moving a task under another task. This can be achieved by adding the selected task to the children of the new parent as shown in this article. The task can be moved under a different parent or the same parent.
 
 {{% /alert %}} 
 ## **Move Task Under Another Parent**

@@ -16,7 +16,7 @@ task fields was supported. Some bugs have been fixed. Please see the list of cha
 |TASKS-34444 |Support for Primavera SQLite DB |New Feature |
 |TASKS-34499 |Support recalculation option for ActualWork and RemainingWork task fields |New Feature |
 |TASKS-34509 |Provide new date format DateFormat.DateDdMMYyyy to render date like 19/07/2016 |Enhancement |
-|TASKS-34409 |Aspose.Tasks API reads only first value of each list item |Bug |
+|TASKS-34409 |Aspose.Tasks for .NET API reads only first value of each list item |Bug |
 |TASKS-34441 |Wrong working times read from project Calendar |Bug |
 |TASKS-34468 |Resaving MPP loses Resource Calendar Work Weeks time information |Bug |
 |TASKS-34479 |Extended attributes missing while reading task from MPP |Bug |

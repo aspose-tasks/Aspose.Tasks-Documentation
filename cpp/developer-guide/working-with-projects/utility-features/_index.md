@@ -12,7 +12,7 @@ The Project class provides the CriticalPath property which is used to retrie
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-Miscellaneous-CalculateCriticalPath-CalculateCriticalPath.cpp" >}}
 ## **Printing the TaskWritingException**
-A project consists of a number of tasks and Aspose.Tasks API allows adding, removing and updating task information. If there's a problem when writing tasks, use TasksWritingException to catch them.
+A project consists of a number of tasks and Aspose.Tasks for C++ API allows adding, removing and updating task information. If there's a problem when writing tasks, use TasksWritingException to catch them.
 
 Aspose.Tasks supports printing a message when there's an exception in writing a task. This is done with TaskWritingException, in a similar way to how TaskReadingException is used.
 
@@ -30,13 +30,13 @@ A Microsoft Project data file may contain data in groups. Aspose.Tasks provides 
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-Miscellaneous-ReadGroupDefinitionData-ReadGroupDefinitionData.cpp" >}}
 ## **Reading Table Data from MPP File**
-The Aspose.Tasks API supports reading table data from Microsoft Project data files. Project.Tables implements the ICollection interface to provide access to an MPP file's table data. The feature is supported for all versions of Microsoft Project data files, including MPP 2003, 2007, 2010 and 2013.
+The Aspose.Tasks for C++ API supports reading table data from Microsoft Project data files. Project.Tables implements the ICollection interface to provide access to an MPP file's table data. The feature is supported for all versions of Microsoft Project data files, including MPP 2003, 2007, 2010 and 2013.
 
 The below example shows how to retrieve table data from a Microsoft Project MPP file. The values of table properties such as width, title, title alignment and data alignment are displayed here for demonstration.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-Miscellaneous-ReadTableDataFromProjectFile-ReadTableDataFromProjectFile.cpp" >}}
 ## **Extracting Embedded Objects from Task or Review form**
-Microsoft Project data files (MPP/XML) may contain embedded objects such as documents, excel sheets, PDF, images etc. in Task or Resource views. Aspose.Tasks API provides the capability to extract these from a project's Task or Resource view as shown in the below topics.
+Microsoft Project data files (MPP/XML) may contain embedded objects such as documents, excel sheets, PDF, images etc. in Task or Resource views. Aspose.Tasks for C++ API provides the capability to extract these from a project's Task or Resource view as shown in the below topics.
 ### **Extracting Embedded Objects**
 Embedded objects (those which were created from the file by selecting a file path) are packed into OLE Package inside MPP file. To extract the original file you can use Content and FullPath properties of an instance of the OleObject class.
 

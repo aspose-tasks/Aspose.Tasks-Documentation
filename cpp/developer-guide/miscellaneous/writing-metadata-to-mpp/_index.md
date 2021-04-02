@@ -7,7 +7,7 @@ url: /cpp/writing-metadata-to-mpp/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API provides a facility for writing metadata to MPP files for calendars, tasks, task links, resources and resource assignments.
+Aspose.Tasks for C++ API provides a facility for writing metadata to MPP files for calendars, tasks, task links, resources and resource assignments.
 
 {{% /alert %}} 
 ## **Writing Metadata to Microsoft Project Files**

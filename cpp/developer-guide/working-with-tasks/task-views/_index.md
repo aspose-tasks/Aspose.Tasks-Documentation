@@ -7,7 +7,7 @@ url: /cpp/task-views/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API supports rendering project tasks to a variety of formats, such as PDF. Task usage can be rendered using Aspose.Tasks' PresentationFormat with different timescale settings like Days, ThirdOfMonths and Months.
+Aspose.Tasks for C++ API supports rendering project tasks to a variety of formats, such as PDF. Task usage can be rendered using Aspose.Tasks' PresentationFormat with different timescale settings like Days, ThirdOfMonths and Months.
 
 {{% /alert %}} 
 ## **Rendering Task Usage View**

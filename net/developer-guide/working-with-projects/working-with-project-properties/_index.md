@@ -6,7 +6,7 @@ url: /net/working-with-project-properties/
 ---
 
 ## **Project Calculation Modes**
-Aspose.Tasks API provides three project calculation modes where each mode's output is different based on the selection. These calculation modes are:
+Aspose.Tasks for .NET API provides three project calculation modes where each mode's output is different based on the selection. These calculation modes are:
 
 - None - Sets only necessary properties and does not perform any calculations
 - Manual - Sets only dependent object properties without recalculation of any other data
@@ -50,8 +50,9 @@ The programming samples below show how to read and output the project start and 
 Aspose.Tasks for .NET can write as well as [read project information](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/get/_1). The code samples below show how to set author, last author, revision, keywords and comments..
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-WriteProjectInfo-WriteProjectInfo.cs" >}}
+
 ## **Determining Project Version**
-Aspose.Tasks API provides the capability to retrieve project file information with simple API calls. The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class's [Get](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/get/_1) method facilitates users to retrieve Project related information using the static class [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj). The Prj class exposes a number of properties related to the Project. This topic shows how to retrieve version information.
+Aspose.Tasks for .NET API provides the capability to retrieve project file information with simple API calls. The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class's [Get](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/get/_1) method facilitates users to retrieve Project related information using the static class [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj). The Prj class exposes a number of properties related to the Project. This topic shows how to retrieve version information.
 
 The SaveVersion and LastSaved properties exposed by the Prj class are used to determine the project version and the date when the project was last saved. SaveVersion supports the Integer data type, whereas LastSaved supports the DateTime data type.
 

@@ -10,7 +10,7 @@ url: /net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/
 Aspose.Tasks for .NET 8.0.0 is a revamped version of the API that includes considerable changes from usage perspective. Key differences of both the implementations include:
 
 - Legacy API allowed to set public fields of various project data classes such as Project, Tasks, Resource, etc. while the new implementation introduces Set and Get methods to achieve the same
-- Recalculate methods required to be called manually by user in the legacy API after certain operations such as Resource Assignments. The new Aspose.Tasks API performs most of such calculations automatically without user intervention required.
+- Recalculate methods required to be called manually by user in the legacy API after certain operations such as Resource Assignments. The new Aspose.Tasks for .NET API performs most of such calculations automatically without user intervention required.
 - The new API provides manual as well as automatic recalculation modes similar to Microsoft Project (MSP). Manual mode calculates only the necessary fields whereas automatic mode recalculates everything.  This eliminates the need of calling recalculating methods manually and improves overall API usage.
 
 This new API is incompatible with the Legacy API and the objective of this article is to help you migrate your code to the new API.  The article shows comparative code samples of the Legacy and the new API implementation, and includes:

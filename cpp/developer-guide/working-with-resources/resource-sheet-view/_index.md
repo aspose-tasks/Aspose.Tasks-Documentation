@@ -7,7 +7,7 @@ url: /cpp/resource-sheet-view/
 
 {{% alert color="primary" %}} 
 
-Microsoft Project's Resource Sheet view provides details about all a project's resources. Resource information such as name, type, standard and overtime rates, costs, and calendar can be viewed using this view. Aspose.Tasks API supports rendering the Resource Sheet to PDF using the PresentationFormat enumerator.
+Microsoft Project's Resource Sheet view provides details about all a project's resources. Resource information such as name, type, standard and overtime rates, costs, and calendar can be viewed using this view. Aspose.Tasks for C++ API supports rendering the Resource Sheet to PDF using the PresentationFormat enumerator.
 
 {{% /alert %}} 
 ## **Rendering Resource Sheet View**

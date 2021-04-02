@@ -21,13 +21,13 @@ To view WBS information in Microsoft Project:
 The following examples show how to get a task's WBS value using Aspose.Tasks.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskWBS-ReadTaskWBS.cs" >}}
+
 ### **Adding WBS Code Definitions in Aspose.Tasks**
 Aspose.Tasks allows adding WBS code definition for tasks to a project same as Microsoft Project.WBSCodeDefinition class exposes various properties that can be used to generate desired WBS codes in a project. The following code sample demonstrates setting up WBS code definitions in a project.
 
-
-
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-AddWBSCodes-AddWBSCodes.cs" >}}
+
 ## **Renumber WBS Codes**
-Aspose.Tasks API is able to renumber WBS codes similar to MSP's "Renumber" function.
+Aspose.Tasks for .NET API is able to renumber WBS codes similar to MSP's "Renumber" function.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-RenumberTaskWBSCodes-RenumberTaskWBSCodes.cs" >}}

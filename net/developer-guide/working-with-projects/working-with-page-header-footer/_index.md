@@ -6,7 +6,7 @@ url: /net/working-with-page-header-footer/
 ---
 
 ## **Reading Header and Footer Information from MPP file**
-Aspose.Tasks API provides the capability to read the Header and Footer information from MPP file. The API has classes mapped to each tab of Microsoft Project Page Setup dialog as detailed in the section below.
+Aspose.Tasks for .NET API provides the capability to read the Header and Footer information from MPP file. The API has classes mapped to each tab of Microsoft Project Page Setup dialog as detailed in the section below.
 
 - Microsoft Project Page Setup dialog box has 6 tabs (see screenshot). These tabs are mapped to new classes:
   - Page tab -> Aspose.Tasks.Visualization.PageSettings class
@@ -17,6 +17,6 @@ Aspose.Tasks API provides the capability to read the Header and Footer informati
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ReadHeaderFooterInfo-ReadHeaderFooterInfo.cs" >}}
 ## **Adding Image to Page Header/Footer**
-Aspose.Tasks API provides the capability to manipulate the document's page header and footer information. The example below shows how to add image to page's header.
+Aspose.Tasks for .NET API provides the capability to manipulate the document's page header and footer information. The example below shows how to add image to page's header.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-AddImageToPageHeaderFooter-AddImageToPageHeaderFooter.cs" >}}

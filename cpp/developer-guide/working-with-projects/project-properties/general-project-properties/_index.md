@@ -29,7 +29,7 @@ Aspose.Tasks for C++ can write as well as read project information. The code e
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithProjectProperties-WriteProjectInfo-WriteProjectInfo.cpp" >}}
 ## **Determining Project Version**
-Aspose.Tasks API provides the capability to retrieve project file information with simple API calls. The [Project]() class's [Get]() method facilitates users to retrieve Project related information using the static class [Prj](). The Prj class exposes a number of properties related to the Project. This topic shows how to retrieve version information.
+Aspose.Tasks for C++ API provides the capability to retrieve project file information with simple API calls. The [Project]() class's [Get]() method facilitates users to retrieve Project related information using the static class [Prj](). The Prj class exposes a number of properties related to the Project. This topic shows how to retrieve version information.
 
 The SaveVersion and LastSaved properties exposed by the Prj class are used to determine the project version and the date when the project was last saved. SaveVersion supports the Integer datatype, whereas LastSaved supports the DateTime datatype.
 

@@ -19,13 +19,13 @@ Aspose.Tasks can import Primavera XML similar to Microsoft Project XML and MPP f
 ### **Importing Data from Primavera MPX File Formats**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ImportingAndExporting-ImportDataFromMPXFileFormats-ImportDataFromMPXFileFormats.cs" >}}
 ### **Reading Project UIDs from Primavera XML file**
-A Primavera XML file may contain multiple projects, each having its own UID. Aspose.Tasks API provides the capability to read all such UIDs from the project and then load a project using a specific id from the list of UIDs.
+A Primavera XML file may contain multiple projects, each having its own UID. Aspose.Tasks for .NET API provides the capability to read all such UIDs from the project and then load a project using a specific id from the list of UIDs.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ImportingAndExporting-ReadProjectUIDsFromXMLFile-ReadProjectUIDsFromXMLFile.cs" >}}
 ### **Reading Primavera XML file with Multiple Projects**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ImportingAndExporting-ReadXMLFileWithMultipleProjects-ReadXMLFileWithMultipleProjects.cs" >}}
 ## **Importing Project Data From Primavera Database**
-Aspose.Tasks API provides the capability to read Project data from Primavera Database. The following example code shows how to use the Project class for reading from the database.
+Aspose.Tasks for .NET API provides the capability to read Project data from Primavera Database. The following example code shows how to use the Project class for reading from the database.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ImportingAndExporting-ImportProjectFromPrimaveraDB-ImportProjectFromPrimaveraDB.cs" >}}
 ## **Support for Primavera SQLite Database**

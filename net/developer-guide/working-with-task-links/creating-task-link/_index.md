@@ -7,7 +7,7 @@ url: /net/creating-task-link/
 
 {{% alert color="primary" %}} 
 
-Microsoft Project allows to link tasks based on the relationship between these. A task link is defined by a predecessor and a successor task. Task links can be of different [types](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklinktype) including FinishToFinish, FinishToStart, StartToFinish, and StartToStart. Aspose.Tasks API provides users with the capability to define task links in their project using the [TaskLink](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink) class.
+Microsoft Project allows to link tasks based on the relationship between these. A task link is defined by a predecessor and a successor task. Task links can be of different [types](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklinktype) including FinishToFinish, FinishToStart, StartToFinish, and StartToStart. Aspose.Tasks for .NET API provides users with the capability to define task links in their project using the [TaskLink](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink) class.
 
 {{% /alert %}} 
 

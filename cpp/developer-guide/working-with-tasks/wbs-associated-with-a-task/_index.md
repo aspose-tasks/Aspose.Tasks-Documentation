@@ -7,7 +7,7 @@ url: /cpp/wbs-associated-with-a-task/
 
 {{% alert color="primary" %}} 
 
-WBS (Work Breakdown Structure) codes, lets you assign outline numbers to tasks according to the needs of your business. It's a method for applying a customized outline scheme to a project. Aspose.Tasks API supports this feature.
+WBS (Work Breakdown Structure) codes, lets you assign outline numbers to tasks according to the needs of your business. It's a method for applying a customized outline scheme to a project. Aspose.Tasks for C++ API supports this feature.
 
 {{% /alert %}} 
 ## **Working with Work Breakdown Structure**
@@ -22,12 +22,12 @@ The following examples show how to get a task's WBS value using Aspose.Tasks.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-ReadTaskWBS-ReadTaskWBS.cpp" >}}
 ### **Adding WBS Code Definitions**
-Aspose.Tasks API allows adding WBS code definition for tasks to a project same as Microsoft Project.WBSCodeDefinition class exposes various properties that can be used to generate desired WBS codes in a project. The following code sample demonstrates setting up WBS code definitions in a project.
+Aspose.Tasks for C++ API allows adding WBS code definition for tasks to a project same as Microsoft Project.WBSCodeDefinition class exposes various properties that can be used to generate desired WBS codes in a project. The following code sample demonstrates setting up WBS code definitions in a project.
 
 
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-AddWBSCodes-AddWBSCodes.cpp" >}}
 ## **Renumber WBS codes**
-Aspose.Tasks API is able to renumber WBS codes similar to MSP's "Renumber" function.
+Aspose.Tasks for C++ API is able to renumber WBS codes similar to MSP's "Renumber" function.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-RenumberTaskWBSCodes-RenumberTaskWBSCodes.cpp" >}}

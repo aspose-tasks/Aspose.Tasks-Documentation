@@ -21,7 +21,7 @@ Aspose.Tasks can import *Primavera* XML similar to Microsoft Project XML and MPP
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ImportExportDataToPrimavera-import-data-from-primavera-mpx-format.java" >}}
 
 ### **Reading Project UIDs from Primavera XML file**
-A Primavera XML file may contain multiple projects, each having its own UID. Aspose.Tasks API provides the capability to read all such UIDs from the project and then load a project using a specific id from the list of UIDs.
+A Primavera XML file may contain multiple projects, each having its own UID. Aspose.Tasks for Java API provides the capability to read all such UIDs from the project and then load a project using a specific id from the list of UIDs.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ImportExportDataToPrimavera-read-all-project-uid.java" >}}
 

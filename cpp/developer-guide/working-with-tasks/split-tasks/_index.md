@@ -7,7 +7,7 @@ url: /cpp/split-tasks/
 
 {{% alert color="primary" %}} 
 
-Sometimes it is not possible to complete a task as scheduled and it needs to be split into two or more parts. Aspose.Tasks API supports this Microsoft Project feature.
+Sometimes it is not possible to complete a task as scheduled and it needs to be split into two or more parts. Aspose.Tasks for C++ API supports this Microsoft Project feature.
 
 {{% /alert %}} 
 ## **Splitting Tasks**

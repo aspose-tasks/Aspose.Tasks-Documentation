@@ -7,7 +7,7 @@ url: /java/reading-vba-information-from-mpp-file/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API provides support for reading VBA information from the MPP file. This includes working with:
+Aspose.Tasks for Java API provides support for reading VBA information from the MPP file. This includes working with:
 
 - VBA Information
 - Modules information contained in the Project

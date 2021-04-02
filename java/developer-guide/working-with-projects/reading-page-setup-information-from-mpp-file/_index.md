@@ -7,7 +7,7 @@ url: /java/reading-page-setup-information-from-mpp-file/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API provides the capability to read the Header and Footer information from MPP file. The API has classes mapped to each tab of Microsoft Project Page Setup dialog as detailed in the section below.
+Aspose.Tasks for Java API provides the capability to read the Header and Footer information from MPP file. The API has classes mapped to each tab of Microsoft Project Page Setup dialog as detailed in the section below.
 
 {{% /alert %}}
 

@@ -6,7 +6,7 @@ url: /cpp/setting-attributes-for-new-tasks/
 ---
 
 ## **Setting Attributes for New Tasks**
-Microsoft Project allows setting default properties for new tasks added. This topic explains how to set the default start date for new tasks using Aspose.Tasks API.
+Microsoft Project allows setting default properties for new tasks added. This topic explains how to set the default start date for new tasks using Aspose.Tasks for C++ API.
 
 The [Project]() class exposes the [NewTaskStartDate]() property that defines the start date for a new task. This property supports the values defined by the [TaskStartDateType]() enumeration type.
 

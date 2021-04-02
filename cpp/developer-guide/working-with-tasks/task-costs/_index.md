@@ -7,7 +7,7 @@ url: /cpp/task-costs/
 
 {{% alert color="primary" %}} 
 
-To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks API supports this feature of Microsoft Project with a range of properties.
+To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks for C++ API supports this feature of Microsoft Project with a range of properties.
 
 {{% /alert %}} 
 ## **Working with Task Cost**

@@ -21,7 +21,7 @@ The following piece of code retrieves the calendar information from a project.
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-RetrieveCalendarInfo-retrieve-calendar-info.java" >}}
 
 ## **Reading Work Weeks Information from Calendar**
-Aspose.Tasks API can read Work weeks information from any of the Project’s calendar. The WorkWeek class can be used to achieve this.
+Aspose.Tasks for Java API can read Work weeks information from any of the Project’s calendar. The WorkWeek class can be used to achieve this.
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Calendars-ReadWorkWeeks-ReadWorkWeeksInformation.java" >}}
 
 ## **Getting Working Hours On or Between Dates**

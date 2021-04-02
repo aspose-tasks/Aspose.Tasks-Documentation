@@ -7,7 +7,7 @@ url: /cpp/saving-updated-resource-assignment-to-mpp/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API supports updating resource assignment data and writing it back to an MPP file.
+Aspose.Tasks for C++ API supports updating resource assignment data and writing it back to an MPP file.
 
 {{% /alert %}} 
 ## **Updating Resource Assignments**

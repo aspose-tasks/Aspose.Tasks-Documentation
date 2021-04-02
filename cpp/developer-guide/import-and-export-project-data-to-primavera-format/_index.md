@@ -19,7 +19,7 @@ Aspose.Tasks can import Primavera XML similar to Microsoft Project XML and MPP f
 ### **Importing Data from Primavera MPX File Formats**
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ImportingAndExporting-ImportDataFromMPXFileFormats-ImportDataFromMPXFileFormats.cpp" >}}
 ### **Reading Project UIDs from Primavera XML file**
-A Primavera XML file may contain multiple projects, each having its own UID. Aspose.Tasks API provides the capability to read all such UIDs from the project and then load a project using a specific id from the list of UIDs.
+A Primavera XML file may contain multiple projects, each having its own UID. Aspose.Tasks for C++ API provides the capability to read all such UIDs from the project and then load a project using a specific id from the list of UIDs.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ImportingAndExporting-ReadProjectUIDsFromXMLFile-ReadProjectUIDsFromXMLFile.cpp" >}}
 ### **Reading Primavera XML file with Multiple Projects**

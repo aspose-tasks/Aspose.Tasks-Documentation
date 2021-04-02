@@ -7,7 +7,7 @@ url: /java/setting-a-task-to-a-subproject/
 
 {{% alert color="primary" %}} 
 
-Microsoft Project provides the option to set a task to another project, known as a sub-project to the parent project. Aspose.Tasks API provides the same capability to set a task to another sub-project using the Tsk.SubProjectName property.
+Microsoft Project provides the option to set a task to another project, known as a sub-project to the parent project. Aspose.Tasks for Java API provides the same capability to set a task to another sub-project using the Tsk.SubProjectName property.
 
 {{% /alert %}} 
 **Setting a Task to a SubProject**

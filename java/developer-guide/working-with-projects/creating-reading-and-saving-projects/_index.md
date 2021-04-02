@@ -47,7 +47,7 @@ The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/projec
  Project project = new Project("d:\\Project1.mpp");
 {{< /highlight >}}
 ### **Reading Project Data from Microsoft Project Database**
-Aspose.Tasks API now allows to read Project data from the Microsoft Project database. The SqlConnectionStringBuilder and MspDbSettings classes can be used to accomplish this purpose providing connection string settings for connection to the database.
+Aspose.Tasks for Java API now allows to read Project data from the Microsoft Project database. The SqlConnectionStringBuilder and MspDbSettings classes can be used to accomplish this purpose providing connection string settings for connection to the database.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadingProjectDatafromMicrosoftProjectDatabase-ReadingProjectDatafromMicrosoftProjectDatabase.java" >}}
 

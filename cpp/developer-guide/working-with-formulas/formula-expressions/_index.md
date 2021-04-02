@@ -7,7 +7,7 @@ url: /cpp/formula-expressions/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API can use Task, Resource and Project fields as a formula in expressions. Fields such as Work, Cost, Number fields, DateTime, Boolean and Project Fields such as task count and resource count can be used in formula expressions in an extended attribute.
+Aspose.Tasks for C++ API can use Task, Resource and Project fields as a formula in expressions. Fields such as Work, Cost, Number fields, DateTime, Boolean and Project Fields such as task count and resource count can be used in formula expressions in an extended attribute.
 
 {{% /alert %}} 
 ## **Using Arithmetic Expression**

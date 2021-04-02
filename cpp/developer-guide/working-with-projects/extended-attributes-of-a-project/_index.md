@@ -21,8 +21,8 @@ In this example, we will demonstrate how to work with Text1 extended attribute o
 6. Add a new task and insert a new column to the task row with the custom field that you used in the above step
 
 ![open extended attributes in Microsoft Project](working-with-extended-attributes-of-a-project_1.png)
-## **Working with Custom Fields/Extended Attributes using Aspose.Tasks API**
-Aspose.Tasks API provides the capability of creating new extended attributes as well as working with Extended attributes already present in a document. Custom fields or Extended Attributes are represented by ExtendedAttributes collection of a project in Aspose.Tasks. It contains all the extended attributes definition of a project document. Some of the mappings of MSP Custom Field definition are as shown in the image below.
+## **Working with Custom Fields/Extended Attributes using Aspose.Tasks for C++ API**
+Aspose.Tasks for C++ API provides the capability of creating new extended attributes as well as working with Extended attributes already present in a document. Custom fields or Extended Attributes are represented by ExtendedAttributes collection of a project in Aspose.Tasks. It contains all the extended attributes definition of a project document. Some of the mappings of MSP Custom Field definition are as shown in the image below.
 
 ![edit extended attributes in Microsoft Project](extended-attributes-of-a-project_1.png)
 ### **Creating a New Extended Attribute and Adding it to Task**
@@ -30,7 +30,7 @@ To add a new extended attribute for task or resource, we first need to define an
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithExtendedAttributes-CreateExtendedAttributes-CreateExtendedAttributes.cpp" >}}
 ## **Writing Updated Extended Attribute Definitions and Values to MPP**
-Aspose.Tasks API supports updating extended attribute data in a Microsoft Project MPP file and save it back.
+Aspose.Tasks for C++ API supports updating extended attribute data in a Microsoft Project MPP file and save it back.
 
 The code example given below demonstrates how to add new extended attributes of the Resource and Task types to the source MPP file. The steps involved in this activity are:
 

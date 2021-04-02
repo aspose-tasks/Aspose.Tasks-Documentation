@@ -103,4 +103,4 @@ This table lists important Aspose.Tasks for .NET technical resources.
 |[Aspose.Tasks blog](https://blog.aspose.com/category/tasks/)|Check this often for information about new releases and useful tips about Aspose.Tasks.|
 |[Aspose.Tasks for .NET support forum](https://forum.aspose.com/c/tasks/15)|Post your questions and issues here for a speedy resolution.|
 |[Aspose.Tasks for .NET product documentation](https://docs.aspose.com/tasks/net/)|Full online documentation.|
-|[Aspose.Tasks for .NET API References](https://apireference.aspose.com/tasks/net)|Online Aspose.Tasks API References.|
+|[Aspose.Tasks for .NET API References](https://apireference.aspose.com/tasks/net)|Online Aspose.Tasks for .NET API References.|

@@ -21,8 +21,9 @@ In this example, we will show how to work with Text1 extended attribute of a pro
 6. Add a new task and insert a new column to the task row with the custom field that you used in the above step
 
 ![open extended attributes in Microsoft Project](working-with-extended-attributes-of-a-project_1.png)
-## **Working with Custom Fields/Extended Attributes using Aspose.Tasks API**
-Aspose.Tasks API provides the capability of creating new extended attributes as well as working with Extended attributes already present in a document. Custom fields or Extended Attributes are represented by ExtendedAttributes collection of a project in Aspose.Tasks. It contains all the extended attributes definition of a project document. Some of the mappings of MSP Custom Field definition are as shown in the image below.
+
+## **Working with Custom Fields/Extended Attributes using Aspose.Tasks for .NET**
+Aspose.Tasks for .NET API provides the capability of creating new extended attributes as well as working with Extended attributes already present in a document. Custom fields or Extended Attributes are represented by ExtendedAttributes collection of a project in Aspose.Tasks. It contains all the extended attributes definition of a project document. Some of the mappings of MSP Custom Field definition are as shown in the image below.
 
 ![switching extended attributes in Microsoft Project](working-with-extended-attributes-of-a-project_2.png)
 ### **Creating a New Extended Attribute and Adding it to Task**

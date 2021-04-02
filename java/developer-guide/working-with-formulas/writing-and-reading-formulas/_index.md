@@ -7,7 +7,7 @@ url: /java/writing-and-reading-formulas/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API supports reading/writing formulas to MPP project files. The Formula property of the ExtendedAttributeDefinition provides the interface for reading the formula value. This article describes how to read formulas from local as well as Enterprise Extended Attributes from the MPP file.
+Aspose.Tasks for Java API supports reading/writing formulas to MPP project files. The Formula property of the ExtendedAttributeDefinition provides the interface for reading the formula value. This article describes how to read formulas from local as well as Enterprise Extended Attributes from the MPP file.
 
 {{% /alert %}} 
 ## **Writing Formulas in Extended Attributes to MPP File Formats**

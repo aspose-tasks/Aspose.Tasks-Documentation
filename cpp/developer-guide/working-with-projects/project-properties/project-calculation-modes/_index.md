@@ -6,7 +6,7 @@ url: /cpp/project-calculation-modes/
 ---
 
 ## **Overview**
-Project calculation modes are used to set how the project should calculate project dates, cost and other necessary fields. Aspose.Tasks API provides three project calculation modes where each mode's output is different based on the selection. These calculation modes are:
+Project calculation modes are used to set how the project should calculate project dates, cost and other necessary fields. Aspose.Tasks for C++ API provides three project calculation modes where each mode's output is different based on the selection. These calculation modes are:
 
 - None - Sets only necessary properties and does not perform any calculations
 - Manual - Sets only dependent object properties without recalculation of any other data

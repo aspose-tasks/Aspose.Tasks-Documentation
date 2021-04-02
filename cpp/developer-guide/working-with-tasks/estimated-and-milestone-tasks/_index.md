@@ -7,7 +7,7 @@ url: /cpp/estimated-and-milestone-tasks/
 
 {{% alert color="primary" %}} 
 
-In Microsoft Project, milestones are used to monitor a project's progress. Milestones are crucial points in the project. Typically, a milestone's a task with no duration but any task can be marked as a milestone. Aspose.Tasks API helps you manage milestones.
+In Microsoft Project, milestones are used to monitor a project's progress. Milestones are crucial points in the project. Typically, a milestone's a task with no duration but any task can be marked as a milestone. Aspose.Tasks for C++ API helps you manage milestones.
 
 {{% /alert %}} 
 ## **Working with Milestones**

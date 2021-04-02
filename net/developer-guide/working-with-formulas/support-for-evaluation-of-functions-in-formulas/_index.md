@@ -7,7 +7,7 @@ url: /net/support-for-evaluation-of-functions-in-formulas/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API supports evaluating functions defined as formula expression in Extended Attribute. These include calculation of Math, General, Text, and DateTime functions.
+Aspose.Tasks for .NET API supports evaluating functions defined as formula expression in Extended Attribute. These include calculation of Math, General, Text, and DateTime functions.
 
 {{% /alert %}} 
 ## **Calculation of Math Expressions**

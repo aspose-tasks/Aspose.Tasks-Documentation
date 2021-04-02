@@ -19,7 +19,7 @@ The following piece of code retrieves the calendar information from a project.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-RetrieveCalendarInfo-RetrieveCalendarInfo.cs" >}}
 ## **Reading Work Weeks Information from Calendar**
-Aspose.Tasks API can read Work weeks information from any of the Project's calendar. The WorkWeek class can be used to achieve this.
+Aspose.Tasks for .NET API can read Work weeks information from any of the Project's calendar. The WorkWeek class can be used to achieve this.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-ReadWorkWeeksInformation-ReadWorkWeeksInformation.cs" >}}
 ## **Getting Working Hours On or Between Dates**

@@ -15,7 +15,7 @@ The following piece of code calculates and displays the tasks in the critical pa
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-CriticalPath-critical-path.java" >}}
 
 ## **Printing the TaskWritingException**
-A project consists of a number of tasks and Aspose.Tasks API allows adding, removing and updating task information. If there's a problem when writing tasks, use TasksWritingException to catch them. 
+A project consists of a number of tasks and Aspose.Tasks for Java API allows adding, removing and updating task information. If there's a problem when writing tasks, use TasksWritingException to catch them. 
 
 Aspose.Tasks supports printing a message when there's an exception in writing a task. This is done with TaskWritingException, in a similar way to how TaskReadingException is used. The log message is contained in the public property TasksWritingException.getLogText(), as shown in the following code example.
 
@@ -34,12 +34,12 @@ A Microsoft Project data file may contain data in groups. Aspose.Tasks provides 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadGroupDefinitionData-read-group-information-data.java" >}}
 
 ## **Reading Table Data from a Project File**
-Aspose.Tasks API supports reading Table data from Microsoft Project data files. The Project.Tables implements the ICollection interface to provide access to the Table data of MPP file. The feature is supported for all versions of Microsoft Project data files i.e. MPP 2003, 2007, 2010 and 2013.
+Aspose.Tasks for Java API supports reading Table data from Microsoft Project data files. The Project.Tables implements the ICollection interface to provide access to the Table data of MPP file. The feature is supported for all versions of Microsoft Project data files i.e. MPP 2003, 2007, 2010 and 2013.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadTableDataFromFile-read-table-data-from-file.java" >}}
 
 ## **Extracting Embedded Objects from Task or Resource View**
-Microsoft Project data files (MPP/XML) may contain embedded objects such as documents, excel sheets, PDF, images, etc. in Task or Resource views. Aspose.Tasks API provides the capability to extract these from a project's Task or Resource view as shown in this topic.
+Microsoft Project data files (MPP/XML) may contain embedded objects such as documents, excel sheets, PDF, images, etc. in Task or Resource views. Aspose.Tasks for Java API provides the capability to extract these from a project's Task or Resource view as shown in this topic.
 
 Embedded objects (those which were created from the file by selecting a file path) are packed into OLE Package inside MPP file. To extract the original file you can use Content and FullPath properties of an instance of the OleObject class.
 

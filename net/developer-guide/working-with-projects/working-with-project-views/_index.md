@@ -13,8 +13,9 @@ Gantt charts provide a graphical representation of a project plan. Sometimes it 
 Extended attributes added to a project may be assigned to a task. It may be desirable to add this custom field to a saved MPP file's default view, or you might want selected custom fields to be shown automatically rather than selecting them manually. This article describes how to achieve this by customizing the Table of a Project.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectViews-ConfigureTheGantChartViewShowSelectedColumnFields-ConfigureTheGantChartViewShowSelectedColumnFields.cs" >}}
+
 ## **Customizing Timescale Tier Labels according to Current Culture Information**
-Aspose.Tasks API provides the capability to customize Timescale tier labels according to the current CultureInfo of the machine. The DateTimeConverter(DateTime date) delegate provides a converter method to convert date to a string in view timescale tiers. In addition, [TimescaleTier.DateTimeConverter](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/timescaletier) enables rendering of date in the desired format.
+Aspose.Tasks for .NET API provides the capability to customize Timescale tier labels according to the current CultureInfo of the machine. The DateTimeConverter(DateTime date) delegate provides a converter method to convert date to a string in view timescale tiers. In addition, [TimescaleTier.DateTimeConverter](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/timescaletier) enables rendering of date in the desired format.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectViews-CustomizeTimescaleTierLabels-CustomizeTimescaleTierLabels.cs" >}}
 ## **Setting Timescale Count for Project**

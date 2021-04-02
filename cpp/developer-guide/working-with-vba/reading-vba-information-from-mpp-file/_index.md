@@ -7,7 +7,7 @@ url: /cpp/reading-vba-information-from-mpp-file/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API provides support for reading VBA information from MPP file. This includes working with:
+Aspose.Tasks for C++ API provides support for reading VBA information from MPP file. This includes working with:
 
 - VBA Information
 - Modules information contained in the Project

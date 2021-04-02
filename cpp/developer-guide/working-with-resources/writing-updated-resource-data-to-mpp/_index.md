@@ -7,7 +7,7 @@ url: /cpp/writing-updated-resource-data-to-mpp/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks API allows to update a Microsoft Project MPP file's resource data and save it data back to the MPP file.
+Aspose.Tasks for C++ API allows to update a Microsoft Project MPP file's resource data and save it data back to the MPP file.
 
 {{% /alert %}} 
 ## **Writing Updated Resource Data back to the MPP file**
