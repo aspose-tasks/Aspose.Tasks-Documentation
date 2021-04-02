@@ -1,15 +1,13 @@
 ---
 title: Support for Evaluation of Functions in Formulas
+description: "The page describes the algorithm of formula evaluations used by Aspose.Tasks for .NET library for calculations."
 type: docs
 weight: 40
 url: /net/support-for-evaluation-of-functions-in-formulas/
 ---
 
-{{% alert color="primary" %}} 
-
 Aspose.Tasks for .NET API supports evaluating functions defined as formula expression in Extended Attribute. These include calculation of Math, General, Text, and DateTime functions.
 
-{{% /alert %}} 
 ## **Calculation of Math Expressions**
 1. Abs( number )
 2. Atn( number )
@@ -25,6 +23,7 @@ Aspose.Tasks for .NET API supports evaluating functions defined as formula expre
 12. Tan( number )
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithFormulas-CalculateMathExpressions-CalculateMathExpressions.cs" >}}
+
 ## **Calculation of General Functions**
 The following General functions can be calculated by the API.
 
@@ -35,6 +34,7 @@ The following General functions can be calculated by the API.
 5. Switch( expr-1, value-1\, expr-2, value-2, ... , expr-n,value-n|, expr-n,value-n )
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithFormulas-CalculateGeneralFunctions-CalculateGeneralFunctions.cs" >}}
+
 ## **Calculation of Text Functions**
 1. Asc( string )
 2. Chr( charcode )
@@ -55,6 +55,7 @@ The following General functions can be calculated by the API.
 17. UCase( string )
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithFormulas-CalculateTextFunctions-CalculateTextFunctions.cs" >}}
+
 ## **Calculation of Date/Time Functions**
 1. CDate( expression )
 2. Date ()

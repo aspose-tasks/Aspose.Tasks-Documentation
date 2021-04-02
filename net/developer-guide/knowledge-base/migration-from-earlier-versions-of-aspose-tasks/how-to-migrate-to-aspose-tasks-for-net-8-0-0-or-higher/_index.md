@@ -1,5 +1,6 @@
 ---
 title: How to Migrate to Aspose.Tasks for .NET 8.0.0 or higher
+description: "Learn how to migrate from earlier versions of Aspose.Tasks for .NET 8.0.0 to the latest versions."
 type: docs
 weight: 90
 url: /net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/

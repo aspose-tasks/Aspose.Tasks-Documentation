@@ -1,5 +1,6 @@
 ---
 title: Reporting Services
+description: "Learn how to use Aspose.Tasks for .NET to print reports exported from Microsoft Project (MPP/XML) files."
 type: docs
 weight: 60
 url: /net/reporting-services/
@@ -12,7 +13,8 @@ Aspose.Tasks provides reporting services for creating reports from project files
 1. the PDF file name, and
 2. the ReportType enumerator.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Aspose.Tasks Reporting Services**
 ### **Types of Report**
 The following types of reports can be created using Aspose.Tasks:

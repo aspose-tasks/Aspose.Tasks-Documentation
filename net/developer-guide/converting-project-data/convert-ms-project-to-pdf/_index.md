@@ -1,5 +1,5 @@
 ---
-title: Convert MS Project to PDF
+title: Convert Microsoft Project to PDF
 type: docs
 description: "Aspose.Tasks for .NET allows converting Microsoft Project (MPP) to PDF."
 keywords: "Export your project to PDF, MPP to PDF, Convert your MPP to PDF, Convert Microsoft Project to PDF, convert MPP to PDF, save project data to PDF, Aspose.Tasks, C#"

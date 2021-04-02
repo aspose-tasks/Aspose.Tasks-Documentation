@@ -1,5 +1,6 @@
 ---
 title: Reading the Critical Path
+description: "Learn how to read critical path from the Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET. in comparison with Microsoft Office Automation Tools."
 type: docs
 weight: 20
 url: /net/reading-the-critical-path/

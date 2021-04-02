@@ -1,5 +1,6 @@
 ---
 title: Creating, Updating and Removing Calendar
+description: "Learn how to create or modify project calendars using Aspose.Tasks for .NET."
 type: docs
 weight: 10
 url: /net/creating-updating-and-removing-calendar/
@@ -22,6 +23,7 @@ Open the output file in Microsoft Project and, on the **Project** menu, select *
 ![checking available calendars in Microsoft Project](creating-updating-and-removing-calendar_1.png)
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-CreatingCalendar-CreatingCalendar.cs" >}}
+
 ## **Defining Weekdays for Calendar**
 Microsoft Project keeps track of which days are considered weekdays in a calendar so that it can calculate project end dates and so on. Aspose.Tasks allows developers to define weekdays for a calendar associated with a project.
 
@@ -38,7 +40,8 @@ The code samples below set weekdays for a project. After running the code, open 
 The code below defines Monday through Thursday as weekdays with default timings, whereas Friday as a weekday with special timings.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-DefineWeekdaysForCalendar-DefineWeekdaysForCalendar.cs" >}}
-## **Replacing a Calendar**
+
+## **Replacing a Calendar with a New Calendar**
 Calendars are used to see whether resources are available, and when tasks are scheduled. There are different types of calendars. This article looks at how to replace a base calendar, that is, the calendar used for projects and tasks, with another one.
 
 Base calendars come in different forms:
@@ -46,12 +49,13 @@ Base calendars come in different forms:
 - Standard: the default calendar has a Monday to Friday work week and a day that runs from 08:00 to 17:00.
 - 24-hours: used for around the clock working, or for resources that run around the clock.
 - Night shift: similar to the standard calendar, the night-shift calendar has a Monday to Saturday morning work week and a day that runs from 23:00 to 08:00.
-### **Replacing a Calendar with a New Calendar**
+
 The list of all calendars can be retrieved as [CalendarCollection](https://apireference.aspose.com/tasks/net/aspose.tasks/calendarcollection) using the [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class. The CalendarCollection can then be used to Remove or Add a new calendar as shown in the following code sample.
 
 The following lines of code replace an existing calendar with a new standard calendar.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-ReplaceCalendarWithNewCalendar-ReplaceCalendarWithNewCalendar.cs" >}}
+
 ## **Making a Standard Calendar**
 A standard calendar provides the most common work days, work hours and holidays. By default, a standard calendar is added whenever a project is created using Microsoft Project. Aspose.Tasks has features for defining a standard calendar for a project.
 
@@ -69,6 +73,7 @@ In Microsoft Project, open the file output by the code below and, on the **Tools
 The following lines of code create a standard calendar using both methods.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-MakeAStandardCalendar-MakeAStandardCalendar.cs" >}}
+
 ## **Writing Updated Calendar Data to MPP**
 With Aspose.Tasks, you can update calendar data in a Microsoft Project MPP file and save it back.
 

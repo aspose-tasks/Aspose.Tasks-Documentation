@@ -1,5 +1,6 @@
 ---
 title: Adding Links for Tasks
+description: "Learn how to add new task links to the project using Aspose.Tasks for .NET in comparison with Microsoft Office Automation Tools."
 type: docs
 weight: 40
 url: /net/adding-links-for-tasks/

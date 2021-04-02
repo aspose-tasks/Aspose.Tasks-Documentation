@@ -1,5 +1,5 @@
 ---
-title: Convert MS Project to SVG
+title: Convert Microsoft Project to SVG
 type: docs
 description: "Aspose.Tasks for .NET allows converting Microsoft Project (MPP) to SVG."
 keywords: "Export your project to SVG, MPP to SVG, Convert your MPP to SVG, Convert Microsoft Project to SVG, convert MPP to SVG, save project data to SVG, Aspose.Tasks, C#"

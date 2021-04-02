@@ -1,5 +1,6 @@
 ---
 title: Reading Tasks and Resources
+description: "Learn how to read tasks and resources from the Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET. in comparison with Microsoft Office Automation Tools."
 type: docs
 weight: 10
 url: /net/reading-tasks-and-resources/
@@ -22,17 +23,10 @@ The following steps are required to accomplish this task:
 
 
 {{< highlight csharp >}}
-
-
-
 // Create Application object
-
 Application projectApplication = new ApplicationClass();
-
 object missingValue = System.Reflection.Missing.Value;
-
 // Open an MPP file
-
 projectApplication.FileOpenEx(@"C:\Project1.mpp",
 
     missingValue, missingValue, missingValue, missingValue,

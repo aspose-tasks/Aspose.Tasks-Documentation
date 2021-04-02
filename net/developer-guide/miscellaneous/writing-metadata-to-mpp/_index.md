@@ -1,15 +1,13 @@
 ---
 title: Writing Metadata to MPP
+description: "Learn how to write metadata of tasks, calendars, resources, resource assignments using Aspose.Tasks for .NET."
 type: docs
 weight: 50
 url: /net/writing-metadata-to-mpp/
 ---
 
-{{% alert color="primary" %}} 
-
 Aspose.Tasks provides a facility for writing metadata to MPP files for calendars, tasks, task links, resources and resource assignments.
 
-{{% /alert %}} 
 ## **Writing Metadata to Microsoft Project Files**
 The following metadata is used in this example:
 
@@ -44,7 +42,7 @@ The following metadata is used in this example:
 
 Here IsMarked and IgnoreWarnings are newly added fields for a task. Similarly for resources, the TeamAssignmentPool and CostCenter properties are provided.
 
-The following steps are followed in the sample code to demonstrate how to write metadata to MPPs:
+The following steps are followed in the sample code to demonstrate how to write metadata to MPP files:
 
 1. Open a new, blank MPP file.
 2. Add working times on Monday of the project calendar and change the project calendar name.
@@ -56,5 +54,4 @@ The following steps are followed in the sample code to demonstrate how to write 
 8. Add a new task extended attribute.
 9. Save changes as an MPP file.
  
-
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-WriteMetadataToMPP-WriteMetadataToMPP.cs" >}}

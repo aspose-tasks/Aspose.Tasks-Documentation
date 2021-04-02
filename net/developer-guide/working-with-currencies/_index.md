@@ -1,5 +1,5 @@
 ---
-title: Working with Currencies
+title: Working with Project Currencies
 description: "Learn how to manage currency settings in Microsoft Project files using Aspose.Tasks for .NET."
 type: docs
 weight: 100

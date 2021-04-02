@@ -1,5 +1,6 @@
 ---
 title: Use Aspose.Tasks for .NET via COM Interoperation
+description: "Learn how to use Aspose.Tasks for .NET via COM Interoperation technology."
 type: docs
 weight: 20
 url: /net/use-aspose-tasks-for-net-via-com-interoperation/
@@ -12,7 +13,8 @@ The information in this topic applies to scenarios where you want to use Aspose.
 - Visual Basic 6
 - ASP Classic with VB Script
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with COM Interop**
 Aspose.Tasks for .NET executes under the control of the .NET Framework and this is called managed code. Code written in all of the above languages runs outside the .NET Framework and it is called unmanaged code. Interaction between unmanaged code and Aspose.Tasks occurs via the .NET facility called COM Interop.
 
@@ -37,14 +39,9 @@ If your programming language (for example, Visual Basic) allows you to reference
 
 Once created, you are able to access the object’s methods and properties, as if it was a COM object:
 
-
-
 {{< highlight csharp >}}
-
- Dim prj As New Aspose_Tasks.Project
-
+Dim prj As New Aspose_Tasks.Project
 prj.IsScheduleFromStart = True
-
 {{< /highlight >}}
 
 {{% alert color="primary" %}} 

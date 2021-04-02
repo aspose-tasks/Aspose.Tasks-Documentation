@@ -1,5 +1,6 @@
 ---
 title: Adding a New Task with Aspose.Tasks vs VSTO
+description: "Learn how to add new tasks to the project using Aspose.Tasks for .NET in comparison with Microsoft Office Automation Tools."
 type: docs
 weight: 30
 url: /net/adding-a-new-task-with-aspose-tasks-vs-vsto/

@@ -1,5 +1,6 @@
 ---
 title: Managing Currency Symbols
+description: "Learn how to edit currency symbols in Microsoft Project files using Aspose.Tasks for .NET."
 type: docs
 weight: 30
 url: /net/managing-currency-symbols/
@@ -16,10 +17,12 @@ To see a project's currency symbol in Microsoft Project:
 **Viewing the currency symbol in Microsoft Project** 
 
 ![modify currency symbol in Microsoft Project](managing-currency-symbols_1.png)
+
 ### **Setting Currency Symbol using Aspose.Tasks**
 The following example shows how to set a currency symbol for a project.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCurrencies-SetCurrencySymbol-SetCurrencySymbol.cs" >}}
+
 ### **Getting Currency Symbol using Aspose.Tasks**
 Access the currency symbol using a project's CurrencySymbol:
 

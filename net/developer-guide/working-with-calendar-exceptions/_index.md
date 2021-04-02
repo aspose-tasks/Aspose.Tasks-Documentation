@@ -5,5 +5,3 @@ type: docs
 weight: 40
 url: /net/working-with-calendar-exceptions/
 ---
-
-

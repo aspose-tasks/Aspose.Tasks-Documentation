@@ -1,5 +1,6 @@
 ---
 title: Create Resources and Link with Tasks
+description: "Learn how to create resources and resource assignments in the project using Aspose.Tasks for .NET in comparison with Microsoft Office Automation Tools."
 type: docs
 weight: 50
 url: /net/create-resources-and-link-with-tasks/
