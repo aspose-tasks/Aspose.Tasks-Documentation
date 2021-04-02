@@ -1,5 +1,6 @@
 ---
 title: How to Run the Examples
+description: "Learn how to run Aspose.Tasks for Java code examples using IntelliJ IDEA, Eclipse or NetBeans."
 type: docs
 weight: 80
 url: /java/how-to-run-the-examples/
@@ -33,6 +34,7 @@ Browse to the folder that you cloned or downloaded from GitHub and select **pom.
 ![open Aspose.Tasks for Java examples in Eclipse](how-to-run-the-examples_5.png)
 
 It will open the project and download the dependencies automatically. From the Package Explorer tab, browse the examples in the **src/main/java** folder. To run an example, just right click on the file and choose **Run As** - **Java Application**, the example will be executed and the output will be shown in the built-in console output window.
+
 ## **NetBeans**
 Click on the **File** menu and choose **Open Project**. Browse to the folder that you cloned or downloaded from GitHub. The icon of the **Examples** folder will show that it is a Maven project. Select Examples and open it.
 
@@ -42,7 +44,7 @@ It will open the project and download the dependencies automatically. From the P
 
 ![edit Aspose.Tasks for Java examples in NetBeans](how-to-run-the-examples_7.png)
 
-## **Contribute**
+## **How to contribute**
 If you like to add or improve an example, we encourage you to contribute to the project. All examples and showcase projects in this repository are open source and can be freely used in your applications.
 
 To contribute, you can fork the repository, edit the source code and create a pull request. We will review the changes and include it in the repository if found helpful.
