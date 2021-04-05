@@ -16,31 +16,20 @@ Sometimes it is not possible to complete a task as scheduled and it needs to be 
 Below is the code for VSTO Project to split tasks:
 
 {{< highlight cs >}}
-
-  string FileName = "MyProject.mpp";
-
+ string FileName = "MyProject.mpp";
  object missingValue = System.Reflection.Missing.Value;
-
  Application.FileOpenEx(FileName,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue);
 
  Project MyProject = Application.ActiveProject;
-
  Task MyTask = MyProject.Tasks[1];
-
  MyTask.Split(DateTime.Parse("01.11.13 08:00"), DateTime.Parse("09.11.13 08:00"));
-
-
 {{< /highlight >}}
+
 ### **Aspose.Tasks**
 The SplitParts property exposed by the [Task]() class is used to determine the split parts of a task whereas SplitTask method exposed by the ResourceAssignment class is used to split a single task into multiple parts. SplitParts returns a collection of split parts whereas SplitTask method accepts start date, finish date and calendar arguments to split the task.
 #### **Splitting and Viewing Tasks in Microsoft Project**
