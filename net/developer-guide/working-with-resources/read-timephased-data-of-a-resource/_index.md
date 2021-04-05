@@ -5,13 +5,10 @@ weight: 80
 url: /net/read-timephased-data-of-a-resource/
 ---
 
-{{% alert color="primary" %}} 
-
 Aspose.Tasks supports reading a resource's timephased data from Microsoft Project (MPP) files.
 
-{{% /alert %}} 
 ## **Reading Timephased Resource Data**
-The Timephased data is retrieved using the [Resource]() object's TimeScaleData method. For Timephased data of *resource work*, the
+The Timephased data is retrieved using the [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) object's TimeScaleData method. For Timephased data of *resource work*, the
 
 - The TimeScaleData method gets the timephased data for resource work and takes the project's start and finish dates as input parameters.
 - To get the timephased data for resource cost, the TimeScaleData method takes another input parameter - the timephased data type as a ResourceCost.

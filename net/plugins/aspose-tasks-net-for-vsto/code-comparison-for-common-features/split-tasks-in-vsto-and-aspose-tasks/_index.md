@@ -31,7 +31,7 @@ Below is the code for VSTO Project to split tasks:
 {{< /highlight >}}
 
 ### **Aspose.Tasks**
-The SplitParts property exposed by the [Task]() class is used to determine the split parts of a task whereas SplitTask method exposed by the ResourceAssignment class is used to split a single task into multiple parts. SplitParts returns a collection of split parts whereas SplitTask method accepts start date, finish date and calendar arguments to split the task.
+The SplitParts property exposed by the [Task](https://apireference.aspose.com/tasks/net/aspose.tasks/task) class is used to determine the split parts of a task whereas SplitTask method exposed by the ResourceAssignment class is used to split a single task into multiple parts. SplitParts returns a collection of split parts whereas SplitTask method accepts start date, finish date and calendar arguments to split the task.
 #### **Splitting and Viewing Tasks in Microsoft Project**
 To split a task in Microsoft Project:
 

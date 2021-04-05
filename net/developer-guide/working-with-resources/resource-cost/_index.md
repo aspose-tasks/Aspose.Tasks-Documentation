@@ -5,9 +5,7 @@ weight: 50
 url: /net/resource-cost/
 ---
 
-{{% alert color="primary" %}} 
-
-The [Resource]() class is used to manage costs related to a resource:
+The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) class is used to manage costs related to a resource:
 
 - Cost represents a resource's total project cost across all assignments (decimal).
 - BCWP represents the budgeted cost of work performed by a resource (double).
@@ -15,7 +13,6 @@ The [Resource]() class is used to manage costs related to a resource:
 - ACWP represents the actual cost of work performed by a resource to date (double).
 - AccrueAt represents the cost accrual method used for a resource (CostAccrualType).
 
-{{% /alert %}} 
 ## **Working with Resource Costs**
 To view resource costs in Microsoft Project:
 

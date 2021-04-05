@@ -7,7 +7,7 @@ url: /net/percentage-calculations/
 
 {{% alert color="primary" %}} 
 
-The PercentWorkComplete property exposed by the [Resource]() class is used to manage the percentage of work a resource has completed. The PercentWorkComplete property represents the percentage of the work across all assignments a resource has completed. It supports the integer data type.
+The PercentWorkComplete property exposed by the [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) class is used to manage the percentage of work a resource has completed. The PercentWorkComplete property represents the percentage of the work across all assignments a resource has completed. It supports the integer data type.
 
 {{% /alert %}} 
 ## **Getting Percentages with Aspose.Tasks**

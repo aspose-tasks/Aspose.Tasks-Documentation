@@ -7,7 +7,7 @@ url: /net/overtimes-for-a-resource/
 
 {{% alert color="primary" %}} 
 
-The [Resource]() class exposes a number of properties for managing resource overtime:
+The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) class exposes a number of properties for managing resource overtime:
 
 - Overtime represents the overtime rate (decimal).
 - OvertimeRate represents the overtime rate from the current date, if a rate table exists for the resource (decimal).

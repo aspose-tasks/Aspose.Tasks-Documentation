@@ -9,9 +9,10 @@ url: /net/creating-resource-assignments/
 
 Resource assignments links a task and a resource. This article explains how to create resource assignment using Aspose.Tasks.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Creating Resource Assignments**
-The [Resource]() class exposes two different ways of creating a resource assignment, either using the default constructor or by passing a task and resource.
+The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) class exposes two different ways of creating a resource assignment, either using the default constructor or by passing a task and resource.
 ### **Programming Sample: Default Constructor**
 Create a [ResourceAssignment](https://apireference.aspose.com/tasks/net/aspose.tasks/resourceassignment) instance without requiring any parameters to be passed.
 
