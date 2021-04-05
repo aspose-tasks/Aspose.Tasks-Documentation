@@ -14,7 +14,7 @@ url: /net/aspose-tasks-for-net-18-7-release-notes/
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|TASKSNET-1915|Add an option for [saving fonts/images/css styles separately](/tasks/net/saving-project-data-to-html-csv-text-and-template-mpt-formats/#savingprojectdatatohtml-csv-textandtemplate-mpt-formats-savingfonts-imagesandcssstylesseparately) when saving as html|New Feature|
+|TASKSNET-1915|Add an option for saving fonts/images/css styles separately when saving as html|New Feature|
 |TASKSNET-2465|Remove obsolete members in ExtendedAttributeDefinition and OutlineValue|Enhancement|
 |TASKSNET-1790|Add support for OnlyTableValuesAllowed field in new Extended Attributes API|Enhancement|
 |TASKSNET-2537|Differences in XML output after resave|Bug|

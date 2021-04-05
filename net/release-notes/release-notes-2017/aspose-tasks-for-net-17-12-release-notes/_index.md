@@ -15,7 +15,7 @@ This page contains release notes information about Aspose.Tasks for .NET 17.12 r
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|TASKSNET-1566|Add support for [setting a default font](/tasks/net/saving-a-project-as-pdf/#savingaprojectaspdf-settingdefaultfont) when a project is rendering into PDF|New Feature|
+|TASKSNET-1566|Add support for setting a default font when a project is rendering into PDF|New Feature|
 |TASKSNET-2195|Task notes not saved for template file from MSP 2016|Bug|
 |TASKSNET-2184|Resource assignment units raise exception when large value is set|Bug|
 |TASKSNET-2177|Task duration becomes zero if multiple resources are assigned|Bug|

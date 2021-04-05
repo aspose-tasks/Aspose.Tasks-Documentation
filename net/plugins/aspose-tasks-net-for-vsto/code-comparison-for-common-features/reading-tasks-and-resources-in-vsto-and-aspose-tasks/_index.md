@@ -199,4 +199,4 @@ Console.ReadLine();
 {{< /highlight >}}
 ## **Download Sample Code**
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Reading.Tasks.and.Resources.Aspose.Tasks.zip)
-- [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Reading%20Tasks%20and%20Resources%20\(Aspose.Tasks\).zip)
+- [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Reading%20Tasks%20and%20Resources%20(Aspose.Tasks).zip)

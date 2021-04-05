@@ -132,4 +132,4 @@ prj.Save("Project1.mpp", Aspose.Tasks.Saving.SaveFileFormat.MPP);
 {{< /highlight >}}
 ## **Download Sample Code**
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Adding.Links.for.Tasks.Aspose.Tasks.zip)
-- [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Adding%20Links%20for%20Tasks%20\(Aspose.Tasks\).zip)
+- [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Adding%20Links%20for%20Tasks%20(Aspose.Tasks).zip)

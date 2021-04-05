@@ -16,12 +16,12 @@ Aspose.Tasks for .NET 8.0.0 is a revamped version of the API that includes consi
 
 This new API is incompatible with the Legacy API and the objective of this article is to help you migrate your code to the new API.  The article shows comparative code samples of the Legacy and the new API implementation, and includes:
 
-- [Setting Default Project Properties](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
-- [Creating Calendar and Adding to Project](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
-- [Make Standard Calendar](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
-- [Adding Task to Project](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
-- [Adding a Resource to Project](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
-- [Create Resource Assignment](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher-html/)
+- [Setting Default Project Properties](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/)
+- [Creating Calendar and Adding to Project](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/)
+- [Make Standard Calendar](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/)
+- [Adding Task to Project](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/)
+- [Adding a Resource to Project](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/)
+- [Create Resource Assignment](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/)
 
 {{% /alert %}} 
 ### **Setting Default Project Properties**

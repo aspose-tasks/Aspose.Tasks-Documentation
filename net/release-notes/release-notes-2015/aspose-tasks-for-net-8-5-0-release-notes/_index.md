@@ -17,7 +17,7 @@ below.
 |**Issue Type** |**Key** |**Summary** |
 | :- | :- | :- |
 |New Feature |TASKS-16019 |Read Header and Footer data from MPP files. |
-|Enhancement |TASKS-30859 |[Custom Fields](/pages/createpage.action?spaceKey=tasksnet&title=Custom+++Fields&linkCreation=true&fromPageId=16287091) Ignore invalid characters |
+|Enhancement |TASKS-30859 | Custom fields should ignore invalid characters |
 |Task |TASKS-27144 |Ability to extract objects embedded in task or resource view form |
 |Task |TASKS-34043 |TASKS-27144 Implement embedded Bitmap Image extraction from views. |
 |Task |TASKS-34042 |TASKS-33909 Implement PageSettings writing to mpp |

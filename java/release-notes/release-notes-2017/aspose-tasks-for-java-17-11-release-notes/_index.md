@@ -17,7 +17,7 @@ This page contains release notes information about Aspose.Tasks for Java 17.11 v
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|TASKSNET-2140|Add option to [set image quality](/tasks/java/saving-project-data-to-jpeg/#savingprojectdatatojpeg-exportingprojectdatatojpeg) when saving as JPEG|New Feature|
+|TASKSNET-2140|Add option to set image quality when saving as JPEG|New Feature|
 |TASKSNET-2147|Enum GanttBarFillPattern should have value 11 corresponding to fill pattern in MSP 2016|Enhancement|
 |TASKSNET-2109|Exception raised while loading the mpp file|Bug|
 |TASKSNET-2105|ArgumentOutOfRangeException exception if 24 Hours Calendar is set|Bug|

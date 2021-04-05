@@ -13,7 +13,7 @@ Read more at [sourceforge.net](https://php-java-bridge.sourceforge.net/pjb/)
 ## **Aspose.Tasks for Java**
 Aspose.Tasks for Java is a project management API that enables Java application developers to provide Microsoft Project® document manipulation capability in their applications – all without using Microsoft Project®. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
 ## **Aspose.Tasks Java for PHP**
-Project Aspose.Tasks for PHP shows how different tasks can be performed using Aspose.Tasks Java APIs in PHP. This project is aimed to provide useful examples for PHP Developers who want to utilize Aspose.Tasks for Java in their PHP Projects using [PHP/Java Bridge](https://php-java-bridge.sourceforge.net/pjb/).
+Project Aspose.Tasks for PHP shows how different tasks can be performed using Aspose.Tasks Java APIs in PHP. This project is aimed to provide useful examples for PHP Developers who want to utilize Aspose.Tasks for Java in their PHP Projects using [PHP/Java Bridge](https://sourceforge.net/projects/php-java-bridge/files/Binary%20package/php-java-bridge_7.2.1/php-java-bridge_7.2.1_documentation.zip/download).
 ## **System Requirements**
 **Following are the system requirements to use Aspose.Tasks Java for PHP:**
 
@@ -30,7 +30,7 @@ Project Aspose.Tasks for PHP shows how different tasks can be performed using As
 Download required libraries mentioned below. These are the required for executing Aspose.Tasks Java for PHP examples.
 
 - **Aspose:** [Aspose.Tasks for Java Component](https://downloads.aspose.com/tasks/net)
-- [PHP/Java Bridge](scitylan.dl.sourceforge.net/project/php-java-bridge/Binary%20package/php-java-bridge_6.2.1/php-java-bridge_6.2.1_documentation.zip)
+- [PHP/Java Bridge](https://sourceforge.net/projects/php-java-bridge/files/Binary%20package/php-java-bridge_7.2.1/php-java-bridge_7.2.1_documentation.zip/download)
 ## **Download Examples from Social Coding Sites**
 Following releases of running examples are available to download on below mentioned social coding sites:
 

@@ -10,7 +10,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 
 ## **Major Features**
 - Support for CalculationType and RollupType reading/Writing for an Extended Attribute
-- Support for [reading VBA from MPP](/tasks/java/reading-vba-information-from-mpp-file-html/) file
+- Support for [reading VBA from MPP](/tasks/java/reading-vba-information-from-mpp-file/) file
 - Implementation of Field Type converter for the Formula Calculation
 ## **Features and Improvements**
 

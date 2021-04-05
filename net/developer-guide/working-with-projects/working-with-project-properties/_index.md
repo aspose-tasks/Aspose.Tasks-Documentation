@@ -162,8 +162,9 @@ To see weekday properties in Microsoft Project:
 The following code writes weekday properties, as shown in the screenshot above, to a project.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-WriteWeekdayProperties-WriteWeekdayProperties.cs" >}}
+
 ## **Currency Properties**
-Microsoft Project lets users set which currency costs are shown in, in a project. They can define set the currency code, numbers after the decimal point and currency symbol so that costs show in an easy to read and intuitive way. Aspose.Tasks supports these features and provides a series of properties that help developers set and control currency properties. This topic explains both how to [read currency properties](/tasks/net/working-with-project-properties-html/), and [how to set them](/tasks/net/working-with-project-properties-html/).
+Microsoft Project lets users set which currency costs are shown in, in a project. They can define set the currency code, numbers after the decimal point and currency symbol so that costs show in an easy to read and intuitive way. Aspose.Tasks supports these features and provides a series of properties that help developers set and control currency properties. This topic explains both how to [read currency properties](/tasks/net/working-with-project-properties/), and [how to set them](/tasks/net/working-with-project-properties/).
 
 Aspose.Tasks provides properties exposed by the [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj) class, for managing currency properties:
 

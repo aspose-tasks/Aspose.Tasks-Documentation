@@ -85,4 +85,4 @@ Please check [the video](https://youtu.be/yG8cZ_Fis-I) below to see Aspose.Tasks
 ### **Source Code**
 You can get the latest source code from one of the following locations
 
-- [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Plugins/Aspose.Tasks-for-Java_for_IntelliJ%28Maven%29)
+- [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Plugins/Aspose_Tasks_Java_for_IntelliJ(Maven))

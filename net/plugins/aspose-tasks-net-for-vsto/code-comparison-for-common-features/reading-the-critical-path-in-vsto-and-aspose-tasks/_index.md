@@ -111,4 +111,4 @@ foreach (Aspose.Tasks.Task task in criticalPath)
 {{< /highlight >}}
 ## **Download Sample Code**
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Reading.the.Critical.Path.Aspose.Tasks.zip)
-- [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Reading%20the%20Critical%20Path%20\(Aspose.Tasks\).zip)
+- [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Reading%20the%20Critical%20Path%20(Aspose.Tasks).zip)

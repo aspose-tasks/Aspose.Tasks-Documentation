@@ -20,7 +20,7 @@ This release of Aspose.Tasks for .NET includes following major features.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|TASKSNET-2140|Add option to [set image quality](/tasks/net/saving-project-data-to-jpeg/) when saving as JPEG|New Feature|
+|TASKSNET-2140|Add option to set image quality when saving as JPEG|New Feature|
 |TASKSNET-2147|Enum GanttBarFillPattern should have value 11 corresponding to fill pattern in MSP 2016|Enhancement|
 |TASKSNET-2144|Recalculate() is updating manually scheduled tasks|Bug|
 |TASKSNET-2137|Wrong finish date calculated for ElapsedDay type duration|Bug|

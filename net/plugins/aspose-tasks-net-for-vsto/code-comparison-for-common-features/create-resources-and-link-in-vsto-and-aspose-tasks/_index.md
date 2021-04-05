@@ -118,4 +118,4 @@ prj.Save("Project1_CSharp_Aspose.mpp", Aspose.Tasks.Saving.SaveFileFormat.MPP);
 {{< /highlight >}}
 ## **Download Sample Code**
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Create.Resources.and.Link.Aspose.Tasks.zip)
-- [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Create%20Resources%20and%20Link%20\(Aspose.Tasks\).zip)
+- [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Create%20Resources%20and%20Link%20(Aspose.Tasks).zip)
