@@ -162,7 +162,7 @@ for (BuiltInProjectProperty property : project.getBuiltInProps()) {
 |com.aspose.tasks.View.op*GreaterThan(com.aspose.tasks.View,com.aspose.tasks.View)*|Returns a value indicating whether this instance is greater than a specified object.|
 |com.aspose.tasks.View.op*GreaterThanOrEqual(com.aspose.tasks.View,com.aspose.tasks.View)*|Returns a value indicating whether this instance is greater than or equal to a specified object.|
 |com.aspose.tasks.View.op*LessThanOrEqual(com.aspose.tasks.View,com.aspose.tasks.View)*|Returns a value indicating whether this instance is less than or equal to a specified object.|
-|com.aspose.tasks.WeekDayCollection.copyTo(com.aspose.tasks.WeekDay[\[](https://wiki.bratislava.dynabic.com/xwiki/bin/create/Support%20Home/Release%20notes/Aspose.Tasks/Aspose.Tasks%20for%20Java%20Release%20Notes/Aspose.Tasks%20for%20Java%2020.4/%5B/WebHome?parent=Support+Home.Release+notes.Aspose%5C.Tasks.Aspose%5C.Tasks+for+Java+Release+Notes.Aspose%5C.Tasks+for+Java+20%5C.4.WebHome)],int)|Copies collection content to an array at specified index.|
+|com.aspose.tasks.WeekDayCollection.copyTo(com.aspose.tasks.WeekDay[],int)|Copies collection content to an array at specified index.|
 |com.aspose.tasks.WeekDayCollection.indexOf(com.aspose.tasks.WeekDay)|Returns index of com.aspose.tasks.WeekDay specified.|
 |com.aspose.tasks.WeekDayCollection.add(int,com.aspose.tasks.WeekDay)|Inserts com.aspose.tasks.WeekDay at specified index.|
 |com.aspose.tasks.WorkingTime.#ctor(java.util.Date,java.util.Date)|Initializes a new instance of the com.aspose.tasks.WorkingTime class with a com.aspose.tasks.WorkingTime interval item with specified start and finish times.|

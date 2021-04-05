@@ -6,9 +6,10 @@ url: /cpp/general-project-properties/
 ---
 
 ## **Working with General Project Properties**
-Microsoft Project saves project properties, metadata, for every project. The properties include the project's start and end dates, the current date and the status date, the type of calendar used and when a project is scheduled from. Aspose.Tasks lets you read and set project properties as described below. 
+Microsoft Project saves project properties, metadata, for every project. The properties include the project's start and end dates, the current date and the status date, the type of calendar used and when a project is scheduled from. Aspose.Tasks lets you read and set project properties as described below.
+
 ### **Reading Project Information**
-The [Project]()[ ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project/)class has a number of properties that deal with project properties:
+The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project/) class has a number of properties that deal with project properties:
 
 - [StartDate](): the project's start date, of the DateTime data type.
 - [FinishDate](): the project's end date, of the DateTime data type.
@@ -24,16 +25,19 @@ To read project properties in Microsoft Project, click **Project Information**�
 The code example given below demonstrates how to read and output the project start and end date, whether the project is scheduled from the start or end, author, last author, revision, keywords and comments.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithProjectProperties-ReadProjectInfo-ReadProjectInfo.cpp" >}}
+
 ### **Writing Project Information**
 Aspose.Tasks for C++ can write as well as read project information. The code example given below demonstrates how to set author, last author, revision, keywords and comments.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithProjectProperties-WriteProjectInfo-WriteProjectInfo.cpp" >}}
+
 ## **Determining Project Version**
-Aspose.Tasks for C++ API provides the capability to retrieve project file information with simple API calls. The [Project]() class's [Get]() method facilitates users to retrieve Project related information using the static class [Prj](). The Prj class exposes a number of properties related to the Project. This topic shows how to retrieve version information.
+Aspose.Tasks for C++ API provides the capability to retrieve project file information with simple API calls. The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project/) class's [Get]() method facilitates users to retrieve Project related information using the static class [Prj](). The Prj class exposes a number of properties related to the Project. This topic shows how to retrieve version information.
 
 The SaveVersion and LastSaved properties exposed by the Prj class are used to determine the project version and the date when the project was last saved. SaveVersion supports the Integer datatype, whereas LastSaved supports the DateTime datatype.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithProjectProperties-DetermineProjectVersion-DetermineProjectVersion.cpp" >}}
+
 ## **Writing Project Summary Information**
 Most programs save summary information with the files they save. Microsoft Project is no different. As well as the name of the author, the date the project was created and the last time it was edited and saved, it saves keywords, subject, comments and more. Aspose.Tasks lets you both read and write this type of information.
 

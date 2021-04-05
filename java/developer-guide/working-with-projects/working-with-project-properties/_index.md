@@ -87,7 +87,7 @@ The following lines of code set a project's default properties.
 ## **Writing Project Summary Information**
 Most programs save summary information with the files they save. Microsoft Project is no different. As well as the name of the author, the date the project was created and the last time it was edited and saved, it saves keywords, subject, comments and more. Aspose.Tasks lets you both read and write this type of information. This topic explains how to open a project file, set the summary information and save it again.
 
-The [Prj](https://apireference.aspose.com/tasks//java/com.aspose.tasks/prj) class exposes a number of properties to set or get summary information about an MPP project file. Aspose.Tasks for Java can update the project summary information and then write the project file back to MPP. To update the project summary information of an existing MPP file:
+The [Prj](https://apireference.aspose.com/tasks/java/com.aspose.tasks/prj) class exposes a number of properties to set or get summary information about an MPP project file. Aspose.Tasks for Java can update the project summary information and then write the project file back to MPP. To update the project summary information of an existing MPP file:
 
 1. Create an instance of the Project class to read the input MPP file
 2. Set the various properties exposed by the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) object to define summary information.
@@ -119,7 +119,7 @@ The following code reads a project's fiscal year properties and displays them in
 ## **Weekday Properties**
 Microsoft Project lets users set a number of different weekday properties, for example, what day a week starts on and how many working days are in a month. Aspose.Tasks support these features through a number of properties that can be used both to read weekday properties and to write them to a project.
 
-Aspose.Tasks has a series of properties, exposed by the [Prj](https://apireference.aspose.com/tasks//java/com.aspose.tasks/prj) class, specifically for managing a project's weekday properties:
+Aspose.Tasks has a series of properties, exposed by the [Prj](https://apireference.aspose.com/tasks/java/com.aspose.tasks/prj) class, specifically for managing a project's weekday properties:
 
 - WEEK_START_DAY: the first day of the week. This property takes values defined by the DayType enumeration.
 - DAYS_PER_MONTH: the number of working days in a month, passed as an integer.
@@ -181,7 +181,7 @@ The following example writes currency properties to the project.
 ## **Setting Attributes for New Tasks**
 Microsoft Project allows to set default properties for new tasks added. This article explains how to set the default start date for new tasks using Aspose.Tasks for Java API.
 
-The static class [Prj](https://apireference.aspose.com/tasks//java/com.aspose.tasks/prj) exposes the NEW_TASK_START_DATE method that defines the start date for a new task. This property supports the values defined by the TaskStartDateType enumeration type.
+The static class [Prj](https://apireference.aspose.com/tasks/java/com.aspose.tasks/prj) exposes the NEW_TASK_START_DATE method that defines the start date for a new task. This property supports the values defined by the TaskStartDateType enumeration type.
 
 To see the task attribute:
 

@@ -23,7 +23,7 @@ The plugin contains two wizards:
 **Wizard 1:** Aspose.Tasks Maven Project
 
 - Plugin's **Aspose Maven Project Wizard** lets developers to create [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) Maven project.
-- The reference of [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](https://maven.aspose.com/artifactory/webapp/home.html?0) and gets added in the pom.xml.
+- The reference of [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0) and gets added in the pom.xml.
 - The created project will always contain most recent available version Maven Dependency for [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java).
 - The wizard steps also present with the option for downloading [Source Code Examples for using Aspose.Tasks for Java API](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples)
 

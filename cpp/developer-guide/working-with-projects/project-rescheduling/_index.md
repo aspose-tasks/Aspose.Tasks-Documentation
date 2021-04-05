@@ -17,6 +17,7 @@ The following lines of code demonstrate how to achieve rescheduling of a project
 The following lines of code demonstrate how to achieve rescheduling of a project from the start date.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-Rescheduling-RescheduleProjectFromStartDate-ReschedueProjectFromStartDate.cpp" >}}
+
 ## **Update Project and Reschedule Uncomplete Work**
 Microsoft Project provides the facility to update and reschedule work through a defined date. This helps identify work completed up to the specified date as well as reschedule any uncompleted work from a specified date. Aspose.Tasks' [Project]() API provides the same functionality by exposing the UpdateProjectWorkAsComplete and RescheduleUncompletedWorkToStartAfter methods. This topic provides a working example of both these methods as a single-use case.
 ### **Update Project**
