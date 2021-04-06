@@ -6,7 +6,7 @@ url: /net/dealing-variances/
 ---
 
 ## **Dealing Variances**
-The [Asn]() class exposes several properties for handling variance in an assignment's baseline values and the actual cost, start date, finish data and work:
+The [Asn](https://apireference.aspose.com/tasks/net/aspose.tasks/asn) class exposes several properties for handling variance in an assignment's baseline values and the actual cost, start date, finish data and work:
 
 - CostVariance handles the variance in cost against an assignment's baseline (double).
 - StartVariance handles the variance in start date against an assignments baseline (integer).

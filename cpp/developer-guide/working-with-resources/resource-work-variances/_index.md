@@ -5,11 +5,8 @@ weight: 120
 url: /cpp/resource-work-variances/
 ---
 
-{{% alert color="primary" %}} 
-
 Work variance is the difference between the estimated work (the baseline) and actual work performed.
 
-{{% /alert %}} 
 ## **Handling Variances**
 The WorkVariance property exposed by the Resource class handles variance in work:
 
@@ -19,6 +16,7 @@ To see the resource work variance in Microsoft Project:
 
 1. On the Resource Sheet, go to the **Insert** menu and select **Column**.
 2. Add the Variance column.
+
 ### **Getting Resource Work Variance in Aspose.Tasks**
 The following code example demonstrated how to get resource work variance using Aspose.Tasks.
 

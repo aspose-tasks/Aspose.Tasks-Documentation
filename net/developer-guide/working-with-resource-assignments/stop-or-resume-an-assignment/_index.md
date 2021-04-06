@@ -6,7 +6,7 @@ url: /net/stop-or-resume-an-assignment/
 ---
 
 ## **Stop or Resume an Assignment**
-The [Asn]() class exposes properties for reading and writing an assignment's stop and resume date:
+The [Asn](https://apireference.aspose.com/tasks/net/aspose.tasks/asn) class exposes properties for reading and writing an assignment's stop and resume date:
 
 - Stop reads or writes an assignment's stop date (DateTime).
 - Resume reads or writes an assignment's resume date (DateTime).

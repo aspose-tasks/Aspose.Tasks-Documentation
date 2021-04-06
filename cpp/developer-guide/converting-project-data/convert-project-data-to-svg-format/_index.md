@@ -13,7 +13,7 @@ This article demonstrates how to render project data to SVG format using Aspose.
 
 
 ## **Saving a Project as SVG**
-The [Project ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project/)class exposes the Save method which is used to save a project in various formats. The Save method allows you to render project data to SVG format using the SaveFileFormat enumeration type.
+The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class exposes the Save method which is used to save a project in various formats. The Save method allows you to render project data to SVG format using the SaveFileFormat enumeration type.
 
 To save a project to SVG:
 

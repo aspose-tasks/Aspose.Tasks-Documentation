@@ -9,7 +9,8 @@ url: /cpp/extended-attributes-of-a-project/
 
 Microsoft Project (MSP) has an extensive XML data interchange schema that makes exchanging information between applications and programming with project files easier. The schema allows you to add extended attributes to tasks, resources and assignments. This article demonstrates how to work with Extended Attributes using Aspose.Tasks.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Custom Fields using Microsoft Project**
 In this example, we will demonstrate how to work with Text1 extended attribute of a project for associating the information with a Task.
 

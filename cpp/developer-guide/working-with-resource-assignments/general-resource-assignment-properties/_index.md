@@ -11,7 +11,7 @@ An assignment is a resource that has been assigned to a specific task. Each reso
 
 {{% /alert %}} 
 ## **Working with General Assignment Properties**
-The [ResourceAssignment ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource_assignment/)class exposes a number of properties used to set and get general assignment properties:
+The [ResourceAssignment](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource_assignment) class exposes a number of properties used to set and get general assignment properties:
 
 - Uid sets and gets an assignment's unique ID (integer).
 - Start sets and gets an assignment's start date (DateTime).

@@ -9,16 +9,18 @@ url: /cpp/writing-updated-task-data-to-mpp/
 
 With Aspose.Tasks, it is possible to update tasks and then write the updated data back to a Microsoft Project MPP file.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Updating Task Data**
 The following code snippet shows how to update a project's task data and write it back to the MPP file. The step involved in this activity are:
 
 1. Create an instance of the Project class.
 2. Load the source MPP file.
-3. Create a [Task](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.task/) and add it to the root task.
+3. Create a [Task](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.task) and add it to the root task.
 4. Update the task parameters such as Deadline, NotesText, etc.
 5. Add additional tasks to the root task.
 6. Save the project.
+
 ### **Programming Samples**
 The following code finds a task's original and external ID in the project.
 

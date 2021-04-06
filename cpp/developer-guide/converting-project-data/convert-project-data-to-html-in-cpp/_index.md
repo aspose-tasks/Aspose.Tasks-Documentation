@@ -7,7 +7,7 @@ url: /cpp/convert-project-data-to-html-in-cpp/
 
 {{% alert color="primary" %}} 
 
-Microsoft Project (MSP) allows developers to save project data (MPP/XML) to HTML. Aspose.Tasks for C++ API also allows you to save project data to the same formats similar to MSP. This is achieved using the standard Save method exposed by the [Project ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project/)class.
+Microsoft Project (MSP) allows developers to save project data (MPP/XML) to HTML. Aspose.Tasks for C++ API also allows you to save project data to the same formats similar to MSP. This is achieved using the standard Save method exposed by the [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class.
 
 {{% /alert %}} 
 ## **Saving Project Data as HTML**

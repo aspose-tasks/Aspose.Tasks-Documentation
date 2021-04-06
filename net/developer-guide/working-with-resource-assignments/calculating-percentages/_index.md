@@ -5,7 +5,7 @@ weight: 60
 url: /net/calculating-percentages/
 ---
 
-The PercentWorkComplete property exposed by the [Asn]() class is used to manage the percentage of work completed on an assignment.
+The PercentWorkComplete property exposed by the [Asn](https://apireference.aspose.com/tasks/net/aspose.tasks/asn) class is used to manage the percentage of work completed on an assignment.
 
 - PercentWorkComplete represents the percentage of the completed work on an assignment (integer).
 ## **Getting Percentages in Aspose.Tasks**

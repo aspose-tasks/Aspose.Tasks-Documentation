@@ -6,7 +6,7 @@ url: /cpp/currency-symbols/
 ---
 
 ## **Managing Currency Symbols**
-The CurrencySymbol property exposed by the [Project ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project/)class is used to set or get the currency symbol. This property supports the string data type.
+The CurrencySymbol property exposed by the [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class is used to set or get the currency symbol. This property supports the string data type.
 
 To see a project's currency symbol in Microsoft Project:
 
@@ -16,6 +16,7 @@ To see a project's currency symbol in Microsoft Project:
 **Viewing the currency symbol in Microsoft Project** 
 
 ![edit currency symbols](managing-currency-symbols_1.png)
+
 ### **Setting Currency Symbol using Aspose.Tasks**
 The following code example demonstrates how to set a currency symbol for a project.
 
