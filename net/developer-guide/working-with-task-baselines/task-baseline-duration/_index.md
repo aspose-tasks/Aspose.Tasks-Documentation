@@ -1,5 +1,6 @@
 ---
-title: Task Baseline Duration
+title: Editing Task Baseline Durations
+description: "Learn how to edit Microsoft Project (MPP/XML) task baseline durations using Aspose.Tasks for .NET."
 type: docs
 weight: 20
 url: /net/task-baseline-duration/
@@ -16,6 +17,7 @@ After saving a baseline, the task baseline duration can be viewed in Microsoft P
 1. On the **View** menu, select **More Views** and ten **Task Entry**.
 2. From the **Insert** menu, select **Columns**.
 3. Add the Baseline Duration column.
+
 ### **Getting Task Baseline Duration using Aspose.Tasks**
 The code below displays the task baseline duration in console window after traversing the task baselines of a task.
 

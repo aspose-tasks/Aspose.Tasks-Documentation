@@ -1,12 +1,13 @@
 ---
 title: Creating Task Baseline
+description: "Learn how to create Microsoft Project (MPP/XML) task baselines using Aspose.Tasks for .NET."
 type: docs
 weight: 10
 url: /net/creating-task-baseline/
 ---
 
 ## **Overview**
-A baseline is a set of various conditions or reference points used to evaluate project performance over time. The [TaskBaseline ](https://apireference.aspose.com/tasks/net/aspose.tasks/taskbaseline/)class can be used to create a baseline.
+A baseline is a set of various conditions or reference points used to evaluate project performance over time. The [TaskBaseline](https://apireference.aspose.com/tasks/net/aspose.tasks/taskbaseline/) class can be used to create a baseline.
 
 ### **Creating a Task Baseline**
 

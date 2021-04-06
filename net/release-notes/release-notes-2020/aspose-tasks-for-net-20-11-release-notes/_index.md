@@ -47,7 +47,6 @@ You can use CalendarException.GetExceptionDates() method in order to determine o
 Project project = new Project("CalendarWithExceptions.mpp");
 Calendar calendar = project.Calendars.GetByUid(1);
 CalendarException calendarException = calendar.Exceptions[0];
-
 foreach (var date in calendarException.GetExceptionDates())
 {
     Console.WriteLine(date);

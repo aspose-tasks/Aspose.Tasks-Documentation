@@ -1,11 +1,12 @@
 ---
 title: Read Timephased Data of a Resource
+description: "Learn how to generate or edit timephased data of Microsoft Project (MPP/XML) resources using Aspose.Tasks for .NET."
 type: docs
 weight: 80
 url: /net/read-timephased-data-of-a-resource/
 ---
 
-Aspose.Tasks supports reading a resource's timephased data from Microsoft Project (MPP) files.
+Aspose.Tasks for .NET supports reading a resource's timephased data from Microsoft Project (MPP) files.
 
 ## **Reading Timephased Resource Data**
 The Timephased data is retrieved using the [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) object's TimeScaleData method. For Timephased data of *resource work*, the

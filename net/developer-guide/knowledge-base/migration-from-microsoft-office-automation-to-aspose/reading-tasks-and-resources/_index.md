@@ -19,8 +19,8 @@ The following steps are required to accomplish this task:
 3. Select Microsoft Project 12.0 Object Library and click **OK**.
    This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.
 4. Use the code from the following example to read tasks and resources.
-### **Code Examples - VSTO**
 
+### **Code Examples - VSTO**
 
 {{< highlight csharp >}}
 // Create Application object

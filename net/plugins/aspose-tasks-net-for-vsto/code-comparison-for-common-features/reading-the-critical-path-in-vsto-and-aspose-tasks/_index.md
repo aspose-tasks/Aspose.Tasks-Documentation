@@ -15,60 +15,34 @@ Following steps are required to accomplish this task:
 4. This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.Use the code from the following example to read critical tasks. 
 
 {{< highlight csharp >}}
-
- //Create Application object
-
+// Create Application object
 Application projectApplication = new MSProject.Application();
-
 object missingValue = System.Reflection.Missing.Value;
-
 //Open an MPP file
-
 projectApplication.FileOpenEx("Project1.mpp",
-
 	missingValue, missingValue, missingValue, missingValue,
-
 	missingValue, missingValue, missingValue, missingValue,
-
 	missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-
 	missingValue, missingValue, missingValue, missingValue,
-
 	missingValue);
-
 //Create a Project object by assigning active project
-
 Project project = projectApplication.ActiveProject;
-
 // Enumerate the tasks
-
 foreach (Task task in project.Tasks)
-
 {
-
 	//Get critical tasks
-
 	if (task != null)
-
 		if ((bool)task.Critical)
-
 		{
-
 			Console.WriteLine(task.ID + "  " + task.Name);
-
 			Console.WriteLine(task.Start);
-
 			Console.WriteLine(task.Finish + "\n");
-
 		}
-
 }
-
 // Make sure to clean up and close the file
-
 projectApplication.FileCloseAll(PjSaveType.pjDoNotSave);
-
 {{< /highlight >}}
+
 ### **Aspose.Tasks**
 The following steps are required to accomplish this task:
 

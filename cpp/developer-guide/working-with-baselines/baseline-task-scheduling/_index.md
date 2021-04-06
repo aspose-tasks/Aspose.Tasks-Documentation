@@ -1,5 +1,6 @@
 ---
 title: Baseline Task Scheduling
+description: "Learn how to edit Microsoft Project (MPP/XML) task baselines using Aspose.Tasks for C++."
 type: docs
 weight: 30
 url: /cpp/baseline-task-scheduling/

@@ -6,10 +6,11 @@ url: /net/create-an-empty-project-file/
 ---
 
 ## **Code Examples**
+
 ### **VSTO**
 Below is the code to add project file in Microsoft Project
 
-{{< highlight cs >}}
+{{< highlight csharp >}}
 Project project = this.Application.Projects.Add();
 {{< /highlight >}}
 
@@ -20,17 +21,12 @@ At present, Aspose.Tasks provides the facility to create **XML** project files o
 
 Below is code sample:
 
-{{< highlight cs >}}
-
-  string FileName = "NewProject.xml";
-
+{{< highlight csharp >}}
+ string FileName = "NewProject.xml";
  Project MyProject = new Project();
-
  MyProject.Save(FileName, Saving.SaveFileFormat.XML);
-
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO/Code%20Comparison/Creating%20an%20Empty%20Project%20File)
-## **Download Sample Code**
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/tag/AsposeTaskNETVsVSTOProjectv1.1)

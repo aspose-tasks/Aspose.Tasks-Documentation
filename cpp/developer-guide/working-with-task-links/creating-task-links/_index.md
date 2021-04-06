@@ -1,5 +1,6 @@
 ---
 title: Creating Task Links
+description: "Learn how to edit Microsoft Project (MPP/XML) task links using Aspose.Tasks for C++."
 type: docs
 weight: 10
 url: /cpp/creating-task-links/

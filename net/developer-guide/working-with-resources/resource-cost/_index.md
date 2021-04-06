@@ -1,5 +1,6 @@
 ---
-title: Resource Cost
+title: Managing Resource Costs
+description: "Learn how to get Microsoft Project (MPP/XML) resource cost fields using Aspose.Tasks for .NET."
 type: docs
 weight: 50
 url: /net/resource-cost/
@@ -18,6 +19,7 @@ To view resource costs in Microsoft Project:
 
 1. On the Resource sheet, from the **Insert** menu, select **Column**.
 2. Add the columns.
+
 ### **Getting Resource Costs in Aspose.Tasks**
 The following example shows how to get task costs using Aspose.Tasks.
 

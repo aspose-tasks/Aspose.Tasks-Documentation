@@ -1,5 +1,6 @@
 ---
-title: Assignment Budget
+title: Working with Resource Assignment Budgets
+description: "Learn how to work with Microsoft Project (MPP/XML) resource assignment budgets using Aspose.Tasks for Java."
 type: docs
 weight: 40
 url: /java/assignment-budget/

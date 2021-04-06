@@ -5,11 +5,8 @@ weight: 160
 url: /cpp/overtimes-in-tasks/
 ---
 
-{{% alert color="primary" %}} 
+Microsoft Project lets users assign overtime to tasks. Aspose.Tasks for C++ API supports this functionality through two properties in the Task class.
 
-Microsoft Projects lets users assign overtime to tasks. Aspose.Tasks for C++ API supports this functionality through two properties in the Task class.
-
-{{% /alert %}} 
 ## **Overtime**
 The [Tsk] (https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.tsk) exposes several properties for working with overtime:
 

@@ -1,5 +1,6 @@
 ---
 title: Baseline Task Scheduling
+description: "Learn how to edit Microsoft Project (MPP/XML) task baselines using Aspose.Tasks for Java."
 type: docs
 weight: 30
 url: /java/baseline-task-scheduling/

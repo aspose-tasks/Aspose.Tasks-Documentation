@@ -1,5 +1,6 @@
 ---
 title: Creating Task Baseline
+description: "Learn how to edit Microsoft Project (MPP/XML) task baselines using Aspose.Tasks for C++."
 type: docs
 weight: 10
 url: /cpp/creating-task-baseline/

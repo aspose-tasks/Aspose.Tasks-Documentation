@@ -1,5 +1,6 @@
 ---
-title: Assignment Budget in PHP
+title: Working with Resource Assignment Budgets in PHP
+description: "Learn how to work with Microsoft Project (MPP/XML) resource assignment budgets using Aspose.Tasks Java for PHP."
 type: docs
 weight: 10
 url: /java/assignment-budget-in-php/

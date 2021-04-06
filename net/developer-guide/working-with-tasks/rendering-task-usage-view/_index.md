@@ -5,11 +5,8 @@ weight: 250
 url: /net/rendering-task-usage-view/
 ---
 
-{{% alert color="primary" %}} 
-
 Aspose.Tasks supports rendering project tasks to a variety of formats, such as PDF. Task usage can be rendered using [PresentationFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/presentationformat) of Aspose.Tasks with different timescale settings like Days, ThirdOfMonths and Months.
 
-{{% /alert %}} 
 ## **Rendering Task Usage View**
 The code snippet in this article reads a source MPP file that has a number of tasks with assigned resources and renders these to output PDF using the following steps:
 

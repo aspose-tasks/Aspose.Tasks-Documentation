@@ -108,130 +108,76 @@ prj.Save( "Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML);
 **VB.NET**
 
 {{< highlight csharp >}}
-
- 'Create a project instance
-
+'Create a project instance
 Dim prj As New Project()
-
 'Define Calendar
-
 Dim cal1 As New Aspose.Tasks.Calendar()
-
 cal1.Name = "no info"
-
 Dim cal2 As New Aspose.Tasks.Calendar(1)
-
 cal2.Name = "no name"
-
 Dim cal3 As New Aspose.Tasks.Calendar("cal3")
-
 prj.Calendars.Add(cal1)
-
 prj.Calendars.Add(cal2)
-
 prj.Calendars.Add(cal3)
-
 prj.CalcCalendarUids()
-
 'Save the Project
-
 prj.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
-
 {{< /highlight >}}
+
 ###### **New Aspose.Tasks for .NET 8.x Approach**
 **C#**
 
 {{< highlight csharp >}}
-
- //Create a project instance
-
+//Create a project instance
 Project prj = new Project();
-
-//Define Calendar
-
 Aspose.Tasks.Calendar cal1 = prj.Calendars.Add("no info");
-
 Aspose.Tasks.Calendar cal2 = prj.Calendars.Add("no name");
-
 Aspose.Tasks.Calendar cal3 = prj.Calendars.Add("cal3");
-
-//Save the Project
-
 prj.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML);
-
 {{< /highlight >}}
 
 **VB.NET**
 
 {{< highlight csharp >}}
-
- 'Create a project instance
-
+'Create a project instance
 Dim prj As New Project()
-
-'Define Calendar
-
 Dim cal1 As Aspose.Tasks.Calendar = prj.Calendars.Add("no info")
-
 Dim cal2 As Aspose.Tasks.Calendar = prj.Calendars.Add("no name")
-
 Dim cal3 As Aspose.Tasks.Calendar = prj.Calendars.Add("cal3")
-
-'Save the Project
-
 prj.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
-
 {{< /highlight >}}
+
 ### **Making A Standard Calendar**
 Recalculating Calendar UIDs are no more required in the new ASpose.Tasks' API as compared to the legacy API.
+
 ###### **Legacy API Code Sample**
 **C#**
 
 {{< highlight csharp >}}
-
- //Create a project instance
-
+//Create a project instance
 Project prj = new  Project();
-
 //Define Calendar and make it standard
-
 Aspose.Tasks.Calendar cal1 = new  Aspose.Tasks.Calendar("My Cal");
-
 Aspose.Tasks.Calendar.MakeStandardCalendar(cal1);
-
 prj.Calendars.Add(cal1);
-
 prj.CalcCalendarUids();
-
-//Save the Project
-
 prj.Save( "Project.Xml" , Aspose.Tasks.Saving.SaveFileFormat.XML);
-
 {{< /highlight >}}
 
 **VB.NET**
 
 {{< highlight csharp >}}
-
- 'Create a project instance
-
+'Create a project instance
 Dim prj As New Project()
-
 'Define Calendar and make it standard
-
 Dim cal1 As New Aspose.Tasks.Calendar("My Cal")
-
 Aspose.Tasks.Calendar.MakeStandardCalendar(cal1)
-
 prj.Calendars.Add(cal1)
-
 prj.CalcCalendarUids()
-
 'Save the Project
-
 prj.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
-
 {{< /highlight >}}
+
 ###### **New Aspose.Tasks for .NET 8.x Approach**
 **C#**
 

@@ -1,5 +1,6 @@
 ---
-title: Task Baseline Duration
+title: Editing Task Baseline Durations
+description: "Learn how to edit Microsoft Project (MPP/XML) task baseline durations using Aspose.Tasks for C++."
 type: docs
 weight: 20
 url: /cpp/task-baseline-duration/

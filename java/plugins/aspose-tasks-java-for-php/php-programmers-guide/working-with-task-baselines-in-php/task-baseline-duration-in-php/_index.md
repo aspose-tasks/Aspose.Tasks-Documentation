@@ -1,5 +1,6 @@
 ---
-title: Task Baseline Duration in PHP
+title: Editing Task Baseline Durations in PHP
+description: "Learn how to edit Microsoft Project (MPP/XML) task baseline durations using Aspose.Tasks Java for PHP."
 type: docs
 weight: 30
 url: /java/task-baseline-duration-in-php/

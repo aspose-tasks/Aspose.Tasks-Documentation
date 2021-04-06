@@ -29,28 +29,16 @@ Following steps are required to accomplish this task:
 
 
 {{< highlight csharp >}}
-
 // Create Application object
 Application projectApplication = new ApplicationClass();
 object missingValue = System.Reflection.Missing.Value;
-
-// Open an MPP file
 projectApplication.FileOpenEx(@"C:\Project1.mpp",
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue);
-
-// Create a Project object by assigning active project
 Project project = projectApplication.ActiveProject;
-
-// Enumerate the tasks
 foreach (Task task in project.Tasks)
 {
     // Get critical tasks
@@ -64,13 +52,9 @@ foreach (Task task in project.Tasks)
         }
     }
 }
-
 // Make sure to clean up and close the file
-
 projectApplication.FileCloseAll(PjSaveType.pjDoNotSave);
-
 {{< /highlight >}}
-
 
 ## **Read Critical Path Using Aspose.Tasks for .NET**
 The following steps are required to accomplish this task:

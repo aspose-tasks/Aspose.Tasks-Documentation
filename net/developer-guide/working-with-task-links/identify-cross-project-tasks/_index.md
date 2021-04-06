@@ -1,5 +1,6 @@
 ---
 title: Identify Cross Project Tasks
+description: "Learn how to identify cross project Microsoft Project (MPP/XML) tasks using Aspose.Tasks for .NET."
 type: docs
 weight: 50
 url: /net/identify-cross-project-tasks/

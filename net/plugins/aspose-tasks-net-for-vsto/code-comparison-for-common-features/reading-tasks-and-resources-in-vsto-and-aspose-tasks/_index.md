@@ -15,98 +15,53 @@ The following steps are required to accomplish this task:
 4. This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.Use the code from the following example to read tasks and resources.
 
 {{< highlight csharp >}}
-
- //Create Application object
-
+//Create Application object
 Application projectApplication = new MSProject.Application();
-
 object missingValue = System.Reflection.Missing.Value;
-
 //Open an MPP file
-
 projectApplication.FileOpenEx("Project1.mpp",
-
 	missingValue, missingValue, missingValue, missingValue,
-
 	missingValue, missingValue, missingValue, missingValue,
-
 	missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-
 	missingValue, missingValue, missingValue, missingValue,
-
 	missingValue);
-
 //Create a Project object by assigning active project
-
 Project project = projectApplication.ActiveProject;
-
 //Loop through each task and read information related to tasks
-
 foreach (Task task in project.Tasks)
-
 {
-
 	Console.WriteLine("Reading Task " + task.Name);
-
 	Console.WriteLine("\nID: " + task.ID);
-
 	Console.WriteLine("Start: " + task.Start);
-
 	Console.WriteLine("Finish: " + task.Finish);
-
 	Console.WriteLine("\n===========================\n");
-
 	//Read any other information you need
-
 }
-
 //Loop through each resource and read information related to resources
-
 foreach (Resource resource in project.Resources)
-
 {
-
 	string resourceType = null;
-
 	switch (resource.Type)
-
 	{
-
 		case PjResourceTypes.pjResourceTypeCost:
-
 			resourceType = "Cost";
-
 			break;
-
 		case PjResourceTypes.pjResourceTypeMaterial:
-
 			resourceType = "Material";
-
 			break;
-
 		case PjResourceTypes.pjResourceTypeWork:
-
 			resourceType = "Work";
-
 			break;
-
 	}
-
 	Console.WriteLine("Reading Resource " + resource.Name);
-
 	Console.WriteLine("\nID: " + resource.ID);
-
 	Console.WriteLine("Type: " + resourceType);
-
 	Console.WriteLine("\n===========================\n");
-
 	//Read any other information you need
-
 }
-
 Console.ReadLine();
-
 {{< /highlight >}}
+
 ### **Aspose.Tasks**
 The following steps are required to accomplish this task:
 

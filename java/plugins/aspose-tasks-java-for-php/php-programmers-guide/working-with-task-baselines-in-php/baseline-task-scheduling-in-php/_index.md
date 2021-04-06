@@ -1,5 +1,6 @@
 ---
 title: Baseline Task Scheduling in PHP
+description: "Learn how to edit Microsoft Project (MPP/XML) task baselines using Aspose.Tasks Java for PHP."
 type: docs
 weight: 10
 url: /java/baseline-task-scheduling-in-php/

@@ -5,8 +5,6 @@ weight: 20
 url: /net/reading-and-writing-general-resource-properties/
 ---
 
-{{% alert color="primary" %}} 
-
 The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) class has a number of properties for getting and setting resource attributes:
 
 - Name gets and sets a resource's name (string).
@@ -15,13 +13,13 @@ The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) 
 - Start gets and sets a resource's start date (DateTime).
 - Finish gets and sets a resource's end date (DateTime).
 
-{{% /alert %}} 
 ## **Working with General Resource Properties**
 To view a resource's general properties in Microsoft Project:
 
 1. From the **View** menu, select **More Views** and then **Resource Sheet**.
 2. From the **Insert** menu, select **Column**.
 3. Add the Start, Finish, ID and unique ID columns.
+
 ### **Setting General Resource Properties using Aspose.Tasks**
 The following example shows how to set general resource properties.
 

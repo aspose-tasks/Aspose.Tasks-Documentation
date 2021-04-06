@@ -40,34 +40,17 @@ After processing, the file is updated.
 
 ![show output resource sheet chart view](create-resources-and-link-with-tasks_4.png)
 
-
-
 {{< highlight csharp >}}
-
-
-
-// Create an Application object
-
 Microsoft.Office.Interop.MSProject.Application projectApplication = new Application();
-
 object missingValue = System.Reflection.Missing.Value;
-
-// Open an MPP file
-
 projectApplication.FileOpenEx(@"SampleProject.mpp",
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue);
 
 Microsoft.Office.Interop.MSProject.Project project = projectApplication.ActiveProject;
-
 int iResourceId = 1;
 foreach (Task tsk in project.Tasks)
 {
@@ -78,8 +61,8 @@ foreach (Task tsk in project.Tasks)
 }
 
 projectApplication.FileCloseAll(Microsoft.Office.Interop.MSProject.PjSaveType.pjSave);
-
 {{< /highlight >}}
+
 ## **Create Resources and Link to Tasks using Aspose.Tasks for .NET**
 The following steps are required to accomplish this task:
 
@@ -88,7 +71,7 @@ The following steps are required to accomplish this task:
 3. Select **Aspose.Tasks** and then click **OK**. 
    This imports the Aspose.Tasks namespace at the start of the code.
 4. Use the code from the following example to create resources and link them to tasks.
-### **Code Examples - Aspose.Tasks**
 
+### **Code Examples - Aspose.Tasks**
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-KnowledgeBase-CreateResourcesAndLinkToTasks-CreateResourcesAndLinkToTasks.cs" >}}

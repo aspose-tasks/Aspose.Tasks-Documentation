@@ -6,7 +6,7 @@ url: /net/timephased-data-generation-for-different-work-contours/
 ---
 
 ## **Timephased Data Generation for Different Work Contours**
-Aspose.Tasks provides the facility to generate timephased data for different work contours of an assigned resource.The generated data is obtained using TimeScaleData which takes the project start and finish dates as input parameters.
+Aspose.Tasks for .NET provides the facility to generate timephased data for different work contours of an assigned resource.The generated data is obtained using TimeScaleData which takes the project start and finish dates as input parameters.
 
 The following piece of code assigns different types of work contours to an assigned resource and displays its timephased data.
 

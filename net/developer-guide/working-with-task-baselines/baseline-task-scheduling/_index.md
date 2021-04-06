@@ -1,5 +1,6 @@
 ---
 title: Baseline Task Scheduling
+description: "Learn how to edit Microsoft Project (MPP/XML) task baselines using Aspose.Tasks for .NET."
 type: docs
 weight: 30
 url: /net/baseline-task-scheduling/
@@ -15,6 +16,7 @@ After saving a baseline, the task baseline schedule can be viewed in Microsoft P
 3. Add the desired columns.
 
 ![checking start/finish dates in Microsoft Project](baseline-task-scheduling_1.png)
+
 ### **Getting Task Baseline Schedule using Aspose.Tasks**
 The code below displays the task baseline schedule in a console window after traversing a task's baselines.
 

@@ -1,15 +1,12 @@
 ---
-title: Creating Task Link
+title: Creating Task Links
+description: "Learn how to edit Microsoft Project (MPP/XML) task links using Aspose.Tasks for .NET."
 type: docs
 weight: 10
 url: /net/creating-task-link/
 ---
 
-{{% alert color="primary" %}} 
-
 Microsoft Project allows to link tasks based on the relationship between these. A task link is defined by a predecessor and a successor task. Task links can be of different [types](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklinktype) including FinishToFinish, FinishToStart, StartToFinish, and StartToStart. Aspose.Tasks for .NET API provides users with the capability to define task links in their project using the [TaskLink](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink) class.
-
-{{% /alert %}} 
 
 A task link is created using the default constructor (TaskLink) which accepts three parameters:
 

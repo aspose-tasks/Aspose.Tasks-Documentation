@@ -1,5 +1,6 @@
 ---
 title: Rendering Resource Usage View
+description: "Learn how to render resource usage view of Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET."
 type: docs
 weight: 100
 url: /net/rendering-resource-usage-view/

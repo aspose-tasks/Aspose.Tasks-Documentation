@@ -68,7 +68,6 @@ SaveOptions.CustomPageSize property added so the user can specify custom page si
 
 {{< highlight csharp >}}
 Project project = new Project("test.mpp");
-
 ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
 {
     SaveToSeparateFiles = true,
@@ -90,7 +89,6 @@ SaveOptions.RenderToSinglePage flag is applicable when project is saved to PDF o
 
 {{< highlight csharp >}}
 Project project = new Project("test.mpp");
-
 PdfSaveOptions saveOptions = new PdfSaveOptions
 {
     Timescale = Timescale.DefinedInView,
@@ -99,13 +97,11 @@ PdfSaveOptions saveOptions = new PdfSaveOptions
     EndDate = new DateTime(2013, 05, 10),
     PresentationFormat = PresentationFormat.TaskUsage
 };
-
 project.Save("output.pdf", saveOptions);
 {{< /highlight >}}
 
 {{< highlight csharp >}}
 Project project = new Project("TestProject.mpp");
-
 ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
 {
     Timescale = Timescale.DefinedInView,
@@ -116,7 +112,6 @@ ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
     HorizontalResolution = 300,
     VerticalResolution = 300
 };
-
 project.Save("output.png", saveOptions);
 {{< /highlight >}}
 
@@ -127,11 +122,9 @@ These settings can be changed using "Page Setup" dialog of Microsoft Project.
 
 {{< highlight csharp >}}
 Project project = new Project("test.mpp");
-
 var view = project.Views.First(v => v.Screen == ViewScreen.Gantt);
 Console.WriteLine("Page size specified in view settings: " + view.PageInfo.PageSettings.PaperSize);
 Console.WriteLine("Page orientation: {0}", view.PageInfo.PageSettings.IsPortrait ? "Portrait" : "Landscape");
-
 ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
 {
     SaveToSeparateFiles = true,
@@ -141,6 +134,5 @@ ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
     EndDate = new DateTime(2013, 05, 10),
     PresentationFormat = PresentationFormat.GanttChart,
 };
-
 project.Save("output.png", saveOptions);
 {{< /highlight >}}

@@ -1,5 +1,6 @@
 ---
 title: Identify Cross Project Tasks
+description: "Learn how to identify cross project Microsoft Project (MPP/XML) tasks using Aspose.Tasks for Java."
 type: docs
 weight: 50
 url: /cpp/identify-cross-project-tasks/
@@ -7,7 +8,6 @@ url: /cpp/identify-cross-project-tasks/
 
 ## **How to Identify Cross Project Tasks**
 If you have linked a task from one project to a task from the other project, the IDs and UIDs of the task is different in the original and external projects as you can see in the following image.
-
 
 **Internal and external IDs in Microsoft Project** 
 

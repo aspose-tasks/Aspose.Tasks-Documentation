@@ -5,11 +5,8 @@ weight: 30
 url: /net/predecessor-and-successor-tasks/
 ---
 
-{{% alert color="primary" %}} 
-
 The [PredTask](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink/properties/predtask) and [SuccTask](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink/properties/succtask) properties exposed by the [TaskLink](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink) class are used to define the predecessor and successor tasks for a TaskLink. Both of these properties read and write a [Task](https://apireference.aspose.com/tasks/net/aspose.tasks/task) object.
 
-{{% /alert %}} 
 ## **Working with Predecessor and Successor Tasks**
 To manage predecessor tasks in Microsoft Project:
 

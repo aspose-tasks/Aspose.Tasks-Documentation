@@ -28,70 +28,34 @@ To link a task using VSTO:
 This imports the Microsoft.Office.Interop.MSProject namespace at the start of your code. Use the code from the following example to link tasks.
 ### **Programming Samples - VSTO**
 
-
 {{< highlight csharp >}}
-
-
-
-// Create an Application object
-
 Microsoft.Office.Interop.MSProject.Application projectApplication = new Application();
-
 object missingValue = System.Reflection.Missing.Value;
-
-// Open an MPP file
-
 projectApplication.FileOpenEx(@"D:\Aspose\Migration\SampleProject.mpp",
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue);
-
-// Create a Project object by assigning active project
-
 Microsoft.Office.Interop.MSProject.Project project = projectApplication.ActiveProject;
-
-// Add dependencies among the tasks
-
 project.Tasks.get_UniqueID(2).TaskDependencies.Add(project.Tasks.get_UniqueID(1), PjTaskLinkType.pjFinishToStart);
-
 project.Tasks.get_UniqueID(3).TaskDependencies.Add(project.Tasks.get_UniqueID(2), PjTaskLinkType.pjFinishToStart);
-
 project.Tasks.get_UniqueID(4).TaskDependencies.Add(project.Tasks.get_UniqueID(3), PjTaskLinkType.pjFinishToStart);
-
 project.Tasks.get_UniqueID(5).TaskDependencies.Add(project.Tasks.get_UniqueID(4), PjTaskLinkType.pjFinishToStart);
-
 project.Tasks.get_UniqueID(5).TaskDependencies.Add(project.Tasks.get_UniqueID(2), PjTaskLinkType.pjFinishToStart);
-
 // Display the dependencies
-
 foreach (Task tsk in project.Tasks)
-
 {
-
     foreach (TaskDependency dep in project.Tasks.get_UniqueID(tsk.ID).TaskDependencies)
-
     {
-
         Console.WriteLine("From ID = " + dep.From.ID  + "=>To ID = " + dep.To.ID);
-
     }
-
     Console.WriteLine("____________________________________________________________");
-
 }
-
 // Save the project
-
 projectApplication.FileCloseAll(Microsoft.Office.Interop.MSProject.PjSaveType.pjSave);
-
 {{< /highlight >}}
+
 ## **Link Tasks Using Aspose.Tasks for .NET**
 To link tasks in a project using Aspose.Tasks for .NET:
 
