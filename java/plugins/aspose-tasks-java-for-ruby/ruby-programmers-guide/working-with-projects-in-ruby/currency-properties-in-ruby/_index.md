@@ -18,7 +18,7 @@ To Read Currency Properties using **Aspose.Tasks Java for Ruby**, call **get_cur
 
 
 
-        # Instantiate project object
+       
 
         project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 
@@ -50,7 +50,7 @@ To Write Currency Properties using **Aspose.Tasks Java for Ruby**, call **set_cu
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new
 

@@ -18,7 +18,7 @@ To Get Currency Symbols using **Aspose.Tasks Java for Ruby**, call **get_currenc
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 
@@ -40,7 +40,7 @@ To Set Currency Symbols using **Aspose.Tasks Java for Ruby**, call **set_currenc
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 

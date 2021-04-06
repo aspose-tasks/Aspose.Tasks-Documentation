@@ -12,7 +12,7 @@ To Stop and Resume a Task using **Aspose.Tasks Java for PHP**, simply invoke **S
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project($dataDir . 'test_tasks.mpp');
 

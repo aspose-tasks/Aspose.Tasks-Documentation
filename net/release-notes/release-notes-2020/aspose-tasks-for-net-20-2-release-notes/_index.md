@@ -10,78 +10,47 @@ url: /net/aspose-tasks-for-net-20-2-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for .NET 20.2](https://downloads.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-20.2/).
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Major Features**
 In this release, we are presenting the new API to work with the built-in and custom properties of a project.
 
 Old meta properties API:
-
 {{< highlight csharp >}}
-
- // custom properties are available through the dictionary of untyped properties
-
+// custom properties are available through the dictionary of untyped properties
 foreach (KeyValuePair<string, object> documentCustomProperty in document.CustomProperties)
-
 {
-
   Console.WriteLine(documentCustomProperty.Key);
-
   Console.WriteLine(documentCustomProperty.Value);
-
 }
-
 // built-in properties are available through the Project class
-
 var project = new Project("Project.mpp");
-
 Console.WriteLine(project.Get(Prj.Title));
-
 Console.WriteLine(project.Get(Prj.Author));
-
 // ... etc.
-
 {{< /highlight >}}
 
 New meta properties API:
 
 {{< highlight csharp >}}
-
- // custom properties are available through the typed collection
-
+// custom properties are available through the typed collection
 foreach (var property in project.CustomProps)
-
 {
-
    Console.WriteLine(property.Type);
-
    Console.WriteLine(property.Name);
-
    Console.WriteLine(property.Value);
-
 }
-
 // built-in properties are available directly
-
 Console.WriteLine(project.BuiltInProps.Author);
-
 Console.WriteLine(project.BuiltInProps.Title);
-
 // ... etc.
-
 // or as an item of built-in property collection
-
 foreach (var property in project.BuiltInProps)
-
 {
-
    Console.WriteLine(property.Name);
-
    Console.WriteLine(property.Value);
-
    // ... etc.
-
 }
-
 {{< /highlight >}}
 
 

@@ -12,7 +12,7 @@ To Determine Project Version using **Aspose.Tasks Java for PHP**, simply invoke 
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project($dataDir . 'Sample.xml');
 

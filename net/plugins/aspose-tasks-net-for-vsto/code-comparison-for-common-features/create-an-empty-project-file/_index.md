@@ -10,7 +10,7 @@ url: /net/create-an-empty-project-file/
 Below is the code to add project file in Microsoft Project
 
 {{< highlight cs >}}
-   Project project = this.Application.Projects.Add();
+Project project = this.Application.Projects.Add();
 {{< /highlight >}}
 
 ### **Aspose.Tasks**

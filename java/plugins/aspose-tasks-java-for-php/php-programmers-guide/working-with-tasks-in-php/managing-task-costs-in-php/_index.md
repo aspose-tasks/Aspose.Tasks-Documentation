@@ -12,7 +12,7 @@ To Manage Task Costs using **Aspose.Tasks Java for PHP**, simply invoke **Managi
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project();
 

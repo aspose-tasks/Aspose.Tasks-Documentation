@@ -1,14 +1,16 @@
 ---
 title: System Requirements
+description: "Before you start working with Aspose.Tasks for .NET, ensure that your environment fits the operating system, platform, frameworks, and environment requirements."
 type: docs
 weight: 50
 url: /net/system-requirements/
 ---
 
-## **Overview**
 Aspose.Tasks for .NET can be used to build any type of 32-bit or 64-bit .NET application including ASP.NET, WCF, WinForms, WPF etc. It is possible to use Aspose.Tasks for .NET via COM Interop from ASP, Perl, PHP and Python. Aspose.Tasks for .NET can also be used to build applications with Mono.
+
 ## **Supported Operating Systems**
 Aspose.Tasks for .NET supports any 32-bit or 64-bit operating system where .NET or Mono framework is installed including, but not limited to:
+
 ### **Windows**
 - Microsoft Windows Server 2003 (x64, x86)
 - Microsoft Windows Server 2008 (x64, x86)
@@ -21,12 +23,16 @@ Aspose.Tasks for .NET supports any 32-bit or 64-bit operating system where .NET 
 - Microsoft Windows 7 (x64, x86)
 - Microsoft Windows 8, 8.1 (x64, x86)
 - Microsoft Windows 10 (x64, x86)
+
 ### **Linux**
 - Linux (Ubuntu, OpenSUSE, CentOS and others)
+
 ### **Mac**
 - Mac OS X
+
 ## **Supported Frameworks**
 Aspose.Tasks for .NET supports .NET and Mono frameworks as follows:
+
 ### **.NET Frameworks**
 - .NET Framework 2.0
 - .NET Framework 3.5
@@ -53,8 +59,10 @@ Aspose.Tasks for .NET supports .NET and Mono frameworks as follows:
 - .NET Core 2.2
 - .NET Core 3.1
 - .NET 5
+
 ### **Mono Framework**
 - Mono 2.6.7 or later
+
 ## **Development Environments**
 Aspose.Tasks for .NET can be used to develop applications in any development environment that targets the .NET platform, but the following environments are explicitly supported:
 

@@ -18,7 +18,7 @@ To Render Resource Usage using **Aspose.Tasks Java for Ruby**, call **render_res
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 
@@ -70,7 +70,7 @@ To Render Resource Sheet View using **Aspose.Tasks Java for Ruby**, call **rende
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 

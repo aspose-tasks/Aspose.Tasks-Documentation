@@ -74,39 +74,21 @@ ProjectOnlineReader reader = new ProjectOnlineReader(projectOnlineCredentials);
 Now a user has an option to specify SiteUrl, username, and password in order to create a connection to Project Online:
 
 {{< highlight csharp >}}
-
- string sharePointDomainAddress = "https://contoso.sharepoint.com";
-
+string sharePointDomainAddress = "https://contoso.sharepoint.com";
 string userName = "admin@contoso.onmicrosoft.com";
-
 string password = "MyPassword";
-
 var credentials = new ProjectServerCredentials(sharePointDomainAddress, userName, password);
-
 ProjectOnlineReader reader = new ProjectOnlineReader(credentials);
-
 var list = reader.GetProjectList();
-
 foreach (var p in list)
-
 {
-
     Console.WriteLine("{0} - {1} - {2}", p.Name, p.CreatedDate, p.LastSavedDate);
-
 }
-
 foreach (var p in list)
-
 {
-
     var project = reader.GetProject(p.Id);
-
     Console.WriteLine("Project '{0}' loaded. Resources count: {1}", 
-
         p.Name, 
-
         project.Resources.Count);
-
 }
-
 {{< /highlight >}}

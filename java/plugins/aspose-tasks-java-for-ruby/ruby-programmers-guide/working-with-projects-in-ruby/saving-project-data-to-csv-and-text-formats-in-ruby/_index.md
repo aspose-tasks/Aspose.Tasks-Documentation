@@ -18,7 +18,7 @@ To Save a Project as CSV using **Aspose.Tasks Java for Ruby**, call **save_to_cs
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 
@@ -44,7 +44,7 @@ To Save a Project as Text using **Aspose.Tasks Java for Ruby**, call **save_to_t
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 

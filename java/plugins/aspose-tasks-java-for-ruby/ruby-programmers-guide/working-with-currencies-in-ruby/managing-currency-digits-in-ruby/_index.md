@@ -16,7 +16,7 @@ To Get Currency Digits using **Aspose.Tasks Java for Ruby**, call **get_currency
 
     data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 
@@ -36,7 +36,7 @@ To Set Currency Digits using **Aspose.Tasks Java for Ruby**, call **set_currency
 
     data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 

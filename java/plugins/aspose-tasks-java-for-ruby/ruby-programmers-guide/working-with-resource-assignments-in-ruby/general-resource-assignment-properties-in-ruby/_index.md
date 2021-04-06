@@ -18,7 +18,7 @@ To Get General Resource Assignment Properties using **Aspose.Tasks Java for Ruby
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 
@@ -60,7 +60,7 @@ To Set General Resource Assignment Properties using **Aspose.Tasks Java for Ruby
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new
 

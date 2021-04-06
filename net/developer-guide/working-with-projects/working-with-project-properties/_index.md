@@ -1,5 +1,6 @@
 ---
 title: Working with Project Properties
+description: "Learn hot to use Aspose.Tasks for .NET to change Microsoft Project (MPP/XML) project files' calculation modes. Also the samples of reading or setting project properties are presented below."
 type: docs
 weight: 40
 url: /net/working-with-project-properties/
@@ -10,24 +11,25 @@ Aspose.Tasks for .NET API provides three project calculation modes where each mo
 
 - None - Sets only necessary properties and does not perform any calculations
 - Manual - Sets only dependent object properties without recalculation of any other data
-- Automatic-Recalculates dates, work and cost properties automatically
+- Automatic - Recalculates dates, work and cost properties automatically
 
 This examples below shows the usage of each of these with the help of code samples.
+
 ### **Project Calculation Mode - None**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-ApplyCalculationModeNone-ApplyCalculationModeNone.cs" >}}
+
 ### **Project Calculation Mode - Manual**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-ApplyCalculationModeManual-ApplyCalculationModeManual.cs" >}}
+
 ### **Project Calculation Mode - Automatic**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-ApplyCalculationModeAuto-ApplyCalculationModeAuto.cs" >}}
+
 ## **Working with General Project Properties**
 Microsoft Project saves project properties, metadata, for every project. The properties include the project's start and end dates, the current date and the status date, the type of calendar used and when a project is scheduled from. Aspose.Tasks lets you [read](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/get/_1) and [set project properties](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/set/_1), which is shown below.
 
-{{% alert color="primary" %}} 
-
-Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for .NET x.x.x will be displayed against these fields
-
-{{% /alert %}} 
-
+{{% alert color="primary" %}}
+Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for .NET x.x.x will be displayed against these fields.
+{{% /alert %}}
 
 ### **Reading Project Information**
 The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class has a number of properties that deal with project properties:
@@ -46,6 +48,7 @@ To read project properties in Microsoft Project, click **Project Information** o
 The programming samples below show how to read and output the project start and end date, whether the project is scheduled from the start or end, author, last author, revision, keywords and comments.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-ReadProjectInfo-ReadProjectInfo.cs" >}}
+
 ### **Writing Project Information**
 Aspose.Tasks for .NET can write as well as [read project information](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/get/_1). The code samples below show how to set author, last author, revision, keywords and comments..
 
@@ -57,6 +60,7 @@ Aspose.Tasks for .NET API provides the capability to retrieve project file infor
 The SaveVersion and LastSaved properties exposed by the Prj class are used to determine the project version and the date when the project was last saved. SaveVersion supports the Integer data type, whereas LastSaved supports the DateTime data type.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-DetermineProjectVersion-DetermineProjectVersion.cs" >}}
+
 ## **Default Project Properties**
 Microsoft Project lets users set default project properties that speed up the process of setting up a project. The default properties define when a new task starts and finishes, sets the default overtime and standard pay rates and more. Aspose.Tasks supports these features.
 
@@ -82,14 +86,17 @@ To see the default project information in Microsoft Project:
 ## **Default project information in Microsoft Project, as written by Aspose.Tasks** 
 
 ![showing up default information in Microsoft Project](working-with-project-properties_2.png)
+
 ### **Reading Default Properties**
 The following example reads a project's default properties and writes them to a console window.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-ReadDefaultProperties-DefaultProperties.cs" >}}
+
 ### **Writing Default Properties**
 The following lines of code set a project's default properties.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-WriteDefaultProperties-WriteDefaultProperties.cs" >}}
+
 ## **Writing Project Summary Information**
 Most programs save summary information with the files they save. Microsoft Project is no different. As well as the name of the author, the date the project was created and the last time it was edited and saved, it saves keywords, subject, comments and more. Aspose.Tasks lets you both read and write this type of information.
 
@@ -108,6 +115,7 @@ To see the file's summary information:
 The code sample below writes project summary information to MPP file.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-WriteMPPProjectSummary-WriteMPPProjectSummary.cs" >}}
+
 ## **Fiscal Year Properties**
 The fiscal year is the same as a financial year or budget year. It is the dates between which a country, an organization or an individual calculate budgets and taxes. Microsoft Project lets users define a fiscal year for projects. Aspose.Tasks supports this functionality with properties that allow developers to both **read fiscal year properties** from existing projects, and **set fiscal year properties** when creating or working with projects.
 
@@ -121,6 +129,7 @@ The FyStartDate and FiscalYearStart properties make it easy to find out what the
 The following code reads a project's fiscal year properties and displays them in a console window.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-ReadFiscalYearProperties-ReadFiscalYearProperties.cs" >}}
+
 ### **Writing Fiscal Year Properties**
 To see fiscal year properties in Microsoft Project:
 
@@ -135,6 +144,7 @@ To see fiscal year properties in Microsoft Project:
 The following example writes the fiscal year properties of the project.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-WriteFiscalYearProperties-WriteFiscalYearProperties.cs" >}}
+
 ## **Weekday Properties**
 Microsoft Project lets users set a number of different weekday properties. For example, what day a week starts on and how many working days are in a month. Aspose.Tasks support these features through a number of properties that can be used both to **read weekday properties** and to **write them to a project**.
 
@@ -148,6 +158,7 @@ Aspose.Tasks has a series of properties, exposed by the [Project](https://apiref
 The following code reads a project's weekday properties and writes them to a console window.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-ReadWeekdayProperties-ReadWeekdayProperties.cs" >}}
+
 ### **Writing Weekday Properties**
 To see weekday properties in Microsoft Project:
 
@@ -172,10 +183,12 @@ Aspose.Tasks provides properties exposed by the [Prj](https://apireference.aspos
 - [CurrencyDigits](https://apireference.aspose.com/tasks/net/aspose.tasks/prj/fields/currencydigits): the number of numbers after the decimal point, for example, 2 (100.00) or 3 (100.000), passed as an integer.
 - [CurrencySymbol](https://apireference.aspose.com/tasks/net/aspose.tasks/prj/fields/currencysymbol): the currency symbol, for example, $ or £, passed as a string.
 - [CurrencySymbolPosition](https://apireference.aspose.com/tasks/net/aspose.tasks/currencysymbolpositiontype): the position of the currency symbol, for example before ($100) or after (100$). CurrencySymbolPosition takes a value from the [CurrencySymbolPositionType](https://apireference.aspose.com/tasks/net/aspose.tasks/currencysymbolpositiontype) enumeration.
+
 ### **Reading Currency Properties**
 The following piece of code reads a project's currency properties.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-ReadCurrencyProperties-ReadCurrencyProperties.cs" >}}
+
 ### **Writing Currency Properties**
 To see the currency properties in Microsoft Project:
 
@@ -190,6 +203,7 @@ To see the currency properties in Microsoft Project:
 The following example writes currency properties to the project.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-WriteCurrencyProperties-WriteCurrencyProperties.cs" >}}
+
 ## **Setting Attributes for New Tasks**
 Microsoft Project allows to set default properties for new tasks added. This topic explains how to set the default start date for new tasks using Aspose.Tasks for .NET API.
 
@@ -209,6 +223,7 @@ To see the task attributes:
 The following lines of code set the new task start date.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-SetAttributesForNewTasks-SetAttributesForNewTasks.cs" >}}
+
 ## **Reading Custom and Built-in Properties**
 In Aspose.Tasks, the custom properties are available through the typed collection whereas the built-in properties are available directly.
 

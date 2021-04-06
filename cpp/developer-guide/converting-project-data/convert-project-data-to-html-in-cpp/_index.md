@@ -1,5 +1,5 @@
 ---
-title: Convert Project Data to HTML in CPP
+title: Convert Project Data to HTML in C++
 type: docs
 weight: 20
 url: /cpp/convert-project-data-to-html-in-cpp/

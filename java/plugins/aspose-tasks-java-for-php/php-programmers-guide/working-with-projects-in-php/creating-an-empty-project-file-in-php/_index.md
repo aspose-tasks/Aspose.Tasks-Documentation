@@ -12,7 +12,7 @@ To Create an Empty Project File using **Aspose.Tasks Java for PHP**, simply invo
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project();
 

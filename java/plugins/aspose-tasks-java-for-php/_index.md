@@ -51,7 +51,7 @@ Please follow these simple steps in order to open and extend the source code wh
 To install tomcat server, issue following command on the linux console. This will successfully install tomcat server. 
 
 {{< highlight actionscript3 >}}
- sudo apt-get install tomcat8
+sudo apt-get install tomcat8
 {{< /highlight >}}
 
 ## **2. Download and Configure PHP/JavaBridge**

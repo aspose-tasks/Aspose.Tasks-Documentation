@@ -54,9 +54,6 @@ Since Aspose.Tasks for .NET 20.7:
 **.NET**
 
 {{< highlight csharp >}}
-
 var windowsCredentials = ...
-
 var projectServerCredentials = new ProjectServerCredentials("https://project_server_instance.local/sites/pwa", windowsCredentials);
-
 {{< /highlight >}}

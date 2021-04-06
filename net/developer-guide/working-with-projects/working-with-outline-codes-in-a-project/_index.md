@@ -1,5 +1,6 @@
 ---
 title: Working with Outline Codes in a Project
+description: "Learn how to work with Microsoft Project outline codes using Aspose.Tasks for .NET."
 type: docs
 weight: 120
 url: /net/working-with-outline-codes-in-a-project/

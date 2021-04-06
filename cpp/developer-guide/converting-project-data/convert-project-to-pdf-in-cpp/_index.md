@@ -1,5 +1,5 @@
 ---
-title: Convert Project to PDF in CPP
+title: Convert Project to PDF in C++
 type: docs
 weight: 70
 url: /cpp/convert-project-to-pdf-in-cpp/

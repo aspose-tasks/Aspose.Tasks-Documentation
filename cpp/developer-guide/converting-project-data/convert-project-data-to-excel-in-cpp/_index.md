@@ -1,5 +1,5 @@
 ---
-title: Convert Project Data to Excel in CPP
+title: Convert Project Data to Excel in C++
 type: docs
 weight: 10
 url: /cpp/convert-project-data-to-excel-in-cpp/

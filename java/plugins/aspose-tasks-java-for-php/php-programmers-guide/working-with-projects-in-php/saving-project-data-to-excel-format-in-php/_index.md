@@ -12,7 +12,7 @@ To Save Project Data to Excel Format using **Aspose.Tasks Java for PHP**, simply
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project($dataDir . 'test_tasks.mpp');
 

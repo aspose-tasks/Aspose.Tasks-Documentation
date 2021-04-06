@@ -20,7 +20,7 @@ def get_default_project_properties()
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'Sample.xml')
 

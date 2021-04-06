@@ -12,7 +12,7 @@ To Create Resource Assignments using **Aspose.Tasks Java for PHP**, simply invok
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project($dataDir . 'test_tasks.mpp');
 

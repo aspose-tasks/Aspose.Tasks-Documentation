@@ -18,7 +18,7 @@ To Get Parent and Child Tasks using **Aspose.Tasks Java for Ruby**, call **get_p
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 

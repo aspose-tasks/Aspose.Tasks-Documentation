@@ -1,5 +1,6 @@
 ---
 title: Why Not Automation
+description: "Learn what reasons make Aspose.Tasks for Java component is a better alternative to automation."
 type: docs
 weight: 30
 url: /java/why-not-automation/
@@ -7,6 +8,7 @@ url: /java/why-not-automation/
 
 ## **Why Not Automation**
 There are two questions that our customers ask us.
+
 The first one is **Do your products require that Microsoft Office be installed in order for them to run?** 
 The short simple answer is no. Aspose and Aspose components are totally independent and are not affiliated with, nor authorized, sponsored or otherwise approved by Microsoft Corporation.
 

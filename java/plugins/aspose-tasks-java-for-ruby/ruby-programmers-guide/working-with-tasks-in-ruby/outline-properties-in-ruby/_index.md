@@ -18,7 +18,7 @@ To Get Outline Properties using **Aspose.Tasks Java for Ruby**, call **get_outli
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 

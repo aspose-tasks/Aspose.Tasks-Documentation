@@ -11,25 +11,17 @@ url: /net/aspose-tasks-for-net-20-1-release-notes/
 This page contains release notes information for [Aspose.Tasks for .NET 20.1](https://downloads.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-20.1/).
 
 {{% /alert %}} 
+
 ## **Major Features**
+
 The release Aspose.Tasks for .NET 20.1 supports the long-awaited feature of saving into MPP format without preloading of MPP template file.
 
-**Use Case**
-
-The next scenario is valid now:
-
 {{< highlight csharp >}}
-
- Project p = new Project(); // there is no more need to load MPP template to save it into MPP
-
+Project p = new Project(); // there is no more need to load MPP template to save it into MPP
 // add tasks, resources, etc.
-
-...
-
+// ...
 p.Save("project.mpp", SaveFileFormat.MPP); // !The project will be saved into MPP by using internal MPP template.
-
 {{< /highlight >}}
-
 
 ## **All Changes**
 

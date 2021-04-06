@@ -1,5 +1,6 @@
 ---
 title: Working with Project Properties
+description: "Learn hot to use Aspose.Tasks for Java to change Microsoft Project (MPP/XML) project files' calculation modes. Also the samples of reading or setting project properties are presented below."
 type: docs
 weight: 20
 url: /java/working-with-project-properties/
@@ -13,7 +14,6 @@ Microsoft Project saves project properties, metadata, for every project. The pro
 Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for Java x.x.x will be displayed against these fields
 
 {{% /alert %}} 
-
 
 ### **Reading Project Information**
 The Prj class has a number of properties that deal with project properties:

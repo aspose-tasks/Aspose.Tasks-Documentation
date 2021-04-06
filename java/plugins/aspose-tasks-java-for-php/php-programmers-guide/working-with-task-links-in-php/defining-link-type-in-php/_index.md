@@ -12,7 +12,7 @@ To Define Link Type using **Aspose.Tasks Java for PHP**, simply invoke **DefineL
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project();
 

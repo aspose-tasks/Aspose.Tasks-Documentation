@@ -8,47 +8,24 @@ url: /java/defining-weekdays-for-exceptions-in-php/
 ## **Aspose.Tasks - Defining Weekdays for Exceptions**
 To Define Weekdays for Exceptions using **Aspose.Tasks Java for PHP**, simply invoke **DefineWeekdaysForExceptions** module. Here you can see example code.
 
-**PHP Code**
-
 {{< highlight php >}}
-
- # Instantiate project object
-
 $project = new Project($dataDir . 'test_tasks.mpp');
-
-#Define Calendar
-
 $cal = $project->getCalendars()->add("Calendar1");
-
-\# Define week days exception for Christmas
-
 $except = new CalendarException();
-
 $except->setEnteredByOccurrences(false);
-
 $calendar=new Calendar();
-
 $calendarExceptionType=new CalendarExceptionType();
-
 $cal_object = $calendar->getInstance();
-
 $cal_object->set(2009, 12, 24, 0, 0, 0);
-
 $except->setFromDate($cal_object->getTime());
-
 $cal_object->set(2009, 12, 31, 23, 59, 0);
-
 $except->setToDate($cal_object->getTime());
-
 $except->setType($calendarExceptionType->Daily);
-
 $except->setDayWorking(false);
-
 $cal->getExceptions()->add($except);
-
 print "Defined weekdays for exceptions.".PHP_EOL;
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Defining Weekdays for Exceptions (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

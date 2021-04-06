@@ -12,7 +12,7 @@ To Change Progress of a Task presentation using **Aspose.Tasks Java for PHP**, s
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project();
 

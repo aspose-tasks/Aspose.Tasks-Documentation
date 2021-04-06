@@ -16,17 +16,10 @@ Aspose.Tasks for C++ is based on the .NET version of the API and provides strict
 Aspose.Tasks for С++ 20.1 release now supports the long-awaited feature of saving into the MPP format without preloading of MPP template. So, the next scenario is valid now:
 
 {{< highlight cpp >}}
-
- // It is no longer required to load MPP template to save into MPP format later
-
+// It is no longer required to load MPP template to save into MPP format later
 System::SharedPtr<Project> project = System::MakeObject<Project>();
-
 // add tasks, resources, etc.
-
 ...
-
 // It is safe to save into MPP, the MPP template will be used internally
-
 p->Save("project.mpp", SaveFileFormat.MPP);
-
 {{< /highlight >}}

@@ -1,5 +1,6 @@
 ---
 title: Why Not Automation
+description: "Learn what reasons make Aspose.Tasks for .NET component is a better alternative to automation."
 type: docs
 weight: 30
 url: /net/why-not-automation/

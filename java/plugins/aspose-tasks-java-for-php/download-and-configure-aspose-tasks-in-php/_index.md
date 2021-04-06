@@ -25,14 +25,14 @@ Please follow these simple steps in order to open and extend the source code wh
 To install tomcat server, issue following command on the linux console. This will successfully install tomcat server.
 
 {{< highlight actionscript3 >}}
- sudo apt-get install tomcat8
+sudo apt-get install tomcat8
 {{< /highlight >}}
 
 ### **2. Download and Configure PHP/JavaBridge**
 In order to download the PHP/JavaBridge binaries, issue following command on the linux console.
 
 {{< highlight actionscript3 >}}
-  wget https://citylan.dl.sourceforge.net/project/php-java-bridge/Binary%20package/php-java-bridge_6.2.1/php-java-bridge_6.2.1_documentation.zip 
+wget https://citylan.dl.sourceforge.net/project/php-java-bridge/Binary%20package/php-java-bridge_6.2.1/php-java-bridge_6.2.1_documentation.zip 
 {{< /highlight >}}
 
 Unzip the PHP/JavaBridge binaries by issuing the following command on linux console.

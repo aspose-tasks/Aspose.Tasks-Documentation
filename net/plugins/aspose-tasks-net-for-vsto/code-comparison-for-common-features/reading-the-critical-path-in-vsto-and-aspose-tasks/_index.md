@@ -79,36 +79,20 @@ The following steps are required to accomplish this task:
 5. Use the code from the following example to read tasks and resources. 
 
 {{< highlight csharp >}}
-
- using Aspose.tasks
-
-//Open project file
-
 string fileName = "Project.mpp";
-
 ProjectReader reader = new ProjectReader();
-
 Project project = reader.Read(fileName);
-
 // Get the critical path
-
 ArrayList criticalPath = new ArrayList(project.GetCriticalPath());
-
 // Enumerate the tasks in the critical path
-
 foreach (Aspose.Tasks.Task task in criticalPath)
-
 {
-
-	Console.WriteLine(task.Id + "  " + task.Name);
-
-	Console.WriteLine(task.Start);
-
-	Console.WriteLine(task.Finish + "\n");
-
+  Console.WriteLine(task.Id + "  " + task.Name);
+  Console.WriteLine(task.Start);
+  Console.WriteLine(task.Finish + "\n");
 }
-
 {{< /highlight >}}
+
 ## **Download Sample Code**
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/download/AsposeTaskNETVsVSTOProjectv1.1/Reading.the.Critical.Path.Aspose.Tasks.zip)
 - [Bitbucket](https://bitbucket.org/asposemarketplace/aspose-for-vsto/downloads/Reading%20the%20Critical%20Path%20(Aspose.Tasks).zip)

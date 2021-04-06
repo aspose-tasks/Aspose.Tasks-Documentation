@@ -12,7 +12,6 @@ To Read Timephased Data of a Resource using **Aspose.Tasks Java for PHP**, simpl
 
 {{< highlight php >}}
 
- # Instantiate project object
 
 $project = new Project($dataDir . 'test_tasks.mpp');
 

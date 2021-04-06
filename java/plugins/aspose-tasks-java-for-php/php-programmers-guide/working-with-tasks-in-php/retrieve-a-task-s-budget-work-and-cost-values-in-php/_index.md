@@ -12,7 +12,7 @@ To Retrieve a Task's Budget Work and Cost Values using **Aspose.Tasks Java for P
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project($dataDir . 'test_tasks.mpp');
 

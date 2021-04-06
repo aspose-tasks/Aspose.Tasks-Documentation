@@ -12,7 +12,7 @@ To get Predecessor and Successor Tasks using **Aspose.Tasks Java for PHP**, simp
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project($dataDir . 'test_tasks.mpp');
 

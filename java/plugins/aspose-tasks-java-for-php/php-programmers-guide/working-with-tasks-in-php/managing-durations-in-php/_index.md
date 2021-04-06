@@ -12,7 +12,7 @@ To Manage Durations using **Aspose.Tasks Java for PHP**, simply invoke **Managin
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project();
 

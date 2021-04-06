@@ -16,7 +16,7 @@ To Get Actual Properties using **Aspose.Tasks Java for Ruby**, call **get_actual
 
     data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 

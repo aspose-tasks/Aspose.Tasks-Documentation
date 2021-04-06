@@ -16,47 +16,31 @@ In this release, we are presenting improvements related to interaction with Proj
 
 You can now create or update an existing project in your Project Online account using ProjectServerManager class:
 
-**.NET**
-
 {{< highlight csharp >}}
-
- var credentials = new ProjectServerCredentials("https://xxxxxx.sharepoint.com", "yyyyy@xxxxxxx.onmicrosoft.com", "password");
-
- var project = new Project(@"sample.mpp");
-
- ProjectServerManager manager = new ProjectServerManager(credentials);
-
- manager.CreateNewProject(project);
-
+var credentials = new ProjectServerCredentials("https://xxxxxx.sharepoint.com", "yyyyy@xxxxxxx.onmicrosoft.com", "password");
+var project = new Project(@"sample.mpp");
+ProjectServerManager manager = new ProjectServerManager(credentials);
+manager.CreateNewProject(project);
 {{< /highlight >}}
 
 You can now create, read and update projects in on-premise Project Server (2016 or 2019) using ProjectServerManager class:
 
-**.NET**
-
 {{< highlight csharp >}}
-
  var windowsCredentials = new NetworkCredential("Administrator", "my_password", "DOMAIN");
-
  var projectServerCredentials = new ProjectServerCredentials(site, windowsCredentials);
-
  ProjectServerManager manager = new ProjectServerManager(projectServerCredentials);
-
  var list = manager.GetProjectList();
-
  foreach (var projectInfo in list)
-
  {
-
- Console.WriteLine("{0} - {1} - {2}", projectInfo.Id, projectInfo.CreatedDate, projectInfo.Name);
-
+   Console.WriteLine("{0} - {1} - {2}", projectInfo.Id, projectInfo.CreatedDate, projectInfo.Name);
  }
-
 {{< /highlight >}}
+
 ## **Deprecated Members:**
 ProjectOnlineReader class is deprecated and will be removed in v.20.8. Use ProjectServerManager class instead.
 
 Value.NumberValue (int) property is deprecated and will be removed in v.20.8. Use Value.NumericValue (decimal) property instead.
+
 ## **All Changes**
 
 | **Key** | **Summary** |**Issue Type**|

@@ -18,7 +18,7 @@ To Read Fiscal Year Properties using **Aspose.Tasks Java for Ruby**, call **get_
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 
@@ -46,7 +46,7 @@ To Write Fiscal Year Properties using **Aspose.Tasks Java for Ruby**, call **set
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new
 

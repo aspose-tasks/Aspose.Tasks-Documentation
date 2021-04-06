@@ -12,7 +12,7 @@ To Calculate Percentage of the completed work using **Aspose.Tasks Java for PHP*
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project($dataDir . 'test_tasks.mpp');
 

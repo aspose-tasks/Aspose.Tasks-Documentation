@@ -18,7 +18,7 @@ To Read Filter Definition Data using **Aspose.Tasks Java for Ruby**, call **get_
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 

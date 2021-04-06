@@ -12,7 +12,7 @@ To Create a Task Link using **Aspose.Tasks Java for PHP**, simply invoke **Creat
 
 {{< highlight php >}}
 
- # Instantiate project object
+
 
 $project = new Project();
 

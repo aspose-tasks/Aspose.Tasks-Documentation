@@ -18,7 +18,7 @@ To Read Weekday Properties using **Aspose.Tasks Java for Ruby**, call **get_week
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
 
@@ -50,7 +50,7 @@ To Write Weekday Properties using **Aspose.Tasks Java for Ruby**, call **set_wee
 
 
 
-    # Instantiate project object
+   
 
     project = Rjb::import('com.aspose.tasks.Project').new
 
