@@ -13,7 +13,8 @@ This page contains release notes information for Aspose.Tasks for .NET 18.5.
 {{% /alert %}} 
 
 In this release, we have implemented support for Metered license.
-### ` `**All Changes**
+
+## **All Changes**
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
@@ -24,6 +25,7 @@ In this release, we have implemented support for Metered license.
 |TASKSNET-2344|Fix unnecessary thrown and caught exceptions on .mpp file opening|Bug|
 |TASKSNET-2343|Fix CalendarException check order|Bug|
 |TASKSNET-2269|Non-informative exception when saving calendar with no working times defined|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**Public types added**|**Description**|

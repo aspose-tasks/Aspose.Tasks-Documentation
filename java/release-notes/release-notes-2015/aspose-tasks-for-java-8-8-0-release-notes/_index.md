@@ -59,6 +59,7 @@ bugs have been fixed. Please see the list of changes below.
 | :- | :- |
 |com.aspose.tasks.DateFormat.Default |Default date format. |
 |com.aspose.tasks.Tsk.DISPLAY_ON_TIMELINE |Specifies whether a task should be displayed on a timeline view. |
+
 **The following public methods were added to existing classes:**
 
 |com.aspose.tasks.HeaderFooterInfo.setCenteredText(java.lang.String) |Sets the center aligned text to display in the header or footer. |

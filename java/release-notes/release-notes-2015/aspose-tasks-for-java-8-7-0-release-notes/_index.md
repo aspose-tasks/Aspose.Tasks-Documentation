@@ -47,6 +47,7 @@ been fixed. Please see the list of changes below.
 |**Field Name**|**Description**|
 | :- | :- |
 |com.aspose.tasks.ApplicationInfo.MSP2016 |File was created in Microsoft Project 2016. |
+
 **The following public methods were added to existing classes:**
 
 |Project(MspDbSettings) |Initializes a new instance of the Project to read data from MS Project Server DB |

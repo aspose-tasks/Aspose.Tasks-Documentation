@@ -48,6 +48,7 @@ been supported. Please see list of all changes below.
 |MPPSaveOptions |Allows to specify additional options when saving project data to MPP. |
 |InvalidTaskException |Represents exception which occurs when an operation is invoked with invalid task. |
 |InvalidAssignmentException |Represents exception which occurs when an operation is invoked with invalid assignment. |
+
 **The following public methods were added to existing classes:**
 
 |Method name |Description |

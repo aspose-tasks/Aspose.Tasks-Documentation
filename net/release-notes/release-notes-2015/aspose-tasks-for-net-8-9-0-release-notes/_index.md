@@ -44,6 +44,7 @@ bugs have been fixed. Please see the list of changes below.
 | :- | :- |
 |Aspose.Tasks.Saving.SaveFileFormat.GdHtml |Html format for saving project data in a set of html tables. |
 |Aspose.Tasks.FileFormat.HTML |Represents Html format |
+
 **The following public methods were added to existing classes:**
 
 |**Method Name**|**Description**|

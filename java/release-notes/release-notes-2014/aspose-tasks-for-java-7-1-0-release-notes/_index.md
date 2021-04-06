@@ -48,6 +48,7 @@ bugs were fixed. Please see list of all changes below.
 |Class Name |Description |
 | :- | :- |
 |DateFormat |Specifies the date format for date fields of a project view. |
+
 **The following public methods were added to existing classes:**
 
 |Method Name |Description |

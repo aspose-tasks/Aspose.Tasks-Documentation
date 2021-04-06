@@ -46,6 +46,7 @@ all changes below.
 |WBSCodeMask |Represents WBS Code mask |
 |WBSCodeMaskCollection |Represents a collection of WBSCodeMask objects |
 |WBSSequence |Specifies sequence for WBSCodeMask |
+
 **The following public methods were added to existing classes:**
 
 |Method Name |Description |

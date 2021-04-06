@@ -25,6 +25,7 @@ We have supported MPD format for reading. Timescale tier labels has been customi
 | :- | :- |
 |com.aspose.tasks.DateTimeConverter|Represents a converter for converting date to string in view timescale tiers.|
 |com.aspose.tasks.MpdSettings|Allows to set necessary values to read project data from MPD format (MS Access database file format).|
+
 **The following public methods were added to existing classes:**
 
 |com.aspose.tasks.TimescaleTier.getDateTimeConverter|Gets a callback function for handling rendering date tick in this tier.|

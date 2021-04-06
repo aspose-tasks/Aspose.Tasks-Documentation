@@ -8,7 +8,8 @@ url: /java/aspose-tasks-for-java-9-3-0-release-notes/
 
 ## **Major Features**
 Improved security and implemented a lot of optimization. We have supported Primavera SQLite database for reading. Recalculation option for ActualWork and RemainingWork task fields was supported. Some bugs have been fixed. Please see the list of changes below.
-### **All Changes**
+
+## **All Changes**
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
@@ -39,6 +40,7 @@ com.aspose.tasks.WorkWeekCollection Represents a collection of WorkWeek objects.
 com.aspose.tasks.Project(InputStream, LoadOptions) Initializes a new instance of the Project class from the Stream with the specified instance of the LoadOptions class.
 com.aspose.tasks.Project(String, LoadOptions) Initializes a new instance of the Project class from a template (existent mpp or mpt file)
 with the specified instance of the LoadOptions class.
+
 The following public methods were added to existing classes:
 
 com.aspose.tasks.Calendar.getWorkWeeks Returns the collection of work weeks that is associated with the calendar.
@@ -48,6 +50,7 @@ com.aspose.tasks.getShowInMenu Returns a flag which determines whether to show t
 com.aspose.tasks.setShowInMenu(boolean) Sets a flag which determines whether to show the group name in the Group drop-down list in the Ribbon.
 com.aspose.tasks.Project.save(OutputStream, /* SaveFileFormat */ int) Saves the project data to the output stream.
 com.aspose.tasks.Project.save(OutputStream, SaveOptions) Saves the project to the output stream using the specified save options.
+
 The following fields were added to public enumerations:
 
 com.aspose.tasks.DateFormat.DateDdMmYyyy Date format like 17/03/2016

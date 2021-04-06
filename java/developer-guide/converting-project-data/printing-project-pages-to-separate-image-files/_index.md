@@ -1,8 +1,8 @@
 ---
 title: Printing Project Pages to Separate Image Files
-type: docs
 description: "This article explains how to print Project Pages to Separate Image Files using Aspose.Tasks for Java."
 keywords: "Print project, save Project to image files, Saving Project Pages to Separate Files, Aspose.Tasks for Java"
+type: docs
 weight: 50
 url: /java/printing-project-pages-to-separate-image-files/
 ---

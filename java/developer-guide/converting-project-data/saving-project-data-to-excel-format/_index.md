@@ -1,8 +1,8 @@
 ---
 title: Saving Project Data to Excel Format
-type: docs
 description: "This article explains how to export Project data to Excel using Aspose.Tasks for Java."
 keywords: "Convert Project Data to XLSX, Convert MPP to XLSX, Export MPP Project to XLSX, MPP to Excel, save project data to Excel, Aspose.Tasks for Java"
+type: docs
 weight: 10
 url: /java/saving-project-data-to-excel-format/
 ---

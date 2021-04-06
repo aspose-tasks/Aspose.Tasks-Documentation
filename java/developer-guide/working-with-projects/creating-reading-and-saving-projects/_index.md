@@ -61,8 +61,9 @@ Some files may have invalid characters in the custom fields. Microsoft Project d
 If these be loaded using the API, they may lead to an exception. In order to ignore such invalid characters, the overloaded constructor of the Project class can be used with the delegate method ParseErrorCallBack.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-IgnoringInvalidCharactersDuringLoadingProject-IgnoringInvalidCharactersDuringLoadingProject.java" >}}
+
 ## **Read Password Protected Projects (2003 Format)**
-` `This topic shows how to read password protected projects in 2003 format using Aspose.Tasks for Java.
+This topic shows how to read password protected projects in 2003 format using Aspose.Tasks for Java.
 
 The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes the Project() constructor which is capable of reading password protected files in 2003 format. Saving a password-protected file is not supported yet.
 

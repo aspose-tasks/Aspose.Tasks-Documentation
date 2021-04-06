@@ -50,6 +50,7 @@ Following changes have been made to the public API in Aspose.Tasks for Java 6.5.
 |RecurringInterval.DayType|Specifies a day type used in progress lines.|
 |TimescaleUnit|Specifies the unit of time for any tier of a timescale in a Gantt chart or other timephased view.|
 |ViewScreen|Specifies the screen type for a view.|
+
 |**The following public methods were added to existing classes:**||
 |Name|Description|
 |Filters Project.getTaskFilters()|Gets all the task-based filter definitions of a project.|
@@ -58,4 +59,3 @@ Following changes have been made to the public API in Aspose.Tasks for Java 6.5.
 |Tables Project.getTables()|Gets all the tables of a project.|
 |Groups Project.getTaskGroups()|Gets all the task-based group definitions of a project.|
 |Groups Project.getResourceGroups()|Gets all the resource-based group definitions of a project.|
-

@@ -1,8 +1,8 @@
 ---
 title: Convert Project Data to PDF
-type: docs
 description: "This article explains how to convert Project data to PDF using Aspose.Tasks for Java."
 keywords: "Convert Project Data to PDF, Convert MPP to PDF, Export MPP Project to PDF, MPP to multiple PDF files, save project data to PDF, Save MPP as PDF, Aspose.Tasks for Java"
+type: docs
 weight: 60
 url: /java/convert-project-data-to-pdf/
 ---

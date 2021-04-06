@@ -48,6 +48,7 @@ below.
 |Field Name |Description |
 | :- | :- |
 |com.aspose.tasks.FileFormat.MPX |MPX file format |
+
 **The following public methods were added to existing classes:**
 
 |Method Name |Description |

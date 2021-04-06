@@ -37,6 +37,7 @@ see the list of changes below.
 |Field Name |Description |
 | :- | :- |
 |FileFormat.XER |Represents Primavera Xer format |
+
 **The following public methods were added to existing classes:**
 
 |Project(PrimaveraDbSettings) |Initializes a new instance of the Project class to read data from Primavera DB |

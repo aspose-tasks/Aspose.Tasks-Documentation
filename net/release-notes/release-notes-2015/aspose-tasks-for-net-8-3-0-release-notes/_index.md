@@ -45,6 +45,7 @@ eight bugs have been fixed. Please, see list of all features below.
 |Field Name |Description |
 | :- | :- |
 |Aspose.Tasks.Saving.SaveFileFormat.MPX |Represents MPX file format. |
+
 **The following public methods were added to existing classes:**
 
 |Method Name |Description |

@@ -18,6 +18,7 @@ url: /net/aspose-tasks-for-net-8-1-0-release-notes/
 |**Field Name**|**Description**|
 | :- | :- |
 |Aspose.Tasks.FileFormat.P6XML |Represents Primavera P6 XML format. |
+
 **The following public methods were added to existing classes:**
 
 |**Method Name**|**Description**|

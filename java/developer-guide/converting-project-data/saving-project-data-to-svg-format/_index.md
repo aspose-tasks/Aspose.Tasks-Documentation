@@ -1,8 +1,8 @@
 ---
 title: Saving Project data to SVG format
-type: docs
 description: "This article explains how to export Project data to SVG format using Aspose.Tasks for Java."
 keywords: "Convert Project Data to SVG, Convert MPP to SVG, Export MPP Project to SVG, MPP to SVG, save project data to SVG format, Aspose.Tasks for Java"
+type: docs
 weight: 40
 url: /java/saving-project-data-to-svg-format/
 ---

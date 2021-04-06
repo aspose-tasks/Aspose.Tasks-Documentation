@@ -1,8 +1,8 @@
 ---
 title: Convert Project Data to JPEG
-type: docs
 description: "This article explains how to convert Project data to JPEG using Aspose.Tasks for Java."
 keywords: "Convert Project Data to JPEG, Convert MPP to JPEG, Export MPP Project to JPEG, save project data to JPEG, Save MPP as JPEG, Aspose.Tasks for Java"
+type: docs
 weight: 70
 url: /java/convert-project-data-to-jpeg/
 ---
