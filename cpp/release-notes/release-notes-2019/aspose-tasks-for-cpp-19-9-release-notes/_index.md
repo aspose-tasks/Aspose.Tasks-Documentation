@@ -12,6 +12,7 @@ This page contains release notes information for Aspose.Tasks for C++ 19.9 versi
 {{% /alert %}} 
 
 Aspose.Tasks for C++ has been launched. It allows you to read and write Microsoft Project® files without using Microsoft Project®.
+
 ## **API Features**
 Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, manipulating and saving project files:
 

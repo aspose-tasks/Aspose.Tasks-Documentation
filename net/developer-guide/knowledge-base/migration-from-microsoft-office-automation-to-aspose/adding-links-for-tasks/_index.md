@@ -100,8 +100,6 @@ To link tasks in a project using Aspose.Tasks for .NET:
 3. Select .NET tab and select **Aspose.Tasks**.
 4. Click **OK**.
 
-This imports the [Aspose.Tasks]() namespace at the start of your code. Use the code from the following example to link tasks.
-### **Programming Samples - Aspose.Tasks**
-
+This imports the **Aspose.Tasks** namespace at the start of your code. Use the code from the following example to link tasks.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-KnowledgeBase-LinkTasks-LinkTasks.cs" >}}

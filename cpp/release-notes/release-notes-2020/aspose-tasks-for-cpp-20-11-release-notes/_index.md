@@ -10,6 +10,7 @@ url: /cpp/aspose-tasks-for-cpp-20-11-release-notes/
 This page contains release notes information for [Aspose.Tasks for C++ 20.11](https://downloads.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c---20.11.0/).
 
 {{% /alert %}}
+
 ## **Windows x86 architecture support**
 ***Since version 20.11, the release also includes a library built using MSVS for the x86 platform. From now, it is possible to build projects based on x86 architecture using Aspose.Tasks for C++.***
 

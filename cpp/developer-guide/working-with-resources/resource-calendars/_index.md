@@ -7,7 +7,7 @@ url: /cpp/resource-calendars/
 
 {{% alert color="primary" %}} 
 
-The [Resource ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource/)class exposes the Calendar property which is used to set or get the calendar for a resource. This property accepts and returns an Aspose.Tasks.Calendar object.
+The [Resource](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource) class exposes the Calendar property which is used to set or get the calendar for a resource. This property accepts and returns an Aspose.Tasks.Calendar object.
 
 {{% /alert %}} 
 ## **Working with Resource Calendars**

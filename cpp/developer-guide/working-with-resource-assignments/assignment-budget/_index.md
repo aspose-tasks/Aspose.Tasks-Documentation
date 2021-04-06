@@ -6,7 +6,7 @@ url: /cpp/assignment-budget/
 ---
 
 ## **Assignment Budget**
-The [ResourceAssignment ](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource_assignment/)class exposes a number of properties for working with an assignment's budget:
+The [ResourceAssignment](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource_assignment) class exposes a number of properties for working with an assignment's budget:
 
 - BudgetCost represents the budgeted cost of resources assignments (decimal).
 - BudgetWork represents the budgeted work of resource assignments to date (TimeSpan).

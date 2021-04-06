@@ -25,7 +25,7 @@ Some files may have invalid characters in the custom fields. Microsoft Project d
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-CreatingReadingAndSaving-IgnoreInvalidCharactersDuringloadingProject-IgnoreInvalidCharactersDuringloadingProject.cpp" >}}
 ## **Read Password Protected Projects (2003 Format)**
-The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project/) class exposes the Project() constructor which is capable of reading password-protected files in 2003 format. Saving a password-protected file is not supported yet.
+The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class exposes the Project() constructor which is capable of reading password-protected files in 2003 format. Saving a password-protected file is not supported yet.
 
 To read a password-protected project file:
 

@@ -6,7 +6,7 @@ url: /net/handling-overtime-remaining-costs-and-work/
 ---
 
 ## **Handling Overtime, Remaining Costs and Work**
-The [Asn]() class exposes a number of properties for handling an assignment's overtime, remaining costs and work:
+The [Asn](https://apireference.aspose.com/tasks/net/aspose.tasks/asn) class exposes a number of properties for handling an assignment's overtime, remaining costs and work:
 
 - OvertimeCost represents the sum of the actual and remaining overtime costs of an assignment (decimal).
 - OvertimeWork represents the scheduled overtime work for an assignment (TimeSpan).
