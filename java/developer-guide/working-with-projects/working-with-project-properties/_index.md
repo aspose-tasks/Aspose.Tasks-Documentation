@@ -43,10 +43,10 @@ Aspose.Tasks for Java can write as well as [read project information](/tasks/jav
 ## **Determining Project Version**
 Aspose.Tasks for Java lets you retrieve project file information such as the version of Microsoft Project that the file was created with. The Project class exposes the get() method for getting this information using the static [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class.
 
-The SAVE_VERSION and LAST_SAVED properties exposed by the [Proj](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project)ect class is used to determine the project version and the date when the project was last saved.
-
+The SAVE_VERSION and LAST_SAVED properties exposed by the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class is used to determine the project version and the date when the project was last saved.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-DetermineProjectVersion-determining-project-version.java" >}}
+
 ## **Default Project Properties**
 Microsoft Project lets users set default project properties that speed up the process of setting up a project. The default properties define when a new task starts and finishes, sets the default overtime and standard pay rates and more. Aspose.Tasks supports these features. This article explains both how to read default properties and how to write default properties to a project file.
 
@@ -73,7 +73,6 @@ To see the default project information in Microsoft Project:
 
 ![viewing project properties in Microsoft Project](working-with-project-properties_2.png)
 
-
 ### **Reading Default Properties**
 The following example reads a project's default properties and writes them to a console window.
 
@@ -95,9 +94,9 @@ The [Prj](https://apireference.aspose.com/tasks/java/com.aspose.tasks/prj) class
 
 To see the a file's summary information:
 
-4. Find the file in a file browser.
-5. Right-click the file and select **Properties**.
-6. Go to the **Details** tab.
+1. Find the file in a file browser.
+2. Right-click the file and select **Properties**.
+3. Go to the **Details** tab.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-WriteMPPProjectSummary-writing-mpp-project-summary.java" >}}
 
@@ -154,7 +153,7 @@ Aspose.Tasks provides properties, exposed by the Prj class, for managing currenc
 - CURRENCY: the three-letter currency code, for example USD, GBP or AUD, passed as a string.
 - CURRENCY_DIGITS: the number of numbers after the decimal point, for example 2 (100.00) or 3 (100.000), passed as an integer.
 - CURRENCY_SYMBOL: the currency symbol, for example $ or £, passed as a string.
-  CURRENCY_SYMBOL_POSITIO: the position of the currency symbol, for example before ($100) or after (100$). CurrencySymbolPosition takes a value from the CurrencySymbolPositionType enumeration.
+- CURRENCY_SYMBOL_POSITION: the position of the currency symbol, for example before ($100) or after (100$). CurrencySymbolPosition takes a value from the CurrencySymbolPositionType enumeration.
 
 ### **Reading Currency Properties**
 The following piece of code reads a project's currency properties.
