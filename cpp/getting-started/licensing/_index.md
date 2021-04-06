@@ -1,5 +1,6 @@
 ---
 title: Licensing
+description: "Aspose.Tasks for C++ provides different plans for purchase or offers a Free Trial and a 30-day Temporary License for evaluation using Licensing policies."
 type: docs
 weight: 40
 url: /cpp/licensing/
@@ -50,12 +51,9 @@ This code snippet initializes a license stored in a file or in an embedded resou
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Licensing-ApplyLicenseUsingFile-ApplyLicenseUsingFile.cpp" >}}
 
-
-
 This code snippet initializes a license from a stream.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Licensing-ApplyLicenseUsingStream-ApplyLicenseUsingStream.cpp" >}}
-
 
 #### **Applying Licensing Using an Embedded Resource**
 Another neat way of packaging the license with your application and making sure it will not be lost, is to include it as an embedded resource into one of the assemblies that call the component's DLL (included in Aspose.Email). To include the license file as an embedded resource, perform the following steps:

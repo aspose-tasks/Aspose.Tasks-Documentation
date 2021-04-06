@@ -1,18 +1,20 @@
 ---
-title: Licensing
+title: Licensing and Subscription
+description: "Aspose.Tasks for .NET provides different plans for purchase or offers a Free Trial and a 30-day Temporary License for evaluation using Licensing and Subscription policies."
 type: docs
 weight: 60
 url: /net/licensing/
 ---
 
 ## **Evaluate Aspose.Tasks**
-A free evaluation version of Aspose.Tasks for .NET can be downloaded from the downloads section of Aspose's web site at <https://downloads.aspose.com/tasks/net>.
+A free evaluation version of Aspose.Tasks for .NET can be downloaded from the downloads section of Aspose web site at <https://downloads.aspose.com/tasks/net>.
 
 {{% alert color="primary" %}} 
 
 If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](https://purchase.aspose.com/temporary-license)?
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ### **PDF Creator Information**
 - Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks  for .NET x.x.x will be displayed against these fields.
 ### **Evaluation Limitations**
@@ -47,24 +49,23 @@ Follow these simple rules:
 - When developing an ASP.NET application, you can set the license from the Global.asax.cs (Global.asax.vb) file, in the Application_Start protected method. It is called once when the application starts.
 - Do not set the license from within the Page_Load methods since it means the license will be loaded every time a web page is loaded.
 - If you are developing a class library, set the license in a static constructor of your class that uses Aspose.Tasks. The static constructor executes before an instance of your class is created making sure that the Aspose.Tasks license is properly set.
+
 ### **Applying a perpetual license**
 Use the **License.SetLicense** method to license the component. The easiest way to set a license is to put the license file in the same folder as the Aspose.Tasks.dll and specify the file name, without a path, as shown below.
+
 {{< highlight csharp >}}
 Aspose.Tasks.License license = new Aspose.Tasks.License();
 license.SetLicense("license.lic");
 {{< /highlight >}}
-
 
 #### **Applying a License Using File or Stream**
 This code snippet initializes a license stored in a file or an embedded resource.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-ApplyLicenseUsingFile-ApplyLicenseUsingFile.cs" >}}
 
-
 This code snippet initializes a license from a stream.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-ApplyLicenseUsingStream-ApplyLicenseUsingStream.cs" >}}
-
 
 #### **Applying a Licenses Using an Embedded Resource**
 Another neat way of packaging the license with your application and making sure it will not be lost, is to include it as an embedded resource into one of the assemblies that call the component's DLL. To include the license file as an embedded resource, perform the following steps:
@@ -81,6 +82,7 @@ A Metered license is a licensing mechanism that allows customers to be billed ba
 To activate the Metered license you need public and private keys.
 
 Applying a Metered license is as simple as those two lines of code:
+
 {{< highlight csharp >}}
 var metered = new Metered();
 metered.SetMeteredKey("<public key>", "<private key>");

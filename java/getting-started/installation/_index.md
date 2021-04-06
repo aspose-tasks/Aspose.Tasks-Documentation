@@ -1,5 +1,6 @@
 ---
 title: Installation
+description: "Learn how to install Aspose.Tasks for Java via Aspose Artifactory."
 type: docs
 weight: 40
 url: /java/installation/
@@ -7,41 +8,29 @@ url: /java/installation/
 
 ## **Installing Aspose.Tasks for Java**
 Aspose hosts all Java APIs on [Aspose Artifactory](https://repository.aspose.com/webapp/#/home). You can easily use [Aspose.Tasks for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tasks) API directly in your Maven Projects with simple configurations.
+
 ### **Specify Maven Repository Configuration**
 First, you need to specify the Aspose Maven Repository configuration/location in your Maven pom.xml as follows:
 
-{{< highlight java >}}
-
+{{< highlight text >}}
  <repositories>
-
     <repository>
-
         <id>AsposeJavaAPI</id>
-
         <name>Aspose Java API</name>
-
         <url>https://repository.aspose.com/repo/</url>
-
     </repository>
-
 </repositories>
-
 {{< /highlight >}}
+
 ### **Define Aspose.Tasks for Java API Dependency**
 Then define Aspose.Tasks for Java API dependency in your pom.xml as follows:
 
-{{< highlight java >}}
-
+{{< highlight text >}}
  <dependency>
-
     <groupId>com.aspose</groupId>
-
     <artifactId>aspose-tasks</artifactId>
-
     <version>20.10</version>
-
     <classifier>jdk18</classifier>
- 
  </dependency>
 {{< /highlight >}}
 

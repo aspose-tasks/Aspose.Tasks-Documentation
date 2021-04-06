@@ -1,5 +1,6 @@
 ---
 title: Installation
+description: "Learn how to install Aspose.Tasks for C++ via NuGet Package Manager."
 type: docs
 weight: 30
 url: /cpp/installation/

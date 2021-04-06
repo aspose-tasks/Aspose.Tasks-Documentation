@@ -11,7 +11,6 @@ Microsoft Project (MSP) allows developers to save project data (MPP/XML) comma-d
 
 {{% /alert %}} 
 
-
 ## **Saving a Project as CSV**
 The following code snippet shows how to save a project as a CSV format.
 
@@ -35,9 +34,9 @@ using (MemoryStream ms = new MemoryStream())
 {
     project.Save(ms, options);
     ms.Seek(0, SeekOrigin.Begin);
-    using (StreamReader sr = new StreamReader(ms, options.Encoding))
+    using (StreamReader reader = new StreamReader(ms, options.Encoding))
     {
-        writtenCSV = sr.ReadToEnd();
+        writtenCSV = reader.ReadToEnd();
     }
 }
 

@@ -1,5 +1,6 @@
 ---
 title: Installation
+description: "Learn how to install Aspose.Tasks for .NET via NuGet Package Manager."
 type: docs
 weight: 40
 url: /net/installation/
@@ -9,6 +10,7 @@ url: /net/installation/
 NuGet is the easiest way to download and install Aspose APIs for .NET. Open Microsoft Visual Studio and NuGet package manager. Search "aspose" to find the desired Aspose API. Click on "Install", the selected API will be downloaded and referenced in your project.
 
 ![Aspose.Tasks for .NET NuGet installation step one](installation_1.png)
+
 ## **Install or Update Aspose.Tasks using the Package Manager Console**
 You can follow the steps below to reference the Aspose.Tasks for .NET API using the package manager console:
 

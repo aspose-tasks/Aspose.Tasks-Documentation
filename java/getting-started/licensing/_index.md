@@ -1,20 +1,18 @@
 ---
-title: Licensing
+title: Licensing and Subscription
+description: "Aspose.Tasks for C++ provides different plans for purchase or offers a Free Trial and a 30-day Temporary License for evaluation using Licensing policies."
 type: docs
 weight: 60
 url: /java/licensing/
 ---
 
 ## **Evaluate Aspose.Tasks**
-A free evaluation version of Aspose.Tasks for Java can be downloaded from [download section](https://downloads.aspose.com/tasks/java) of Aspose.Tasks for Java. 
-
-
+A free evaluation version of Aspose.Tasks for Java can be downloaded from [download section](https://downloads.aspose.com/tasks/java) of Aspose.Tasks for Java.
 
 {{% alert color="primary" %}} 
-
 If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](https://purchase.aspose.com/temporary-license)?
-
 {{% /alert %}} 
+
 ### **PDF Creator Information**
 Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for Java x.x.x will be displayed against these fields
 ### **Limitations**
@@ -31,56 +29,32 @@ The project file created from the code looks like the one below in Microsoft Pro
 **Java**
 
 {{< highlight java >}}
-
- java.util.Calendar calendar = java.util.Calendar.getInstance(TimeZone.getTimeZone("GMT"));
-
+java.util.Calendar calendar = java.util.Calendar.getInstance(TimeZone.getTimeZone("GMT"));
 calendar.set(2010, java.util.Calendar.APRIL, 6, 0, 0, 0);
-
 Date startDate = calendar.getTime();
-
-//Create a project instance
-
 Project prj = new Project();
-
-//Define Tasks
-
 Task rootTsk = new Task();
-
 Task tsk1 = new Task("Task1");
-
 tsk1.setActualStart(startDate);
-
 calendar.set(2010, java.util.Calendar.APRIL,10,0,0,0);
-
 startDate = calendar.getTime();
-
 Task tsk2 = new Task("Task2");
-
 tsk2.setActualStart(startDate);
-
 //Add tsk1 and tsk2 to the rootTsk
-
 rootTsk.getChildren().add(tsk1);
-
 rootTsk.getChildren().add(tsk2);
-
 //Set rootTsk as root task of the project
-
 prj.setRootTask(rootTsk);
-
 //Perform recalculations
-
 prj.calcTaskIds();
-
 prj.calcTaskUids();
-
 //Save the Project as XML
-
-prj.save("EvalProject.xml", SaveFileFormat.XML);
-
+prj.save("ResultingProject.xml", SaveFileFormat.XML);
 {{< /highlight >}}
+
 #### **MPP Write Support**
 Aspose.Tasks for Java supports reading MPP files, updating the project summary information and then writing updated project files in original the MPP format. That is, if original MPP format belongs to Microsoft Project 2003 version, the MPP file updated through Aspose.Tasks for Java will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010 and 2013 MPP formats. However, this support is only available in licensed versions of Aspose.Tasks for Java.
+
 ## **Applying the License**
 You can download an evaluation version of **Aspose.Tasks** for Java from [its download page](https://downloads.aspose.com/tasks/java). The evaluation version provides absolutely the same capabilities as the licensed version of the product. Furthermore, evaluation version simply becomes licensed when you purchase a license and add a couple of lines of code to apply the license.
 
@@ -88,9 +62,8 @@ Once you are happy with your evaluation of **Aspose.Tasks for Java**, you can [p
 
 Every Aspose license carries a one-year subscription for free upgrades to any new versions or fixes that come out during this time. Technical support is free and unlimited and provided both to licensed and evaluation users.
 
-
-
 If you want to test **Aspose.Tasks** without evaluation version limitations, request a 30-day temporary license. Please refer to [How to get a Temporary License?](https://purchase.aspose.com/temporary-license) for more information.
+
 ### **Setting a License**
 The license is a plain text XML file that contains details such as the product name, number of developers it is licensed to, subscription expiry date and so on. The file is digitally signed, so do not modify the file; even the inadvertent addition of an extra line break into the file will invalidate it.
 
@@ -107,29 +80,16 @@ Use the [License](https://apireference.aspose.com/tasks/java/com.aspose.tasks/li
 
 In this example Aspose.Tasks will attempt to find the license file in the folder that contain the JARs of your application.
 
-**Java**
-
 {{< highlight java >}}
-
- com.aspose.tasks.License license = new com.aspose.tasks.License();
-
+com.aspose.tasks.License license = new com.aspose.tasks.License();
 license.setLicense("Aspose.Tasks.Java.lic");
-
 {{< /highlight >}}
 
 **Example 2**
 
 Initializes a license from a stream.
 
-**Java**
-
 {{< highlight java >}}
-
- com.aspose.tasks.License license = new com.aspose.tasks.License();
-
+com.aspose.tasks.License license = new com.aspose.tasks.License();
 license.setLicense(new java.io.FileInputStream("Aspose.Tasks.Java.lic"));
-
 {{< /highlight >}}
-
-
-

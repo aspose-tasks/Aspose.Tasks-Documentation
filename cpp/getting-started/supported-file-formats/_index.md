@@ -1,5 +1,6 @@
 ---
 title: Supported File Formats
+description: "Aspose.Tasks for C++ supports loading and saving of a wide range of project management file formats and allows you to edit source documents as well as convert files from one format to another."
 type: docs
 weight: 20
 url: /cpp/supported-file-formats/
@@ -24,4 +25,3 @@ The following table indicates the input and output file formats supported by Asp
 |[PNG](https://docs.fileformat.com/image/png/)|Saving Project data as PNG Image Format| |{{< emoticons/tick >}} |
 |[PDF](https://docs.fileformat.com/view/pdf/)|Saving Project data as PDF Format| |{{< emoticons/tick >}} |
 |[JPEG](https://docs.fileformat.com/image/jpeg/)|Saving Project data as JPEG| |{{< emoticons/tick >}} |
-
