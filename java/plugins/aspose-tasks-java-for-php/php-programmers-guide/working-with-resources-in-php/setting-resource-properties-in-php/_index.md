@@ -6,7 +6,7 @@ url: /java/setting-resource-properties-in-php/
 ---
 
 ## **Aspose.Tasks - Setting Resource Properties**
-To Set Resource Properties using **Aspose.Tasks Java for PHP**, simply invoke **SetResourceProperties** module. Here you can see example code.
+To set resource properties using **Aspose.Tasks Java for PHP**, simply invoke **SetResourceProperties** module. Here you can see example code.
 
 **PHP Code**
 

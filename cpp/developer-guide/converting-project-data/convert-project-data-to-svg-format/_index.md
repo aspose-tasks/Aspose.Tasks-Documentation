@@ -9,7 +9,7 @@ url: /cpp/convert-project-data-to-svg-format/
 
 This article demonstrates how to render project data to SVG format using Aspose.Tasks for C++.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 
 ## **Saving a Project as SVG**
@@ -19,9 +19,9 @@ To save a project to SVG:
 
 1. Load a Microsoft Project file.
 2. Save the project to SVG using SaveFileFormat.SVG.
-### **Programming Sample:**
+
 The following lines of code demonstrate how to achieve this using C++.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-SaveProjectAsSVG-SaveProjectAsSVG.cpp" >}}
-## **Saving with SvgOptions**
+
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-UsingSvgOptions-UseSvgOptions.cpp" >}}

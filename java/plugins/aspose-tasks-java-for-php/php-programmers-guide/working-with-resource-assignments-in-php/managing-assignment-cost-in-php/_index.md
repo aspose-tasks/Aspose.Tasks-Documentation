@@ -1,5 +1,6 @@
 ---
-title: Managing Assignment Cost in Php
+title: Managing Assignment Cost in PHP
+description: "Learn how to manage Microsoft Project (MPP/XML) resource assignment costs using Aspose.Tasks Java for PHP."
 type: docs
 weight: 70
 url: /java/managing-assignment-cost-in-php/

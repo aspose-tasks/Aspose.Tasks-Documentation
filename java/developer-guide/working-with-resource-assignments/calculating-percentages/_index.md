@@ -1,5 +1,6 @@
 ---
 title: Calculating Percentages
+description: "Learn how to calculate percentages in Microsoft Project (MPP/XML) files using Aspose.Tasks for Java."
 type: docs
 weight: 60
 url: /java/calculating-percentages/

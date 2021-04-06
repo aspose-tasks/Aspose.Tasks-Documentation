@@ -1,5 +1,6 @@
 ---
 title: Dealing Variances in Ruby
+description: "Learn how to deal with work variances in Microsoft Project (MPP/XML) files using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 40
 url: /java/dealing-variances-in-ruby/

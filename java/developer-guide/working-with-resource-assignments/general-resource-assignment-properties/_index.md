@@ -1,5 +1,6 @@
 ---
 title: General Resource Assignment Properties
+description: "Learn how to read or edit properties of Microsoft Project (MPP/XML) resource assignments using Aspose.Tasks for Java."
 type: docs
 weight: 20
 url: /java/general-resource-assignment-properties/

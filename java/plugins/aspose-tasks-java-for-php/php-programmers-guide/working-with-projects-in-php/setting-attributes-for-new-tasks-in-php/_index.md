@@ -6,7 +6,7 @@ url: /java/setting-attributes-for-new-tasks-in-php/
 ---
 
 ## **Aspose.Tasks - Setting Attributes for New Tasks**
-To Set Attributes for New Tasks using **Aspose.Tasks Java for PHP**, simply invoke **SetAttributesForNewTasks** module. Here you can see example code.
+To set attributes for new tasks using **Aspose.Tasks Java for PHP**, simply invoke **SetAttributesForNewTasks** module. Here you can see example code.
 
 **PHP Code**
 

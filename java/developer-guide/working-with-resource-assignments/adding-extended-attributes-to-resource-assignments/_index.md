@@ -1,5 +1,6 @@
 ---
 title: Adding Extended Attributes to Resource Assignments
+description: "Learn how to add extended attributes to Microsoft Project resource assignments using Aspose.Tasks for Java."
 type: docs
 weight: 110
 url: /java/adding-extended-attributes-to-resource-assignments/

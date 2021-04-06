@@ -1,5 +1,6 @@
 ---
 title: Read Write Rate Scale Information
+description: "Learn how to edit Microsoft Project (MPP/XML) resource assignment rate scales using Aspose.Tasks for C++."
 type: docs
 weight: 100
 url: /cpp/read-write-rate-scale-information/

@@ -1,30 +1,22 @@
 ---
-title: Creating Resource Assignments in Php
+title: Creating Resource Assignments in PHP
+description: "Learn how to create resource assignments linking tasks and resources in Microsoft Project (MPP/XML) files using Aspose.Tasks Java for PHP."
 type: docs
 weight: 30
 url: /java/creating-resource-assignments-in-php/
 ---
 
 ## **Aspose.Tasks - Creating Resource Assignments**
-To Create Resource Assignments using **Aspose.Tasks Java for PHP**, simply invoke **CreateResourceAssignment** module. Here you can see example code.
-
-**PHP Code**
+To create resource assignments using **Aspose.Tasks Java for PHP**, simply invoke **CreateResourceAssignment** module. Here you can see example code.
 
 {{< highlight php >}}
-
-
-
 $project = new Project($dataDir . 'test_tasks.mpp');
-
 $task = $project->getRootTask()->getChildren()->add("Task");
-
 $rsc = $project->getResources()->add("Rsc");
-
 $assignment = $project->getResourceAssignments()->add($task, $rsc);
-
 print "Created resource assignment.".PHP_EOL;
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Creating Resource Assignments (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

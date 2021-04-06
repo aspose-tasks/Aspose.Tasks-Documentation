@@ -6,7 +6,7 @@ url: /java/parent-and-child-tasks-in-php/
 ---
 
 ## **Aspose.Tasks - Getting Parent and Child Tasks**
-To Get Parent and Child Tasks using **Aspose.Tasks Java for PHP**, call **get_parent_and_child_tasks** method of **ParentAndChildTasks** module. Here you can see example code.
+To get Parent and Child Tasks using **Aspose.Tasks Java for PHP**, call **get_parent_and_child_tasks** method of **ParentAndChildTasks** module. Here you can see example code.
 
 **PHP Code**
 

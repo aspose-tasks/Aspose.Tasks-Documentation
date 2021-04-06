@@ -1,19 +1,18 @@
 ---
 title: Handling Variances
+description: "Learn how to add, edit or remove Microsoft Project (MPP/XML) work variances using Aspose.Tasks for Java."
 type: docs
 weight: 110
 url: /java/handling-variances/
 ---
 
-{{% alert color="primary" %}} 
+A work variance is the difference between the estimated work (the baseline) and actual work performed.
 
-Work variance is the difference between the estimated work (the baseline) and actual work performed.
-
-{{% /alert %}} 
 ## **Handling Variances**
 The WorkVariance property exposed by the [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class handles variance in work:
 
 - WorkVariance: a project resource's difference from the baseline work (double).
+
 ### **Microsoft Project View of Resource Work Variance**
 To see the resource work variance in Microsoft Project:
 

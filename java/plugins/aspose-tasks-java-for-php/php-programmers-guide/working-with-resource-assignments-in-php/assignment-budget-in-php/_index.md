@@ -1,44 +1,28 @@
 ---
-title: Assignment Budget in Php
+title: Assignment Budget in PHP
 type: docs
 weight: 10
 url: /java/assignment-budget-in-php/
 ---
 
 ## **Aspose.Tasks - Assignment Budget**
-To Get Assignment Budget using **Aspose.Tasks Java for PHP**, simply invoke **AssignmentBudget** module. Here you can see example code.
-
-**PHP Code**
+To get Assignment Budget using **Aspose.Tasks Java for PHP**, simply invoke **AssignmentBudget** module. Here you can see example code.
 
 {{< highlight php >}}
-
-
-
-$project = new Project($dataDir . 'test_tasks.mpp');
-
+$project = new Project('test_tasks.mpp');
 $resource_assignments = $project->getResourceAssignments()->toList();
-
-\# Parse through all the collected resource assignments
-
 $asn=new Asn();
-
 $i = 0;
-
-while ($i < sizeof($resource_assignments)){
-
-$assignment = $resource_assignments->get($i);
-
-print "Budget Cost: " . (string)$assignment -> get($asn -> BUDGET_COST).PHP_EOL;
-
-print "Budget Work: " . (string)$assignment -> get($asn -> BUDGET_WORK).PHP_EOL;
-
-print "--------------------------------------------------------" . PHP_EOL;
-
-$i += 1;
-
+while ($i < sizeof($resource_assignments))
+{
+    $assignment = $resource_assignments->get($i);
+    print "Budget Cost: " . (string)$assignment -> get($asn -> BUDGET_COST).PHP_EOL;
+    print "Budget Work: " . (string)$assignment -> get($asn -> BUDGET_WORK).PHP_EOL;
+    print "--------------------------------------------------------" . PHP_EOL;
+    $i += 1;
 }
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Assignment Budget (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

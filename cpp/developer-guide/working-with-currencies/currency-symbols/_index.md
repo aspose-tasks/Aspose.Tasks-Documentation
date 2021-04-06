@@ -21,6 +21,7 @@ To see a project's currency symbol in Microsoft Project:
 The following code example demonstrates how to set a currency symbol for a project.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithCurrencies-SetCurrencySymbol-SetCurrencySymbol.cpp" >}}
+
 ### **Getting the Currency Symbol using Aspose.Tasks**
 Access the currency symbol using a project's CurrencySymbol:
 

@@ -1,5 +1,6 @@
 ---
 title: Calculating Percentages in Ruby
+description: "Learn how to calculate percentages in Microsoft Project (MPP/XML) files using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 20
 url: /java/calculating-percentages-in-ruby/

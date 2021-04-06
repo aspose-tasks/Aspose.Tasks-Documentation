@@ -1,5 +1,6 @@
 ---
 title: Managing Assignment Cost
+description: "Learn how to manage Microsoft Project (MPP/XML) resource assignment costs using Aspose.Tasks for C++."
 type: docs
 weight: 30
 url: /cpp/managing-assignment-cost/

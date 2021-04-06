@@ -1,5 +1,6 @@
 ---
-title: Calculating Percentages in Php
+title: Calculating Percentages in PHP
+description: "Learn how to calculate percentages in Microsoft Project (MPP/XML) files using Aspose.Tasks Java for PHP."
 type: docs
 weight: 20
 url: /java/calculating-percentages-in-php/

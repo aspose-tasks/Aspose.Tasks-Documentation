@@ -6,7 +6,7 @@ url: /java/assignment-budget-in-ruby/
 ---
 
 ## **Aspose.Tasks - Assignment Budget**
-To Get Assignment Budget using **Aspose.Tasks Java for Ruby**, simply invoke **AssignmentBudget** module. Here you can see example code.
+To get Assignment Budget using **Aspose.Tasks Java for Ruby**, simply invoke **AssignmentBudget** module. Here you can see example code.
 
 **Ruby Code**
 

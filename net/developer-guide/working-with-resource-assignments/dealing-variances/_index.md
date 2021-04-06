@@ -1,5 +1,6 @@
 ---
 title: Dealing Variances
+description: "Learn how to deal with work variances in Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET."
 type: docs
 weight: 70
 url: /net/dealing-variances/
@@ -17,6 +18,7 @@ To see resource assignment variances in Microsoft Project:
 
 1. On the Task Usage screen, select **Insert** and ten **Columns**.
 2. Add the desired columns.
+
 ### **Getting Assignment Variance in Aspose.Tasks**
 The following example shows how to get the resource work variance using Aspose.Tasks.
 

@@ -1,11 +1,10 @@
 ---
-title: Overtimes for a Resource
+title: Managing Resource Overtimes
+description: "Learn how to manage Microsoft Project (MPP/XML) resource calendar overtimes using Aspose.Tasks for .NET."
 type: docs
 weight: 40
 url: /net/overtimes-for-a-resource/
 ---
-
-{{% alert color="primary" %}} 
 
 The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) class exposes a number of properties for managing resource overtime:
 
@@ -15,12 +14,12 @@ The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) 
 - OvertimeCost represents the sum of an actual and remaining overtime cost (decimal).
 - OvertimeWork represents the amount of overtime work scheduled for a tasks (TimeSpan).
 
-{{% /alert %}} 
 ## **Working with Resource Overtimes**
 To see overtime cost, overtime rate and overtime work in Microsoft Project:
 
 1. On the Resource sheet, select the **Insert** menu, and then select **Column**.
 2. Add the columns.
+
 ### **Getting Resource Overtimes in Aspose.Tasks**
 The following example shows how to get resource overtimes using Aspose.Tasks.
 

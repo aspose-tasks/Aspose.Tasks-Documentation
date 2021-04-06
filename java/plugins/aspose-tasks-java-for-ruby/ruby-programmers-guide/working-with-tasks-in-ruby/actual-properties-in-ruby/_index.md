@@ -6,7 +6,7 @@ url: /java/actual-properties-in-ruby/
 ---
 
 ## **Aspose.Tasks - Getting Actual Properties**
-To Get Actual Properties using **Aspose.Tasks Java for Ruby**, call **get_actual_properties** method of **TasksProperties** module. Here you can see example code.
+To get Actual Properties using **Aspose.Tasks Java for Ruby**, call **get_actual_properties** method of **TasksProperties** module. Here you can see example code.
 
 **Ruby Code**
 

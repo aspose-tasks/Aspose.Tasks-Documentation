@@ -1,5 +1,6 @@
 ---
-title: Dealing Variances in Php
+title: Dealing Variances in PHP
+description: "Learn how to deal with work variances in Microsoft Project (MPP/XML) files using Aspose.Tasks Java for PHP."
 type: docs
 weight: 40
 url: /java/dealing-variances-in-php/

@@ -5,11 +5,8 @@ weight: 100
 url: /net/saving-updated-resource-assignment-to-mpp/
 ---
 
-{{% alert color="primary" %}} 
-
 Aspose.Tasks supports updating resource assignment data and writing it back to a MPP file.
 
-{{% /alert %}} 
 ## **Updating Resource Assignments**
 To read, assign and save the updated file:
 
@@ -17,6 +14,7 @@ To read, assign and save the updated file:
 2. Assign the resource to the task.
 3. Add the assigned resource to the project.
 4. Finally, save the project to the MPP file.
+
 ### **Code Examples**
 The code examples given below demonstrates how to perform these tasks.
 

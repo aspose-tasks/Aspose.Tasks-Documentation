@@ -6,7 +6,7 @@ url: /java/get-number-of-pages-in-project-in-ruby/
 ---
 
 ## **Aspose.Tasks - Get Number of Pages in Project**
-To Get Number of Pages in Project using **Aspose.Tasks Java for Ruby**, simply invoke **GetNumberOfPages** module. Here you can see example code.
+To get Number of Pages in Project using **Aspose.Tasks Java for Ruby**, simply invoke **GetNumberOfPages** module. Here you can see example code.
 
 **Ruby Code**
 

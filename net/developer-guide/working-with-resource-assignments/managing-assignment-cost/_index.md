@@ -1,5 +1,6 @@
 ---
 title: Managing Assignment Cost
+description: "Learn how to manage Microsoft Project (MPP/XML) resource assignment costs using Aspose.Tasks for .NET."
 type: docs
 weight: 30
 url: /net/managing-assignment-cost/
@@ -16,7 +17,8 @@ The [ResourceAssignment](https://apireference.aspose.com/tasks/net/aspose.tasks/
 To view assignment costs in Microsoft Project:
 
 1. On the Task Usage page, select the **Insert** menu and then **Column**.
-2. Add columns.
+2. Add the columns.
+
 ### **Getting Assignment Costs with Aspose.Tasks**
 The following example shows getting task costs using Aspose.Tasks.
 

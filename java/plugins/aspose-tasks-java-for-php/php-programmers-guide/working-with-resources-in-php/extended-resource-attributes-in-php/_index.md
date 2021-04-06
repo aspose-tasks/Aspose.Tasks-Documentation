@@ -1,12 +1,13 @@
 ---
-title: Extended Resource Attributes in PHP
+title: Managing Resource Extended Attributes in PHP
+description: "Learn how to add, edit or remove Microsoft Project (MPP/XML) resource extended attributes using Aspose.Tasks Java for PHP."
 type: docs
 weight: 10
 url: /java/extended-resource-attributes-in-php/
 ---
 
 ## **Aspose.Tasks - Extended Resource Attributes**
-To set Extended Resource Attributes using **Aspose.Tasks Java for PHP**, simply invoke **ExtendedResourceAttributes** module. Here you can see example code.
+To set extended resource attributes using **Aspose.Tasks Java for PHP**, simply invoke **ExtendedResourceAttributes** module. Here you can see example code.
 
 **PHP Code**
 

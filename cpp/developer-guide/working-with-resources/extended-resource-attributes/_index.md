@@ -1,15 +1,13 @@
 ---
-title: Extended Resource Attributes
+title: Managing Resource Extended Attributes
+description: "Learn how to add, edit or remove Microsoft Project (MPP/XML) resource extended attributes using Aspose.Tasks for C++."
 type: docs
 weight: 70
 url: /cpp/extended-resource-attributes/
 ---
 
-{{% alert color="primary" %}} 
-
 The ExtendedAttribute property exposed by the Resource class can be used to manage the extended attributes of a resource. This property reads and writes an ArrayList of the ExtendedAttribute objects to deal with a resource's extended attributes. The ExtendedAttribute object further exposes the relevant properties.
 
-{{% /alert %}} 
 ## **Setting Extended Resource Attributes with Aspose.Tasks**
 The following code example demonstrates how to set a resource's extended attributes.
 

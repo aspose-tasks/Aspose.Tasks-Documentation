@@ -6,7 +6,7 @@ url: /java/creating-a-calendar-in-php/
 ---
 
 ## **Aspose.Tasks - Creating a Calendar**
-To Create a Calendar using **Aspose.Tasks Java for PHP**, simply invoke **CreateCalendar** module. Here you can see example code.
+To create a Calendar using **Aspose.Tasks Java for PHP**, simply invoke **CreateCalendar** module. Here you can see example code.
 
 {{< highlight php >}}
 $project = new Project($dataDir . 'test_tasks.mpp');

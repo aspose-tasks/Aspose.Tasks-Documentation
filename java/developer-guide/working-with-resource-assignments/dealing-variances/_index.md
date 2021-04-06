@@ -1,5 +1,6 @@
 ---
 title: Dealing Variances
+description: "Learn how to deal with work variances in Microsoft Project (MPP/XML) files using Aspose.Tasks for Java."
 type: docs
 weight: 70
 url: /java/dealing-variances/

@@ -1,5 +1,6 @@
 ---
-title: Extended Resource Attributes
+title: Managing Resource Extended Attributes
+description: "Learn how to add, edit or remove Microsoft Project (MPP/XML) resource extended attributes using Aspose.Tasks for Java."
 type: docs
 weight: 70
 url: /java/extended-resource-attributes/

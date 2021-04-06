@@ -6,9 +6,7 @@ url: /java/creating-a-task-baseline-in-php/
 ---
 
 ## **Aspose.Tasks - Creating a Task Baseline**
-To Create a Task Baseline using **Aspose.Tasks Java for PHP**, simply invoke **CreateTaskBaseline** module. Here you can see example code.
-
-**PHP Code**
+To create a Task Baseline using **Aspose.Tasks Java for PHP**, simply invoke **CreateTaskBaseline** module. Here you can see example code.
 
 {{< highlight php >}}
 $project = new Project($dataDir . 'test_tasks.mpp');

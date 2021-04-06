@@ -1,53 +1,35 @@
 ---
-title: General Resource Assignment Properties in Php
+title: General Resource Assignment Properties in PHP
+description: "Learn how to read or edit properties of Microsoft Project (MPP/XML) resource assignments using Aspose.Tasks Java for PHP."
 type: docs
 weight: 50
 url: /java/general-resource-assignment-properties-in-php/
 ---
 
 ## **Aspose.Tasks - Getting General Resource Assignment Properties**
-To Get General Resource Assignment Properties using **Aspose.Tasks Java for PHP**, call **get_resource_assignments** method of **ResourceAssignmentProperties** module. Here you can see example code.
-
-**PHP Code**
+To get General Resource Assignment Properties using **Aspose.Tasks Java for PHP**, call **get_resource_assignments** method of **ResourceAssignmentProperties** module. Here you can see example code.
 
 {{< highlight php >}}
-
- public static function get_resource_assignments($dataDir=null){
-
-\# Instantiate project object
-
-$project = new Project($dataDir . 'test_tasks.mpp');
-
-$resource_assignments = $project->getResourceAssignments()->toList();
-
-\# Parse through all the collected resource assignments
-
-$i = 0;
-
-while ($i < sizeof($resource_assignments)){
-
-$assignment = $resource_assignments->get($i);
-
-$asn=new Asn();
-
-print $assignment->get($asn->UID).PHP_EOL;//.to_string
-
-print $assignment->get($asn->START).PHP_EOL;//.to_string
-
-print $assignment->get($asn->FINISH).PHP_EOL;//.to_string
-
-print "--------------------------------------------------------".PHP_EOL;
-
-$i +=1;
-
+public static function get_resource_assignments()
+{
+    $project = new Project('test_tasks.mpp');
+    $resource_assignments = $project->getResourceAssignments()->toList();
+    $i = 0;
+    while ($i < sizeof($resource_assignments))
+    {
+        $assignment = $resource_assignments->get($i);
+        $asn=new Asn();
+        print $assignment->get($asn->UID).PHP_EOL;//.to_string
+        print $assignment->get($asn->START).PHP_EOL;//.to_string
+        print $assignment->get($asn->FINISH).PHP_EOL;//.to_string
+        print "--------------------------------------------------------".PHP_EOL;
+        $i +=1;
+    }
 }
-
-}
-
-
 {{< /highlight >}}
+
 ## **Aspose.Tasks - Setting General Resource Assignment Properties**
-To Set General Resource Assignment Properties using **Aspose.Tasks Java for PHP**, call **set_resource_assignments** method of **ResourceAssignmentProperties** module. Here you can see example code.
+To set general Resource Assignment Properties using **Aspose.Tasks Java for PHP**, call **set_resource_assignments** method of **ResourceAssignmentProperties** module. Here you can see example code.
 
 **PHP Code**
 

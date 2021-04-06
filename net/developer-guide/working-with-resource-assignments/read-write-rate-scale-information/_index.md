@@ -1,5 +1,6 @@
 ---
 title: Read Write Rate Scale Information
+description: "Learn how to edit Microsoft Project (MPP/XML) resource assignment rate scales using Aspose.Tasks for .NET."
 type: docs
 weight: 110
 url: /net/read-write-rate-scale-information/

@@ -1,5 +1,5 @@
 ---
-title: Stop or Resume an Assignment in Php
+title: Stop or Resume an Assignment in PHP
 type: docs
 weight: 80
 url: /java/stop-or-resume-an-assignment-in-php/
@@ -8,53 +8,33 @@ url: /java/stop-or-resume-an-assignment-in-php/
 ## **Aspose.Tasks - Stop or Resume an Assignment**
 To Stop or Resume an Assignment using **Aspose.Tasks Java for PHP**, simply invoke **StopAndResumeAssignment** module. Here you can see example code.
 
-**PHP Code**
-
 {{< highlight php >}}
-
 $project = new Project($dataDir . 'test_tasks.mpp');
-
 $resource_assignments = $project->getResourceAssignments()->toList();
-
-\# Parse through all the collected resource assignments
-
 $i = 0;
-
 $asn=new Asn();
-
 while ($i < sizeof($resource_assignments)) {
+    $assignment = $resource_assignments -> get($i);
 
-$assignment = $resource_assignments -> get($i);
+    if ((string)$assignment -> get($asn -> STOP) == "1/1/2000") {
+        print "NA".PHP_EOL;
+    }
+    else {
+        print (string)$assignment -> get($asn -> STOP);
+    }
 
-if ((string)$assignment -> get($asn -> STOP) == "1/1/2000") {
-
-print "NA".PHP_EOL;
-
+    if ((string)$assignment -> get($asn -> RESUME) == "1/1/2000")
+    {
+        print "NA".PHP_EOL;
+    }
+    else 
+    {
+        print (string)$assignment -> get($asn -> RESUME);
+    }
+    $i += 1;
 }
-
-else {
-
-print (string)$assignment -> get($asn -> STOP);
-
-}
-
-if ((string)$assignment -> get($asn -> RESUME) == "1/1/2000"){
-
-print "NA".PHP_EOL;
-
-}
-
-else {
-
-print (string)$assignment -> get($asn -> RESUME);
-
-}
-
-$i += 1;
-
-}
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Stop or Resume an Assignment (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

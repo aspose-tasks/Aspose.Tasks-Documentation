@@ -6,7 +6,7 @@ url: /java/outline-properties-in-ruby/
 ---
 
 ## **Aspose.Tasks - Getting Outline Properties**
-To Get Outline Properties using **Aspose.Tasks Java for Ruby**, call **get_outline_properties** method of **TasksProperties** module. Here you can see example code.
+To get Outline Properties using **Aspose.Tasks Java for Ruby**, call **get_outline_properties** method of **TasksProperties** module. Here you can see example code.
 
 **Ruby Code**
 

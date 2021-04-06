@@ -6,7 +6,7 @@ url: /java/general-properties-in-ruby/
 ---
 
 ## **Aspose.Tasks - Getting General Properties**
-To Get General Properties using **Aspose.Tasks Java for Ruby**, call **get_general_properties** method of **TasksProperties** module. Here you can see example code.
+To get General Properties using **Aspose.Tasks Java for Ruby**, call **get_general_properties** method of **TasksProperties** module. Here you can see example code.
 
 **Ruby Code**
 

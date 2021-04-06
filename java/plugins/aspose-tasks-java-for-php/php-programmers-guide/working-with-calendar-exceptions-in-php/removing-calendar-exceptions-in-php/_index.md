@@ -6,10 +6,10 @@ url: /java/removing-calendar-exceptions-in-php/
 ---
 
 ## **Aspose.Tasks - Removing Calendar Exceptions**
-To Remove Calendar Exceptions using **Aspose.Tasks Java for PHP**, simply invoke **RemoveCalendarException** module. Here you can see example code.
+To remove Calendar Exceptions using **Aspose.Tasks Java for PHP**, simply invoke **RemoveCalendarException** module. Here you can see example code.
 
 {{< highlight php >}}
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 $cal = $project->getCalendars()->toList()->get(0);
 if((int)(string)($cal->getExceptions()->getCount()) > 1) {
     $exception = $cal -> getExceptions() -> toList() -> get(0);

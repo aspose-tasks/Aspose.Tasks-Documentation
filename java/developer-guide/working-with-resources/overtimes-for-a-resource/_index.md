@@ -1,11 +1,10 @@
 ---
-title: Overtimes for a Resource
+title: Managing Resource Overtimes
+description: "Learn how to manage Microsoft Project (MPP/XML) resource calendar overtimes using Aspose.Tasks for Java."
 type: docs
 weight: 40
 url: /java/overtimes-for-a-resource/
 ---
-
-{{% alert color="primary" %}} 
 
 The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class exposes a number of properties for managing resource overtime:
 
@@ -14,8 +13,6 @@ The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calen
 - OvertimeRateFormat represents the units used for the overtime rate (RateFormatType).
 - OvertimeCost represents the sum of an actual and remaining overtime cost (decimal).
 - OvertimeWork represents the amount of overtime work scheduled for a task
-
-{{% /alert %}}
 
 ## **Working with Resource Overtimes**
 To see overtime cost, overtime rate and overtime work in Microsoft Project:
