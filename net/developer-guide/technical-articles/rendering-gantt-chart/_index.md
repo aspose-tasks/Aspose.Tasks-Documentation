@@ -38,7 +38,8 @@ In this example, SaveOptions.RollUpGanttBars = true, SaveOptions.DrawNonWorkingT
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderGanttChartWithBarsRolledUp-RenderGanttChartWithBarsRolledUp.cs" >}}
 
-**The output from example 2** 
+**The output from example 2**
+
 ![rendering Gantt Chart with rolled up bar](rendering-gantt-chart_2.png)
 
 ## **Customize Text with Task Bars**

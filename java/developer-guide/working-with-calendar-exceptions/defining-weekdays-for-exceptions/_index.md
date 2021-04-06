@@ -20,6 +20,7 @@ To see a list of exceptions in Microsoft Project:
    The screenshot below shows the dialog for the project saved with the code below.
 
 **Exceptions defined for working days** 
+
 ![defining in calendar exceptions in weekdays Microsoft Project](defining-weekdays-for-exceptions_1.png)
 
 **Programming Sample**

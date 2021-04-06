@@ -24,6 +24,7 @@ To see overtime cost, overtime rate and overtime work in Microsoft Project:
 2. Add the columns. 
 
 **Overtime columns added to the Resource sheet in Microsoft Project** 
+
 ![overtime resource values in Microsoft Project](overtimes-for-a-resource_1.png)
 
 ### **Getting Resource Overtimes in Aspose.Tasks**

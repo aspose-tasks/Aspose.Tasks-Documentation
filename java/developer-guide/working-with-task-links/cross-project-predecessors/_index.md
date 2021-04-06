@@ -18,7 +18,8 @@ In Aspose.Tasks, the CrossProjectName and IsCrossProject properties exposed by t
 
 To manage cross-project predecessor tasks in Microsoft Project from the **Tools** menu, select **Links between Projects**.
 
-**Cross-project predecessors in Microsoft Project** 
+**Cross-project predecessors in Microsoft Project**
+
 ![shows external predecessors in Microsoft Project](cross-project-predecessors_1.png)
 
 ### **Getting Cross-Project Predecessor Tasks using Aspose.Tasks**

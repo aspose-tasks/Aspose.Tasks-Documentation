@@ -21,7 +21,8 @@ To see a task's overtime work and cost properties:
 1. In the Task Entry form, select the **Insert** menu and then **Column**.
 2. Add the overtime columns.
 
-**Overtime columns in Microsoft Project** 
+**Overtime columns in Microsoft Project**
+
 ![overtime field tasks in Microsoft Project](overtimes-in-tasks_1.png)
 
 ### **Getting task overtimes in Aspose.Tasks**

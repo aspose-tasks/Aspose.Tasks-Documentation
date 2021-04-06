@@ -24,171 +24,85 @@ This new API is incompatible with the Legacy API and the objective of this artic
 - [Create Resource Assignment](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/)
 
 {{% /alert %}} 
+
 ### **Setting Default Project Properties**
 Aspose.Tasks' legacy API allowed setting default properties of a project by directly setting the public attributes of the Project class. In the new API implementation, however, it exposes Set and Get methods to achieve the same.
+
 ###### **Legacy API Code Sample**
-**C#**
 
 {{< highlight csharp >}}
-
- //Create a project instance
-
 Project prj = new Project();
-
-//Set   properties default
-
 prj.IsScheduleFromStart = true;
-
 prj.StartDate = DateTime.Now;
-
 prj.DefaultStartTime = prj.StartDate;
-
 prj.DefaultTaskType = TaskType.FixedDuration;
-
 prj.DefaultStandardRate=15;
-
 prj.DefaultOvertimeRate=12;
-
 prj.DefaultTaskEVMethod = EarnedValueMethodType.PercentComplete;
-
 prj.DefaultFixedCostAccrual = CostAccrualType.Prorated;
-
-//Save the project to XML format
-
 prj.Save( "Project4.xml" , Aspose.Tasks.Saving.SaveFileFormat.XML);
-
 {{< /highlight >}}
 
-**VB.NET**
-
 {{< highlight csharp >}}
-
- 'Create a project instance
-
+'Create a project instance
 Dim prj As New Project()
-
-'Set   properties default
-
 prj.IsScheduleFromStart = True
-
 prj.StartDate = DateTime.Now
-
 prj.DefaultStartTime = prj.StartDate
-
 prj.DefaultTaskType = TaskType.FixedDuration
-
 prj.DefaultStandardRate = 15
-
 prj.DefaultOvertimeRate = 12
-
 prj.DefaultTaskEVMethod = EarnedValueMethodType.PercentComplete
-
 prj.DefaultFixedCostAccrual = CostAccrualType.Prorated
-
-'Save the project to XML format
-
 prj.Save("Project4.xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
-
 {{< /highlight >}}
+
 ###### **New Aspose.Tasks for .NET 8.x Approach**
-**C#**
-
 {{< highlight csharp >}}
-
- //Create a project instance
-
 Project project = new Project();
-
-//Set default properties
-
 project.Set(Prj.ScheduleFromStart,true);
-
 project.Set(Prj.StartDate, DateTime.Now);
-
 project.Set(Prj.DefaultStartTime,project.Get(Prj.StartDate));
-
 project.Set(Prj.DefaultTaskType, TaskType.FixedDuration);
-
 project.Set(Prj.DefaultStandardRate, 15);
-
 project.Set(Prj.DefaultOvertimeRate, 12);
-
 project.Set(Prj.DefaultTaskEVMethod, EarnedValueMethodType.PercentComplete);
-
 project.Set(Prj.DefaultFixedCostAccrual, CostAccrualType.Prorated);
-
-//Save the project to XML format
-
 project.Save("ProjectDefaultProps.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
 
 **VB.NET**
 
 {{< highlight csharp >}}
-
- 'Create a project instance
-
 Dim project As New Project()
-
-'Set default properties
-
 project.[Set](Prj.ScheduleFromStart, True)
-
 project.[Set](Prj.StartDate, DateTime.Now)
-
 project.[Set](Prj.DefaultStartTime, project.[Get](Prj.StartDate))
-
 project.[Set](Prj.DefaultTaskType, TaskType.FixedDuration)
-
 project.[Set](Prj.DefaultStandardRate, 15)
-
 project.[Set](Prj.DefaultOvertimeRate, 12)
-
 project.[Set](Prj.DefaultTaskEVMethod, EarnedValueMethodType.PercentComplete)
-
 project.[Set](Prj.DefaultFixedCostAccrual, CostAccrualType.Prorated)
-
-'Save the project to XML format
-
 project.Save("ProjectDefaultProps.xml", SaveFileFormat.XML)
-
 {{< /highlight >}}
+
 ### **Creating and Adding Calendar to a Project**
 In order for proper functionality of Calendar items added to the Project, the legacy API required to recalculate Calendar UIDs. In the new API, however, UIDs recalculation are automatically dealt and there is no need to call the calculations manually.
+
 ###### **Legacy API Code Sample**
-**C#**
 
 {{< highlight csharp >}}
-
- //Create a project instance
-
 Project prj =  new Project();
-
-//Define Calendar
-
 Aspose.Tasks.Calendar cal1 = new  Aspose.Tasks.Calendar();
-
 cal1.Name ="no info";
-
 Aspose.Tasks.Calendar cal2 = new  Aspose.Tasks.Calendar(1);
-
 cal2.Name = "no name";
-
 Aspose.Tasks.Calendar cal3 = new  Aspose.Tasks.Calendar( "cal3" );
-
 prj.Calendars.Add(cal1);
-
 prj.Calendars.Add(cal2);
-
 prj.Calendars.Add(cal3);
-
 prj.CalcCalendarUids();
-
-//Save the Project
-
 prj.Save( "Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML);
-
 {{< /highlight >}}
 
 **VB.NET**

@@ -11,6 +11,7 @@ url: /net/aspose-tasks-for-net-20-9-1-release-notes/
 This page contains release notes information for [Aspose.Tasks for .Net 20.9.1](https://downloads.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.9.1/).
 
 {{% /alert %}}
+
 ## **All Changes**
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
@@ -21,17 +22,13 @@ This page contains release notes information for [Aspose.Tasks for .Net 20.9.1](
 
 For Metered license the credit charging logic have been modified in the following way:
 
-1) For each loading or creation of a project instance the customer is charged with 1 credit.
-2) For large files, every 20MB file chunk, after the first 20MB, will incur an additional one credit surcharge.
-3) Save operation is not charged
+1. For each loading or creation of a project instance the customer is charged with 1 credit.
+2. For large files, every 20MB file chunk, after the first 20MB, will incur an additional one credit surcharge.
+3. Save operation is not charged
 
 {{< highlight csharp >}}
-
 Project p = new Project(); // New project is created: 1 credit is charged
-
 Project p2 = new Project("test project"); // Project is opened from file: 1 credit is charged and 1 credit for every 20MB file chunk, after the first 20MB
-
 p2.Save("output.mpp", SaveFileFormat.MPP); // no credit is charged
 p2.Save("output.pdf", SaveFileFormat.PDF); // no credit is charged
-
 {{< /highlight >}}

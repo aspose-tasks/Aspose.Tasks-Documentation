@@ -9,7 +9,8 @@ url: /java/managing-task-costs/
 
 To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks supports this feature of Microsoft Project with a range of properties.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Task Cost**
 The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes several properties for working with task cost:
 
@@ -18,13 +19,15 @@ The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) cl
 - BCWS: the budgeted cost of scheduled work (double).
 - FIXED_COST: the fixed cost associated with a task (single).
 - FIXED_COST_ACCRUAL: the fixed cost accrued for a task (CostAccrualType).
+
 ### **Viewing Task Costs in Microsoft Project**
 To view task costs in Microsoft Project:
 
 1. On the Task Entry form, go to the **Insert** menu and select **Columns**.
 2. Add the cost columns.
 
-**Task cost in Microsoft Project** 
+**Task cost in Microsoft Project**
+
 ![edit task costs in Microsoft Project](managing-task-costs_1.png)
 
 ### **Getting Task Costs**

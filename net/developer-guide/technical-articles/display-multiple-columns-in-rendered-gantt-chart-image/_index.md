@@ -267,7 +267,8 @@ namespace RenderProject
 }
 {{< /highlight >}}
 
-The following is the image and HTML image produced with the example code: 
+The following is the image and HTML image produced with the example code:
+
 ![resulting HTML exported by Aspose.Tasks 1](display-multiple-columns-in-rendered-gantt-chart-image_2.png)
 ![resulting HTML exported by Aspose.Tasks 2](display-multiple-columns-in-rendered-gantt-chart-image_3.png)
 

@@ -15,6 +15,7 @@ The [GetTaskFinishDateFromDuration](https://apireference.aspose.com/tasks/net/as
 ### **Split Tasks in Microsoft Project**
 To view the start date of a split task in Microsoft Project one can select **Gantt Chart** from the **View** menu.
 The parts of a split task are showing as chunks connected by a line of dots.
+
 ![checking the task has splits](Split-Tasks-001.png)
 
 ### **Calculating a Split Task's Finish Date with Aspose.Tasks**

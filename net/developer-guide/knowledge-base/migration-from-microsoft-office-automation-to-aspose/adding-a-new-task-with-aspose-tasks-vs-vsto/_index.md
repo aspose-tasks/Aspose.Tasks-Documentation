@@ -24,44 +24,21 @@ This imports the Microsoft.Office.Interop.MSProject namespace at the start of yo
 ### **Programming Samples - VSTO**
 
 {{< highlight csharp >}}
-
-// Create an Application object
 Microsoft.Office.Interop.MSProject.Application projectApplication = new Application();
 object missingValue = System.Reflection.Missing.Value;
-
-// Open an MPP file
 projectApplication.FileOpenEx(@"C:\Project1.mpp",
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue);
-
-// Create a Project object by assigning active project
-
 Microsoft.Office.Interop.MSProject.Project project = projectApplication.ActiveProject;
-
-// Create and add new task
-
 Microsoft.Office.Interop.MSProject.Task task;
-
 task = project.Tasks.Add("Task1", 1);
-
 task.Start = "8/23/2012";
-
 task.Duration = 3 * 8 * 60;
-
 task.Text1 = "Task1";
-
-// Save project and close application
-
 projectApplication.FileCloseAll(Microsoft.Office.Interop.MSProject.PjSaveType.pjSave);
-
 {{< /highlight >}}
 
 ## **Add a Task Using Aspose.Tasks for .NET**
