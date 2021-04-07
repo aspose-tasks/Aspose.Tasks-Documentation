@@ -1,5 +1,6 @@
 ---
 title: Retrieving Calendar Exceptions in Ruby
+description: "This article explains how to retrieve calendar exception data using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 50
 url: /java/retrieving-calendar-exceptions-in-ruby/
@@ -19,7 +20,7 @@ while i < calendars.size()
     puts "From: " + calException.getFromDate().toString()
     puts "To: " + calException.getToDate().toString()
   end
-  i +=1
+  i += 1
 end
 {{< /highlight >}}
 

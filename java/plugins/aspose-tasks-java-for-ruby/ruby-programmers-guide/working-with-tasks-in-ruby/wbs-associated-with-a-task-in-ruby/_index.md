@@ -21,7 +21,7 @@ while i < tasks.size()
     task = tasks.get(i)
     puts "WBS: " + task.get(tsk.WBS).to_string
     puts "WBS Level: " + task.get(tsk.WBS_LEVEL).to_s
-    i +=1
+    i += 1
 end
 {{< /highlight >}}
 

@@ -1,5 +1,7 @@
 ---
 title: Convert Project data to SVG format
+description: "This article explains how to convert Microsoft Project (MPP/XML) files to JPEG using Aspose.Tasks for C++."
+keywords: "Convert Microsoft Project (MPP/XML) to JPEG, Convert MPP to JPEG, Export MPP Project to JPEG, save project data to JPEG, Save MPP as JPEG, Aspose.Tasks for C++"
 type: docs
 weight: 40
 url: /cpp/convert-project-data-to-svg-format/
@@ -10,7 +12,6 @@ url: /cpp/convert-project-data-to-svg-format/
 This article demonstrates how to render project data to SVG format using Aspose.Tasks for C++.
 
 {{% /alert %}}
-
 
 ## **Saving a Project as SVG**
 The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class exposes the Save method which is used to save a project in various formats. The Save method allows you to render project data to SVG format using the SaveFileFormat enumeration type.

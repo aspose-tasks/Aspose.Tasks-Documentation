@@ -18,6 +18,7 @@ end
 
 ## **Aspose.Tasks - Setting Currency Symbols**
 To set currency symbols using **Aspose.Tasks Java for Ruby**, call **set_currency_symbol** method of **CurrencySymbols** module. Here you can see example code.
+
 {{< highlight ruby >}}
 def set_currency_symbol()
     project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')

@@ -1,5 +1,7 @@
 ---
 title: Defining Weekdays for Exceptions in PHP
+description: "Learn how to define exception weekdays for Microsoft Project (MPP/XML) projects using Aspose.Tasks Java for PHP."
+keywords: "Defining Weekdays for Exceptions, work with weekdays exceptions, weekday calendar exception, Aspose.Tasks, Java, PHP"
 type: docs
 weight: 20
 url: /java/defining-weekdays-for-exceptions-in-php/
@@ -9,7 +11,7 @@ url: /java/defining-weekdays-for-exceptions-in-php/
 To Define Weekdays for Exceptions using **Aspose.Tasks Java for PHP**, simply invoke **DefineWeekdaysForExceptions** module. Here you can see example code.
 
 {{< highlight php >}}
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 $cal = $project->getCalendars()->add("Calendar1");
 $except = new CalendarException();
 $except->setEnteredByOccurrences(false);

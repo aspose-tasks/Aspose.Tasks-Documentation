@@ -22,12 +22,12 @@ eight bugs have been fixed. Please, see list of all features below.
 |New Feature |TASKS-33938 |Implement evaluation of functions in formulas |
 |Investigation |TASKS-33945 |Updating MPP raises ArgumentOutOfRangeException |
 |Enhancement |TASKS-33886 |Provide option to set start date for GanttChart view while saving as MPP |
-|Bug |TASKS-33963 |Normal tasks become summary task after saving the project by Aspose.Tasks |
+|Bug |TASKS-33963 |Normal tasks become summary task after saving the project by Aspose.Tasks for .NET|
 |Bug |TASKS-33965 |MPP to XML issue |
 |Bug |TASKS-33966 |TaskReadingException while loading MPP File |
 |Bug |TASKS-33973 |Low performance of RescheduleUncompletedWorkToStartAfter method |
 |Bug |TASKS-33974 |Slow performance with Resource Assignment |
-|Bug |TASKS-33964 |Extended attribute values become combo box after saving MPP file by Aspose.Tasks |
+|Bug |TASKS-33964 |Extended attribute values become combo box after saving MPP file by Aspose.Tasks for .NET|
 |Bug |TASKS-33983 |Setting Actual Start of Task doesn't update Summary Task's "Actual Start" field |
 
 ## **Public API and Backwards Incompatible Changes**

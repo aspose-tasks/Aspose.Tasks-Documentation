@@ -1,5 +1,7 @@
 ---
 title: Defining Weekdays for Exceptions in Ruby
+description: "Learn how to define exception weekdays for Microsoft Project (MPP/XML) projects using Aspose.Tasks Java for Ruby."
+keywords: "Defining Weekdays for Exceptions, work with weekdays exceptions, weekday calendar exception, Aspose.Tasks, Java, Ruby"
 type: docs
 weight: 20
 url: /java/defining-weekdays-for-exceptions-in-ruby/

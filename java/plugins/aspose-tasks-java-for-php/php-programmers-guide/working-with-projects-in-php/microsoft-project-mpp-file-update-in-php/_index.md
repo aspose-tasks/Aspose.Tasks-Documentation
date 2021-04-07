@@ -14,7 +14,7 @@ To Update Project File using **Aspose.Tasks Java for PHP**, simply invoke **Upda
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 \# create a new task
 
@@ -40,7 +40,7 @@ $task->set($tsk->FINISH , $cal->getTime());
 
 $saveFileFormat=new SaveFileFormat();
 
-$project->save($dataDir . "AfterLinking.mpp", $saveFileFormat->MPP);
+$project->save("AfterLinking.mpp", $saveFileFormat->MPP);
 
 print "Project file updated, please check the output file.".PHP_EOL;
 

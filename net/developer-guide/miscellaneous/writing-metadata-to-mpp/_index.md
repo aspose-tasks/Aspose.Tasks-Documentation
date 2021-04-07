@@ -6,7 +6,7 @@ weight: 50
 url: /net/writing-metadata-to-mpp/
 ---
 
-Aspose.Tasks provides a facility for writing metadata to MPP files for calendars, tasks, task links, resources and resource assignments.
+Aspose.Tasks for .NET provides a facility for writing metadata to MPP files for calendars, tasks, task links, resources and resource assignments.
 
 ## **Writing Metadata to Microsoft Project Files**
 The following metadata is used in this example:

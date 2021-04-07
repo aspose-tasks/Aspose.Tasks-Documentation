@@ -1,15 +1,13 @@
 ---
 title: Writing Metadata to MPP
+description: "Learn how to write metadata of tasks, calendars, resources, resource assignments using Aspose.Tasks for C++."
 type: docs
 weight: 50
 url: /cpp/writing-metadata-to-mpp/
 ---
 
-{{% alert color="primary" %}} 
-
 Aspose.Tasks for C++ API provides a facility for writing metadata to MPP files for calendars, tasks, task links, resources and resource assignments.
 
-{{% /alert %}} 
 ## **Writing Metadata to Microsoft Project Files**
 The following metadata is used in this example:
 
@@ -55,6 +53,5 @@ The following steps are followed in the sample code to demonstrate how to write 
 7. Set the project baseline.
 8. Add a new task extended attribute.
 9. Save changes as an MPP file.
- 
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-WriteMetadataToMPP-WriteMetadataToMPP.cpp" >}}

@@ -1,5 +1,6 @@
 ---
 title: Reporting Services
+description: "Learn how to use Aspose.Tasks for C++ to print reports exported from Microsoft Project (MPP/XML) files."
 type: docs
 weight: 30
 url: /cpp/reporting-services/
@@ -14,7 +15,7 @@ Aspose.Tasks for C++ API provides reporting services for creating reports from p
 
 {{% /alert %}}
 
-## **Aspose.Tasks Reporting Services**
+## **Aspose.Tasks for C++ Reporting Services**
 ### **Types of Report**
 The following types of report can be created using Aspose.Tasks:
 

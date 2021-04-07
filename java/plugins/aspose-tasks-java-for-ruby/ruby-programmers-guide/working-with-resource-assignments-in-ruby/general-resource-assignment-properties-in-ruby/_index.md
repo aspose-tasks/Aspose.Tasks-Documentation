@@ -20,7 +20,7 @@ To get general resource assignment properties using **Aspose.Tasks Java for Ruby
       puts assignment.get(Rjb::import('com.aspose.tasks.Asn').START).to_string
       puts assignment.get(Rjb::import('com.aspose.tasks.Asn').FINISH).to_string
       puts "--------------------------------------------------------"
-      i +=1
+      i += 1
     end
 end
 {{< /highlight >}}

@@ -1,5 +1,6 @@
 ---
 title: Create an Empty Project File
+description: "Learn how to create an empty Microsoft Project (MPP/XML) file using Aspose.Tasks for .NET."
 type: docs
 weight: 30
 url: /net/create-an-empty-project-file/
@@ -22,9 +23,8 @@ At present, Aspose.Tasks provides the facility to create **XML** project files o
 Below is code sample:
 
 {{< highlight csharp >}}
- string FileName = "NewProject.xml";
- Project MyProject = new Project();
- MyProject.Save(FileName, Saving.SaveFileFormat.XML);
+Project project = new Project();
+project.Save("NewProject.xml", Saving.SaveFileFormat.XML);
 {{< /highlight >}}
 
 ## **Download Running Code**

@@ -11,60 +11,30 @@ To Read Fiscal Year Properties using **Aspose.Tasks Java for Ruby**, call **get_
 **Ruby Code**
 
 {{< highlight ruby >}}
-
- def get_fiscal_year_properties()
-
-    data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
-
-
-
-   
-
-    project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
-
+def get_fiscal_year_properties()
+    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
     prj = Rjb::import('com.aspose.tasks.Prj')
-
-    # Display fiscal year properties
-
     puts "Fiscal Year Start Date : " + project.get(prj.FY_START_DATE).toString()
-
     puts "Fiscal Year Numbering : " + project.get(prj.FISCAL_YEAR_START).toString()
-
 end
-
 {{< /highlight >}}
+
 ## **Aspose.Tasks - Writing Fiscal Year Properties**
 To Write Fiscal Year Properties using **Aspose.Tasks Java for Ruby**, call **set_fiscal_year_properties** method of **FiscalYearProperties** module. Here you can see example code.
 
 **Ruby Code**
 
 {{< highlight ruby >}}
-
- def set_fiscal_year_properties()
-
-    data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
-
-
-
-   
-
+def set_fiscal_year_properties()
     project = Rjb::import('com.aspose.tasks.Project').new
-
     prj = Rjb::import('com.aspose.tasks.Prj')
-
-    # Set fiscal year properties
-
     project.set(prj.FY_START_DATE, Rjb::import('com.aspose.tasks.Month').July)
-
     project.set(prj.FISCAL_YEAR_START, Rjb::import('com.aspose.tasks.NullableBool').new(true))
-
-    project.save(data_dir + "fiscal_year_properties.xml", Rjb::import('com.aspose.tasks.SaveFileFormat').XML)
-
+    project.save("fiscal_year_properties.xml", Rjb::import('com.aspose.tasks.SaveFileFormat').XML)
     puts "Set fiscal year properties, please check the output file."
-
 end
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Fiscal Year Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

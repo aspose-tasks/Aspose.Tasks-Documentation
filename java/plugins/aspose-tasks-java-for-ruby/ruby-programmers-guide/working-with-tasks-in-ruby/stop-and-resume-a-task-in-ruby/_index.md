@@ -11,8 +11,7 @@ To Stop and Resume a Task using **Aspose.Tasks Java for Ruby**, simply invoke **
 **Ruby Code**
 
 {{< highlight ruby >}}
-data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
-project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
 collector = Rjb::import('com.aspose.tasks.ChildTasksCollector').new
 Rjb::import('com.aspose.tasks.TaskUtils').apply(project.getRootTask(), collector, 0)
 tasks = collector.getTasks()
@@ -32,7 +31,7 @@ while i < tasks.size()
 		puts "Task Resume: " + task.get(tsk.RESUME).toString()
 	end
         puts "---------------------------------------------"
-    i +=1
+    i += 1
 end
 {{< /highlight >}}
 

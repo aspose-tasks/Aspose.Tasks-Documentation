@@ -5,24 +5,22 @@ weight: 80
 url: /net/split-tasks-in-vsto-and-aspose-tasks/
 ---
 
-Sometimes it is not possible to complete a task as scheduled and it needs to be split into two or more parts. Aspose.Tasks supports this Microsoft Project feature.
+Sometimes it is not possible to complete a task as scheduled and it needs to be split into two or more parts. Aspose.Tasks for .NET supports this Microsoft Project feature.
 
 ## **Code Examples**
 ### **VSTO**
 Below is the code for VSTO Project to split tasks:
 
 {{< highlight csharp >}}
-string FileName = "MyProject.mpp";
 object missingValue = System.Reflection.Missing.Value;
-Application.FileOpenEx(FileName,
+Application.FileOpenEx("MyProject.mpp",
    missingValue, missingValue, missingValue, missingValue,
    missingValue, missingValue, missingValue, missingValue,
    missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
    missingValue, missingValue, missingValue, missingValue,
    missingValue);
-
-Project MyProject = Application.ActiveProject;
-Task MyTask = MyProject.Tasks[1];
+Project project = Application.ActiveProject;
+Task MyTask = project.Tasks[1];
 MyTask.Split(DateTime.Parse("01.11.13 08:00"), DateTime.Parse("09.11.13 08:00"));
 {{< /highlight >}}
 
@@ -54,10 +52,9 @@ To create and split a task, follow these steps:
 The following code shows how to accomplish these tasks:
 
 {{< highlight csharp >}}
-string FileName = "MyProject.mpp";
-Project MyProject = new Project(FileName);
-ResourceAssignment MyResource = MyProject.ResourceAssignments[0];
-MyResource.SplitTask(DateTime.Parse("01.11.13 08:00"), DateTime.Parse("09.11.13 08:00"), MyProject.Calendar);
+Project project = new Project("MyProject.mpp");
+ResourceAssignment MyResource = project.ResourceAssignments[0];
+MyResource.SplitTask(DateTime.Parse("01.11.13 08:00"), DateTime.Parse("09.11.13 08:00"), project.Calendar);
 {{< /highlight >}}
 
 ## **Download Running Code**

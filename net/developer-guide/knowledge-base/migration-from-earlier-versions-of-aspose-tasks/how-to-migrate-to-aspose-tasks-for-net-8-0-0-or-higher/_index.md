@@ -182,172 +182,109 @@ prj.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
 **C#**
 
 {{< highlight csharp >}}
-
- //Create a project instance
-
+// Create a project instance
 Project project = new Project();
-
-//Define Calendar and make it standard
-
+// Define Calendar and make it standard
 Aspose.Tasks.Calendar cal1 = project.Calendars.Add("My Cal");
-
 Aspose.Tasks.Calendar.MakeStandardCalendar(cal1);
-
-//Save the Project
-
 project.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML);
-
 {{< /highlight >}}
 
 **VB.NET**
 
 {{< highlight csharp >}}
-
- 'Create a project instance
-
+'Create a project instance
 Dim project As New Project()
-
 'Define Calendar and make it standard
-
 Dim cal1 As Aspose.Tasks.Calendar = project.Calendars.Add("My Cal")
-
 Aspose.Tasks.Calendar.MakeStandardCalendar(cal1)
-
 'Save the Project
-
 project.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
-
 {{< /highlight >}}
+
 ### **Create and Add Task to Project**
 Creating a new task in the legacy API, it required to define a root task, add it to the project as its root task, and then add a new task to this root task as a child. The new API, however, doesn't need you to define the root task and takes care of it automatically while adding the first task to the project.
+
 ###### **Legacy API Code Sample**
+
 **C#**
 
 {{< highlight csharp >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Task rootTask = new Task();
-
 Task tskGen = new Task("Task1");
-
 tskGen.Id = 1;
-
 tskGen.Uid = 1;
-
 tskGen.Start = DateTime.Parse("17-Aug-2009 8:00 AM" );
-
 tskGen.Finish = DateTime.Parse( "17-Aug-2009 5:00 PM" );
-
 project.RootTask = rootTask;
-
 project.RootTask.Children.Add(tskGen);
-
 project.Save("Project.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
 
 **VB.NET**
 
 {{< highlight csharp >}}
-
- Dim project As New Project()
-
+Dim project As New Project()
 Dim tskGen As New Task("Task1")
-
 tskGen.Id = 1
-
 tskGen.Uid = 1
-
 tskGen.Start = DateTime.Parse("17-Aug-2009 8:00 AM")
-
 tskGen.Finish = DateTime.Parse("17-Aug-2009 5:00 PM")
-
 project.RootTask = rootTask
-
 project.RootTask.Children.Add(tskGen)
-
 project.Save("Project.xml", SaveFileFormat.XML)
-
 {{< /highlight >}}
+
 ###### **New Aspose.Tasks for .NET 8.x Approach**
 **C#**
 
 {{< highlight csharp >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Task task = project.RootTask.Children.Add("Task 1");
-
 task.Set(Tsk.Start, project.RootTask.Get(Tsk.Start).AddDays(1));
-
-//set task start day
-
+// set task start day
 project.Save("CreateTasks.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
 
 **VB.NET**
 
 {{< highlight csharp >}}
-
- Dim project As New Project()
-
+Dim project As New Project()
 Dim task As Task = project.RootTask.Children.Add("Task 1")
-
 task.[Set](Tsk.Start, project.RootTask.[Get](Tsk.Start).AddDays(1))
-
 'set task start day
-
 project.Save("CreateTasks.xml", SaveFileFormat.XML)
-
 {{< /highlight >}}
 
 ### **Create and Add Resource to Project**
 Set and Get methods have been added to the Resource class of the API for manipulating attributes related to a project's Resource.
+
 ###### **Legacy API Code Sample**
 **C#**
 
 {{< highlight csharp >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Resource res =   Resource(new "Res1");
-
 res.Id = 1;
-
 res.Uid = 1;
-
 res.Start = DateTime.Parse("19-Aug-2009 8:00 AM");
-
 res.Finish = DateTime.Parse("19-Aug-2009 5:00 PM");
-
 project.Resources.Add(res);
-
 project.Save("Project.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
 
 **VB.NET**
 
 {{< highlight csharp >}}
-
- Dim project As New Project()
-
+Dim project As New Project()
 Dim res As New Resource("Res1")
-
 res.Id = 1
-
 res.Uid = 1
-
 res.Start = DateTime.Parse("19-Aug-2009 8:00 AM")
-
 res.Finish = DateTime.Parse("19-Aug-2009 5:00 PM")
-
 project.Resources.Add(res)
-
 project.Save("Project.xml", SaveFileFormat.XML)
-
 {{< /highlight >}}
 
 ###### **New Aspose.Tasks for .NET 8.x Approach**

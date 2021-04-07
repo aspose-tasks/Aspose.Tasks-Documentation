@@ -11,7 +11,7 @@ We have supported several important features in this release. Risk
 analysis tool based on Monte Carlo with pdf report has been implemented.
 We have implemented reading project data from Microsoft Project database. It 
 will allow to cover a lot of scenarios of working with Microsoft Project 
-Server and Aspose.Tasks library. Note, now it can work for default 
+Server and Aspose.Tasks for .NET library. Note, now it can work for default 
 calendar only. Microsoft Project 2016 file format has been supported. Three 
 bugs have been fixed. Please see the list of changes below.
 

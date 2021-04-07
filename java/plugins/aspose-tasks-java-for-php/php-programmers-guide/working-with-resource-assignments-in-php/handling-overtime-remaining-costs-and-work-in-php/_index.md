@@ -12,7 +12,7 @@ To Handle Overtime, Remaining Costs and Work using **Aspose.Tasks Java for PHP**
 
 {{< highlight php >}}
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 $resource_assignments = $project->getResourceAssignments()->toList();
 

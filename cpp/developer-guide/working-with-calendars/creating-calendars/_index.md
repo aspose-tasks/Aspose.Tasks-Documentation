@@ -1,5 +1,6 @@
 ---
 title: Creating Calendars
+description: "Learn how to create Microsoft Project (MPP/XML) calendars using Aspose.Tasks for C++."
 type: docs
 weight: 10
 url: /cpp/creating-calendars/
@@ -22,6 +23,7 @@ Open the output file in Microsoft Project and, on the **Project** menu, select
 ![update resource calendar in Microsoft Project](creating-updating-and-removing-calendar_1.png)
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithCalendars-CreatingUpdatingAndRemoving-CreatingCalendar-CreatingCalendar.cpp" >}}
+
 ## **Defining Weekdays for Calendar**
 Microsoft Project keeps track of which days are considered weekdays in a calendar so that it can calculate project end dates and so on. Aspose.Tasks for C++ API allows developers to define weekdays for a calendar associated with a project.
 
@@ -38,6 +40,7 @@ The code samples below set weekdays for a project. After running the code, open 
 The code sample given below defines Monday through Thursday as weekdays with default timings, whereas Friday as a weekday with special timings.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithCalendars-CreatingUpdatingAndRemoving-DefineWeekdaysForCalendar-DefineWeekdaysForCalendar.cpp" >}}
+
 ## **Making a Standard Calendar**
 A standard calendar provides the most common work days, work hours and holidays. By default, a standard calendar is added whenever a project is created using Microsoft Project. Aspose.Tasks for C++ API has features for defining a standard calendar for a project.
 

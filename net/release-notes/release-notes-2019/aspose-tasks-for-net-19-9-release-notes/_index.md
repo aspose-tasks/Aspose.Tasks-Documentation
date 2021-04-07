@@ -24,7 +24,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 19.9](ht
 |TASKSNET-3451 | Fix missing resource GUID after resave |Bug|
 |TASKSNET-3444 | Fix crash when saving MPP as XML due to Formula-Column  |Bug|
 |TASKSNET-3441 | Fix exception on loading protected MPP file |Bug|
-|TASKSNET-3426 | Fix Aspose.Tasks reading of Tsk.Finish date from an XML file |Bug|
+|TASKSNET-3426 | Fix Aspose.Tasks for .NET reading of Tsk.Finish date from an XML file |Bug|
 |TASKSNET-3344 | Resource GUID is not being saved correctly in MPP9 (2003) |Bug|
 |TASKSNET-3216 | Fix parsing of formula to accept ';' as arguments separator |Bug|
 |TASKSNET-3215 | Fix an issue with generating of task with different resources |Bug|

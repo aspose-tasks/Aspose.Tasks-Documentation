@@ -23,7 +23,7 @@ bugs have been fixed. Please see the list of changes below.
 |Bug |TASKS-34260 |HtmlSaveOptions class is missing in latest version |
 |Bug |TASKS-34259 |MSP does not show task split when opening resaved mpp file. |
 |Bug |TASKS-34245 |OutlineValue properties not read properly from MPP |
-|Bug |TASKS-34242 |Task segments are lost while saving XML to MPP using Aspose.Tasks |
+|Bug |TASKS-34242 |Task segments are lost while saving XML to MPP using Aspose.Tasks for .NET|
 |Bug |TASKS-34239 |Loading Primavera XML file raises NullReferenceException |
 |Bug |TASKS-34236 |Calendar Exceptions not read properly |
 |Bug |TASKS-34235 |Prj.MinutesPerDay returns 0 for Primavera Project file |

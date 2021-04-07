@@ -8,9 +8,9 @@ url: /java/managing-currency-codes-in-php/
 ## **Aspose.Tasks - Getting Currency Code**
 To get currency code using **Aspose.Tasks Java for PHP**, call **get_currency_code** method of **CurrencyCodes** module. Here you can see example code.
 {{< highlight php >}}
-public static function get_currency_code($dataDir=null)
+public static function get_currency_code()
 {
-    $project = new Project($dataDir . 'test_tasks.mpp');
+    $project = new Project('test_tasks.mpp');
     $prj = new Prj();
     print "Currency Code: " . (string)$project->get($prj->CURRENCY_CODE).PHP_EOL;
 }

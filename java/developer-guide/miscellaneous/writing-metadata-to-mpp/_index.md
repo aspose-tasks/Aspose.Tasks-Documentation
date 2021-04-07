@@ -1,15 +1,13 @@
 ---
 title: Writing Metadata to MPP
+description: "Learn how to write metadata of tasks, calendars, resources, resource assignments using Aspose.Tasks for Java."
 type: docs
 weight: 30
 url: /java/writing-metadata-to-mpp/
 ---
 
-{{% alert color="primary" %}} 
+Aspose.Tasks for Java provides a facility for writing metadata to MPP files for calendars, tasks, task links, resources and resource assignments.
 
-Aspose.Tasks provides a facility for writing metadata to MPP files for calendars, tasks, task links, resources and resource assignments.
-
-{{% /alert %}} 
 ## **Writing Metadata to Microsoft Project Files**
 The following metadata is used in this example:
 
@@ -55,5 +53,7 @@ The following steps are followed in the sample code to demonstrate how to write 
 7. Set the project baseline.
 8. Add a new task extended attribute.
 9. Save changes as an MPP file.
+
 ### **Writing Metadata**
+
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Miscellaneous-WriteMetadata-WriteMetadata.java" >}}

@@ -17,7 +17,7 @@ This page contains release notes of Aspose.Tasks for .NET 17.5 version.
 | :- | :- | :- |
 |TASKSNET-1918|Tasks with custom timephased data has Percent Complete > 100% and MSP in XML format cannot be imported.|Bug|
 |TASKSNET-1917|Formulas get corrupted after file save|Bug|
-|TASKSNET-1905|Loading a MPP file using Aspose.Tasks throw exception An item with the same key has already been added|Bug|
+|TASKSNET-1905|Loading a MPP file using Aspose.Tasks for .NET throw exception An item with the same key has already been added|Bug|
 |TASKSNET-1899|Recalculation of project sets percent complete to zero on milestone tasks|Bug|
 |TASKSNET-1867|Saving Project raises TaskWritingException|Bug|
 |TASKSNET-1814|Erroneous calendar entry added in XML while converting MSP 2016 MPP|Bug|

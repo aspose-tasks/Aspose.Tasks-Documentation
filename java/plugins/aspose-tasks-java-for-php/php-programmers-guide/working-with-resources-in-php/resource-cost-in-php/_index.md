@@ -12,7 +12,7 @@ To get Resource Cost using **Aspose.Tasks Java for PHP**, simply invoke **Resour
 
 {{< highlight php >}}
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 $resources = $project->getResources()->toList();
 

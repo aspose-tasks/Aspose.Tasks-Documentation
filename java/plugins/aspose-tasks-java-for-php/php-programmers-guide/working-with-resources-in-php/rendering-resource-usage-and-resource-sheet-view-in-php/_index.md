@@ -11,82 +11,40 @@ To Render Resource Usage using **Aspose.Tasks Java for PHP**, call **render_reso
 **PHP Code**
 
 {{< highlight php >}}
-
- public static function render_resource_usage($dataDir=null){
-
-\# Instantiate project object
-
-$project = new Project($dataDir . 'test_tasks.mpp');
-
-\# Define the SaveOptions with required TimeScale settings as Days
-
-$options = new PdfSaveOptions();
-
-$timescale=new Timescale();
-
-$options->setTimescale($timescale->Days);
-
-\# Set the Presentation format to ResourceUsage
-
-$presentationFormat=new PresentationFormat();
-
-$options->setPresentationFormat($presentationFormat->ResourceUsage);
-
-\# Save the Project
-
-$project->save($dataDir . "result_days.pdf", $options);
-
-\# Set the Timescale settings to ThirdsOfMonths
-
-$options->setTimescale($timescale->ThirdsOfMonths);
-
-\# Save the Project
-
-$project->save($dataDir . "result_thirdsOfMonths.pdf", $options);
-
-\# Set the Timescale settings to Months
-
-$options->setTimescale($timescale->Months);
-
-\# Save the project
-
-$project->save($dataDir . "result_months.pdf", $options);
-
-print "Created resource usage files.".PHP_EOL;
-
+public static function render_resource_usage()
+{
+    $project = new Project('test_tasks.mpp');
+    $options = new PdfSaveOptions();
+    $timescale=new Timescale();
+    $options->setTimescale($timescale->Days);
+    $presentationFormat=new PresentationFormat();
+    $options->setPresentationFormat($presentationFormat->ResourceUsage);
+    $project->save("result_days.pdf", $options);
+    $options->setTimescale($timescale->ThirdsOfMonths);
+    $project->save("result_thirdsOfMonths.pdf", $options);
+    $options->setTimescale($timescale->Months);
+    $project->save("result_months.pdf", $options);
+    print "Created resource usage files.".PHP_EOL;
 }
-
 {{< /highlight >}}
+
 ## **Aspose.Tasks - Rendering Resource Sheet View**
 To Render Resource Sheet View using **Aspose.Tasks Java for PHP**, call **render_resource_sheetview** method of **RenderResourceUsageAndSheetView** module. Here you can see example code.
 
 **PHP Code**
 
 {{< highlight php >}}
-
- public static function render_resource_sheetview($dataDir=null){
-
-\# Instantiate project object
-
-$project = new Project($dataDir . 'test_tasks.mpp');
-
-\# Define the SaveOptions with required TimeScale settings as Days
-
-$options = new PdfSaveOptions();
-
-\# Set the Presentation format to ResourceSheet
-
-$presentationFormat=new PresentationFormat();
-
-$options->setPresentationFormat($presentationFormat->ResourceSheet);
-
-$project->save($dataDir . "result.pdf", $options);
-
-print "Created resource sheet view file.".PHP_EOL;
-
+public static function render_resource_sheetview()
+{
+    $project = new Project('test_tasks.mpp');
+    $options = new PdfSaveOptions();
+    $presentationFormat=new PresentationFormat();
+    $options->setPresentationFormat($presentationFormat->ResourceSheet);
+    $project->save("result.pdf", $options);
+    print "Created resource sheet view file.".PHP_EOL;
 }
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Rendering Resource Usage and Resource Sheet View (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

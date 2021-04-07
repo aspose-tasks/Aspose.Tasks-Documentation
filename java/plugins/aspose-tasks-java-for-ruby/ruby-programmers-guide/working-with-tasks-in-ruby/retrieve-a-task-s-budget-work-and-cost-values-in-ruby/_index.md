@@ -11,7 +11,7 @@ To Retrieve a Task's Budget Work and Cost Values using **Aspose.Tasks Java for R
 **Ruby Code**
 
 {{< highlight ruby >}}
-project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
 project_summary = project.getRootTask()
 tsk = Rjb::import('com.aspose.tasks.Tsk')
 rsc = Rjb::import('com.aspose.tasks.Rsc')

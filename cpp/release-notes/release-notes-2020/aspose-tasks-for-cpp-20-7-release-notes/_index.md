@@ -34,7 +34,7 @@ var projectServerCredentials = new ProjectServerCredentials("https://project_ser
 
 |**Key** | **Summary** | **Issue Type**|
 | :- | :- | :- |
-|TASKSNET-4262|Include Aspose Tasks for .NET 4.5 to release package|Feature|
+|TASKSNET-4262|Include Aspose.Tasks for .NET 4.5 to release package|Feature|
 |TASKSNET-4215|Add an ability to specify the non-default path for Project Server's PWA URL|Enhancement|
 |TASKSNET-4209|Fix default columns for Task sheet in XLSX export |Enhancement|
 |TASKSNET-4153|Fix "IsMilestone" flag is not reset when the duration of a task is changed to non zero value and vice versa |Enhancement|

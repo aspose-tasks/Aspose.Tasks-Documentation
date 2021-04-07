@@ -14,7 +14,7 @@ To Handle Critical and Effort-driven Tasks using **Aspose.Tasks Java for PHP**, 
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 \# Create a ChildTasksCollector instance
 

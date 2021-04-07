@@ -32,7 +32,7 @@ This page contains release notes information for Aspose.Tasks for .NET 18.12.
 |TASKSNET-2790|Font size issue while exporting to PDF|Bug|
 |TASKSNET-2732|Reading sub projects from MS Project Server 2016|Bug|
 |TASKSNET-2727|Can’t open exported project to PDF file on Foxit Reader|Bug|
-|TASKSNET-2712|Aspose.Tasks License/Assembly not found|Bug|
+|TASKSNET-2712|Aspose.Tasks for .NET License/Assembly not found|Bug|
 |TASKSNET-2689|Fix incorrect re-save of a project with material custom assignment|Bug|
 |TASKSNET-2653|Remove assigning of actual fields while assigning resource|Bug|
 |TASKSNET-2622|Non-linear timephased data saved as Linear data in the output project|Bug|

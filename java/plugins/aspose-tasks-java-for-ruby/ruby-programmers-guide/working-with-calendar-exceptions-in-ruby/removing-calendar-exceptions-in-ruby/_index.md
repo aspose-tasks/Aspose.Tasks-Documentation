@@ -12,8 +12,8 @@ To remove Calendar Exceptions using **Aspose.Tasks Java for Ruby**, simply invok
 project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
 cal = project.getCalendars().toList().get(0)
 if cal.getExceptions().getCount() > 1
-    exc = cal.getExceptions().toList().get(0)
-    cal.getExceptions().remove(exc)
+    exception = cal.getExceptions().toList().get(0)
+    cal.getExceptions().remove(exception)
     puts "Removed calendar exception."
 end
 {{< /highlight >}}

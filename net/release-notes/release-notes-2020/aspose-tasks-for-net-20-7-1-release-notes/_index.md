@@ -15,7 +15,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.7.1](
 
 | **Key** | **Summary** |**Issue Type**|
 | :- | :- | :- |
-|TASKSNET-4262 | Include Aspose Tasks for .NET 4.5 to release package |Feature|
+|TASKSNET-4262 | Include Aspose.Tasks for .NET 4.5 to release package |Feature|
 |TASKSNET-4257 | Fix allocation of a certain number of hours over the duration of a task |Bug |
 |TASKSNET-4252 | Fix infinite loop while converting the file from MPP to PDF |Bug |
 |TASKSNET-4188 | Fix calculation of time-phased data and task duration in case of custom TDs |Bug |

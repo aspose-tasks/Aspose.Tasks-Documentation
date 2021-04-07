@@ -41,7 +41,7 @@ $myWeekDay->getWorkingTimes()->add($time2);
 $myWeekDay->setDayWorking(true);
 $cal->getWeekDays()->add($myWeekDay);
 $saveFileFormat=new SaveFileFormat();
-$project->save($dataDir . "CalendarWeekdays.xml", $saveFileFormat->XML);
+$project->save("CalendarWeekdays.xml", $saveFileFormat->XML);
 print "Defined weekdays for calendar, please check the output file.".PHP_EOL;
 {{< /highlight >}}
 

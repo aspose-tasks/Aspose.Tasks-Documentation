@@ -11,7 +11,7 @@ To Read a Task's Timephased Data using **Aspose.Tasks Java for Ruby**, simply in
 **Ruby Code**
 
 {{< highlight ruby >}}
-project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
 prj = Rjb::import('com.aspose.tasks.Prj')
 tsk = Rjb::import('com.aspose.tasks.Tsk')
 cal = Rjb::import('java.util.Calendar').getInstance()

@@ -1,5 +1,6 @@
 ---
 title: Handling Occurrences for Exceptions in Ruby
+description: "Learn how to work with calendar exception occurrences using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 30
 url: /java/handling-occurrences-for-exceptions-in-ruby/
@@ -11,18 +12,13 @@ To Handle Occurrences for Exceptions using **Aspose.Tasks Java for Ruby**, simpl
 **Ruby Code**
 
 {{< highlight ruby >}}
-
- except = Rjb::import('com.aspose.tasks.CalendarException').new
-
+except = Rjb::import('com.aspose.tasks.CalendarException').new
 except.setEnteredByOccurrences(true)
-
 except.setOccurrences(5)
-
 except.setType(Rjb::import('com.aspose.tasks.CalendarExceptionType').YearlyByDay)
-
 puts "Set Occurrences for exceptions"
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Handling Occurrences for Exceptions (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

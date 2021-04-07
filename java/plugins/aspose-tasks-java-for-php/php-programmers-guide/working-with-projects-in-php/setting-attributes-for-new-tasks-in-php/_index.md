@@ -14,7 +14,7 @@ To set attributes for new tasks using **Aspose.Tasks Java for PHP**, simply invo
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 $prj = new Prj();
 
@@ -26,7 +26,7 @@ $project->set($prj->NEW_TASK_START_DATE, $taskStartDateType->CurrentDate);
 
 $saveFileFormat=new SaveFileFormat();
 
-$project->save($dataDir . "set_attributes_for_new_tasks.xml", $saveFileFormat->XML);
+$project->save("set_attributes_for_new_tasks.xml", $saveFileFormat->XML);
 
 print "Set attributes for new tasks, please check the output file.".PHP_EOL;
 

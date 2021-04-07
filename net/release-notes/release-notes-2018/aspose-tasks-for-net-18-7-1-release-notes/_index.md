@@ -15,5 +15,5 @@ This page contains release notes information about Aspose.Tasks for .NET 18.7.1.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|TASKSNET-2553|Unable to use Aspose.Tasks in .NET 2.0 Applications|Bug|
+|TASKSNET-2553|Unable to use Aspose.Tasks for .NET in .NET 2.0 Applications|Bug|
 

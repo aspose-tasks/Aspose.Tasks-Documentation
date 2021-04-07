@@ -20,7 +20,7 @@ $one_hour = 60 * $one_min;
 
 \# Instantiate project object
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 $tsk = new Tsk();
 
@@ -61,7 +61,7 @@ $link1 = $project->getTaskLinks()->add($task1, $task2, $taskLinkType->StartToSta
 
 $saveFileFormat=new SaveFileFormat();
 
-$project->save($dataDir . "TaskLinks.mpp", $saveFileFormat->MPP);
+$project->save("TaskLinks.mpp", $saveFileFormat->MPP);
 
 print "Saved task links data.".PHP_EOL;
 

@@ -9,7 +9,7 @@ url: /cpp/convert-project-data-to-excel-in-cpp/
 
 This article demonstrates how to save project data to XLSX format using Aspose.Tasks for C++.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class exposes the Save method which is used to save a project in various formats. The Save method allows you to save project tasks, resources and assignments to separate worksheets to XLSX format using the SaveFileFormat enumeration type.
 
@@ -30,8 +30,7 @@ There are two ways to save data to Spreadsheet2003 XML format: default, or using
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-SaveProjectDataToSpreadsheet2003XML-SaveProjectDataToSpreadsheet2003XML.cpp" >}}
 
-
 ### **Using Spreadsheet2003SaveOptions**
-Aspose.Tasks provides Spreadsheet2003SaveOptions for modifying the view data.
+Aspose.Tasks for C++ provides Spreadsheet2003SaveOptions for modifying the view data.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-UsingSpreadsheet2003SaveOptions-UsingSpreadsheet2003SaveOptions.cpp" >}}

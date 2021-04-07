@@ -1,6 +1,6 @@
 ---
 title: Handling Occurrences for Exceptions
-description: "This article explains how to handle with calendar exceptions using Aspose.Tasks for .NET."
+description: "Learn how to work with calendar exception occurrences using Aspose.Tasks for .NET."
 type: docs
 weight: 40
 url: /net/handling-occurrences-for-exceptions/

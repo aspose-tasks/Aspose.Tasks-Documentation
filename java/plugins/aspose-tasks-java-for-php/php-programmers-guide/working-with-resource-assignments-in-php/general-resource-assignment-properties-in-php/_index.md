@@ -23,7 +23,7 @@ public static function get_resource_assignments()
         print $assignment->get($asn->START).PHP_EOL;//.to_string
         print $assignment->get($asn->FINISH).PHP_EOL;//.to_string
         print "--------------------------------------------------------".PHP_EOL;
-        $i +=1;
+        $i += 1;
     }
 }
 {{< /highlight >}}
@@ -34,32 +34,20 @@ To set general Resource Assignment Properties using **Aspose.Tasks Java for PHP*
 **PHP Code**
 
 {{< highlight php >}}
-
- public static function set_resource_assignments($dataDir=null){
-
-\# Instantiate project object
-
-$project = new Project();
-
-$task = $project->getRootTask()->getChildren()->add("Task");
-
-$rsc = $project->getResources()->add("Rsc");
-
-$resource=new Rsc();
-
-$bigDecimal=new BigDecimal();
-
-$rsc->set($resource->STANDARD_RATE, $bigDecimal->valueOf(10));
-
-$rsc->set($resource->OVERTIME_RATE, $bigDecimal->valueOf(15));
-
-$assignment = $project->getResourceAssignments()->add($task, $rsc);
-
-print "Set resource assignment properties.".PHP_EOL;
-
+public static function set_resource_assignments()
+{
+    $project = new Project();
+    $task = $project->getRootTask()->getChildren()->add("Task");
+    $rsc = $project->getResources()->add("Rsc");
+    $resource=new Rsc();
+    $bigDecimal=new BigDecimal();
+    $rsc->set($resource->STANDARD_RATE, $bigDecimal->valueOf(10));
+    $rsc->set($resource->OVERTIME_RATE, $bigDecimal->valueOf(15));
+    $assignment = $project->getResourceAssignments()->add($task, $rsc);
+    print "Set resource assignment properties.".PHP_EOL;
 }
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **General Resource Assignment Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

@@ -9,7 +9,7 @@ url: /java/stop-or-resume-an-assignment-in-php/
 To Stop or Resume an Assignment using **Aspose.Tasks Java for PHP**, simply invoke **StopAndResumeAssignment** module. Here you can see example code.
 
 {{< highlight php >}}
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 $resource_assignments = $project->getResourceAssignments()->toList();
 $i = 0;
 $asn=new Asn();

@@ -66,7 +66,7 @@ The following public properties were added to existing classes:
 |Bug |TASKS-34186 |Values set against extended attributes in a task are not visible in MPP while opened in MSP |
 |Bug |TASKS-34185 |Extended attribute not maintained in MPP |
 |Bug |TASKS-34181 |Dates wrong on link type Finish to Finish with parent task |
-|Bug |TASKS-34174 |Wrong remaining work displayed in MSP 2010 using XML saved by Aspose.Tasks |
+|Bug |TASKS-34174 |Wrong remaining work displayed in MSP 2010 using XML saved by Aspose.Tasks for .NET|
 |Bug |TASKS-34173 |IndexOutOfRangeException occurred during reading from Primavera DB |
 |Bug |TASKS-34170 |Wrong Working Days when saving to MPX |
 |Bug |TASKS-34149 |Cannot read summary task's data from Primavera DB correctly |

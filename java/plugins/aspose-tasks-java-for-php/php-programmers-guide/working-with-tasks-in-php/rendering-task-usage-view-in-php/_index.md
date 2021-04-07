@@ -14,7 +14,7 @@ To Render Task Usage View using **Aspose.Tasks Java for PHP**, simply invoke **R
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 \# Define the SaveOptions with required TimeScale settings as Days
 
@@ -32,7 +32,7 @@ $options->setPresentationFormat($presentationFormat->TaskUsage);
 
 \# Save the Project
 
-$project->save($dataDir . "task_days.pdf", $options);
+$project->save("task_days.pdf", $options);
 
 \# Set the Timescale settings to ThirdsOfMonths
 
@@ -40,7 +40,7 @@ $options->setTimescale($timescale->ThirdsOfMonths);
 
 \# Save the Project
 
-$project->save($dataDir . "task_thirdsOfMonths.pdf", $options);
+$project->save("task_thirdsOfMonths.pdf", $options);
 
 \# Set the Timescale settings to Months
 
@@ -48,7 +48,7 @@ $options->setTimescale($timescale->Months);
 
 \# Save the project
 
-$project->save($dataDir . "task_months.pdf", $options);
+$project->save("task_months.pdf", $options);
 
 print "Created task usage view files.".PHP_EOL;
 

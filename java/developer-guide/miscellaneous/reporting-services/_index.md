@@ -1,5 +1,6 @@
 ---
 title: Reporting Services
+description: "Learn how to use Aspose.Tasks for Java to print reports exported from Microsoft Project (MPP/XML) files."
 type: docs
 weight: 40
 url: /java/reporting-services/

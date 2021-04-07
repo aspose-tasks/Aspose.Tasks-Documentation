@@ -22,7 +22,7 @@ This page contains release notes of Aspose.Tasks for .NET 17.7.
 |TASKSNET-1990|An entry with the same key already exists - exception|Bug|
 |TASKSNET-1989|Exception raised while loading attached MPP|Bug|
 |TASKSNET-1985|TaskReadingException while loading MPP file|Bug|
-|TASKSNET-1935|Aspose.Tasks is not setting the Bar color of Task and Summary task - MSP 2007|Bug|
+|TASKSNET-1935|Aspose.Tasks for .NET is not setting the Bar color of Task and Summary task - MSP 2007|Bug|
 |TASKSNET-1859|MPP project cannot be saved to MemoryStream|Bug|
 |TASKSNET-1805|Lookup values not created properly in MPP|Bug|
 |TASKSNET-1804|TaskLink don't affect the dates from successor task while using an MPP file|Bug|

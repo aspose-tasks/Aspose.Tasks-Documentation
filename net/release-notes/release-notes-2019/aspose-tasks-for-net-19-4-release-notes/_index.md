@@ -21,7 +21,7 @@ This page contains release notes information for Aspose.Tasks for .NET 19.4.
 |TASKSNET-3120|Add support of encodings for MPX files|New Feature|
 |TASKSNET-2992|Implement resource prefix for nested resources|New Feature|
 |TASKSNET-3075|Add validation of SaveFileFormat.SVG save option|Enhancement|
-|TASKSNET-2917|Aspose.Tasks saves pages as an image without headers and footers|Enhancement|
+|TASKSNET-2917|Aspose.Tasks for .NET saves pages as an image without headers and footers|Enhancement|
 |TASKSNET-2600|Include header information in the PDF output file|Enhancement|
 |TASKSNET-3104|Fix NullReferenceException when trying to save project without GanttChart view.|Bug|
 |TASKSNET-3094|Fix invalid row's background and foreground colors after resaving of MPP.|Bug|

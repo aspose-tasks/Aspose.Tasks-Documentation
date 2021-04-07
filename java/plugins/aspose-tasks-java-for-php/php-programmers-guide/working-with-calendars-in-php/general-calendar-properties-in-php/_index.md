@@ -11,7 +11,7 @@ To get Calendar Properties using **Aspose.Tasks Java for PHP**, simply invoke **
 **PHP Code**
 
 {{< highlight php >}}
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 $calendars = $project->getCalendars()->toList();
 $i = 0;
 while ($i < sizeof($calendars)) {

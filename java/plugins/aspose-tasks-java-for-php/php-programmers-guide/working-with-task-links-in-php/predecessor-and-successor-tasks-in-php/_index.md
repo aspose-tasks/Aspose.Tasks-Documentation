@@ -14,7 +14,7 @@ To get Predecessor and Successor Tasks using **Aspose.Tasks Java for PHP**, simp
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 $tsk = new Tsk();
 

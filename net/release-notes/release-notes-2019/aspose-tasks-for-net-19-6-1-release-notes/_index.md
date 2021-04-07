@@ -16,7 +16,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 19.6.1](
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 |TASKSNET-3298 | Error with open server project: Calendar with Uid=0 |Bug |
-|TASKSNET-3297 | Aspose Tasks 19.5 throws error while saving resource with zero units |Bug |
+|TASKSNET-3297 | Aspose.Tasks for .NET 19.5 throws error while saving resource with zero units |Bug |
 |TASKSNET-3290 | Fix rounding error in the actual calculation |Bug |
 |TASKSNET-3258 | Fix circular reference after file save |Bug |
 |TASKSNET-3186 | Fix update of %Complete for milestone tasks |Bug |

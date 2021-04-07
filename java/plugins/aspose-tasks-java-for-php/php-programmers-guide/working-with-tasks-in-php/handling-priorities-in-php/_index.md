@@ -14,7 +14,7 @@ To Handle Priorities using **Aspose.Tasks Java for PHP**, simply invoke **Handli
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 \# Create a ChildTasksCollector instance
 

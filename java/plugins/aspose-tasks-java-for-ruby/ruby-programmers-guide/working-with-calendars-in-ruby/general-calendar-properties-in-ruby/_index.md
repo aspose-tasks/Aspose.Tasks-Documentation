@@ -25,7 +25,7 @@ def initialize()
         puts "UID : " + cal.getUid().to_s
         puts "Name : " + cal.getName().to_s
       end
-      i +=1
+      i += 1
     end
 end
 {{< /highlight >}}

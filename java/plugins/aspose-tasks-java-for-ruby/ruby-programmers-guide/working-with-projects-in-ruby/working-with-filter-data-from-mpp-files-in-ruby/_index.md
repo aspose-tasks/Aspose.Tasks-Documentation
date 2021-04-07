@@ -11,42 +11,22 @@ To Read Filter Definition Data using **Aspose.Tasks Java for Ruby**, call **get_
 **Ruby Code**
 
 {{< highlight ruby >}}
-
- def get_filter_definition_data()
-
-    data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
-
-
-
-   
-
-    project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
-
+def get_filter_definition_data()
+    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
     task_filters = project.getTaskFilters().toList()
-
     puts "Task Filters Count: " + task_filters.size().to_s
-
     puts "All Tasks: " + task_filters.get(0).getName().to_s
-
     puts "Task Item: " + task_filters.get(0).getFilterType().to_s
-
     puts "Task Filters Show In Menu: " + task_filters.get(0).getShowInMenu().to_s
-
     puts "Task filter ShowRelatedSummaryRows: "  + task_filters.get(0).getShowRelatedSummaryRows().to_s
-
     rsc_filters = project.getResourceFilters().toList()
-
     puts "Project.ResourceFilters count: " +  rsc_filters.size().to_s
-
     puts "Resource Filter Item Type: Item.ResourceType: "  + rsc_filters.get(0).getFilterType().to_s
-
     puts "Resource filter ShowInMenu"  + rsc_filters.get(0).getShowInMenu().to_s
-
     puts "Resource filter ShowRelatedSummaryRows: " + rsc_filters.get(0).getShowRelatedSummaryRows().to_s
-
 end
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Working with Filter Data from MPP files (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

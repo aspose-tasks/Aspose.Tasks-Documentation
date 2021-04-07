@@ -13,7 +13,7 @@ To Manage Assignment Cost using **Aspose.Tasks Java for PHP**, simply invoke **A
 
 {{< highlight php >}}
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 $resource_assignments = $project->getResourceAssignments()->toList();
 

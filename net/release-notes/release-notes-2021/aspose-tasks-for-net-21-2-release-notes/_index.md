@@ -27,7 +27,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 21.2](ht
 | TASKSNET-4640 | Fix System.OverflowException when trying to save password-protected project twice | Bug |
 | TASKSNET-4611 | Fix exception when opening specific password protected MPP | Bug |
 | TASKSNET-4608 | Portrait/Landscape orientation setting ignored when printing / saving to PDF | Bug |
-| TASKSNET-4604 | Fix current timescale position is reset when the project is saved by Aspose.Tasks | Bug |
+| TASKSNET-4604 | Fix current timescale position is reset when the project is saved by Aspose.Tasks for .NET | Bug |
 | TASKSNET-4410 | Content of a resource's notes is not shown in MS Project  | Bug |
 | TASKSNET-4051 | Fix calculating of duration while convert MPP format | Bug |
 

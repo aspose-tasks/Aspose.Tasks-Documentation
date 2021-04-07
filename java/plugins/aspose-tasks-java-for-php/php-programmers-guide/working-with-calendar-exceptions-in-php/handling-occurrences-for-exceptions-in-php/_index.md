@@ -1,5 +1,6 @@
 ---
 title: Handling Occurrences for Exceptions in PHP
+description: "Learn how to work with calendar exception occurrences using Aspose.Tasks java PHP."
 type: docs
 weight: 30
 url: /java/handling-occurrences-for-exceptions-in-php/

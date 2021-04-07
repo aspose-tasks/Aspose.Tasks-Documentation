@@ -1,5 +1,6 @@
 ---
 title: Retrieving Calendar Exceptions
+description: "This article explains how to retrieve calendar exception data using Aspose.Tasks for Java."
 type: docs
 weight: 20
 url: /java/retrieving-calendar-exceptions/

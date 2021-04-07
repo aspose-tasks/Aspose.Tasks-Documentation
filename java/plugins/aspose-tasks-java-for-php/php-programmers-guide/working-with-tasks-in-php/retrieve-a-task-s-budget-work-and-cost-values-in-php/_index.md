@@ -14,7 +14,7 @@ To Retrieve a Task's Budget Work and Cost Values using **Aspose.Tasks Java for P
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 $project_summary = $project->getRootTask();
 

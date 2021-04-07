@@ -14,7 +14,7 @@ To Verify Project Structure using **Aspose.Tasks Java for PHP**, simply invoke *
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 if ($project ==true) { //-> check()
 

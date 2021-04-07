@@ -1,5 +1,6 @@
 ---
 title: Handling Occurrences for Exceptions
+description: "Learn how to work with calendar exception occurrences using Aspose.Tasks Java."
 type: docs
 weight: 40
 url: /java/handling-occurrences-for-exceptions/

@@ -10,8 +10,7 @@ To get parent and Child Tasks using **Aspose.Tasks Java for Ruby**, call **get_p
 
 {{< highlight ruby >}}
 def get_parent_and_child_tasks()	
-    data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
-    project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
+    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
     collector = Rjb::import('com.aspose.tasks.ChildTasksCollector').new
     Rjb::import('com.aspose.tasks.TaskUtils').apply(project.getRootTask(), collector, 0)
     tsk = Rjb::import('com.aspose.tasks.Tsk')
@@ -20,7 +19,7 @@ def get_parent_and_child_tasks()
     while i < tasks.size()
     	task = tasks.get(i)
         puts "Task Name = " + task.get(tsk.NAME).to_string
-        i +=1
+        i += 1
     end
 end
 {{< /highlight >}}

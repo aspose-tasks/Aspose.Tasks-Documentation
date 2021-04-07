@@ -1,5 +1,6 @@
 ---
 title: Sorting Tasks by Name
+description: "Learn how to sort Microsoft Project (MPP/XML) tasks by names using Aspose.Tasks for C++."
 type: docs
 weight: 70
 url: /cpp/sorting-tasks-by-name/

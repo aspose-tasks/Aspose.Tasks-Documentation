@@ -1,6 +1,6 @@
 ---
 title: Defining Weekdays for Exceptions
-description: "This article explains how to work with Calendar Exception using Aspose.Tasks for .NET"
+description: "Learn how to define exception weekdays for Microsoft Project (MPP/XML) projects using Aspose.Tasks for .NET."
 keywords: "Defining Weekdays for Exceptions, work with weekdays exceptions, weekday calendar exception, Aspose.Tasks, C#"
 type: docs
 weight: 30

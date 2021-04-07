@@ -1,5 +1,7 @@
 ---
 title: Convert Project Data to JPEG
+description: "This article explains how to convert Microsoft Project (MPP/XML) to JPEG using Aspose.Tasks for C++."
+keywords: "Convert Project Data to JPEG, Convert MPP to JPEG, Export MPP Project to JPEG, save project data to JPEG, Save MPP as JPEG, Aspose.Tasks for Java"
 type: docs
 weight: 50
 url: /cpp/convert-project-data-to-jpeg/

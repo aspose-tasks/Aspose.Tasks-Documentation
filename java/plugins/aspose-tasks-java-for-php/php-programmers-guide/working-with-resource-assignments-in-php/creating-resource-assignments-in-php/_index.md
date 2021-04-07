@@ -10,7 +10,7 @@ url: /java/creating-resource-assignments-in-php/
 To create resource assignments using **Aspose.Tasks Java for PHP**, simply invoke **CreateResourceAssignment** module. Here you can see example code.
 
 {{< highlight php >}}
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 $task = $project->getRootTask()->getChildren()->add("Task");
 $rsc = $project->getResources()->add("Rsc");
 $assignment = $project->getResourceAssignments()->add($task, $rsc);

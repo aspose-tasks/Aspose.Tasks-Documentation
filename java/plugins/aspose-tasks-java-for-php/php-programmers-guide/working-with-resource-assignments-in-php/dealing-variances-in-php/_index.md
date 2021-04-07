@@ -12,38 +12,22 @@ To see resource assignment variance using **Aspose.Tasks Java for PHP**, simply 
 **PHP Code**
 
 {{< highlight php >}}
-
-
-
-$project = new Project($dataDir . 'test_tasks.mpp');
-
+$project = new Project('test_tasks.mpp');
 $resource_assignments = $project->getResourceAssignments()->toList();
-
-\# Parse through all the collected resource assignments
-
 $i = 0;
-
-$asn=new Asn();
-
-while ($i < sizeof($resource_assignments)){
-
-$assignment = $resource_assignments->get($i);
-
-print "Work Variance: " . (string)$assignment -> get($asn -> WORK_VARIANCE).PHP_EOL;
-
-print "Cost Variance: " . (string)$assignment -> get($asn -> COST_VARIANCE).PHP_EOL;
-
-print "Start Variance: " . (string)$assignment -> get($asn -> START_VARIANCE).PHP_EOL;
-
-print "Finish Variance: " . (string)$assignment -> get($asn -> FINISH_VARIANCE).PHP_EOL;
-
-print "--------------------------------------------------------".PHP_EOL;
-
-$i += 1;
-
+$asn = new Asn();
+while ($i < sizeof($resource_assignments))
+{
+    $assignment = $resource_assignments->get($i);
+    print "Work Variance: " . (string)$assignment -> get($asn -> WORK_VARIANCE).PHP_EOL;
+    print "Cost Variance: " . (string)$assignment -> get($asn -> COST_VARIANCE).PHP_EOL;
+    print "Start Variance: " . (string)$assignment -> get($asn -> START_VARIANCE).PHP_EOL;
+    print "Finish Variance: " . (string)$assignment -> get($asn -> FINISH_VARIANCE).PHP_EOL;
+    print "--------------------------------------------------------".PHP_EOL;
+    $i += 1;
 }
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Dealing Variances (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

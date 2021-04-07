@@ -14,7 +14,7 @@ To Read a Task's Timephased Data using **Aspose.Tasks Java for PHP**, simply inv
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 $prj = new Prj();
 

@@ -12,13 +12,13 @@ To get General Project Properties using **Aspose.Tasks Java for PHP**, call **ge
 
 {{< highlight php >}}
 
- public static function get_general_project_properties($dataDir=null)
+ public static function get_general_project_properties()
 
 {
 
 \# Instantiate project object
 
-$project = new Project($dataDir . 'Sample.xml');
+$project = new Project('Sample.xml');
 
 $prj = new Prj();
 

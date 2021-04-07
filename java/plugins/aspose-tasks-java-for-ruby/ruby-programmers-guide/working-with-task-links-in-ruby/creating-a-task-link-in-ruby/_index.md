@@ -9,7 +9,6 @@ url: /java/creating-a-task-link-in-ruby/
 To create a Task Link using **Aspose.Tasks Java for Ruby**, simply invoke **CreateTaskLink** module. Here you can see example code.
 
 {{< highlight ruby >}}
-data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
 project = Rjb::import('com.aspose.tasks.Project').new
 pred = project.getRootTask().getChildren().add("Task 1")
 succ = project.getRootTask().getChildren().add("Task 2")

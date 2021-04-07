@@ -10,7 +10,7 @@ url: /java/read-timephased-data-of-a-resource-in-php/
 To read timephased data of a resource using **Aspose.Tasks Java for PHP**, one can simply invoke **ReadTimephasedResourceData** module. Here you can see example code.
 
 {{< highlight php >}}
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 $resource = $project->getResources()->getByUid(1);
 $prj = new Prj();
 print "Timephased data of Resource Work".PHP_EOL;

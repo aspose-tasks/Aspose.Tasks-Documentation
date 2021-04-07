@@ -11,52 +11,20 @@ To Render Resource Usage using **Aspose.Tasks Java for Ruby**, call **render_res
 **Ruby Code**
 
 {{< highlight ruby >}}
-
- def render_resource_usage()
-
-    data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
-
-
-
-   
-
-    project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
-
-    # Define the SaveOptions with required TimeScale settings as Days
-
+def render_resource_usage()
+    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
     options = Rjb::import('com.aspose.tasks.PdfSaveOptions').new
-
     options.setTimescale(Rjb::import('com.aspose.tasks.Timescale').Days)
-
-    # Set the Presentation format to ResourceUsage
-
     options.setPresentationFormat(Rjb::import('com.aspose.tasks.PresentationFormat').ResourceUsage)
-
-    # Save the Project
-
-    project.save(data_dir + "result_days.pdf", options)
-
-    # Set the Tiemscale settings to ThirdsOfMonths
-
+    project.save("result_days.pdf", options)
     options.setTimescale(Rjb::import('com.aspose.tasks.Timescale').ThirdsOfMonths)
-
-    # Save the Project
-
-    project.save(data_dir + "result_thirdsOfMonths.pdf", options)
-
-    # Set the Timescale settings to Months
-
+    project.save("result_thirdsOfMonths.pdf", options)
     options.setTimescale(Rjb::import('com.aspose.tasks.Timescale').Months)
-
-    # Save the project
-
-    project.save(data_dir + "result_months.pdf", options)
-
+    project.save("result_months.pdf", options)
     puts "Created resource usage files."
-
 end
-
 {{< /highlight >}}
+
 ## **Aspose.Tasks - Rendering Resource Sheet View**
 To Render Resource Sheet View using **Aspose.Tasks Java for Ruby**, call **render_resource_sheetview** method of **RenderResourceUsageAndSheetView** module. Here you can see example code.
 
@@ -64,10 +32,10 @@ To Render Resource Sheet View using **Aspose.Tasks Java for Ruby**, call **rende
 
 {{< highlight ruby >}}
 def render_resource_sheetview()
-    project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
+    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
     options = Rjb::import('com.aspose.tasks.PdfSaveOptions').new
     options.setPresentationFormat(Rjb::import('com.aspose.tasks.PresentationFormat').ResourceSheet)
-    project.save(data_dir + "result.pdf", options)
+    project.save("result.pdf", options)
     puts "Created resource sheet view file."
 end
 {{< /highlight >}}

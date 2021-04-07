@@ -14,7 +14,7 @@ To Read Group Definition Data using **Aspose.Tasks Java for PHP**, simply invoke
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 print "Task Groups Count: " . $project->getTaskGroups()->size().PHP_EOL;
 

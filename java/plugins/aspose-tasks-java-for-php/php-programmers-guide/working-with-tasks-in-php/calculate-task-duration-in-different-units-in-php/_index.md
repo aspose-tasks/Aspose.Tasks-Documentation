@@ -14,7 +14,7 @@ To Calculate Task Duration in Different Units using **Aspose.Tasks Java for PHP*
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 $tsk = new Tsk();
 

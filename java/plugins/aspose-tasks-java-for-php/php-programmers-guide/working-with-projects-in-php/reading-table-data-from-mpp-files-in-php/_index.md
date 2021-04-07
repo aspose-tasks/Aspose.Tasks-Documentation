@@ -14,7 +14,7 @@ To Read Table Data from MPP files using **Aspose.Tasks Java for PHP**, simply in
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 $t1 = $project->getTables()->toList()->get(0);
 

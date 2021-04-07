@@ -1,6 +1,6 @@
 ---
 title: Adding and Removing Calendar Exceptions
-description: "Aspose.Tasks for .NET allows to add or remove Calendar Exception using Aspose.Tasks for .NET"
+description: "Learn how to add or remove Microsoft Project (MPP/XML) calendar exceptions using Aspose.Tasks for .NET."
 keywords: "Working with Calendar Exceptions, add calendar exceptions, remove calendar exceptions, Project Calendar Exception, Aspose.Tasks, C#"
 type: docs
 weight: 10

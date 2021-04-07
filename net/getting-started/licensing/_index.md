@@ -33,7 +33,7 @@ Aspose.Tasks for .NET supports reading MPP files, updating the project summary i
 ## **Applying the License**
 Once you are happy with your evaluation of **Aspose.Tasks for .NET**, you can buy a license at the Aspose website: <https://purchase.aspose.com/buy>. Make yourself familiar with the different [licenses](https://purchase.aspose.com/policies/license-types/) offered. If you have any questions, [contact the Aspose sales team](https://about.aspose.com/contact) and they'll be happy to help you.
 
-Aspose.Tasks supports two license types: perpetual (pay once) and metered (pay-per-use). For more details please refer to [License Types](https://purchase.aspose.com/policies/license-types/) page.
+Aspose.Tasks for .NET supports two license types: perpetual (pay once) and metered (pay-per-use). For more details please refer to [License Types](https://purchase.aspose.com/policies/license-types/) page.
 
 Aspose perpetual license carries a one-year [subscription](https://purchase.aspose.com/policies/subscriptions) for free upgrades to any new versions or fixes that come out during this time. Technical support is free and unlimited and provided both to licensed and evaluation users.
 
@@ -43,9 +43,9 @@ The license is a plain-text XML file that contains details such as the product n
 Follow these simple rules:
 
 - The license only needs to be set once per application domain.
-- You need to set the license before using any other Aspose.Tasks classes.
+- You need to set the license before using any other Aspose.Tasks for .NET classes.
 - Setting the license multiple times is not harmful, but wastes processor time.
-- If you are developing a Windows Forms or console application, set the license in your startup code, before using Aspose.Tasks classes.
+- If you are developing a Windows Forms or console application, set the license in your startup code, before using Aspose.Tasks for .NET classes.
 - When developing an ASP.NET application, you can set the license from the Global.asax.cs (Global.asax.vb) file, in the Application_Start protected method. It is called once when the application starts.
 - Do not set the license from within the Page_Load methods since it means the license will be loaded every time a web page is loaded.
 - If you are developing a class library, set the license in a static constructor of your class that uses Aspose.Tasks. The static constructor executes before an instance of your class is created making sure that the Aspose.Tasks license is properly set.

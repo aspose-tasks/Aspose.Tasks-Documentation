@@ -29,7 +29,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.9](ht
 | TASKSNET-4350 | Fix missing ActualFinish | Bug |
 | TASKSNET-4063 | Fix CryptographicException while save into PDF with encryption details | Bug |
 | TASKSNET-4350 | ActualFinish is showing as NA for some tasks | Bug |
-| TASKSNET-4390 | Fix file resaved with Aspose.Tasks cannot be opened by MSP 2016 | Bug |
+| TASKSNET-4390 | Fix file resaved with Aspose.Tasks for .NET cannot be opened by MSP 2016 | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
 |**The following public types were deleted:**|**Description**|

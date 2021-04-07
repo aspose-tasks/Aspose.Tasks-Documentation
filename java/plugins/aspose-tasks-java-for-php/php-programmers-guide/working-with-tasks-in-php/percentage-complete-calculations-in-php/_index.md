@@ -14,7 +14,7 @@ To get Complete Percentage Calculations using **Aspose.Tasks Java for PHP**, sim
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 \# Create a ChildTasksCollector instance
 

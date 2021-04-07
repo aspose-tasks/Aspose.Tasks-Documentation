@@ -36,9 +36,9 @@ The code example given below demonstrates how to write the fiscal year propertie
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithProjectProperties-WriteFiscalYearProperties-WriteFiscalYearProperties.cpp" >}}
 
 ## **Weekday Properties**
-Microsoft Project lets users set a number of different weekday properties. For example, what day a week starts on and how many working days are in a month. Aspose.Tasks support these features through a number of properties that can be used both to read weekday properties and to write them to a project.
+Microsoft Project lets users set a number of different weekday properties. For example, what day a week starts on and how many working days are in a month. Aspose.Tasks for C++ support these features through a number of properties that can be used both to read weekday properties and to write them to a project.
 
-Aspose.Tasks has a series of properties, exposed by the [Prj](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj) class, specifically for managing a project's weekday properties:
+Aspose.Tasks for C++ has a series of properties, exposed by the [Prj](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj) class, specifically for managing a project's weekday properties:
 
 - [WeekStartDay](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj#aaf8561bf962c6861f3a38e2c0a8e1cc6): the first day of the week. This property takes values defined by the [DayType]() enumeration.
 - [DaysPerMonth](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj#afc571efea974575fc65cc2a1d85cd5f5): the number of working days in a month, passed as an integer.

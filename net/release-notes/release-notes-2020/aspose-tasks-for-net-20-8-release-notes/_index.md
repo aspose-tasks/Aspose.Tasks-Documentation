@@ -17,7 +17,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.8](ht
 | :- | :- | :- |
 |TASKSNET-4285|Implement a check that file is encrypted | New Feature |
 |TASKSNET-4311|Improve resource deletion execution time | Enhancement |
-|TASKSNET-4275|Add .NET 461 in Aspose.Tasks release packages | Enhancement |
+|TASKSNET-4275|Add .NET 461 in Aspose.Tasks for .NET release packages | Enhancement |
 |TASKSNET-4308|Fix incorrect ActualStart of manual assigned tasks |Bug |
 |TASKSNET-4278|Fix incorrect calculation of timephased data for assignment's remaining work | Bug | 
 |TASKSNET-4270|Fix recalculation of assignments' work and timephased data for task with Type = "FixedWork" when task's duration is changed | Bug |

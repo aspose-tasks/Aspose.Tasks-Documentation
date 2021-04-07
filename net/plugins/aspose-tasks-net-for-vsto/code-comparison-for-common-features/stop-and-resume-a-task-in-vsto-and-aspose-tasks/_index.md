@@ -12,20 +12,19 @@ A task's stop date is the date that it should (or did) end. Sometimes, a task ha
 Below is the code of VSTO Project to Stop and Resume a task:
 
 {{< highlight csharp >}}
-string FileName = "MyProject.mpp";
 object missingValue = System.Reflection.Missing.Value;
-Application.FileOpenEx(FileName,
+Application.FileOpenEx("MyProject.mpp",
     missingValue, missingValue, missingValue, missingValue,
     missingValue, missingValue, missingValue, missingValue,
     missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
     missingValue, missingValue, missingValue, missingValue,
     missingValue);
-  Project MyProject = Application.ActiveProject;
-  Task MyTask = MyProject.Tasks[1];
-  // Stop a Task
-  dynamic StoppedDate = MyTask.Stop;
-  // Resume a Task
-  dynamic ResumeDate = MyTask.Resume;
+Project project = Application.ActiveProject;
+Task MyTask = project.Tasks[1];
+// Stop a Task
+dynamic StoppedDate = MyTask.Stop;
+// Resume a Task
+dynamic ResumeDate = MyTask.Resume;
 {{< /highlight >}}
 
 ### **Aspose.Tasks**
@@ -44,9 +43,8 @@ To see a task's stop and resume dates:
 The stop and resume dates are NA, if the task has never stopped. For date values equal to NA, Aspose.Tasks takes the value "1/1/2000" if you're using the evaluation version. When fully licensed, Aspose.Tasks uses DateTime.MinValue for NA values. The following examples displays the stop and resume dates for all the tasks in a project.
 
 {{< highlight csharp >}}
-string FileName =  "MyProject.mpp";
-Project MyProject = new Project(FileName);
-Task MyTask = MyProject.RootTask;
+Project project = new Project("MyProject.mpp");
+Task MyTask = project.RootTask;
 // Stop a Task
 DateTime StoppedDate = MyTask.Stop;
 // Resume a Task

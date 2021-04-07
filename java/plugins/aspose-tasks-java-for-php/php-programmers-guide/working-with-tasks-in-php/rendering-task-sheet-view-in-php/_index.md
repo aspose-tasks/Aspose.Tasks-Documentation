@@ -14,7 +14,7 @@ To Render Task Sheet View using **Aspose.Tasks Java for PHP**, simply invoke **R
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 \# Define the SaveOptions with required TimeScale settings as Days
 
@@ -28,7 +28,7 @@ $options->setPresentationFormat($presentationFormat->TaskSheet);
 
 \# Save the Project
 
-$project->save($dataDir . "taskSheet.pdf", $options);
+$project->save("taskSheet.pdf", $options);
 
 print "Created task sheet view file.".PHP_EOL;
 

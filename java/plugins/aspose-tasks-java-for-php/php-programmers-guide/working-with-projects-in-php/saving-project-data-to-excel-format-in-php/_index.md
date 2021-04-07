@@ -14,13 +14,13 @@ To Save Project Data to Excel Format using **Aspose.Tasks Java for PHP**, simply
 
 
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 \# Save the Project as XLSX
 
 $saveFileFormat=new SaveFileFormat();
 
-$project->save($dataDir . "Project.XLSX", $saveFileFormat->XLSX);
+$project->save("Project.XLSX", $saveFileFormat->XLSX);
 
 print "Saved project data to Excel, please check the output file".PHP_EOL;
 

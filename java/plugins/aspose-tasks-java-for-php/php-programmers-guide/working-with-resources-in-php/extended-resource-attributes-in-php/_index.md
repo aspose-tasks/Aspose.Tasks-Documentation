@@ -13,7 +13,7 @@ To set extended resource attributes using **Aspose.Tasks Java for PHP**, simply 
 
 {{< highlight php >}}
 
-$project = new Project($dataDir . 'test_tasks.mpp');
+$project = new Project('test_tasks.mpp');
 
 $res = $project->getResources()->toList()->get(0);
 

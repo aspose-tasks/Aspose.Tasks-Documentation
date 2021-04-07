@@ -19,10 +19,10 @@ We have implemented several new features this release. "Display Details columns 
 |Task |TASKS-33947 |TASKS-33938 Implement calculation of Math functions |
 |Task |TASKS-33950 |TASKS-33938 Implement calculation of Text functions |
 |Task |TASKS-33951 |TASKS-33938 Implement calculation of Date/Time functions |
-|Investigation |TASKS-33936 |Aspose.Tasks 8.1.0 does not have a strong name |
+|Investigation |TASKS-33936 |Aspose.Tasks for .NET 8.1.0 does not have a strong name |
 |Enhancement |TASKS-33797 |Display Details columns in chart area |
 |Bug |TASKS-33930 |Not correct reading "timephased data" from .mpp file |
-|Bug |TASKS-33933 |Summary Task removed by Aspose.Tasks while saving the MPP again |
+|Bug |TASKS-33933 |Summary Task removed by Aspose.Tasks for .NET while saving the MPP again |
 |Bug |TASKS-33931 |Exception raised while reading the attached MPP |
 |Bug |TASKS-33953 |Project.Save raises KeyNotFoundException |
 |Bug |TASKS-33954 |Manual Start and Manual Finish dates are read incorrectly for Manual task in mpp 2010 format |

@@ -39,11 +39,11 @@ The license is a plain-text XML file that contains details such as the product n
 Follow these simple rules:
 
 - The license only needs to be set once per application domain.
-- You need to set the license before using any other Aspose.Tasks classes.
+- You need to set the license before using any other Aspose.Tasks for C++ classes.
 - Calling SetLicense multiple times is not harmful but wastes processor time.
-- If you are developing a Windows Forms or console application, call SetLicense in your startup code, before using Aspose.Tasks classes.
+- If you are developing a Windows Forms or console application, call SetLicense in your startup code, before using Aspose.Tasks for C++ classes.
 - Do not call SetLicense from within the Page_Load methods since it means the license will be loaded every time a web page is loaded.
-- If you are developing a class library, call SetLicense from a static constructor of your class that uses Aspose.Tasks. The static constructor executes before an instance of your class is created making sure that the Aspose.Tasks license is properly set.
+- If you are developing a class library, call SetLicense from a static constructor of your class that uses Aspose.Tasks. The static constructor executes before an instance of your class is created making sure that the Aspose.Tasks for C++ license is properly set.
 ### **Applying a License**
 Use the **License.SetLicense** method to licensing the component. The easiest way to set a license is to put the license file in the same folder as the Aspose.Tasks.dll and specify the file name, without a path, as shown below.
 #### **Applying a License Using File or Stream**
