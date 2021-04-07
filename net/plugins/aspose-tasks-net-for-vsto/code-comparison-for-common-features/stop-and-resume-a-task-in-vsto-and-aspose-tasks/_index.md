@@ -1,5 +1,6 @@
 ---
 title: Stop and Resume a Task in VSTO and Aspose.Tasks
+description: "Learn how to stop or resume Microsoft Project (MPP/XML) tasks using Aspose.Tasks for .NET in comparison with VSTO."
 type: docs
 weight: 90
 url: /net/stop-and-resume-a-task-in-vsto-and-aspose-tasks/

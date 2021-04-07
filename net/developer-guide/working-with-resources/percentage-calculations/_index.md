@@ -1,5 +1,6 @@
 ---
 title: Percentage Calculations
+description: "Learn how to calculate percentages of Microsoft Project (MPP/XML) project using Aspose.Tasks for .NET."
 type: docs
 weight: 60
 url: /net/percentage-calculations/

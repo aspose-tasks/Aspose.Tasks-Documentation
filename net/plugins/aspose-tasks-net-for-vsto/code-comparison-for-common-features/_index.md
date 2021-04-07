@@ -1,5 +1,6 @@
 ---
-title: Code Comparison for common features
+title: Code Comparison for Common Features
+description: "Learn how to work with Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET in comparison with VSTO."
 type: docs
 weight: 10
 url: /net/code-comparison-for-common-features/

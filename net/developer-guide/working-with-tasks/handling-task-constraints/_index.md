@@ -1,5 +1,6 @@
 ---
 title: Handling Task Constraints
+description: "Learn how to handle Microsoft Project (MPP/XML) task constraints using Aspose.Tasks for .NET."
 type: docs
 weight: 40
 url: /net/handling-task-constraints/

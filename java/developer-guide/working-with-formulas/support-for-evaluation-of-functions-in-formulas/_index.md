@@ -1,5 +1,6 @@
 ---
 title: Support for Evaluation of Functions in Formulas
+description: "The page describes the algorithm of formula evaluations used by Aspose.Tasks for .NET library for calculations."
 type: docs
 weight: 40
 url: /java/support-for-evaluation-of-functions-in-formulas/
@@ -9,7 +10,8 @@ url: /java/support-for-evaluation-of-functions-in-formulas/
 
 Aspose.Tasks for Java API supports evaluating functions defined as formula expression in Extended Attribute. These include the calculation of Math, General, Text, and DateTime functions.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Calculation of Math Expressions**
 1. Abs( number )
 2. Atn( number )
@@ -36,7 +38,6 @@ The following General functions can be calculated by the API.
 5. Switch( expr-1, value-1\, expr-2, value-2, ... , expr-n,value-n|, expr-n,value-n )
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Formulae-SupportEvaluationFunctions-CalculationOfGeneralFunctions.java" >}}
-
 
 ## **Calculation of Text Functions**
 1. Asc( string )

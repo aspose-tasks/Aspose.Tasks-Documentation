@@ -1,5 +1,6 @@
 ---
 title: Stop or Resume an Assignment
+description: "Learn how to stop or resume Microsoft Project (MPP/XML) resource assignments using Aspose.Tasks for .NET."
 type: docs
 weight: 80
 url: /net/stop-or-resume-an-assignment/

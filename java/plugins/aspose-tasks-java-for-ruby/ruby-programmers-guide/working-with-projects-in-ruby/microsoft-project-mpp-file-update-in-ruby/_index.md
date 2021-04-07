@@ -1,5 +1,6 @@
 ---
 title: Microsoft Project MPP File Update in Ruby
+description: "Learn how to update Microsoft Project (MPP/XML) project files using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 80
 url: /java/microsoft-project-mpp-file-update-in-ruby/

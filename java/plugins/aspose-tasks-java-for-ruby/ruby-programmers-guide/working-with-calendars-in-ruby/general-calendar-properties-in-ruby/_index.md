@@ -1,5 +1,6 @@
 ---
 title: General Calendar Properties in Ruby
+description: "Learn how to read general properties of Microsoft Project (MPP/XML) projects using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 30
 url: /java/general-calendar-properties-in-ruby/

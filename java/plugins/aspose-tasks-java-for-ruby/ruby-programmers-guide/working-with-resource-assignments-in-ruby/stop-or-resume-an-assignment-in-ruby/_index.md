@@ -1,5 +1,6 @@
 ---
 title: Stop or Resume an Assignment in Ruby
+description: "Learn how to stop or resume Microsoft Project (MPP/XML) resource assignments using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 80
 url: /java/stop-or-resume-an-assignment-in-ruby/
@@ -19,12 +20,12 @@ while i < resource_assignments.size()
   if assignment.get(Rjb::import('com.aspose.tasks.Asn').STOP).toString() == "1/1/2000"
     puts "NA"
   else
-     puts ra.get(Rjb::import('com.aspose.tasks.Asn').STOP).toString()
+     puts assignment.get(Rjb::import('com.aspose.tasks.Asn').STOP).toString()
   end
   if assignment.get(Rjb::import('com.aspose.tasks.Asn').RESUME).toString() == "1/1/2000"
     puts "NA"
   else
-    puts ra.get(Rjb::import('com.aspose.tasks.Asn').RESUME).toString()
+    puts assignment.get(Rjb::import('com.aspose.tasks.Asn').RESUME).toString()
   end
   i += 1
 end

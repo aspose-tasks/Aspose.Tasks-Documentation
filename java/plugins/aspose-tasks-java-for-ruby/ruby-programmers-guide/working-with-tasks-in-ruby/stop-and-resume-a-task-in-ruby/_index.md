@@ -1,5 +1,6 @@
 ---
 title: Stop and Resume a Task in Ruby
+description: "Learn how to stop or resume Microsoft Project (MPP/XML) tasks using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 170
 url: /java/stop-and-resume-a-task-in-ruby/
@@ -18,18 +19,18 @@ tasks = collector.getTasks()
 tsk = Rjb::import('com.aspose.tasks.Tsk')
 i = 0
 while i < tasks.size()
-	task = tasks.get(i)
+    task = tasks.get(i)
     if task.get(tsk.STOP).toString() == "1/1/2015"
-		puts "NA"
-	else
-		puts "Task Stop: " + task.get(tsk.STOP).toString()
-	end
+        puts "NA"
+    else
+        puts "Task Stop: " + task.get(tsk.STOP).toString()
+    end
 
-	if task.get(tsk.RESUME).toString() == "1/1/2015"
-		puts "NA"
-	else
-		puts "Task Resume: " + task.get(tsk.RESUME).toString()
-	end
+    if task.get(tsk.RESUME).toString() == "1/1/2015"
+        puts "NA"
+    else
+        puts "Task Resume: " + task.get(tsk.RESUME).toString()
+    end
         puts "---------------------------------------------"
     i += 1
 end

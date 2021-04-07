@@ -1,5 +1,6 @@
 ---
 title: Default Project Properties in PHP
+description: "Learn how to work with default project properties of Microsoft Project (MPP/XML) projects using Aspose.Tasks Java for PHP."
 type: docs
 weight: 30
 url: /java/default-project-properties-in-php/

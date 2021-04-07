@@ -11,38 +11,23 @@ To Handle Overtime, Remaining Costs and Work using **Aspose.Tasks Java for PHP**
 **PHP Code**
 
 {{< highlight php >}}
-
 $project = new Project('test_tasks.mpp');
-
 $resource_assignments = $project->getResourceAssignments()->toList();
-
-\# Parse through all the collected resource assignments
-
-$asn=new Asn();
-
+$asn = new Asn();
 $i = 0;
-
-while ($i < sizeof($resource_assignments)) {
-
-$assignment = $resource_assignments -> get($i);
-
-print "Overtime Cost: " . $assignment -> get($asn -> OVERTIME_COST).PHP_EOL;
-
-print "Overtime Work: " . $assignment -> get($asn -> OVERTIME_WORK).PHP_EOL;
-
-print "Remaining Cost: " . $assignment -> get($asn -> REMAINING_COST).PHP_EOL;
-
-print "Remaining Overtime Cost: " . $assignment -> get($asn -> REMAINING_OVERTIME_COST).PHP_EOL;
-
-print "Remaining Overtime Work: " . $assignment -> get($asn -> REMAINING_OVERTIME_WORK).PHP_EOL;
-
-print "--------------------------------------------------------".PHP_EOL;
-
-$i += 1;
-
+while ($i < sizeof($resource_assignments))
+{
+    $assignment = $resource_assignments -> get($i);
+    print "Overtime Cost: " . $assignment -> get($asn -> OVERTIME_COST).PHP_EOL;
+    print "Overtime Work: " . $assignment -> get($asn -> OVERTIME_WORK).PHP_EOL;
+    print "Remaining Cost: " . $assignment -> get($asn -> REMAINING_COST).PHP_EOL;
+    print "Remaining Overtime Cost: " . $assignment -> get($asn -> REMAINING_OVERTIME_COST).PHP_EOL;
+    print "Remaining Overtime Work: " . $assignment -> get($asn -> REMAINING_OVERTIME_WORK).PHP_EOL;
+    print "--------------------------------------------------------".PHP_EOL;
+    $i += 1;
 }
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Handling Overtime, Remaining Costs and Work (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

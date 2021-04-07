@@ -1,5 +1,6 @@
 ---
 title: Stop or Resume an Assignment in PHP
+description: "Learn how to stop or resume Microsoft Project (MPP/XML) resource assignments using Aspose.Tasks Java for PHP."
 type: docs
 weight: 80
 url: /java/stop-or-resume-an-assignment-in-php/
@@ -12,14 +13,15 @@ To Stop or Resume an Assignment using **Aspose.Tasks Java for PHP**, simply invo
 $project = new Project('test_tasks.mpp');
 $resource_assignments = $project->getResourceAssignments()->toList();
 $i = 0;
-$asn=new Asn();
+$asn = new Asn();
 while ($i < sizeof($resource_assignments)) {
     $assignment = $resource_assignments -> get($i);
 
     if ((string)$assignment -> get($asn -> STOP) == "1/1/2000") {
         print "NA".PHP_EOL;
     }
-    else {
+    else
+    {
         print (string)$assignment -> get($asn -> STOP);
     }
 

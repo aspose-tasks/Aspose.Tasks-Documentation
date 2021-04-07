@@ -1,5 +1,6 @@
 ---
 title: Timephased Data Generation for Different Work Contours
+description: "Learn how to work with Microsoft Project (MPP/XML) timephased data with different work contours using Aspose.Tasks for C++."
 type: docs
 weight: 80
 url: /cpp/timephased-data-generation-for-different-work-contours/

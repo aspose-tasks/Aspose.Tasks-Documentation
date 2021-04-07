@@ -1,5 +1,6 @@
 ---
 title: Stop or Resume an Assignment
+description: "Learn how to stop or resume Microsoft Project (MPP/XML) resource assignments using Aspose.Tasks for C++."
 type: docs
 weight: 70
 url: /cpp/stop-or-resume-an-assignment/
@@ -15,6 +16,7 @@ To see an assignment's stop and resume dates in Microsoft Project:
 
 1. On the Task Usage screen, select **Insert** and then **Column**.
 2. Add the desired columns.
+
 ### **Getting an Assignment's Stop and Resume Dates using Aspose.Tasks**
 If an assignment hasn't been stopped, the stop and resume dates have the value NA. In the evaluation version of Aspose.Tasks, values equal to NA gets the value "1/1/2000". In the licensed version, NA values equal DateTime.MinValue.
 

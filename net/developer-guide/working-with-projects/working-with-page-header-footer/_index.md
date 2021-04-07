@@ -1,6 +1,6 @@
 ---
 title: Working with Page Header Footer
-description: "Learn how to read header and footer information from Microsoft Project MPP files using Aspose.Tasks for Java."
+description: "Learn how to read header and footer information from Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET."
 type: docs
 weight: 90
 url: /net/working-with-page-header-footer/

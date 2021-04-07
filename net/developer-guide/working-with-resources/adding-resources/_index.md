@@ -1,5 +1,6 @@
 ---
-title: Adding Resources
+title: Adding Resources to Microsoft Project files
+description: "Learn how to add Microsoft Project (MPP/XML) resources using Aspose.Tasks for .NET."
 type: docs
 weight: 10
 url: /net/adding-resources/

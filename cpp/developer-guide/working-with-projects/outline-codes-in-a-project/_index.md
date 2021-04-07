@@ -1,5 +1,6 @@
 ---
 title: Outline Codes in a Project
+description: "Learn how to work with Microsoft Project (MPP/XML) outline codes using Aspose.Tasks for C++."
 type: docs
 weight: 90
 url: /cpp/outline-codes-in-a-project/

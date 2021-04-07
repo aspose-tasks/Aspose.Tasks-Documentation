@@ -1,15 +1,13 @@
 ---
 title: Saving Updated Resource Assignment to MPP
+description: "Learn how to update Microsoft Project (MPP/XML) project files using Aspose.Tasks for C++."
 type: docs
 weight: 90
 url: /cpp/saving-updated-resource-assignment-to-mpp/
 ---
 
-{{% alert color="primary" %}} 
-
 Aspose.Tasks for C++ API supports updating resource assignment data and writing it back to an MPP file.
 
-{{% /alert %}} 
 ## **Updating Resource Assignments**
 To read, assign and save the updated file:
 
@@ -18,6 +16,7 @@ To read, assign and save the updated file:
 2. Assign the resource to the task.
 3. Add the assigned resource to the project.
 4. Finally, save the project to the MPP file.
+
 ### **Code Examples**
 The following code example demonstrates how to perform these tasks.
 

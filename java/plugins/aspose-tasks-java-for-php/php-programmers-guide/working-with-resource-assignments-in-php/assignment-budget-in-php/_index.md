@@ -12,7 +12,7 @@ To get Assignment Budget using **Aspose.Tasks Java for PHP**, simply invoke **As
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');
 $resource_assignments = $project->getResourceAssignments()->toList();
-$asn=new Asn();
+$asn = new Asn();
 $i = 0;
 while ($i < sizeof($resource_assignments))
 {

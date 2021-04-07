@@ -1,5 +1,6 @@
 ---
 title: Microsoft Project MPP File Update
+description: "Learn how to update Microsoft Project (MPP/XML) project files using Aspose.Tasks for C++."
 type: docs
 weight: 100
 url: /cpp/microsoft-project-mpp-file-update/

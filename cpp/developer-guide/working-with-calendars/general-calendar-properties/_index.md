@@ -1,5 +1,6 @@
 ---
 title: General Calendar Properties
+description: "Learn how to read general properties of Microsoft Project (MPP/XML) projects using Aspose.Tasks for C++."
 type: docs
 weight: 30
 url: /cpp/general-calendar-properties/

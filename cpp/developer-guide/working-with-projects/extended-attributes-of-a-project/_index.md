@@ -1,5 +1,6 @@
 ---
-title: Extended Attributes of a Project
+title: Work with Extended Attributes of a Project
+description: "Learn how to work with Microsoft Project (MPP/XML) extended attributes using Aspose.Tasks for C++."
 type: docs
 weight: 80
 url: /cpp/extended-attributes-of-a-project/
@@ -7,7 +8,7 @@ url: /cpp/extended-attributes-of-a-project/
 
 {{% alert color="primary" %}} 
 
-Microsoft Project (MSP) has an extensive XML data interchange schema that makes exchanging information between applications and programming with project files easier. The schema allows you to add extended attributes to tasks, resources and assignments. This article demonstrates how to work with Extended Attributes using Aspose.Tasks.
+Microsoft Project has an extensive XML data interchange schema that makes exchanging information between applications and programming with project files easier. The schema allows you to add extended attributes to tasks, resources and assignments. This article demonstrates how to work with Extended Attributes using Aspose.Tasks.
 
 {{% /alert %}}
 
@@ -22,14 +23,17 @@ In this example, we will demonstrate how to work with Text1 extended attribute o
 6. Add a new task and insert a new column to the task row with the custom field that you used in the above step
 
 ![open extended attributes in Microsoft Project](working-with-extended-attributes-of-a-project_1.png)
+
 ## **Working with Custom Fields/Extended Attributes using Aspose.Tasks for C++ API**
 Aspose.Tasks for C++ API provides the capability of creating new extended attributes as well as working with Extended attributes already present in a document. Custom fields or Extended Attributes are represented by ExtendedAttributes collection of a project in Aspose.Tasks. It contains all the extended attributes definition of a project document. Some of the mappings of MSP Custom Field definition are as shown in the image below.
 
 ![edit extended attributes in Microsoft Project](extended-attributes-of-a-project_1.png)
+
 ### **Creating a New Extended Attribute and Adding it to Task**
 To add a new extended attribute for task or resource, we first need to define and add the extended attribute definition to the ExtendedAttributes collection. ExtendedAttributeDefinition class is used to define a new ExtendedAttribute in a project. The FieldId must be set for proper defining an Extended attribute which is linked to ExtendedAttributeTask (in case of Task) or ExtendedAttributeResource (in case of Resource). The following sample code shows how to define a new Extended Attribute for Text1 field of project. Once the Extended Attribute definition is complete, you can now create a new Extended Attribute from it and assign it to a task.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithExtendedAttributes-CreateExtendedAttributes-CreateExtendedAttributes.cpp" >}}
+
 ## **Writing Updated Extended Attribute Definitions and Values to MPP**
 Aspose.Tasks for C++ API supports updating extended attribute data in a Microsoft Project MPP file and save it back.
 

@@ -1,5 +1,6 @@
 ---
 title: Reading and Writing General Resource Properties
+description: "Learn how to read or write Microsoft Project (MPP/XML) resource properties using Aspose.Tasks for .NET."
 type: docs
 weight: 20
 url: /net/reading-and-writing-general-resource-properties/

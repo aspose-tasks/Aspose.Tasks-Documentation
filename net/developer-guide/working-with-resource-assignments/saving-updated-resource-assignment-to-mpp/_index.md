@@ -1,11 +1,12 @@
 ---
 title: Saving Updated Resource Assignment to MPP
+description: "Learn how to update Microsoft Project (MPP/XML) project files using Aspose.Tasks for .NET."
 type: docs
 weight: 100
 url: /net/saving-updated-resource-assignment-to-mpp/
 ---
 
-Aspose.Tasks supports updating resource assignment data and writing it back to a MPP file.
+Aspose.Tasks for .NET supports updating resource assignment data and writing it back to a MPP file.
 
 ## **Updating Resource Assignments**
 To read, assign and save the updated file:

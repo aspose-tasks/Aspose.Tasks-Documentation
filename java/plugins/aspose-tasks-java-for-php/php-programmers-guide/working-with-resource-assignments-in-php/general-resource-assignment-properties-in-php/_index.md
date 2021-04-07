@@ -18,7 +18,7 @@ public static function get_resource_assignments()
     while ($i < sizeof($resource_assignments))
     {
         $assignment = $resource_assignments->get($i);
-        $asn=new Asn();
+        $asn = new Asn();
         print $assignment->get($asn->UID).PHP_EOL;//.to_string
         print $assignment->get($asn->START).PHP_EOL;//.to_string
         print $assignment->get($asn->FINISH).PHP_EOL;//.to_string

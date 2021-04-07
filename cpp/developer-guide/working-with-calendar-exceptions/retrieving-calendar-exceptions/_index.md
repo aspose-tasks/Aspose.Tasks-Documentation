@@ -1,6 +1,6 @@
 ---
 title: Retrieving Calendar Exceptions
-description: "This article explains how to retrieve calendar exception data using Aspose.Tasks for C++."
+description: "Learn how to retrieve calendar exception data using Aspose.Tasks for C++."
 type: docs
 weight: 20
 url: /cpp/retrieving-calendar-exceptions/

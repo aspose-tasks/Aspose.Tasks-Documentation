@@ -12,32 +12,19 @@ To Calculate Percentage of the completed work using **Aspose.Tasks Java for PHP*
 **PHP Code**
 
 {{< highlight php >}}
-
-
-
 $project = new Project('test_tasks.mpp');
-
 $resource_assignments = $project->getResourceAssignments()->toList();
-
-\# Parse through all the collected resource assignments
-
 $i = 0;
-
-$asn=new Asn();
-
-while ($i < sizeof($resource_assignments)) {
-
-$assignment = $resource_assignments -> get($i);
-
-print "Percentage of the Completed Work: " . (string)$assignment -> get($asn -> PERCENT_WORK_COMPLETE).PHP_EOL;// . toString()
-
-print "--------------------------------------------------------".PHP_EOL;
-
-$i += 1;
-
+$asn = new Asn();
+while ($i < sizeof($resource_assignments))
+{
+    $assignment = $resource_assignments -> get($i);
+    print "Percentage of the Completed Work: " . (string)$assignment -> get($asn -> PERCENT_WORK_COMPLETE).PHP_EOL;// . toString()
+    print "--------------------------------------------------------".PHP_EOL;
+    $i += 1;
 }
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Calculating Percentages (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

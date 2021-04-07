@@ -1,5 +1,6 @@
 ---
 title: Updating and Removing Calendar
+description: "Learn how to update or remove Microsoft Project (MPP/XML) calendars using Aspose.Tasks for C++."
 type: docs
 weight: 20
 url: /cpp/updating-and-removing-calendar/
@@ -19,6 +20,7 @@ The list of all calendars can be retrieved as CalendarCollection using the Pr
 The code example given below demonstrates how to replace an existing calendar with a new standard calendar.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithCalendars-CreatingUpdatingAndRemoving-ReplaceCalendarWithNewCalendar-ReplaceCalendarWithNewCalendar.cpp" >}}
+
 ## **Writing Updated Calendar Data to MPP**
 With Aspose.Tasks, you can update calendar data in a Microsoft Project MPP file and save it back.
 

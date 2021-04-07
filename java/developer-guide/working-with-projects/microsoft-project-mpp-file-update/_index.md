@@ -1,5 +1,6 @@
 ---
 title: Microsoft Project MPP File Update
+description: "Learn how to update Microsoft Project (MPP/XML) project files using Aspose.Tasks for Java."
 type: docs
 weight: 100
 url: /java/microsoft-project-mpp-file-update/
@@ -9,7 +10,8 @@ url: /java/microsoft-project-mpp-file-update/
 
 With Aspose.Tasks it is possible to update Microsoft Project 2010 MPP files in addition to XML. You can save the updated data to an existing or a new file.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 **Updating Microsoft Project MPP Files**
 The following examples show how to add a new task to an existing Microsoft Project 2010 file and save it back to the same file. The code goes through the following steps:
 

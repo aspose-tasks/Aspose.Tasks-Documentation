@@ -1,5 +1,6 @@
 ---
 title: Stop and Resume a Task
+description: "Learn how to stop or resume Microsoft Project (MPP/XML) tasks using Aspose.Tasks for Java."
 type: docs
 weight: 120
 url: /java/stop-and-resume-a-task/
@@ -9,12 +10,14 @@ url: /java/stop-and-resume-a-task/
 
 A tasks' stop date is the date that it should (or did) end. Sometimes, a task has to be stopped temporarily and then resumed later. Microsoft Project can calculate stop dates, or let users enter them manually.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Stopped and Resumed Tasks**
 The STOP and RESUME properties exposed by the [Tsk](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Tsk/) class are used to read or write a task's stop and resume date:
 
 - STOP: the date a task stops (Date).
 - RESUME: the data and time a task restarts (Date).
+
 ### **Microsoft Project view of Stop and Resume Dates**
 To see a task's stop and resume dates:
 

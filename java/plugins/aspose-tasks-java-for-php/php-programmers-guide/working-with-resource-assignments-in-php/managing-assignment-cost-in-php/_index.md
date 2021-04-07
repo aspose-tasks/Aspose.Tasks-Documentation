@@ -12,36 +12,22 @@ To Manage Assignment Cost using **Aspose.Tasks Java for PHP**, simply invoke **A
 **PHP Code**
 
 {{< highlight php >}}
-
 $project = new Project('test_tasks.mpp');
-
 $resource_assignments = $project->getResourceAssignments()->toList();
-
-\# Parse through all the collected resource assignments
-
-$asn=new Asn();
-
+$asn = new Asn();
 $i = 0;
-
-while ($i < sizeof($resource_assignments)) {
-
-$assignment = $resource_assignments -> get($i);
-
-print "COST: " . (string)$assignment -> get($asn -> COST).PHP_EOL;
-
-print "ACWP: " . (string)$assignment -> get($asn -> ACWP).PHP_EOL;
-
-print "BCWP: " . (string)$assignment -> get($asn -> BCWP).PHP_EOL;
-
-print "BCWS: " . (string)$assignment -> get($asn -> BCWS).PHP_EOL;
-
-print "--------------------------------------------------------".PHP_EOL;
-
-$i += 1;
-
+while ($i < sizeof($resource_assignments))
+{
+    $assignment = $resource_assignments -> get($i);
+    print "COST: " . (string)$assignment -> get($asn -> COST).PHP_EOL;
+    print "ACWP: " . (string)$assignment -> get($asn -> ACWP).PHP_EOL;
+    print "BCWP: " . (string)$assignment -> get($asn -> BCWP).PHP_EOL;
+    print "BCWS: " . (string)$assignment -> get($asn -> BCWS).PHP_EOL;
+    print "--------------------------------------------------------".PHP_EOL;
+    $i += 1;
 }
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Managing Assignment Cost (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

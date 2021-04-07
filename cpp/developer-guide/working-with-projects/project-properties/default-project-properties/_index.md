@@ -1,5 +1,6 @@
 ---
 title: Default Project Properties
+description: "Learn how to work with default project properties of Microsoft Project (MPP/XML) projects using Aspose.Tasks for C++."
 type: docs
 weight: 10
 url: /cpp/default-project-properties/
@@ -30,10 +31,12 @@ To see the default project information in Microsoft Project:
 **Default project information in Microsoft Project, as written by Aspose.Tasks** 
 
 ![show default project properties in Microsoft Project](working-with-project-properties_2.png)
+
 ### **Reading Default Properties**
 The code example given below demonstrates how to read a project's default properties and writes them to a console window.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithProjectProperties-ReadDefaultProperties-DefaultProperties.cpp" >}}
+
 ### **Writing Default Properties**
 The code example given below demonstrates how to set a project's default properties.
 
