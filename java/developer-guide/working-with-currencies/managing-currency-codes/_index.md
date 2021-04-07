@@ -22,9 +22,8 @@ To see a project's currency code in Microsoft Project:
 The following example shows how to set these properties.
 
 {{< highlight java >}}
-
- Project prj = new Project();
- prj.set(Prj.CURRENCY_CODE, "USD");
+Project prj = new Project();
+prj.set(Prj.CURRENCY_CODE, "USD");
 {{< /highlight >}}
 
 ### **Getting Currency Code using Aspose.Tasks**

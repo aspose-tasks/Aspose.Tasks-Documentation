@@ -89,18 +89,14 @@ SaveOptions.CustomPageSize property added so the user can specify custom page si
 
 {{< highlight java >}}
 Project project = new Project("test.mpp");
-
 ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG);
 saveOptions.setTimescale(Timescale.DefinedInView);
 saveOptions.setCustomPageSize(new java.awt.Dimension(1224, 340));
 saveOptions.setStartDate(new GregorianCalendar(2012, Calendar.DECEMBER, 22).getTime());
 saveOptions.setEndDate(new GregorianCalendar(2013, Calendar.MAY, 10).getTime());
 saveOptions.setPresentationFormat(PresentationFormat.ResourceUsage);
-
-
 project.save("output.png", saveOptions);
 {{< /highlight >}}
-
 
 Related issue: TASKSNET-3585 - Add support of "RenderToSinglePage" option to TaskUsage, ResourceUsage, TaskSheet and ResourceSheet views
 
@@ -142,7 +138,6 @@ These settings can be changed using "Page Setup" dialog of Microsoft Project.
 
 {{< highlight java >}}
 Project project = new Project("test.mpp");
-
 View view = null;
 for (View v : project.getViews()) {
     if (v.getScreen() == ViewScreen.Gantt) {
@@ -150,8 +145,6 @@ for (View v : project.getViews()) {
         break;
     }
 }
-
-assert view != null;
 
 System.out.println("Page size specified in view settings: "
         + PrinterPaperSize.toString(PrinterPaperSize.class, view.getPageInfo().getPageSettings().getPaperSize())
@@ -166,6 +159,5 @@ saveOptions.setTimescale(Timescale.DefinedInView);
 saveOptions.setStartDate(new GregorianCalendar(2012, Calendar.DECEMBER, 22).getTime());
 saveOptions.setEndDate(new GregorianCalendar(2013, Calendar.MAY, 10).getTime());
 saveOptions.setPresentationFormat(PresentationFormat.GanttChart);
-
 project.save("output.png", saveOptions);
 {{< /highlight >}}

@@ -26,14 +26,14 @@ manager.CreateNewProject(project);
 You can now create, read and update projects in on-premise Project Server (2016 or 2019) using ProjectServerManager class:
 
 {{< highlight csharp >}}
- var windowsCredentials = new NetworkCredential("Administrator", "my_password", "DOMAIN");
- var projectServerCredentials = new ProjectServerCredentials(site, windowsCredentials);
- ProjectServerManager manager = new ProjectServerManager(projectServerCredentials);
- var list = manager.GetProjectList();
- foreach (var projectInfo in list)
- {
-   Console.WriteLine("{0} - {1} - {2}", projectInfo.Id, projectInfo.CreatedDate, projectInfo.Name);
- }
+var windowsCredentials = new NetworkCredential("Administrator", "my_password", "DOMAIN");
+var projectServerCredentials = new ProjectServerCredentials(site, windowsCredentials);
+ProjectServerManager manager = new ProjectServerManager(projectServerCredentials);
+var list = manager.GetProjectList();
+foreach (var projectInfo in list)
+{
+  Console.WriteLine("{0} - {1} - {2}", projectInfo.Id, projectInfo.CreatedDate, projectInfo.Name);
+}
 {{< /highlight >}}
 
 ## **Deprecated Members:**

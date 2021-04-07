@@ -44,31 +44,18 @@ This page contains release notes information for [Aspose.Tasks for .NET 19.7](ht
 Previously a user had to retrieve AuthToken using Microsoft.SharePoint.Client.Runtime assembly:
 
 {{< highlight csharp >}}
-
- Uri siteUrl = new Uri("https://contoso.sharepoint.com");
-
+Uri siteUrl = new Uri("https://contoso.sharepoint.com");
 var username = "admin@contoso.onmicrosoft.com";
-
 SecureString password = new SecureString();
-
 var password = "MyPassword";
-
 foreach (char c in password)
-
 {
-
     password.AppendChar(c);
-
 }
-
 var onlineCredentials = new SharePointOnlineCredentials(username, password);
-
 var fedAuthTicket = onlineCredentials.GetAuthenticationCookie(siteUrl, true);
-
 var projectOnlineCredentials = new ProjectServerCredentials(siteUrl.ToString(), fedAuthTicket);
-
 ProjectOnlineReader reader = new ProjectOnlineReader(projectOnlineCredentials);
-
 {{< /highlight >}}
 
 Now a user has an option to specify SiteUrl, username, and password in order to create a connection to Project Online:

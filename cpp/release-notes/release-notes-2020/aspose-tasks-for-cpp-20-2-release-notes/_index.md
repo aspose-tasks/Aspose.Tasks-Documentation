@@ -18,29 +18,17 @@ In this release, we are presenting the new API to work with the built-in and cus
 Old meta properties API:
 
 {{< highlight cpp >}}
-
- SharedPtr<Project> project = MakeObject<Project>("Project.mpp");
-
+SharedPtr<Project> project = MakeObject<Project>("Project.mpp");
 // custom properties are available through the dictionary of untyped properties
-
 for (KeyValuePair<String, Object> customProperty : project->get_CustomProperties())
-
 {
-
   Console::WriteLine(customProperty.Key);
-
   Console::WriteLine(customProperty.Value);
-
 }
-
 // built-in properties are available through the Project class
-
 Console::WriteLine(project->Get(Prj.Title));
-
 Console::WriteLine(project->Get(Prj.Author));
-
 // ... etc.
-
 {{< /highlight >}}
 
 New meta properties API:
@@ -48,44 +36,26 @@ New meta properties API:
 **C++**
 
 {{< highlight cpp >}}
-
- // custom properties are available through the typed collection
-
+// custom properties are available through the typed collection
 for (auto property : project->get_CustomProps())
-
 {
-
    Console::WriteLine(property->get_Type());
-
    Console::WriteLine(property->get_Name());
-
    Console::WriteLine(property->get_Value());
-
 }
-
 // built-in properties are available directly
-
 Console::WriteLine(project->get_BuiltInProps()->get_Author());
-
 Console::WriteLine(project->get_BuiltInProps()->get_Title());
-
 // ... etc.
-
 // or as an item of built-in property collection
-
 for (auto property in project->get_BuiltInProps())
-
 {
-
    Console::WriteLine(property->get_Name());
-
    Console::WriteLine(property->get_Value());
-
    // ... etc.
-
 }
-
 {{< /highlight >}}
+
 ## **All Changes**
 
 | **Key** | **Summary** |**Issue Type**|

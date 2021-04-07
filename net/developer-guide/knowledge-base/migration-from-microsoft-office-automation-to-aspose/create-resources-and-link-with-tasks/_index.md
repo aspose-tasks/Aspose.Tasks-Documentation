@@ -49,7 +49,6 @@ projectApplication.FileOpenEx(@"SampleProject.mpp",
     missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
     missingValue, missingValue, missingValue, missingValue,
     missingValue);
-
 Microsoft.Office.Interop.MSProject.Project project = projectApplication.ActiveProject;
 int iResourceId = 1;
 foreach (Task tsk in project.Tasks)
@@ -59,7 +58,6 @@ foreach (Task tsk in project.Tasks)
     tsk.Assignments.Add(tsk.ID, iResourceId, missingValue);
     iResourceId++;
 }
-
 projectApplication.FileCloseAll(Microsoft.Office.Interop.MSProject.PjSaveType.pjSave);
 {{< /highlight >}}
 

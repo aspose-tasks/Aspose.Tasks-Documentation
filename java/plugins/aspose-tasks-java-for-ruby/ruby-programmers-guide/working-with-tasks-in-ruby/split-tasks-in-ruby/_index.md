@@ -11,7 +11,6 @@ To Split Tasks using **Aspose.Tasks Java for Ruby**, simply invoke **SplitTasks*
 **Ruby Code**
 
 {{< highlight ruby >}}
-data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
 project = Rjb::import('com.aspose.tasks.Project').new
 prj = Rjb::import('com.aspose.tasks.Prj')
 tsk = Rjb::import('com.aspose.tasks.Tsk')
@@ -36,7 +35,7 @@ cal.set(2011, 3, 18, 8, 0, 0)
 cal2.set(2011, 3, 18, 17, 0, 0)
 splitResourceAssignment.splitTask(cal.getTime(), cal2.getTime(), calendar)
 splitResourceAssignment.set(Rjb::import('com.aspose.tasks.Asn').WORK_CONTOUR, Rjb::import('com.aspose.tasks.WorkContourType').Contoured)
-project.save(data_dir + "SplitTasks.xml", Rjb::import('com.aspose.tasks.SaveFileFormat').XML)
+project.save("SplitTasks.xml", Rjb::import('com.aspose.tasks.SaveFileFormat').XML)
 {{< /highlight >}}
 
 ## **Download Running Code**

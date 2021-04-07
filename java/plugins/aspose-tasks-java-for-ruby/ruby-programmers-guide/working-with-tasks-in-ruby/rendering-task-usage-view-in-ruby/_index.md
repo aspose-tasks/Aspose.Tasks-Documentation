@@ -9,16 +9,15 @@ url: /java/rendering-task-usage-view-in-ruby/
 To Render Task Usage View using **Aspose.Tasks Java for Ruby**, simply invoke **RenderTaskUsageView** module. Here you can see example code.
 
 {{< highlight ruby >}}
-data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
-project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
 options = Rjb::import('com.aspose.tasks.PdfSaveOptions').new
 options.setTimescale(Rjb::import('com.aspose.tasks.Timescale').Days)
 options.setPresentationFormat(Rjb::import('com.aspose.tasks.PresentationFormat').TaskUsage)
-project.save(data_dir + "task_days.pdf", options)
+project.save("task_days.pdf", options)
 options.setTimescale(Rjb::import('com.aspose.tasks.Timescale').ThirdsOfMonths)
-project.save(data_dir + "task_thirdsOfMonths.pdf", options)
+project.save("task_thirdsOfMonths.pdf", options)
 options.setTimescale(Rjb::import('com.aspose.tasks.Timescale').Months)
-project.save(data_dir + "task_months.pdf", options)
+project.save("task_months.pdf", options)
 puts "Created task usage view files."
 {{< /highlight >}}
 

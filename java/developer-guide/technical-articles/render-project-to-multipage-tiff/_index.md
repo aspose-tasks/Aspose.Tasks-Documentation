@@ -23,29 +23,15 @@ The following code sample:
 **Java**
 
 {{< highlight java >}}
-
- //Source file to be converted to TIFF
-
+// Source file to be converted to TIFF
 String file = "RenderMe.mpp";
-
 Project project = new Project(file);
-
 //Save the project to TIFF
-
 project.save("RenderMe.tif", SaveFileFormat.TIFF);
-
 //Save the project with CCITT4 compression
-
 ImageSaveOptions options = new ImageSaveOptions(SaveFileFormat.TIFF);
-
 options.setTiffCompression(TiffCompression.Ccitt4);
-
 project.save("RenderMe_options.tif", options);
-
-//Remove the compression
-
 options.setTiffCompression(TiffCompression.None);
-
 project.save("RenderMe_comp_none.tif", options);
-
 {{< /highlight >}}

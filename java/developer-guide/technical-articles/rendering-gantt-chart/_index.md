@@ -24,35 +24,22 @@ The following code sample:
 **Java**
 
 {{< highlight java >}}
-
- Project project = new Project("NewProductDev.mpp");
-
+Project project = new Project("NewProductDev.mpp");
 // Save to one page image (Timescale.days by default)
-
 project.save("NewProductDevDays.jpeg", new ImageSaveOptions(SaveFileFormat.JPEG));
-
-
 // Save to one page image (Timescale.ThirdsOfMonths)
-
 ImageSaveOptions options = new ImageSaveOptions(SaveFileFormat.JPEG);
-
 options.setTimescale(Timescale.ThirdsOfMonths);
-
 project.save("NewProductDevThirdsOfMonths.jpeg", options);
-
 // Save to one page image (Timescale.Months)
-
 options.setTimescale(Timescale.Months);
-
 project.save("NewProductDevMonths.jpeg", options);
-
 {{< /highlight >}}
-
 
 ## **Rolling Up Gantt Bars During Rendering**
 If the SaveOptions.RollUpGanttBars property is set to true, any summary task in the project is marked by its visible subtasks, keeping into account the Task.HideBar property when rendering. (If Task.HideBar = true, the bar is not rendered on the Gantt chart.) If SaveOptions.RollUpGanttBars = false, the subtask will be shown on the summary task anyway, provided that subtask.IsRollup and subtask.ParentTask.IsRollup are set to true. Also, if SaveOptions.DrawNonWorkingTime (default value = true) is set to false, non-working time will not be shown on the Gantt chart.
 ### **Example 1**
-**C#**
+**Java**
 
 {{< highlight java >}}
 
@@ -239,31 +226,21 @@ Microsoft Project allows users to render the output of Gantt charts using gradie
 **Java**
 
 {{< highlight java >}}
-
- Project project = new Project("NewProductDev.mpp");
-
+Project project = new Project("NewProductDev.mpp");
 SaveOptions options = new XamlOptions();
-
 options.setUseGradientBrush(false);
-
 project.save("solid.xaml", options);
-
 options.setUseGradientBrush(true);
-
 project.save("gradient.xaml", options);
-
 {{< /highlight >}}
+
 ## **Setting Start date of Gantt Chart View**
 The TimeScaleStart property exposed by Prj class allows to set the start date of Gantt chart view. However, if the saved file is opened by MSP in maximized window mode then the timescale start date will not match.
 
 **Java**
 
 {{< highlight java >}}
-
- Project project = new Project("REL_Constr.mpp");
-
+Project project = new Project("REL_Constr.mpp");
 project.set(Prj.TIMESCALE_START, new Date(115, 2, 3));
-
-project.Save("temp.mpp", SaveFileFormat.MPP);
-
+project.save("temp.mpp", SaveFileFormat.MPP);
 {{< /highlight >}}

@@ -12,6 +12,7 @@ When assigning an invalid formula string to the instance of ExtendedAttributeDef
 
 ## **Formula Grammar**
 Microsoft Project uses the following grammar for formula.
+
 {{< highlight csharp >}}
 Formula -> Formula Binary_Op Primary | Primary
 Primary -> (Formula) | Unary_Op Primary | Function | ValidFieldName | ValidDoubleValue | "StringLiteral"

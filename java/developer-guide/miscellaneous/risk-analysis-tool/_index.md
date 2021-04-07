@@ -14,9 +14,9 @@ Aspose.Tasks for Java API supports for performing risk analysis on a Project dat
 ### **3. Analyze the Risks**
 
 {{< highlight java >}}
-
- RiskAnalyzer analyzer = new RiskAnalyzer(settings);
- RiskAnalysisResult analysisResult = analyzer.analyze(project);
+RiskAnalyzer analyzer = new RiskAnalyzer(settings);
+RiskAnalysisResult analysisResult = analyzer.analyze(project);
 {{< /highlight >}}
+
 ### **4. Use the Results of the Analysis**
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Miscellaneous-RiskAnalyzerTest-use-analysis.java" >}}

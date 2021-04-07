@@ -13,12 +13,12 @@ Aspose hosts all Java APIs on [Aspose Artifactory](https://repository.aspose.com
 First, you need to specify the Aspose Maven Repository configuration/location in your Maven pom.xml as follows:
 
 {{< highlight text >}}
- <repositories>
-    <repository>
-        <id>AsposeJavaAPI</id>
-        <name>Aspose Java API</name>
-        <url>https://repository.aspose.com/repo/</url>
-    </repository>
+<repositories>
+   <repository>
+       <id>AsposeJavaAPI</id>
+       <name>Aspose Java API</name>
+       <url>https://repository.aspose.com/repo/</url>
+   </repository>
 </repositories>
 {{< /highlight >}}
 

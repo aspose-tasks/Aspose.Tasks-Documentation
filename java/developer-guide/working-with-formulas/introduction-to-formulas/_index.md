@@ -16,20 +16,12 @@ When assigning an invalid formula string to the instance of ExtendedAttributeDef
 **Formula Grammar**
 Microsoft Project uses the following grammar for formula.
 
-{{< highlight java >}}
-
- Formula -> Formula Binary_Op Primary | Primary
- 
- Primary -> (Formula) | Unary_Op Primary | Function | [ValidFieldName] | ValidDoubleValue | "StringLiteral"
- 
- Function -> ValidFunctionName(Args)
- 
- Args -> Args Delimiter Formula | Formula | |
- 
- Delimiter -> , | ; Note that Delimiter is culture-specific in xml format ( , or ; ) and persistent in mpp ( , )
- 
- Binary_Op -> + | - | * | / | & | MOD | ^ | = | <> | < | >| AND | OR
- 
- Unary_Op -> NOT | + | -
-
+{{< highlight text >}}
+Formula -> Formula Binary_Op Primary | Primary
+Primary -> (Formula) | Unary_Op Primary | Function | [ValidFieldName] | ValidDoubleValue | "StringLiteral"
+Function -> ValidFunctionName(Args)
+Args -> Args Delimiter Formula | Formula | |
+Delimiter -> , | ; Note that Delimiter is culture-specific in xml format ( , or ; ) and persistent in mpp ( , )
+Binary_Op -> + | - | * | / | & | MOD | ^ | = | <> | < | >| AND | OR
+Unary_Op -> NOT | + | -
 {{< /highlight >}}

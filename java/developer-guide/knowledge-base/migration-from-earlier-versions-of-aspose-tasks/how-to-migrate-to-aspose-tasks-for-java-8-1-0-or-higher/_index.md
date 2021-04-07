@@ -22,102 +22,59 @@ Aspose.Tasks' legacy API allowed setting default properties of a project by dire
 **Java**
 
 {{< highlight java >}}
-
- //Create a project instance
-
+// Create a project instance
 Project prj = new Project();
-
-//Set   properties default
-
+// Set properties default
 prj.setScheduleFromStart(true);
-
 prj.setStartDate(prj.getStartDate());
-
 prj.setDefaultStartTime(prj.getStartDate());
-
 prj.setDefaultTaskType(TaskType.FixedDuration);
-
 prj.setDefaultStandardRate(15);
-
 prj.setDefaultOvertimeRate(12);
-
 prj.setDefaultTaskEVMethod(EarnedValueMethodType.PercentComplete);
-
 prj.setDefaultFixedCostAccrual(CostAccrualType.Prorated);
-
-//Save the project to XML format
-
+// Save the project to XML format
 prj.save( "Project4.xml" , SaveFileFormat.XML);
-
 {{< /highlight >}}
+
 ### **New Aspose.Tasks for Java 8.x Approach**
 **Java**
 
 {{< highlight java >}}
-
- //Create a project instance
-
+// Create a project instance
 Project project = new Project();
-
-//Set default properties
-
+// Set default properties
 project.set(Prj.SCHEDULE_FROM_START,new NullableBool(true));
-
-//project.Set(Prj.START_DATE, DateTime.Now);
-
 project.set(Prj.DEFAULT_START_TIME,project.get(Prj.START_DATE));
-
 project.set(Prj.DEFAULT_TASK_TYPE, TaskType.FixedDuration);
-
 project.set(Prj.DEFAULT_STANDARD_RATE, 15d);
-
 project.set(Prj.DEFAULT_OVERTIME_RATE, 12d);
-
 project.set(Prj.DEFAULT_TASK_EV_METHOD, EarnedValueMethodType.PercentComplete);
-
 project.set(Prj.DEFAULT_FIXED_COST_ACCRUAL, CostAccrualType.Prorated);
-
-//Save the project to XML format
-
 project.save("ProjectDefaultProps.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
+
 ## **Creating and Adding Calendar to Project**
 In order for proper functionality of Calendar items added to the Project, the legacy API required to recalculate Calendar UIDs. In the new API, however, UIDs recalculation are automatically dealt and there is no need to call the calculations manually.
 ### **Legacy API Code Sample**
 **Java**
 
 {{< highlight java >}}
-
- //Create a project instance
-
+// Create a project instance
 Project prj =  new Project();
-
-//Define Calendar
-
+// Define Calendar
 Calendar cal1 = new  Calendar();
-
 cal1.setName("no info");
-
 Calendar cal2 = new  Calendar(1);
-
 cal2.setName("no name");
-
 Calendar cal3 = new Calendar( "cal3" );
-
 prj.getCalendars().add(cal1);
-
 prj.getCalendars().add(cal2);
-
 prj.getCalendars().add(cal3);
-
 prj.calcCalendarUids();
-
-//Save the Project
-
 prj.save( "Project.Xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
+
 ### **New Aspose.Tasks for Java 8.x Approach**
 **Java**
 

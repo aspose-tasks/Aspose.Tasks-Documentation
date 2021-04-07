@@ -26,86 +26,45 @@ The following steps are required to accomplish this task:
 // Create Application object
 Application projectApplication = new ApplicationClass();
 object missingValue = System.Reflection.Missing.Value;
-// Open an MPP file
 projectApplication.FileOpenEx(@"C:\Project1.mpp",
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-
     missingValue, missingValue, missingValue, missingValue,
-
     missingValue);
-
-// Create a Project object by assigning active project
-
 Project project = projectApplication.ActiveProject;
-
-// Loop through each task and read information related to tasks
-
 foreach (Task task in project.Tasks)
-
 {
-
     Console.WriteLine("Reading Task " + task.Name);
-
     Console.WriteLine("\nID: " + task.ID);
-
     Console.WriteLine("Start: " + task.Start);
-
     Console.WriteLine("Finish: " + task.Finish);
-
     Console.WriteLine("\n===========================\n");
-
 }
-
 // Loop through each resource and read information related to resources
-
 foreach (Resource resource in project.Resources)
-
 {
-
     string resourceType = null;
-
     switch (resource.Type)
-
     {
-
         case PjResourceTypes.pjResourceTypeCost: 
-
             resourceType = "Cost";
-
             break;
-
         case PjResourceTypes.pjResourceTypeMaterial: 
-
             resourceType = "Material";
-
             break;
-
         case PjResourceTypes.pjResourceTypeWork: 
-
             resourceType = "Work";
-
             break;
-
     }
-
     Console.WriteLine("Reading Resource " + resource.Name);
-
     Console.WriteLine("\nID: " + resource.ID);
-
     Console.WriteLine("Type: " + resourceType);
-
     Console.WriteLine("\n===========================\n");
-
 }
-
 Console.ReadLine();
-
 {{< /highlight >}}
+
 ## **Read Tasks and Resources Using Aspose.Tasks for .NET**
 The following steps are required to accomplish this task:
 
@@ -114,7 +73,7 @@ The following steps are required to accomplish this task:
 3. Select **Aspose.Tasks** and then click **OK**.
    This imports the Aspose.Tasks namespace at the start of the code.
 4. Use the code from the following example to read tasks and resources.
-### **Code Examples - Aspose.Tasks**
 
+### **Code Examples - Aspose.Tasks**
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-KnowledgeBase-ReadTaskAndResources-ReadTaskAndResources.cs" >}}

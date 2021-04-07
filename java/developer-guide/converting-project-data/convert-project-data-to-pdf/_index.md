@@ -54,19 +54,14 @@ Aspose.Tasks give developers control over date formatting when rendering project
 **Java**
 
 {{< highlight java >}}
-
- Project project = new Project();
- Date date = new Date();
- project.setStartDate(date);
- 
- // By default project.DateFormat == DateFormat.Date_ddd_mm_dd_yy (Mon 09/22/14)
- // customize DateFormat (September 22, 2014)
- project.setDateFormat(DateFormat.Date_mmmm_dd_yyyy);
- 
- project.save("saved.pdf", SaveFileFormat.PDF);
- 
- //Export to date format 19/07/2016
- project.setDateFormat(DateFormat.DateDdMmYyyy);
- 
- project.save("p2.pdf", SaveFileFormat.PDF);
+Project project = new Project();
+Date date = new Date();
+project.setStartDate(date);
+// By default project.DateFormat == DateFormat.Date_ddd_mm_dd_yy (Mon 09/22/14)
+// customize DateFormat (September 22, 2014)
+project.setDateFormat(DateFormat.Date_mmmm_dd_yyyy);
+project.save("saved.pdf", SaveFileFormat.PDF);
+//Export to date format 19/07/2016
+project.setDateFormat(DateFormat.DateDdMmYyyy);
+project.save("p2.pdf", SaveFileFormat.PDF);
 {{< /highlight >}}

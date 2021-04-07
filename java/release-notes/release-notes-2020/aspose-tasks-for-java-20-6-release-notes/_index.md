@@ -21,15 +21,10 @@ You can now create or update an existing project in your Project Online account 
 **Java**
 
 {{< highlight java >}}
-
 ProjectServerCredentials credentials = new ProjectServerCredentials("https://xxxxxx.sharepoint.com", "yyyyy@xxxxxxx.onmicrosoft.com", "password");
-
 Project project = new Project("sample.mpp");
-
 ProjectServerManager manager = new ProjectServerManager(credentials);
-
 manager.createNewProject(project);
-
 {{< /highlight >}}
 
 You can now create, read, and update projects in on-premise Project Server (2016 or 2019) using ProjectServerManager class:
@@ -37,25 +32,19 @@ You can now create, read, and update projects in on-premise Project Server (2016
 **Java**
 
 {{< highlight java >}}
-
 ProjectServerCredentials projectServerCredentials = new ProjectServerCredentials("https://xxxxxx.sharepoint.com", "yyyyy@xxxxxxx.onmicrosoft.com", "password");
-
 ProjectServerManager manager = new ProjectServerManager(projectServerCredentials);
-
 Iterable<ProjectInfo> list = manager.getProjectList();
-
 for (ProjectInfo projectInfo : list) {
-
     System.out.println(String.format("%s - %s - %s", projectInfo.getId().toString(), projectInfo.getCreatedDate().toString(), projectInfo.getName()));
-
 }
-
 {{< /highlight >}}
 
 
 ## **Deprecated Members**
 ProjectOnlineReader class is deprecated and will be removed after v.20.8. Use ProjectServerManager class instead.
 Value.getNumberValue()/Value.setNumberValue(int) property is deprecated and will be removed after v.20.8. Use Value.getNumericValue()/Value.setNumericValue(java.math.BigDecimal) property instead.
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

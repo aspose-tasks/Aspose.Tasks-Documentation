@@ -38,14 +38,14 @@ Aspose.Tasks lets you open existing files and manipulate them as well as creati
 The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class constructor accepts a valid FileInputStream object or path to MPP or XML document and returns a [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) object which can be used to manipulate project data.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadProjectFiles-ReadProjectFiles.java" >}}
+
 ### **Reading Project Files as a Template**
 **Java**
 
 {{< highlight java >}}
-
- //Read a project from a template
- Project project = new Project("d:\\Project1.mpp");
+Project project = new Project("d:\\Project1.mpp");
 {{< /highlight >}}
+
 ### **Reading Project Data from Microsoft Project Database**
 Aspose.Tasks for Java API now allows to read Project data from the Microsoft Project database. The SqlConnectionStringBuilder and MspDbSettings classes can be used to accomplish this purpose providing connection string settings for connection to the database.
 

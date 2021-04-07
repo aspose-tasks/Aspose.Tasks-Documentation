@@ -11,44 +11,20 @@ To WBS Associated with a Task using **Aspose.Tasks Java for Ruby**, simply invok
 **Ruby Code**
 
 {{< highlight ruby >}}
-
- data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
-
-
-
-\# Instantiate project object
-
-project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
-
-\# Create a ChildTasksCollector instance
-
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
 collector = Rjb::import('com.aspose.tasks.ChildTasksCollector').new
-
-\# Collect all the tasks from RootTask using TaskUtils
-
 Rjb::import('com.aspose.tasks.TaskUtils').apply(project.getRootTask(), collector, 0)
-
 tsk = Rjb::import('com.aspose.tasks.Tsk')
-
 tasks = collector.getTasks()
-
-\# Parse through all the collected tasks
-
 i = 0
-
 while i < tasks.size()
-
     task = tasks.get(i)
-
     puts "WBS: " + task.get(tsk.WBS).to_string
-
     puts "WBS Level: " + task.get(tsk.WBS_LEVEL).to_s
-
     i +=1
-
 end
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **WBS Associated with a Task (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

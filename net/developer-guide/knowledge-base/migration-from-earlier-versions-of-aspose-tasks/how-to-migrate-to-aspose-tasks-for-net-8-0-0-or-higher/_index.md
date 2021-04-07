@@ -302,6 +302,7 @@ task.[Set](Tsk.Start, project.RootTask.[Get](Tsk.Start).AddDays(1))
 project.Save("CreateTasks.xml", SaveFileFormat.XML)
 
 {{< /highlight >}}
+
 ### **Create and Add Resource to Project**
 Set and Get methods have been added to the Resource class of the API for manipulating attributes related to a project's Resource.
 ###### **Legacy API Code Sample**
@@ -348,155 +349,95 @@ project.Resources.Add(res)
 project.Save("Project.xml", SaveFileFormat.XML)
 
 {{< /highlight >}}
+
 ###### **New Aspose.Tasks for .NET 8.x Approach**
 **C#**
 
 {{< highlight csharp >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Resource rsc = project.Resources.Add("R1");
-
 rsc.Set(Rsc.Start, DateTime.Parse("31-Aug-2014 8:00 AM"));
-
 rsc.Set(Rsc.Finish, DateTime.Parse("31-Aug-2014 5:00 PM"));
-
 project.Save("CreateResource.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
 
 **VB.NET**
 
 {{< highlight csharp >}}
-
- Dim project As New Project()
-
+Dim project As New Project()
 Dim rsc As Resource = project.Resources.Add("R1")
-
 rsc.[Set](Rsc.Start, DateTime.Parse("31-Aug-2014 8:00 AM"))
-
 rsc.[Set](Rsc.Finish, DateTime.Parse("31-Aug-2014 5:00 PM"))
-
 project.Save("CreateResource.xml", SaveFileFormat.XML)
-
 {{< /highlight >}}
+
 ### **Create and Add Resource Assignment to Project**
 The ResourceAssignment class also introduces the Set and Get methods similar to other data collections of the API such as Tasks, Resources and Tasks Links.
 ###### **Legacy API Code Sample**
 **C#**
 
 {{< highlight csharp >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Task tskRoot =  new Task();
-
 Task task = new Task("Task");
-
 Resource rsc = new Resource();
-
 rsc.StandardRate=10;
-
 rsc.OvertimeRate=15;
-
 ResourceAssignment assignment = new ResourceAssignment(task, rsc);
-
 assignment.Uid = 1;
-
 assignment.Start = DateTime.Parse("18-Aug-2009 8:00 AM" );
-
 assignment.Finish = DateTime.Parse("18-Aug-2009 5:00 PM" );
-
 project.RootTask = tskRoot;
-
 project.RootTask.Children.Add(task);
-
 project.Resources.Add(res);
-
 project.ResourceAssignments.Add(assignment);
-
 project.Save("project.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
 
 **VB.NET**
 
 {{< highlight csharp >}}
-
- Dim project As New Project()
-
+Dim project As New Project()
 Dim tskRoot As New Task()
-
 Dim task As New Task("Task")
-
 Dim rsc As New Resource()
-
 rsc.StandardRate = 10
-
 rsc.OvertimeRate = 15
-
 Dim assignment As New ResourceAssignment(task, rsc)
-
 assignment.Start = DateTime.Parse("18-Aug-2009 8:00 AM" )
-
 assignment.Finish = DateTime.Parse("18-Aug-2009 5:00 PM" )
-
 assignment.Uid = 1
-
 project.RootTask = tskRoot
-
 project.RootTask.Children.Add(task)
-
 project.Resources.Add(res)
-
 project.ResourceAssignments.Add(assignment)
-
 project.Save("project.xml", SaveFileFormat.XML)
-
 {{< /highlight >}}
+
 ###### **New Aspose.Tasks for .NET 8.x Approach**
 **C#**
 
 {{< highlight csharp >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Task task = project.RootTask.Children.Add("Task");
-
 Resource rsc = project.Resources.Add("Rsc");
-
 rsc.Set(Rsc.StandardRate, 10);
-
 rsc.Set(Rsc.OvertimeRate, 15);
-
 ResourceAssignment assignment = project.ResourceAssignments.Add(task, rsc);
-
 assignment.Set(Assn.Start,DateTime.Parse("18-Aug-2009 8:00 AM" );
-
 assignment.Set(Assn.Finish, DateTime.Parse("18-Aug-2009 5:00 PM" );
-
 project.Save("ResourceAssignments.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
 
 **VB.NET**
 
 {{< highlight csharp >}}
-
- Dim project As New Project()
-
+Dim project As New Project()
 Dim task As Task = project.RootTask.Children.Add("Task")
-
 Dim rsc As Resource = project.Resources.Add("Rsc")
-
 rsc.[Set](Rsc.StandardRate, 10)
-
 rsc.[Set](Rsc.OvertimeRate, 15)
-
 Dim assignment As ResourceAssignment = project.ResourceAssignments.Add(task, rsc)
-
 assignment.Set(Assn.Start,DateTime.Parse("18-Aug-2009 8:00 AM" )
-
 assignment.Set(Assn.Finish, DateTime.Parse("18-Aug-2009 5:00 PM" ) project.Save("ResourceAssignments.xml", SaveFileFormat.XML)
-
 {{< /highlight >}}

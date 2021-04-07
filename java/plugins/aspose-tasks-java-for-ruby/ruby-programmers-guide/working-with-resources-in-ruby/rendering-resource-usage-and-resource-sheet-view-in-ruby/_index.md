@@ -63,34 +63,15 @@ To Render Resource Sheet View using **Aspose.Tasks Java for Ruby**, call **rende
 **Ruby Code**
 
 {{< highlight ruby >}}
-
- def render_resource_sheetview()
-
-    data_dir = File.dirname(File.dirname(File.dirname(File.dirname(__FILE__)))) + '/data/'
-
-
-
-   
-
+def render_resource_sheetview()
     project = Rjb::import('com.aspose.tasks.Project').new(data_dir + 'test_tasks.mpp')
-
-    # Define the SaveOptions with required TimeScale settings as Days
-
     options = Rjb::import('com.aspose.tasks.PdfSaveOptions').new
-
-
-
-    # Set the Presentation format to ResourceSheet
-
     options.setPresentationFormat(Rjb::import('com.aspose.tasks.PresentationFormat').ResourceSheet)
-
     project.save(data_dir + "result.pdf", options)
-
     puts "Created resource sheet view file."
-
 end
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Rendering Resource Usage and Resource Sheet View (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
