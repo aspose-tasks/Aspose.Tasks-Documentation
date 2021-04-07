@@ -15,7 +15,7 @@ public static function get_actual_properties()
 {
     $project = new Project('test_tasks.mpp');
     $collector = new ChildTasksCollector();
-    $taskUtils=new TaskUtils();
+    $taskUtils = new TaskUtils();
     $taskUtils->apply($project->getRootTask(), $collector, 0);
     $tasks = $collector->getTasks();
     $tsk = new Tsk();

@@ -21,7 +21,7 @@ $cal->getWeekDays()->add(new WeekDay($dayType->Saturday));
 $cal->getWeekDays()->add(new WeekDay($dayType->Sunday));
 $myWeekDay = new WeekDay($dayType->Friday);
 $wt1 = new WorkingTime();
-$calendar=new Calendar();
+$calendar = new Calendar();
 $calTime = $calendar->getInstance();
 $calTime->set(1,1,1,9,0,0);
 $date = $calTime->getTime();
@@ -40,7 +40,7 @@ $myWeekDay->getWorkingTimes()->add($time1);
 $myWeekDay->getWorkingTimes()->add($time2);
 $myWeekDay->setDayWorking(true);
 $cal->getWeekDays()->add($myWeekDay);
-$saveFileFormat=new SaveFileFormat();
+$saveFileFormat = new SaveFileFormat();
 $project->save("CalendarWeekdays.xml", $saveFileFormat->XML);
 print "Defined weekdays for calendar, please check the output file.".PHP_EOL;
 {{< /highlight >}}

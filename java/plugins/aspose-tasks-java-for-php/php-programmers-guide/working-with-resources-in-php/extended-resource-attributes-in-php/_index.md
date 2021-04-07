@@ -12,25 +12,16 @@ To set extended resource attributes using **Aspose.Tasks Java for PHP**, simply 
 **PHP Code**
 
 {{< highlight php >}}
-
 $project = new Project('test_tasks.mpp');
-
 $res = $project->getResources()->toList()->get(0);
-
 $attribute = new ExtendedAttribute();
-
 $attribute->setFieldId("11");
-
 $attribute->setValue("MyValueEA");
-
 $attribute->setValueGuid("MyValueGuidEA");
-
 $res->getExtendedAttributes()->add($attribute);
-
 print "Set extended resource attributes.".PHP_EOL;
-
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Extended Resource Attributes (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

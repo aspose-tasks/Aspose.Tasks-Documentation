@@ -1,5 +1,6 @@
 ---
 title: Calculate Task Duration in Different Units in PHP
+description: "Learn how to calculate Microsoft Project (MPP/XML) task durations using Aspose.Tasks Java for PHP."
 type: docs
 weight: 20
 url: /java/calculate-task-duration-in-different-units-in-php/
@@ -11,40 +12,17 @@ To Calculate Task Duration in Different Units using **Aspose.Tasks Java for PHP*
 **PHP Code**
 
 {{< highlight php >}}
-
-
-
 $project = new Project('test_tasks.mpp');
-
 $tsk = new Tsk();
-
 $time_unit_type = new TimeUnitType();
-
-\# Get a task to calculate its duration in different formats
-
 $task = $project->getRootTask()->getChildren()->getById(1);
-
-\# Get the duration in Minutes
-
 print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Minute)).PHP_EOL;
-
-\# Get the duration in Days
-
 print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Day)).PHP_EOL;
-
-\# Get the duration in Hours
-
 print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Hour)).PHP_EOL;
-
-\# Get the duration in Weeks
-
 print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Week)).PHP_EOL;
-
-\# Get the duration in Months
-
 print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Month)).PHP_EOL;
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Calculate Task Duration in Different Units (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

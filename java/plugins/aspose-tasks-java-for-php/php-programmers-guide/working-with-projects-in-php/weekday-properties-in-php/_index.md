@@ -32,12 +32,12 @@ public static function set_weekday_properties()
 {
     $project = new Project();
     $prj = new Prj();
-    $dayType=new DayType();
+    $dayType = new DayType();
     $project->set($prj->WEEK_START_DAY, $dayType->Monday);
     $project->set($prj->DAYS_PER_MONTH, 24);
     $project->set($prj->MINUTES_PER_DAY, 540);
     $project->set($prj->MINUTES_PER_WEEK, 3240);
-    $saveFileFormat=new SaveFileFormat();
+    $saveFileFormat = new SaveFileFormat();
     $project->save("weekday_properties.xml", $saveFileFormat->XML);
     print "Set weekday properties, please check the output file.".PHP_EOL;
 }

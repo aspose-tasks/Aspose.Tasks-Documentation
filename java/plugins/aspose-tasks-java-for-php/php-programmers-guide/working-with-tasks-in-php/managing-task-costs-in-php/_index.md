@@ -11,34 +11,20 @@ To Manage Task Costs using **Aspose.Tasks Java for PHP**, simply invoke **Managi
 **PHP Code**
 
 {{< highlight php >}}
-
-
-
 $project = new Project();
-
 $task = $project->getRootTask()->getChildren()->add("Task");
-
 $tsk = new Tsk();
-
-$bigDecimal=new BigDecimal();
-
+$bigDecimal = new BigDecimal();
 $task->set($tsk->COST, $bigDecimal->valueOf(800));
-
 print "Task Remaining Cost: " . (string)$task->get($tsk->REMAINING_COST).PHP_EOL;
-
 print "Task Fixed Cost: " . (string)$task->get($tsk->FIXED_COST).PHP_EOL;
-
 print "Task Cost Variance: " . (string)$task->get($tsk->COST_VARIANCE).PHP_EOL;
-
 print "Project Cost: " . (string)$project->getRootTask()->get($tsk->COST).PHP_EOL;
-
 print "Project Fixed Cost: " . (string)$project->getRootTask()->get($tsk->FIXED_COST).PHP_EOL;
-
 print "Project Remaining Cost: " . (string)$project->getRootTask()->get($tsk->REMAINING_COST).PHP_EOL;
-
 print "Project Variance Cost: " . (string)$project->getRootTask()->get($tsk->COST_VARIANCE).PHP_EOL;
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Managing Task Costs (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

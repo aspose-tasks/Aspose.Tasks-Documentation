@@ -12,7 +12,7 @@ To add Calendar Exceptions using **Aspose.Tasks Java for PHP**, simply invoke **
 $project = new Project('test_tasks.mpp');
 $cal = $project->getCalendars()->toList()->get(0);
 $calException = new CalendarException();
-$calendar=new Calendar();
+$calendar = new Calendar();
 $calObject = $calendar->getInstance();
 $calObject->set(2009, 1, 1, 0, 0, 0);
 $calException->setFromDate($calObject->getTime());

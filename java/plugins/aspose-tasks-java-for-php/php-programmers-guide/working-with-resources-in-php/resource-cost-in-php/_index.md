@@ -11,40 +11,24 @@ To get Resource Cost using **Aspose.Tasks Java for PHP**, simply invoke **Resour
 **PHP Code**
 
 {{< highlight php >}}
-
 $project = new Project('test_tasks.mpp');
-
 $resources = $project->getResources()->toList();
-
 $rsc = new Rsc();
-
-\# Parse through all the collected tasks
-
 $i = 0;
-
-while ($i < sizeof($resources)) {
-
-$resource = $resources -> get($i);
-
-if ($resource -> get($rsc -> NAME) != null) {
-
-print "Cost: " . (string)$resource -> get($rsc -> COST).PHP_EOL;
-
-print "ACWP: " . (string)$resource -> get($rsc -> ACWP).PHP_EOL;
-
-print "BCWS: " . (string)$resource -> get($rsc -> BCWS).PHP_EOL;
-
-print "BCWP: " . (string)$resource -> get($rsc -> BCWP).PHP_EOL;
-
-print "---------------------------------------------".PHP_EOL;
-
+while ($i < sizeof($resources))
+{
+    $resource = $resources -> get($i);
+    if ($resource -> get($rsc -> NAME) != null) {
+        print "Cost: " . (string)$resource -> get($rsc -> COST).PHP_EOL;
+        print "ACWP: " . (string)$resource -> get($rsc -> ACWP).PHP_EOL;
+        print "BCWS: " . (string)$resource -> get($rsc -> BCWS).PHP_EOL;
+        print "BCWP: " . (string)$resource -> get($rsc -> BCWP).PHP_EOL;
+        print "---------------------------------------------".PHP_EOL;
+    }
+    $i += 1;
 }
-
-$i += 1;
-
-}
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Resource Cost (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

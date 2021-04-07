@@ -1,5 +1,6 @@
 ---
 title: Calculate Task Duration in Different Units in Ruby
+description: "Learn how to calculate Microsoft Project (MPP/XML) task durations using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 20
 url: /java/calculate-task-duration-in-different-units-in-ruby/

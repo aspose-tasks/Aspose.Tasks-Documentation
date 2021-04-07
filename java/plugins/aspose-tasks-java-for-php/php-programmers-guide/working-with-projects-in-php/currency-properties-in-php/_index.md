@@ -32,12 +32,12 @@ public static function set_currency_properties()
 {
     $project = new Project();
     $prj = new Prj();
-    $currencySymbolPositionType=new CurrencySymbolPositionType();
+    $currencySymbolPositionType = new CurrencySymbolPositionType();
     $project->set($prj->CURRENCY_CODE, "AUD");
     $project->set($prj->CURRENCY_DIGITS, 2);
     $project->set($prj->CURRENCY_SYMBOL, "$");
     $project->set($prj->CURRENCY_SYMBOL_POSITION, $currencySymbolPositionType->After);
-    $saveFileFormat=new SaveFileFormat();
+    $saveFileFormat = new SaveFileFormat();
     $project->save("currency_properties.xml", $saveFileFormat->XML);
     print "Set currency properties, please check the output file.".PHP_EOL;
 }

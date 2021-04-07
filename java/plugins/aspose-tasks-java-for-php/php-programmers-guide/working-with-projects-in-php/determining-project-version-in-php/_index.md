@@ -11,20 +11,12 @@ To Determine Project Version using **Aspose.Tasks Java for PHP**, simply invoke 
 **PHP Code**
 
 {{< highlight php >}}
-
-
-
 $project = new Project('Sample.xml');
-
-\# Display project version property
-
-$prj=new Prj();
-
+$prj = new Prj();
 print "Project Version : " . (string)$project->get($prj->SAVE_VERSION).PHP_EOL;
-
 print "Last Saved : " . (string)$project->get($prj->LAST_SAVED).PHP_EOL;
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Determining Project Version (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

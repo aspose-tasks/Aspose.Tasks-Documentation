@@ -11,9 +11,9 @@ To create a Standard Calendar using **Aspose.Tasks Java for PHP**, simply invoke
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');
 $cal1 = $project->getCalendars()->add("My Cal");
-$calendar=new Calendar();
+$calendar = new Calendar();
 $calendar->makeStandardCalendar($cal1);
-$saveFileFormat=new SaveFileFormat();
+$saveFileFormat = new SaveFileFormat();
 $project->save("CreateStandardCalendar.xml", $saveFileFormat->XML);
 print "Created standard calendar, please check the output file.".PHP_EOL;
 {{< /highlight >}}

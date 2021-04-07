@@ -13,7 +13,7 @@ To Handle Occurrences for Exceptions using **Aspose.Tasks Java for PHP**, simply
 $except = new CalendarException();
 $except->setEnteredByOccurrences(true);
 $except->setOccurrences(5);
-$calendarExceptionType=new CalendarExceptionType();
+$calendarExceptionType = new CalendarExceptionType();
 $except->setType($calendarExceptionType->YearlyByDay);
 print "Set Occurrences for exceptions".PHP_EOL;
 {{< /highlight >}}

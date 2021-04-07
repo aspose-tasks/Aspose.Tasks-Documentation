@@ -1,5 +1,6 @@
 ---
 title: Defining Link Type in PHP
+description: "Learn how to change Microsoft Project (MPP/XML) task link types using Aspose.Tasks Java for PHP."
 type: docs
 weight: 20
 url: /java/defining-link-type-in-php/
@@ -11,24 +12,15 @@ To Define Link Type using **Aspose.Tasks Java for PHP**, simply invoke **DefineL
 **PHP Code**
 
 {{< highlight php >}}
-
-
-
 $project = new Project();
-
 $pred = $project->getRootTask()->getChildren()->add("Task 1");
-
 $succ = $project->getRootTask()->getChildren()->add("Task 2");
-
 $link = $project->getTaskLinks()->add($pred, $succ);
-
-$taskLinkType=new TaskLinkType();
-
+$taskLinkType = new TaskLinkType();
 $link->setLinkType($taskLinkType->StartToStart);
-
 print "Defined task link type.".PHP_EOL;
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Defining Link Type (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

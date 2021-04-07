@@ -1,5 +1,6 @@
 ---
 title: Predecessor and Successor Tasks in PHP
+description: "Learn how to work with Microsoft Project (MPP/XML) predecessor and successor tasks using Aspose.Tasks Java for PHP."
 type: docs
 weight: 30
 url: /java/predecessor-and-successor-tasks-in-php/
@@ -11,32 +12,19 @@ To get Predecessor and Successor Tasks using **Aspose.Tasks Java for PHP**, simp
 **PHP Code**
 
 {{< highlight php >}}
-
-
-
 $project = new Project('test_tasks.mpp');
-
 $tsk = new Tsk();
-
 $allLinks = $project->getTaskLinks()->toList();
-
 $i = 0;
-
 while ($i < sizeof($allLinks)) {
-
-$tskLink = $allLinks -> get($i);
-
-print "Predecessor " . (string)$tskLink -> getPredTask() -> get($tsk-> NAME).PHP_EOL;
-
-print "Successor " . (string)$tskLink -> getSuccTask() -> get($tsk -> NAME).PHP_EOL;
-
-print "------------------------------------------------------".PHP_EOL;
-
-$i += 1;
-
+    $tskLink = $allLinks -> get($i);
+    print "Predecessor " . (string)$tskLink -> getPredTask() -> get($tsk-> NAME).PHP_EOL;
+    print "Successor " . (string)$tskLink -> getSuccTask() -> get($tsk -> NAME).PHP_EOL;
+    print "------------------------------------------------------".PHP_EOL;
+    $i += 1;
 }
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Predecessor and Successor Tasks (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

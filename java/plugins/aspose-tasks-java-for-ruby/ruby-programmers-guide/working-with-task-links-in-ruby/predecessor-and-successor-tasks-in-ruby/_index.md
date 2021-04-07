@@ -1,5 +1,6 @@
 ---
 title: Predecessor and Successor Tasks in Ruby
+description: "Learn how to work with Microsoft Project (MPP/XML) predecessor and successor tasks using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 30
 url: /java/predecessor-and-successor-tasks-in-ruby/

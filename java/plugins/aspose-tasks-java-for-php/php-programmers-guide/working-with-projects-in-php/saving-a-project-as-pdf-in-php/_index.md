@@ -11,34 +11,18 @@ To Save a Project as PDF using **Aspose.Tasks Java for PHP**, simply invoke **Sa
 **PHP Code**
 
 {{< highlight php >}}
-
-
-
 $project = new Project('test_tasks.mpp');
-
 $options = new PdfSaveOptions();
-
-\# Set the LegendOnEachPage property to false to hide legends
-
-\# Set the row height to fit cell content
-
-$timescale=new Timescale();
-
-$presentationFormat=new PresentationFormat();
-
+$timescale = new Timescale();
+$presentationFormat = new PresentationFormat();
 $options->setFitContent(true);
-
 $options->setTimescale($timescale->Months);
-
 $options->setPresentationFormat($presentationFormat->TaskUsage);
-
 $options->setLegendOnEachPage(false);
-
 $project->save("project.pdf", $options);
-
 print "Saved project as pdf, please check the output file.".PHP_EOL;
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Saving a Project as PDF (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

@@ -39,8 +39,8 @@ public static function set_resource_assignments()
     $project = new Project();
     $task = $project->getRootTask()->getChildren()->add("Task");
     $rsc = $project->getResources()->add("Rsc");
-    $resource=new Rsc();
-    $bigDecimal=new BigDecimal();
+    $resource = new Rsc();
+    $bigDecimal = new BigDecimal();
     $rsc->set($resource->STANDARD_RATE, $bigDecimal->valueOf(10));
     $rsc->set($resource->OVERTIME_RATE, $bigDecimal->valueOf(15));
     $assignment = $project->getResourceAssignments()->add($task, $rsc);

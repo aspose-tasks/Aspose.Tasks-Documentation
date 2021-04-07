@@ -1,5 +1,6 @@
 ---
 title: Calculate Task Duration in Different Units
+description: "Learn how to calculate Microsoft Project (MPP/XML) task durations using Aspose.Tasks for .NET."
 type: docs
 weight: 200
 url: /net/calculate-task-duration-in-different-units/

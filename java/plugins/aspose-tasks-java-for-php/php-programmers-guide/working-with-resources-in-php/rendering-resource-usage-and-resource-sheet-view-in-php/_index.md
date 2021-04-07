@@ -15,9 +15,9 @@ public static function render_resource_usage()
 {
     $project = new Project('test_tasks.mpp');
     $options = new PdfSaveOptions();
-    $timescale=new Timescale();
+    $timescale = new Timescale();
     $options->setTimescale($timescale->Days);
-    $presentationFormat=new PresentationFormat();
+    $presentationFormat = new PresentationFormat();
     $options->setPresentationFormat($presentationFormat->ResourceUsage);
     $project->save("result_days.pdf", $options);
     $options->setTimescale($timescale->ThirdsOfMonths);
@@ -38,7 +38,7 @@ public static function render_resource_sheetview()
 {
     $project = new Project('test_tasks.mpp');
     $options = new PdfSaveOptions();
-    $presentationFormat=new PresentationFormat();
+    $presentationFormat = new PresentationFormat();
     $options->setPresentationFormat($presentationFormat->ResourceSheet);
     $project->save("result.pdf", $options);
     print "Created resource sheet view file.".PHP_EOL;

@@ -1,5 +1,6 @@
 ---
 title: Percentage Complete Calculations
+description: "Learn how to work with Microsoft Project (MPP/XML) percentage complete values using Aspose.Tasks for C++."
 type: docs
 weight: 170
 url: /cpp/percentage-complete-calculations/

@@ -7,6 +7,9 @@ url: /java/get-number-of-pages-in-project-in-php/
 
 ## **Aspose.Tasks - Get Number of Pages in Project**
 To get Number of Pages in Project using **Aspose.Tasks Java for PHP**, simply invoke **GetNumberOfPages** module. Here you can see example code.
+
+**PHP Code**
+
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');
 $presentation_format = new PresentationFormat();

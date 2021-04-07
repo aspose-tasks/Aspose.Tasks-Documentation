@@ -1,5 +1,6 @@
 ---
 title: Handling Priorities in Ruby
+description: "Learn how to handle Microsoft Project (MPP/XML) priorities using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 60
 url: /java/handling-priorities-in-ruby/

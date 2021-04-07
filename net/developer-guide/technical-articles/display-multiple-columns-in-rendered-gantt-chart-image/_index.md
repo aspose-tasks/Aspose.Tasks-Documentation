@@ -36,7 +36,7 @@ The number of pages in the rendered image depends on the task's net duration. Th
 You pass the number of pages to be rendered in the image. For example, this code example defines an image that is 800x600, with no zoom factor and only one page of the project data:
 
 {{< highlight csharp >}}
-BaseImageRenderParam imageRenderingParameters=new BaseImageRenderParam(null, Point.Empty, new Size(800, 600),100, 0, true);
+BaseImageRenderParam imageRenderingParameters = new BaseImageRenderParam(null, Point.Empty, new Size(800, 600),100, 0, true);
 {{< /highlight >}}
 
 {{< highlight csharp >}}

@@ -12,34 +12,19 @@ To get Task Baseline Duration using **Aspose.Tasks Java for PHP**, simply invoke
 **PHP Code**
 
 {{< highlight php >}}
-
- $oneSecond = 10000000;
-
+$oneSecond = 10000000;
 $oneMinute = 60 * $oneSecond;
-
 $oneHour = 60 * $oneMinute;
-
-\# Instantiate project object
-
 $project = new Project();
-
-\# Creating TaskBaseline:
-
 $task = $project->getRootTask()->getChildren()->add("Task");
-
-$baselineType=new BaselineType();
-
+$baselineType = new BaselineType();
 $project->setBaseline($baselineType->Baseline);
-
 $baseline = $task->getBaselines()->toList()->get(0);
-
 $duration = (double)(string)($baseline->getDuration());
-
 $baseline_duration = $duration / $oneHour;
-
 print $baseline_duration .PHP_EOL;
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Task Baseline Duration (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

@@ -1,5 +1,6 @@
 ---
 title: Percentage Complete Calculations in Ruby
+description: "Learn how to work with Microsoft Project (MPP/XML) percentage complete values using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 110
 url: /java/percentage-complete-calculations-in-ruby/

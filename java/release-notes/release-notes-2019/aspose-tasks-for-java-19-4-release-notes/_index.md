@@ -18,7 +18,7 @@ This page contains release notes information for Aspose.Tasks for Java 19.4.
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 |TASKSNET-2915|Exception in Aspose.Tasks is thrown on project saving|Bug|
-|TASKSNET-2909|Fix writing/reading of BackgroundColor=Automatic in TextStyles|Bug|
+|TASKSNET-2909|Fix writing/reading of BackgroundColor = Automatic in TextStyles|Bug|
 |TASKSNET-2898|AT throws InvalidCastException while reading project from Project Server 2016|Bug|
 |TASKSNET-2653|Remove a set of actual fields while assigning the resource|Bug|
 |TASKSJAVA-876|Aspose.Tasks 19.3: Image for a view header does not persist in MS Project document|Bug|

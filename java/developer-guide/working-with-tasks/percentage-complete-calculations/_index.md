@@ -1,5 +1,6 @@
 ---
 title: Percentage Complete Calculations
+description: "Learn how to work with Microsoft Project (MPP/XML) percentage complete values using Aspose.Tasks for Java."
 type: docs
 weight: 180
 url: /java/percentage-complete-calculations/
@@ -9,7 +10,8 @@ url: /java/percentage-complete-calculations/
 
 Microsoft Project shows the percentage of a task that's been completed. The percentage can be added manually, by a project manager, or automatically calculated by the application. Aspose.Tasks supports several percentage calculations related to tasks.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Percentages**
 The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes several properties used to calculate percentages:
 

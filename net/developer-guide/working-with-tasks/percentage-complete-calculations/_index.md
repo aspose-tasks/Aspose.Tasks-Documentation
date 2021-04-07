@@ -1,5 +1,6 @@
 ---
 title: Percentage Complete Calculations
+description: "Learn how to work with Microsoft Project (MPP/XML) percentage complete values using Aspose.Tasks for .NET."
 type: docs
 weight: 180
 url: /net/percentage-complete-calculations/

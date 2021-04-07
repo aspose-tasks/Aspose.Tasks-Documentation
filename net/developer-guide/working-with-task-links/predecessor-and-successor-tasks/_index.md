@@ -1,5 +1,6 @@
 ---
 title: Predecessor and Successor Tasks
+description: "Learn how to work with Microsoft Project (MPP/XML) predecessor and successor tasks using Aspose.Tasks for .NET."
 type: docs
 weight: 30
 url: /net/predecessor-and-successor-tasks/

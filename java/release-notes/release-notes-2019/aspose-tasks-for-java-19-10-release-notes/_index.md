@@ -30,7 +30,7 @@ This page contains release notes information for [Aspose.Tasks for Java 19.10](h
 |TASKSNET-3093|Fix infinite loop when Gantt chart with the custom font is rendered|Bug|
 |TASKSNET-3029|Text font info and image scaling is not persisted when saving the project to MPP|Bug|
 |TASKSNET-3244|Fix NullReferenceException when trying to save the project with duration lookup|Bug|
-|TASKSNET-3298|Error with open server project: Calendar with Uid=0|Bug|
+|TASKSNET-3298|Error with open server project: Calendar with Uid = 0|Bug|
 |TASKSNET-3297|Aspose.Tasks 19.5 throws an error while saving a resource with zero units|Bug|
 |TASKSNET-3290|Fix rounding error in the actual calculation|Bug|
 |TASKSNET-3258|Fix circular reference after file save|Bug|

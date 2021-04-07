@@ -11,36 +11,21 @@ To Read Table Data from MPP files using **Aspose.Tasks Java for PHP**, simply in
 **PHP Code**
 
 {{< highlight php >}}
-
-
-
 $project = new Project('test_tasks.mpp');
-
 $t1 = $project->getTables()->toList()->get(0);
-
 print "Table Fields Count" . (string)$t1->getTableFields()->size();
-
 $f = $t1->getTableFields()->get(0);
-
 print "Field width: " . (string)$f->getWidth().PHP_EOL;
-
 print "Field Title: " . (string)$f->getTitle().PHP_EOL;
-
 print "Field Title Alignment: " . (string)$f->getAlignTitle().PHP_EOL;
-
 print "Field Align Data: " . $f->getAlignData().PHP_EOL;
-
 $f = $t1->getTableFields()->get(1);
-
 print "Field width: " . (string)$f->getWidth().PHP_EOL;
-
 print "Field Title: " . (string)$f->getTitle().PHP_EOL;
-
 print "Field Title Alignment: " . (string)$f->getAlignTitle().PHP_EOL;
-
 print "Field Align Data: " . (string)$f->getAlignData().PHP_EOL;
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Reading Table Data from MPP files (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

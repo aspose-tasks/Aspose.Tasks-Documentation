@@ -10,7 +10,7 @@ To create a Task Baseline using **Aspose.Tasks Java for PHP**, simply invoke **C
 
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');
-$baselineType=new BaselineType();
+$baselineType = new BaselineType();
 $project->setBaseline($baselineType->Baseline);
 print "Set baseline for the project.".PHP_EOL;
 {{< /highlight >}}

@@ -13,7 +13,7 @@ $project = new Project('test_tasks.mpp');
 $cal1 = $project->getCalendars()->add("no info");
 $cal2 = $project->getCalendars()->add("no name");
 $cal3 = $project->getCalendars()->add("cal3");
-$saveFileFormat=new SaveFileFormat();
+$saveFileFormat = new SaveFileFormat();
 $project->save("CreateCalendar.xml", $saveFileFormat->XML);
 print "Created calendar, please check the output file.".PHP_EOL;
 {{< /highlight >}}

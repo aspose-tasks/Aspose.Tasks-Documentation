@@ -11,26 +11,15 @@ To set resource properties using **Aspose.Tasks Java for PHP**, simply invoke **
 **PHP Code**
 
 {{< highlight php >}}
-
- $project = new Project();
-
-\# Resource properties are represented by static class Rsc
-
+$project = new Project();
 $rsc = $project->getResources()->add("Rsc");
-
-\# set resource properties
-
-$resource=new Rsc();
-
-$bigDecimal=new BigDecimal();
-
+$resource = new Rsc();
+$bigDecimal = new BigDecimal();
 $rsc->set($resource->STANDARD_RATE, $bigDecimal->valueOf(15));
-
 $rsc->set($resource->OVERTIME_RATE, $bigDecimal->valueOf(20));
-
 print "Set resource properties".PHP_EOL;
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Setting Resource Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

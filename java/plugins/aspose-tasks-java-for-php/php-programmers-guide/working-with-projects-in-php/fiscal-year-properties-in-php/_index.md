@@ -30,10 +30,10 @@ public static function set_fiscal_year_properties()
 {
     $project = new Project();
     $prj = new Prj();
-    $month=new Month();
+    $month = new Month();
     $project->set($prj->FY_START_DATE, $month->July);
     $project->set($prj->FISCAL_YEAR_START, new NullableBool(true));
-    $saveFileFormat=new SaveFileFormat();
+    $saveFileFormat = new SaveFileFormat();
     $project->save("fiscal_year_properties.xml", $saveFileFormat->XML);
     print "Set fiscal year properties, please check the output file.".PHP_EOL;
 }

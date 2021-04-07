@@ -1,5 +1,6 @@
 ---
 title: Percentage Complete Calculations in PHP
+description: "Learn how to work with Microsoft Project (MPP/XML) percentage complete values using Aspose.Tasks Java for PHP."
 type: docs
 weight: 110
 url: /java/percentage-complete-calculations-in-php/
@@ -11,44 +12,22 @@ To get Complete Percentage Calculations using **Aspose.Tasks Java for PHP**, sim
 **PHP Code**
 
 {{< highlight php >}}
-
-
-
 $project = new Project('test_tasks.mpp');
-
-\# Create a ChildTasksCollector instance
-
 $collector = new ChildTasksCollector();
-
-\# Collect all the tasks from RootTask using TaskUtils
-
-$taskUtils=new TaskUtils();
-
+$taskUtils = new TaskUtils();
 $taskUtils->apply($project->getRootTask(), $collector, 0);
-
 $tsk = new Tsk();
-
 $tasks = $collector->getTasks();
-
-\# Parse through all the collected tasks
-
 $i = 0;
-
 while ($i < sizeof($tasks)) {
-
-$task = $tasks -> get($i);
-
-print (string)$task -> get($tsk -> PERCENT_COMPLETE).PHP_EOL;
-
-print (string)$task -> get($tsk -> PERCENT_WORK_COMPLETE).PHP_EOL;
-
-print (string)$task -> get($tsk -> PHYSICAL_PERCENT_COMPLETE).PHP_EOL;
-
-$i += 1;
-
+    $task = $tasks -> get($i);
+    print (string)$task -> get($tsk -> PERCENT_COMPLETE).PHP_EOL;
+    print (string)$task -> get($tsk -> PERCENT_WORK_COMPLETE).PHP_EOL;
+    print (string)$task -> get($tsk -> PHYSICAL_PERCENT_COMPLETE).PHP_EOL;
+    $i += 1;
 }
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Percentage Complete Calculations (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

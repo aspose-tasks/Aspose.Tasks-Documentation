@@ -1,5 +1,6 @@
 ---
 title: Predecessor and Successor Tasks
+description: "Learn how to work with Microsoft Project (MPP/XML) predecessor and successor tasks using Aspose.Tasks for Java."
 type: docs
 weight: 30
 url: /java/predecessor-and-successor-tasks/
@@ -9,7 +10,8 @@ url: /java/predecessor-and-successor-tasks/
 
 The PredTask and SuccTask properties exposed by the [TaskLink](https://apireference.aspose.com/tasks/java/com.aspose.tasks/TaskLink) class are used to define the predecessor and successor tasks for a TaskLink. Both of these properties read and write [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task) object.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Predecessor and Successor Tasks**
 To manage predecessor tasks in Microsoft Project:
 

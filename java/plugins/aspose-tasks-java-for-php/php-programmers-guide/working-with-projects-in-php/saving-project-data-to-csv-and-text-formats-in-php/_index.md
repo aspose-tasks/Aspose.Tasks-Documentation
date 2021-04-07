@@ -14,7 +14,7 @@ To Save a Project as CSV using **Aspose.Tasks Java for PHP**, call **save_to_csv
 public static function save_to_csv()
 {
     $project = new Project('test_tasks.mpp');
-    $saveFileFormat=new SaveFileFormat();
+    $saveFileFormat = new SaveFileFormat();
     $project->save("Project.csv", $saveFileFormat->CSV);
     print "Saved project data to CSV, please check the output file".PHP_EOL;
 }
@@ -29,7 +29,7 @@ To Save a Project as Text using **Aspose.Tasks Java for PHP**, call **save_to_te
 public static function save_to_text()
 {
     $project = new Project('test_tasks.mpp');
-    $saveFileFormat=new SaveFileFormat();
+    $saveFileFormat = new SaveFileFormat();
     $project->save("Project.txt", $saveFileFormat->TXT);
     print "Saved project data to Text, please check the output file".PHP_EOL;
 }

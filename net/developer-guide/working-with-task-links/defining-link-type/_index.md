@@ -1,5 +1,6 @@
 ---
 title: Defining Link Type
+description: "Learn how to change Microsoft Project (MPP/XML) task link types using Aspose.Tasks for .NET."
 type: docs
 weight: 20
 url: /net/defining-link-type/

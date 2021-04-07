@@ -11,61 +11,30 @@ To Write Updated TaskLink Data to MPP using **Aspose.Tasks Java for PHP**, simpl
 **PHP Code**
 
 {{< highlight php >}}
-
- $one_sec = 10000000; # microsecond * 10
-
+$one_sec = 10000000; # microsecond * 10
 $one_min = 60 * $one_sec;
-
 $one_hour = 60 * $one_min;
-
-\# Instantiate project object
-
 $project = new Project('test_tasks.mpp');
-
 $tsk = new Tsk();
-
 $prj = new Prj();
-
-\# Add tasks
-
 $task1 = $project->getRootTask()->getChildren()->add("1");
-
-$timeUnitType=new TimeUnitType();
-
+$timeUnitType = new TimeUnitType();
 $task1->set($tsk->DURATION, $project->getDuration(8, $timeUnitType->Hour));
-
 $task1->set($tsk->START, $project->get($prj->START_DATE));
-
 $task1->set($tsk->FINISH, $project->get($prj->CALENDAR)->getTaskFinishDateFromDuration($task1,(double)(string)($task1->get($tsk->DURATION))));
-
 $task2 = $project->getRootTask()->getChildren()->add("2");
-
 $task2->set($tsk->DURATION, $project->getDuration(8, $timeUnitType->Hour));
-
 $task2->set($tsk->START, $project->get($prj->START_DATE));
-
 $task2->set($tsk->FINISH, $project->get($prj->CALENDAR)->getTaskFinishDateFromDuration($task2, (double)(string)($task2->get($tsk->DURATION))));
-
 $project->getRootTask()->getChildren()->add($task1);
-
 $project->getRootTask()->getChildren()->add($task2);
-
-\# Add four TaskLinks with different TaskLinkTypes
-
-$taskLinkType=new TaskLinkType();
-
+$taskLinkType = new TaskLinkType();
 $link1 = $project->getTaskLinks()->add($task1, $task2, $taskLinkType->StartToStart);
-
-
-\# Save the Project
-
-$saveFileFormat=new SaveFileFormat();
-
+$saveFileFormat = new SaveFileFormat();
 $project->save("TaskLinks.mpp", $saveFileFormat->MPP);
-
 print "Saved task links data.".PHP_EOL;
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Writing Updated TaskLink Data to MPP (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

@@ -1,5 +1,6 @@
 ---
 title: Changing Task Progress
+description: "Learn how to change Microsoft Project (MPP/XML) task progress using Aspose.Tasks for .NET."
 type: docs
 weight: 220
 url: /net/changing-task-progress/

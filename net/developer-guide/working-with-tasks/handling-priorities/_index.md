@@ -1,5 +1,6 @@
 ---
 title: Handling Priorities
+description: "Learn how to handle Microsoft Project (MPP/XML) priorities using Aspose.Tasks for .NET."
 type: docs
 weight: 110
 url: /net/handling-priorities/

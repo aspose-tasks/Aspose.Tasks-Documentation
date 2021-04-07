@@ -11,42 +11,22 @@ To Handle Critical and Effort-driven Tasks using **Aspose.Tasks Java for PHP**, 
 **PHP Code**
 
 {{< highlight php >}}
-
-
-
 $project = new Project('test_tasks.mpp');
-
-\# Create a ChildTasksCollector instance
-
 $collector = new ChildTasksCollector();
-
-\# Collect all the tasks from RootTask using TaskUtils
-
-$taskUtils=new TaskUtils();
-
+$taskUtils = new TaskUtils();
 $taskUtils->apply($project->getRootTask(), $collector, 0);
-
 $tsk = new Tsk();
-
-\# Parse through all the collected tasks
-
 $tasks = $collector->getTasks();
-
 $i = 0;
-
-while ($i < sizeof($tasks)) {
-
-$task = $tasks -> get($i);
-
-print $str_effort_driven = $task -> get($tsk -> IS_EFFORT_DRIVEN) != null ? "EffortDriven" : "Non-EffortDriven".PHP_EOL;
-
-print $str_is_critical = $task -> get($tsk -> IS_CRITICAL) != null ? "Critical" : "Non-Critical".PHP_EOL;
-
-$i += 1;
-
+while ($i < sizeof($tasks))
+{
+    $task = $tasks -> get($i);
+    print $str_effort_driven = $task -> get($tsk -> IS_EFFORT_DRIVEN) != null ? "EffortDriven" : "Non-EffortDriven".PHP_EOL;
+    print $str_is_critical = $task -> get($tsk -> IS_CRITICAL) != null ? "Critical" : "Non-Critical".PHP_EOL;
+    $i += 1;
 }
-
 {{< /highlight >}}
+
 ## **Download Running Code**
 Download **Handling Critical and Effort-driven Tasks (Aspose.Tasks)** from any of the below mentioned social coding sites:
 

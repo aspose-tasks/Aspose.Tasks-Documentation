@@ -1,5 +1,6 @@
 ---
 title: Defining Link Type in Ruby
+description: "Learn how to change Microsoft Project (MPP/XML) task link types using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 20
 url: /java/defining-link-type-in-ruby/
