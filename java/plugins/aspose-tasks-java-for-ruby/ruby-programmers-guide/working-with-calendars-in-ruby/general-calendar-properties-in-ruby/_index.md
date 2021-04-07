@@ -10,24 +10,22 @@ url: /java/general-calendar-properties-in-ruby/
 To get Calendar Properties using **Aspose.Tasks Java for Ruby**, simply invoke **CalendarProperties** module. Here you can see example code.
 
 {{< highlight ruby >}}
-def initialize()
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    calendars = project.getCalendars().toList()
-    i = 0
-    while i < calendars.size()
-      cal = calendars.get(i)
-      if cal.getName() != nil
-        puts "Base Calendar : "
-        if cal.isBaseCalendar()
-          puts "Self"
-        else
-          cal.getBaseCalendar().getName()
-        end  
-        puts "UID : " + cal.getUid().to_s
-        puts "Name : " + cal.getName().to_s
-      end
-      i += 1
-    end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+calendars = project.getCalendars().toList()
+i = 0
+while i < calendars.size()
+  cal = calendars.get(i)
+  if cal.getName() != nil
+    puts "Base Calendar : "
+    if cal.isBaseCalendar()
+      puts "Self"
+    else
+      cal.getBaseCalendar().getName()
+    end  
+    puts "UID : " + cal.getUid().to_s
+    puts "Name : " + cal.getName().to_s
+  end
+  i += 1
 end
 {{< /highlight >}}
 

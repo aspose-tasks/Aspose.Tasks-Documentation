@@ -1,5 +1,6 @@
 ---
 title: General Project Properties in PHP
+description: "Learn how to manage Microsoft Project (MPP/XML) general properties using Aspose.Tasks Java for PHP."
 type: docs
 weight: 60
 url: /java/general-project-properties-in-php/
@@ -11,24 +12,21 @@ To get General Project Properties using **Aspose.Tasks Java for PHP**, call **ge
 **PHP Code**
 
 {{< highlight php >}}
-public static function get_general_project_properties()
+$project = new Project('Sample.xml');
+$prj = new Prj();
+if ($project -> get($prj->SCHEDULE_FROM_START) -> getValue()) 
 {
-    $project = new Project('Sample.xml');
-    $prj = new Prj();
-    if ($project -> get($prj->SCHEDULE_FROM_START) -> getValue()) 
-    {
-        print "Project Start Date : " . (string)$project->get($prj->START_DATE).PHP_EOL;
-    }
-    else
-    {
-        print "Project Finish Date : " . (string)$project -> get($prj -> FINISH_DATE).PHP_EOL;
-    }
-    $strSchedule = $project->get($prj->SCHEDULE_FROM_START)->getValue() ? "Project Start Date" : "Project Finish Date";
-    print "Project Schedule From : " . (string)$strSchedule.PHP_EOL;
-    print "Current Date : " . (string)$project->get($prj->CURRENT_DATE).PHP_EOL;
-    print "Status Date : " . (string)$project->get($prj->STATUS_DATE).PHP_EOL;
-    print "Calendar : " . (string)$project->get($prj->CALENDAR).PHP_EOL.PHP_EOL;
+    print "Project Start Date : " . (string)$project->get($prj->START_DATE).PHP_EOL;
 }
+else
+{
+    print "Project Finish Date : " . (string)$project -> get($prj -> FINISH_DATE).PHP_EOL;
+}
+$strSchedule = $project->get($prj->SCHEDULE_FROM_START)->getValue() ? "Project Start Date" : "Project Finish Date";
+print "Project Schedule From : " . (string)$strSchedule.PHP_EOL;
+print "Current Date : " . (string)$project->get($prj->CURRENT_DATE).PHP_EOL;
+print "Status Date : " . (string)$project->get($prj->STATUS_DATE).PHP_EOL;
+print "Calendar : " . (string)$project->get($prj->CALENDAR).PHP_EOL.PHP_EOL;
 {{< /highlight >}}
 
 ## **Download Running Code**

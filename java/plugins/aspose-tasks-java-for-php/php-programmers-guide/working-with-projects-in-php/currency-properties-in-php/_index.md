@@ -1,5 +1,6 @@
 ---
 title: Currency Properties in PHP
+description: "Learn how to manage Microsoft Project (MPP/XML) currency properties using Aspose.Tasks Java for PHP."
 type: docs
 weight: 20
 url: /java/currency-properties-in-php/
@@ -11,15 +12,12 @@ To Read Currency Properties using **Aspose.Tasks Java for PHP**, call **get_curr
 **PHP Code**
 
 {{< highlight php >}}
-public static function get_currency_properties()
-{
-    $project = new Project('test_tasks.mpp');
-    $prj = new Prj();
-    print "Currency Code : " . (string)$project->get($prj->CURRENCY_CODE).PHP_EOL;//.toString()
-    print "<br>Currency Digits : " . (string)$project->get($prj->CURRENCY_DIGITS).PHP_EOL;//.toString()
-    print "<br>Currency Symbol : " . (string)$project->get($prj->CURRENCY_SYMBOL).PHP_EOL;//.toString()
-    print "Currency Symbol Position: ". (string)$project->get($prj->CURRENCY_SYMBOL_POSITION).PHP_EOL;//.toString()
-}
+$project = new Project('test_tasks.mpp');
+$prj = new Prj();
+print "Currency Code : " . (string)$project->get($prj->CURRENCY_CODE).PHP_EOL;
+print "<br>Currency Digits : " . (string)$project->get($prj->CURRENCY_DIGITS).PHP_EOL;
+print "<br>Currency Symbol : " . (string)$project->get($prj->CURRENCY_SYMBOL).PHP_EOL;
+print "Currency Symbol Position: ". (string)$project->get($prj->CURRENCY_SYMBOL_POSITION).PHP_EOL;
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Currency Properties**
@@ -28,19 +26,16 @@ To Write Currency Properties using **Aspose.Tasks Java for PHP**, call **set_cur
 **PHP Code**
 
 {{< highlight php >}}
-public static function set_currency_properties()
-{
-    $project = new Project();
-    $prj = new Prj();
-    $currencySymbolPositionType = new CurrencySymbolPositionType();
-    $project->set($prj->CURRENCY_CODE, "AUD");
-    $project->set($prj->CURRENCY_DIGITS, 2);
-    $project->set($prj->CURRENCY_SYMBOL, "$");
-    $project->set($prj->CURRENCY_SYMBOL_POSITION, $currencySymbolPositionType->After);
-    $saveFileFormat = new SaveFileFormat();
-    $project->save("currency_properties.xml", $saveFileFormat->XML);
-    print "Set currency properties, please check the output file.".PHP_EOL;
-}
+$project = new Project();
+$prj = new Prj();
+$currencySymbolPositionType = new CurrencySymbolPositionType();
+$project->set($prj->CURRENCY_CODE, "AUD");
+$project->set($prj->CURRENCY_DIGITS, 2);
+$project->set($prj->CURRENCY_SYMBOL, "$");
+$project->set($prj->CURRENCY_SYMBOL_POSITION, $currencySymbolPositionType->After);
+$saveFileFormat = new SaveFileFormat();
+$project->save("currency_properties.xml", $saveFileFormat->XML);
+print "Set currency properties, please check the output file.".PHP_EOL;
 {{< /highlight >}}
 
 ## **Download Running Code**

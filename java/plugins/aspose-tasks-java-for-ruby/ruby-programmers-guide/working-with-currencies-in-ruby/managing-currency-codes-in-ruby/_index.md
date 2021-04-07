@@ -11,21 +11,17 @@ To get Currency Code using **Aspose.Tasks Java for Ruby**, call **get_currency_c
 **Ruby Code**
 
 {{< highlight ruby >}}
-def get_currency_code()
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    puts "Currency Code: " + project.get(Rjb::import('com.aspose.tasks.Prj').CURRENCY_CODE).to_string
-end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+puts "Currency Code: " + project.get(Rjb::import('com.aspose.tasks.Prj').CURRENCY_CODE).to_string
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Setting Currency Code**
 To set currency code using **Aspose.Tasks Java for Ruby**, call **set_currency_code** method of **CurrencyCodes** module. Here you can see example code.
 
 {{< highlight ruby >}}
-def set_currency_code()
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    project.set(Rjb::import('com.aspose.tasks.Prj').CURRENCY_CODE, "USD")
-    puts "Set currency code."
-end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+project.set(Rjb::import('com.aspose.tasks.Prj').CURRENCY_CODE, "USD")
+puts "Set currency code."
 {{< /highlight >}}
 
 ## **Download Running Code**

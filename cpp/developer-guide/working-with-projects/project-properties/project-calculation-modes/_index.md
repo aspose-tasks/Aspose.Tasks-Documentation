@@ -15,7 +15,9 @@ Project calculation modes are used to set how the project should calculate proje
 The code examples given below demonstrates the usage of each of the calculation modes.
 ### **Project Calculation Mode - None**
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithProjectProperties-ApplyCalculationModeNone-ApplyCalculationModeNone.cpp" >}}
+
 ### **Project Calculation Mode - Manual**
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithProjectProperties-ApplyCalculationModeManual-ApplyCalculationModeManual.cpp" >}}
+
 ### **Project Calculation Mode - Automatic**
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithProjectProperties-ApplyCalculationModeAuto-ApplyCalculationModeAuto.cpp" >}}

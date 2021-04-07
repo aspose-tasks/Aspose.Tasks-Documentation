@@ -11,14 +11,12 @@ To Read Weekday Properties using **Aspose.Tasks Java for Ruby**, call **get_week
 **Ruby Code**
 
 {{< highlight ruby >}}
-def get_weekday_properties()
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    prj = Rjb::import('com.aspose.tasks.Prj')
-    puts "Week Start Date : " + project.get(prj.WEEK_START_DAY).toString()
-    puts "Days Per Month : " + project.get(prj.DAYS_PER_MONTH).toString()
-    puts "Minutes Per Day : " + project.get(prj.MINUTES_PER_DAY).toString()
-    puts "Minutes Per Week : " + project.get(prj.MINUTES_PER_WEEK).toString()
-end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+prj = Rjb::import('com.aspose.tasks.Prj')
+puts "Week Start Date : " + project.get(prj.WEEK_START_DAY).toString()
+puts "Days Per Month : " + project.get(prj.DAYS_PER_MONTH).toString()
+puts "Minutes Per Day : " + project.get(prj.MINUTES_PER_DAY).toString()
+puts "Minutes Per Week : " + project.get(prj.MINUTES_PER_WEEK).toString()
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Weekday Properties**
@@ -27,16 +25,14 @@ To Write Weekday Properties using **Aspose.Tasks Java for Ruby**, call **set_wee
 **Ruby Code**
 
 {{< highlight ruby >}}
-def set_weekday_properties()
-    project = Rjb::import('com.aspose.tasks.Project').new
-    prj = Rjb::import('com.aspose.tasks.Prj')
-    project.set(prj.WEEK_START_DAY, Rjb::import('com.aspose.tasks.DayType').Monday)
-    project.set(prj.DAYS_PER_MONTH, 24)
-    project.set(prj.MINUTES_PER_DAY, 540)
-    project.set(prj.MINUTES_PER_WEEK, 3240)
-    project.save("weekday_properties.xml", Rjb::import('com.aspose.tasks.SaveFileFormat').XML)
-    puts "Set weekday properties, please check the output file."
-end
+project = Rjb::import('com.aspose.tasks.Project').new
+prj = Rjb::import('com.aspose.tasks.Prj')
+project.set(prj.WEEK_START_DAY, Rjb::import('com.aspose.tasks.DayType').Monday)
+project.set(prj.DAYS_PER_MONTH, 24)
+project.set(prj.MINUTES_PER_DAY, 540)
+project.set(prj.MINUTES_PER_WEEK, 3240)
+project.save("weekday_properties.xml", Rjb::import('com.aspose.tasks.SaveFileFormat').XML)
+puts "Set weekday properties, please check the output file."
 {{< /highlight >}}
 
 ## **Download Running Code**

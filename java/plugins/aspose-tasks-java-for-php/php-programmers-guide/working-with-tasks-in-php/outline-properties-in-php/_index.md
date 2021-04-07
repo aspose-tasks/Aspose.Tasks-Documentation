@@ -11,23 +11,20 @@ To get Outline Properties using **Aspose.Tasks Java for PHP**, call **get_outlin
 **PHP Code**
 
 {{< highlight php >}}
-public static function get_outline_properties()
+$project = new Project('test_tasks.mpp');
+$collector = new ChildTasksCollector();
+$taskUtils = new TaskUtils();
+$taskUtils->apply($project->getRootTask(), $collector, 0);
+$tasks = $collector->getTasks();
+$tsk = new Tsk();
+$i = 0;
+while ($i < sizeof($tasks))
 {
-    $project = new Project('test_tasks.mpp');
-    $collector = new ChildTasksCollector();
-    $taskUtils = new TaskUtils();
-    $taskUtils->apply($project->getRootTask(), $collector, 0);
-    $tasks = $collector->getTasks();
-    $tsk = new Tsk();
-    $i = 0;
-    while ($i < sizeof($tasks))
-    {
-        $task=$tasks->get($i);
-        print "Outline Level: " . (string)$task->get($tsk -> OUTLINE_LEVEL).PHP_EOL;
-        print "Outline Number: " . (string)$task->get($tsk -> OUTLINE_NUMBER).PHP_EOL;
-        print "---------------------------------------------".PHP_EOL;
-        $i += 1;
-    }
+    $task=$tasks->get($i);
+    print "Outline Level: " . (string)$task->get($tsk -> OUTLINE_LEVEL).PHP_EOL;
+    print "Outline Number: " . (string)$task->get($tsk -> OUTLINE_NUMBER).PHP_EOL;
+    print "---------------------------------------------".PHP_EOL;
+    $i += 1;
 }
 {{< /highlight >}}
 

@@ -1,5 +1,6 @@
 ---
 title: Working with Recurring Task
+description: "Learn how to work with Microsoft Project (MPP/XML) recurring tasks and recurrence patterns using Aspose.Tasks for .NET."
 type: docs
 weight: 290
 url: /net/working-with-recurring-task/

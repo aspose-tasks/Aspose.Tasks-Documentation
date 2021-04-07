@@ -12,17 +12,15 @@ To get Default Project Properties using **Aspose.Tasks Java for Ruby**, call **g
 **Ruby Code**
 
 {{< highlight ruby >}}
-def get_default_project_properties()
-    project = Rjb::import('com.aspose.tasks.Project').new('Sample.xml')
-    prj = Rjb::import('com.aspose.tasks.Prj')
-    puts "Project Version : " + project.get(prj.SAVE_VERSION).to_string
-    puts "New Task Default Start: "+ project.get(prj.DEFAULT_START_TIME).to_string
-    puts "New Task Default Type: "+ project.get(prj.DEFAULT_TASK_TYPE).to_string
-    puts "Resource Default Standard Rate: "+ project.get(prj.DEFAULT_STANDARD_RATE).to_string
-    puts "Resource Default Overtime Rate: "+ project.get(prj.DEFAULT_OVERTIME_RATE).to_string
-    puts "Default Task EV Method: "+ project.get(prj.DEFAULT_TASK_EV_METHOD).to_string
-    puts "Default Cost Accrual: "+ project.get(prj.DEFAULT_FIXED_COST_ACCRUAL).to_string
-end
+project = Rjb::import('com.aspose.tasks.Project').new('Sample.xml')
+prj = Rjb::import('com.aspose.tasks.Prj')
+puts "Project Version : " + project.get(prj.SAVE_VERSION).to_string
+puts "New Task Default Start: "+ project.get(prj.DEFAULT_START_TIME).to_string
+puts "New Task Default Type: "+ project.get(prj.DEFAULT_TASK_TYPE).to_string
+puts "Resource Default Standard Rate: "+ project.get(prj.DEFAULT_STANDARD_RATE).to_string
+puts "Resource Default Overtime Rate: "+ project.get(prj.DEFAULT_OVERTIME_RATE).to_string
+puts "Default Task EV Method: "+ project.get(prj.DEFAULT_TASK_EV_METHOD).to_string
+puts "Default Cost Accrual: "+ project.get(prj.DEFAULT_FIXED_COST_ACCRUAL).to_string
 {{< /highlight >}}
 
 ## **Download Running Code**

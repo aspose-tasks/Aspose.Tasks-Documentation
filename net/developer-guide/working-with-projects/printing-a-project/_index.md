@@ -22,10 +22,13 @@ The following lines of code shows how to achieve this using C#.
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintTheProject-PrintTheProject.cs" >}}
 
 ### **Print the project to a custom printer**
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintProjectUsingCustomPrinter-PrintProjectUsingCustomPrinter.cs" >}}
 
 ### **Print Large Files**
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintLargeFiles-PrintLargeFiles.cs" >}}
 
 ### **Print with PrintOptions and PrinterSettings**
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintPrintOptionsAndPrinterSettings-PrintPrintOptionsAndPrinterSettings.cs" >}}

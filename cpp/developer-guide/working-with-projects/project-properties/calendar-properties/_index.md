@@ -1,5 +1,6 @@
 ---
 title: Calendar Properties
+description: "Learn how to manage Microsoft Project (MPP/XML) calendar properties using Aspose.Tasks for C++."
 type: docs
 weight: 40
 url: /cpp/calendar-properties/

@@ -9,18 +9,16 @@ url: /java/parent-and-child-tasks-in-ruby/
 To get parent and Child Tasks using **Aspose.Tasks Java for Ruby**, call **get_parent_and_child_tasks** method of **ParentAndChildTasks** module. Here you can see example code.
 
 {{< highlight ruby >}}
-def get_parent_and_child_tasks()	
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    collector = Rjb::import('com.aspose.tasks.ChildTasksCollector').new
-    Rjb::import('com.aspose.tasks.TaskUtils').apply(project.getRootTask(), collector, 0)
-    tsk = Rjb::import('com.aspose.tasks.Tsk')
-    tasks = collector.getTasks()
-    i = 0
-    while i < tasks.size()
-    	task = tasks.get(i)
-        puts "Task Name = " + task.get(tsk.NAME).to_string
-        i += 1
-    end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+collector = Rjb::import('com.aspose.tasks.ChildTasksCollector').new
+Rjb::import('com.aspose.tasks.TaskUtils').apply(project.getRootTask(), collector, 0)
+tsk = Rjb::import('com.aspose.tasks.Tsk')
+tasks = collector.getTasks()
+i = 0
+while i < tasks.size()
+    task = tasks.get(i)
+    puts "Task Name = " + task.get(tsk.NAME).to_string
+    i += 1
 end
 {{< /highlight >}}
 

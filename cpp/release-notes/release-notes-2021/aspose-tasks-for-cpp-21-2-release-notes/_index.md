@@ -82,7 +82,6 @@ saveOptions->set_PresentationFormat(Aspose::Tasks::Visualization::PresentationFo
 project->Save(u"output.png", saveOptions);
 ```
 
-
 Related issue: TASKSNET-3585 - Add support of "RenderToSinglePage" option to TaskUsage, ResourceUsage, TaskSheet and ResourceSheet views
 
 Now SaveOptions.RenderToSinglePage property can be used to specify that the project should be rendered to single page document. In this case the size of the page is adjusted to fit project on one page.

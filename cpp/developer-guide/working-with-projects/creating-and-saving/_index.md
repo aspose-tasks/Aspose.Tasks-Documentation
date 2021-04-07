@@ -1,5 +1,6 @@
 ---
-title: Creating and Saving
+title: Creating and Saving Microsoft Project (MPP/XML) Files
+description: "Learn how to create, edit or save Microsoft Project files using Aspose.Tasks for C++ API without having Microsoft Office dependencies installed."
 type: docs
 weight: 10
 url: /cpp/creating-and-saving/

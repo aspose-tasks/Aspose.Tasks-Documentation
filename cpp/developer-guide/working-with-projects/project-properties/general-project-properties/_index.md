@@ -1,5 +1,6 @@
 ---
 title: General Project Properties
+description: "Learn how to manage Microsoft Project (MPP/XML) general project properties using Aspose.Tasks for C++."
 type: docs
 weight: 20
 url: /cpp/general-project-properties/

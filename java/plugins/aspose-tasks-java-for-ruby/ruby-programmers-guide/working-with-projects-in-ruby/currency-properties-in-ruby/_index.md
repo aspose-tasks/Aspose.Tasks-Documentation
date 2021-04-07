@@ -1,5 +1,6 @@
 ---
 title: Currency Properties in Ruby
+description: "Learn how to manage Microsoft Project (MPP/XML) currency properties using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 20
 url: /java/currency-properties-in-ruby/
@@ -11,14 +12,12 @@ To Read Currency Properties using **Aspose.Tasks Java for Ruby**, call **get_cur
 **Ruby Code**
 
 {{< highlight ruby >}}
-def get_currency_properties()
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    prj = Rjb::import('com.aspose.tasks.Prj')
-    puts "Currency Code : " + project.get(prj.CURRENCY_CODE).toString()
-    puts "<br>Currency Digits : " + project.get(prj.CURRENCY_DIGITS).toString()
-    puts "<br>Currency Symbol : " + project.get(prj.CURRENCY_SYMBOL).toString()
-    puts "Currency Symbol Position: " + project.get(prj.CURRENCY_SYMBOL_POSITION).toString()
-end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+prj = Rjb::import('com.aspose.tasks.Prj')
+puts "Currency Code : " + project.get(prj.CURRENCY_CODE).toString()
+puts "Currency Digits : " + project.get(prj.CURRENCY_DIGITS).toString()
+puts "Currency Symbol : " + project.get(prj.CURRENCY_SYMBOL).toString()
+puts "Currency Symbol Position: " + project.get(prj.CURRENCY_SYMBOL_POSITION).toString()
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Currency Properties**
@@ -27,16 +26,14 @@ To Write Currency Properties using **Aspose.Tasks Java for Ruby**, call **set_cu
 **Ruby Code**
 
 {{< highlight ruby >}}
-def set_currency_properties()
-    project = Rjb::import('com.aspose.tasks.Project').new
-    prj = Rjb::import('com.aspose.tasks.Prj')
-    project.set(prj.CURRENCY_CODE, "AUD")
-    project.set(prj.CURRENCY_DIGITS, 2)
-    project.set(prj.CURRENCY_SYMBOL, "$")
-    project.set(prj.CURRENCY_SYMBOL_POSITION, Rjb::import('com.aspose.tasks.CurrencySymbolPositionType').After)
-    project.save("currency_properties.xml", Rjb::import('com.aspose.tasks.SaveFileFormat').XML)
-    puts "Set currency properties, please check the output file."
-end
+project = Rjb::import('com.aspose.tasks.Project').new
+prj = Rjb::import('com.aspose.tasks.Prj')
+project.set(prj.CURRENCY_CODE, "AUD")
+project.set(prj.CURRENCY_DIGITS, 2)
+project.set(prj.CURRENCY_SYMBOL, "$")
+project.set(prj.CURRENCY_SYMBOL_POSITION, Rjb::import('com.aspose.tasks.CurrencySymbolPositionType').After)
+project.save("currency_properties.xml", Rjb::import('com.aspose.tasks.SaveFileFormat').XML)
+puts "Set currency properties, please check the output file."
 {{< /highlight >}}
 
 ## **Download Running Code**

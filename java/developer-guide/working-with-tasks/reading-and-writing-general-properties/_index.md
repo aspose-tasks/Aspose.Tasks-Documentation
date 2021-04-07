@@ -1,5 +1,6 @@
 ---
 title: Reading and Writing General Properties
+description: "Learn how to work with Microsoft Project (MPP/XML) general properties using Aspose.Tasks for Java."
 type: docs
 weight: 20
 url: /java/reading-and-writing-general-properties/
@@ -9,7 +10,8 @@ url: /java/reading-and-writing-general-properties/
 
 Tasks can be identified by a number of general properties, such as name, ID, start and finish date. Aspose.Tasks can be used to get and set task properties when working with projects.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **General Properties**
 The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) exposes several general properties:
 
@@ -28,11 +30,11 @@ To view a task's general properties in Microsoft Project:
 **Task general properties view in Microsoft Project** 
 
 ![read and write general properties of Microsoft Project](reading-and-writing-general-properties_1.png)
+
 ### **Setting General Properties**
 To set the properties shown in the screenshot above, use the code below.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-ReadWriteGeneralProperties-setting-properties.java" >}}
-
 
 ### **Getting General Properties**
 Get a task's properties by traversing the children of the project's RootTask property.

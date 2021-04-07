@@ -1,5 +1,6 @@
 ---
-title: Project Pages
+title: Working with Project Pages
+description: "Learn how to calculate the total number of pages while exporting Microsoft Project (MPP/XML) documents in graphical formats using Aspose.Tasks for C++."
 type: docs
 weight: 50
 url: /cpp/project-pages/

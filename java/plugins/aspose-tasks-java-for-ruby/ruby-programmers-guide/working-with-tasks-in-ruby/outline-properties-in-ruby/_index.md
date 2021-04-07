@@ -11,20 +11,18 @@ To get Outline Properties using **Aspose.Tasks Java for Ruby**, call **get_outli
 **Ruby Code**
 
 {{< highlight ruby >}}
-def get_outline_properties()
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    collector = Rjb::import('com.aspose.tasks.ChildTasksCollector').new
-    Rjb::import('com.aspose.tasks.TaskUtils').apply(project.getRootTask(), collector, 0)
-    tasks = collector.getTasks()
-    tsk = Rjb::import('com.aspose.tasks.Tsk')
-    i = 0
-    while i < tasks.size()
-        task = tasks.get(i)
-        puts "Outline Level: " + task.get(tsk.OUTLINE_LEVEL).to_string
-        puts "Outline Number: " + task.get(tsk.OUTLINE_NUMBER).to_string
-        puts "---------------------------------------------"
-        i += 1
-    end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+collector = Rjb::import('com.aspose.tasks.ChildTasksCollector').new
+Rjb::import('com.aspose.tasks.TaskUtils').apply(project.getRootTask(), collector, 0)
+tasks = collector.getTasks()
+tsk = Rjb::import('com.aspose.tasks.Tsk')
+i = 0
+while i < tasks.size()
+    task = tasks.get(i)
+    puts "Outline Level: " + task.get(tsk.OUTLINE_LEVEL).to_string
+    puts "Outline Number: " + task.get(tsk.OUTLINE_NUMBER).to_string
+    puts "---------------------------------------------"
+    i += 1
 end
 {{< /highlight >}}
 

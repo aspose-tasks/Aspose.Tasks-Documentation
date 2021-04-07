@@ -25,6 +25,7 @@ Aspose.Tasks for C++ API supports evaluating functions defined as formula expres
 12. Tan( number )
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithFormulas-CalculateMathExpressions-CalculateMathExpressions.cpp" >}}
+
 ## **Calculation of General Functions**
 The following General functions can be calculated by the API.
 
@@ -35,6 +36,7 @@ The following General functions can be calculated by the API.
 5. Switch( expr-1, value-1\, expr-2, value-2, ... , expr-n,value-n|, expr-n,value-n )
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithFormulas-CalculateGeneralFunctions-CalculateGeneralFunctions.cpp" >}}
+
 ## **Calculation of Text Functions**
 1. Asc( string )
 2. Chr( charcode )
@@ -55,6 +57,7 @@ The following General functions can be calculated by the API.
 17. UCase( string )
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithFormulas-CalculateTextFunctions-CalculateTextFunctions.cpp" >}}
+
 ## **Calculation of Date/Time Functions**
 1. CDate( expression )
 2. Date ()

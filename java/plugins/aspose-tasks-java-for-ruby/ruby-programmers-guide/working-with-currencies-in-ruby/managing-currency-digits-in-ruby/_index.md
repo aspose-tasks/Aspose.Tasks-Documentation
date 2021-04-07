@@ -9,22 +9,18 @@ url: /java/managing-currency-digits-in-ruby/
 To get Currency Digits using **Aspose.Tasks Java for Ruby**, call **get_currency_digits** method of **CurrencyDigits** module. Here you can see example code.
 
 {{< highlight ruby >}}
-def get_currency_digits()
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    puts "Currency Digits: " + project.get(Rjb::import('com.aspose.tasks.Prj').CURRENCY_DIGITS).to_string
-end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+puts "Currency Digits: " + project.get(Rjb::import('com.aspose.tasks.Prj').CURRENCY_DIGITS).to_string
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Setting Currency Digits**
 To set Currency Digits using **Aspose.Tasks Java for Ruby**, call **set_currency_digits** method of **CurrencyDigits** module. Here you can see example code.
 
 {{< highlight ruby >}}
-def set_currency_digits()
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    project.set(Rjb::import('com.aspose.tasks.Prj').CURRENCY_DIGITS, 2)
-    project.save("ProjectCurrencyDigits.mpp", Rjb::import('com.aspose.tasks.SaveFileFormat').MPP)
-    puts "Set currency digits."
-end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+project.set(Rjb::import('com.aspose.tasks.Prj').CURRENCY_DIGITS, 2)
+project.save("ProjectCurrencyDigits.mpp", Rjb::import('com.aspose.tasks.SaveFileFormat').MPP)
+puts "Set currency digits."
 {{< /highlight >}}
 
 ## **Download Running Code**

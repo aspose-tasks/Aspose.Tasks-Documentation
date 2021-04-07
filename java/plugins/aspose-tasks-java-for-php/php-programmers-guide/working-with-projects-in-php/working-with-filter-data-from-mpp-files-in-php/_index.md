@@ -11,21 +11,18 @@ To Read Filter Definition Data using **Aspose.Tasks Java for PHP**, call **get_f
 **PHP Code**
 
 {{< highlight php >}}
-public static function get_filter_definition_data()
-{
-    $project = new Project('test_tasks.mpp');
-    $task_filters = $project->getTaskFilters()->toList();
-    print "Task Filters Count: " . (string)$task_filters->size().PHP_EOL;
-    print "All Tasks: " . (string)$task_filters->get(0)->getName().PHP_EOL;
-    print "Task Item: " . (string)$task_filters->get(0)->getFilterType().PHP_EOL;
-    print "Task Filters Show In Menu: " . (string)$task_filters->get(0)->getShowInMenu().PHP_EOL;
-    print "Task filter ShowRelatedSummaryRows: "  . (string)$task_filters->get(0)->getShowRelatedSummaryRows().PHP_EOL;
-    $rsc_filters = $project->getResourceFilters()->toList();
-    print "Project.ResourceFilters count: " .  (string)$rsc_filters->size().PHP_EOL;
-    print "Resource Filter Item Type: Item.ResourceType: "  . (string)$rsc_filters->get(0)->getFilterType().PHP_EOL;
-    print "Resource filter ShowInMenu"  . (string)$rsc_filters->get(0)->getShowInMenu().PHP_EOL;
-    print "Resource filter ShowRelatedSummaryRows: " . (string)$rsc_filters->get(0)->getShowRelatedSummaryRows().PHP_EOL;
-}
+$project = new Project('test_tasks.mpp');
+$task_filters = $project->getTaskFilters()->toList();
+print "Task Filters Count: " . (string)$task_filters->size().PHP_EOL;
+print "All Tasks: " . (string)$task_filters->get(0)->getName().PHP_EOL;
+print "Task Item: " . (string)$task_filters->get(0)->getFilterType().PHP_EOL;
+print "Task Filters Show In Menu: " . (string)$task_filters->get(0)->getShowInMenu().PHP_EOL;
+print "Task filter ShowRelatedSummaryRows: "  . (string)$task_filters->get(0)->getShowRelatedSummaryRows().PHP_EOL;
+$rsc_filters = $project->getResourceFilters()->toList();
+print "Project.ResourceFilters count: " .  (string)$rsc_filters->size().PHP_EOL;
+print "Resource Filter Item Type: Item.ResourceType: "  . (string)$rsc_filters->get(0)->getFilterType().PHP_EOL;
+print "Resource filter ShowInMenu"  . (string)$rsc_filters->get(0)->getShowInMenu().PHP_EOL;
+print "Resource filter ShowRelatedSummaryRows: " . (string)$rsc_filters->get(0)->getShowRelatedSummaryRows().PHP_EOL;
 {{< /highlight >}}
 
 ## **Download Running Code**

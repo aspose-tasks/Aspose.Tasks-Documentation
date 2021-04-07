@@ -11,12 +11,10 @@ To Read Fiscal Year Properties using **Aspose.Tasks Java for Ruby**, call **get_
 **Ruby Code**
 
 {{< highlight ruby >}}
-def get_fiscal_year_properties()
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    prj = Rjb::import('com.aspose.tasks.Prj')
-    puts "Fiscal Year Start Date : " + project.get(prj.FY_START_DATE).toString()
-    puts "Fiscal Year Numbering : " + project.get(prj.FISCAL_YEAR_START).toString()
-end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+prj = Rjb::import('com.aspose.tasks.Prj')
+puts "Fiscal Year Start Date : " + project.get(prj.FY_START_DATE).toString()
+puts "Fiscal Year Numbering : " + project.get(prj.FISCAL_YEAR_START).toString()
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Fiscal Year Properties**
@@ -25,14 +23,12 @@ To Write Fiscal Year Properties using **Aspose.Tasks Java for Ruby**, call **set
 **Ruby Code**
 
 {{< highlight ruby >}}
-def set_fiscal_year_properties()
-    project = Rjb::import('com.aspose.tasks.Project').new
-    prj = Rjb::import('com.aspose.tasks.Prj')
-    project.set(prj.FY_START_DATE, Rjb::import('com.aspose.tasks.Month').July)
-    project.set(prj.FISCAL_YEAR_START, Rjb::import('com.aspose.tasks.NullableBool').new(true))
-    project.save("fiscal_year_properties.xml", Rjb::import('com.aspose.tasks.SaveFileFormat').XML)
-    puts "Set fiscal year properties, please check the output file."
-end
+project = Rjb::import('com.aspose.tasks.Project').new
+prj = Rjb::import('com.aspose.tasks.Prj')
+project.set(prj.FY_START_DATE, Rjb::import('com.aspose.tasks.Month').July)
+project.set(prj.FISCAL_YEAR_START, Rjb::import('com.aspose.tasks.NullableBool').new(true))
+project.save("fiscal_year_properties.xml", Rjb::import('com.aspose.tasks.SaveFileFormat').XML)
+puts "Set fiscal year properties, please check the output file."
 {{< /highlight >}}
 
 ## **Download Running Code**

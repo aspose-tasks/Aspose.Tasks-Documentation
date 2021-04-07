@@ -50,6 +50,7 @@ This page contains release notes information about Aspose.Tasks for Java 18.3.
 |TASKSNET-2234|Dates and tasks duration are not correct|Bug|
 |TASKSNET-1937|Not all properties of extended attributes are filled|Bug|
 |TASKSJAVA-496|Data lost when MPP file re-saved as MPP|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**Public classes added**|**Description**|

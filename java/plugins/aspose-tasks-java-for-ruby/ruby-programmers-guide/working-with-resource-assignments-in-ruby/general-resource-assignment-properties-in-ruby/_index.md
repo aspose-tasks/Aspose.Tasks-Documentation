@@ -10,18 +10,16 @@ url: /java/general-resource-assignment-properties-in-ruby/
 To get general resource assignment properties using **Aspose.Tasks Java for Ruby**, call **get_resource_assignments** method of **ResourceAssignmentProperties** module. Here you can see example code.
 
 {{< highlight ruby >}}
- def get_resource_assignments()  
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    resource_assignments = project.getResourceAssignments().toList()
-    i = 0
-    while i < resource_assignments.size()
-      assignment = resource_assignments.get(i)
-      puts assignment.get(Rjb::import('com.aspose.tasks.Asn').UID).to_string
-      puts assignment.get(Rjb::import('com.aspose.tasks.Asn').START).to_string
-      puts assignment.get(Rjb::import('com.aspose.tasks.Asn').FINISH).to_string
-      puts "--------------------------------------------------------"
-      i += 1
-    end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+resource_assignments = project.getResourceAssignments().toList()
+i = 0
+while i < resource_assignments.size()
+  assignment = resource_assignments.get(i)
+  puts assignment.get(Rjb::import('com.aspose.tasks.Asn').UID).to_string
+  puts assignment.get(Rjb::import('com.aspose.tasks.Asn').START).to_string
+  puts assignment.get(Rjb::import('com.aspose.tasks.Asn').FINISH).to_string
+  puts "--------------------------------------------------------"
+  i += 1
 end
 {{< /highlight >}}
 
@@ -29,15 +27,13 @@ end
 To set General Resource Assignment Properties using **Aspose.Tasks Java for Ruby**, call **set_resource_assignments** method of **ResourceAssignmentProperties** module. Here you can see example code.
 
 {{< highlight ruby >}}
-def set_resource_assignments()  
-    project = Rjb::import('com.aspose.tasks.Project').new
-    task = project.getRootTask().getChildren().add("Task")
-    rsc = project.getResources().add("Rsc")
-    rsc.set(Rjb::import('com.aspose.tasks.Rsc').STANDARD_RATE, Rjb::import('java.math.BigDecimal').valueOf(10))
-    rsc.set(Rjb::import('com.aspose.tasks.Rsc').OVERTIME_RATE, Rjb::import('java.math.BigDecimal').valueOf(15))
-    assignment = project.getResourceAssignments().add(task, rsc)
-    puts "Set resource assignment properties."
-end
+project = Rjb::import('com.aspose.tasks.Project').new
+task = project.getRootTask().getChildren().add("Task")
+rsc = project.getResources().add("Rsc")
+rsc.set(Rjb::import('com.aspose.tasks.Rsc').STANDARD_RATE, Rjb::import('java.math.BigDecimal').valueOf(10))
+rsc.set(Rjb::import('com.aspose.tasks.Rsc').OVERTIME_RATE, Rjb::import('java.math.BigDecimal').valueOf(15))
+assignment = project.getResourceAssignments().add(task, rsc)
+puts "Set resource assignment properties."
 {{< /highlight >}}
 
 ## **Download Running Code**

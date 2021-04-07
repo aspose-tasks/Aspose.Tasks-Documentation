@@ -11,23 +11,21 @@ To get Actual Properties using **Aspose.Tasks Java for Ruby**, call **get_actual
 **Ruby Code**
 
 {{< highlight ruby >}}
-def get_actual_properties()
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    collector = Rjb::import('com.aspose.tasks.ChildTasksCollector').new
-    Rjb::import('com.aspose.tasks.TaskUtils').apply(project.getRootTask(), collector, 0)
-    tasks = collector.getTasks()
-    tsk = Rjb::import('com.aspose.tasks.Tsk')
-    i = 0
-    while i < tasks.size()
-      task = tasks.get(i)
-      puts "Task Name : " + task.get(tsk.NAME).to_string
-      puts "Actual Start: " + task.get(tsk.ACTUAL_START).toString()
-      puts "Actual Finish: " + task.get(tsk.ACTUAL_FINISH).toString()
-      puts "Actual Duration: " + task.get(tsk.ACTUAL_DURATION).toString()
-      puts "Actual Cost: " + task.get(tsk.ACTUAL_COST).toString()
-      puts "---------------------------------------------"
-      i += 1
-    end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+collector = Rjb::import('com.aspose.tasks.ChildTasksCollector').new
+Rjb::import('com.aspose.tasks.TaskUtils').apply(project.getRootTask(), collector, 0)
+tasks = collector.getTasks()
+tsk = Rjb::import('com.aspose.tasks.Tsk')
+i = 0
+while i < tasks.size()
+  task = tasks.get(i)
+  puts "Task Name : " + task.get(tsk.NAME).to_string
+  puts "Actual Start: " + task.get(tsk.ACTUAL_START).toString()
+  puts "Actual Finish: " + task.get(tsk.ACTUAL_FINISH).toString()
+  puts "Actual Duration: " + task.get(tsk.ACTUAL_DURATION).toString()
+  puts "Actual Cost: " + task.get(tsk.ACTUAL_COST).toString()
+  puts "---------------------------------------------"
+  i += 1
 end
 {{< /highlight >}}
 

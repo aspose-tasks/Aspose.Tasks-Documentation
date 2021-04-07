@@ -1,5 +1,6 @@
 ---
 title: Currency Properties
+description: "Learn how to manage Microsoft Project (MPP/XML) currency properties using Aspose.Tasks for C++."
 type: docs
 weight: 50
 url: /cpp/currency-properties/

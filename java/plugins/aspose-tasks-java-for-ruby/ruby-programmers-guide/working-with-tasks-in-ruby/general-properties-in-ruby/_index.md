@@ -11,23 +11,21 @@ To get General Properties using **Aspose.Tasks Java for Ruby**, call **get_gener
 **Ruby Code**
 
 {{< highlight ruby >}}
-def get_general_properties()
-    project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
-    collector = Rjb::import('com.aspose.tasks.ChildTasksCollector').new
-    Rjb::import('com.aspose.tasks.TaskUtils').apply(project.getRootTask(), collector, 0)
-    tasks = collector.getTasks()
-    tsk = Rjb::import('com.aspose.tasks.Tsk')
-    i = 0
-    while i < tasks.size()
-        task = tasks.get(i)
-        puts "Task Id:" + task.get(tsk.ID).to_string
-        puts "Task Uid: " + task.get(tsk.UID).to_string
-        puts "Task Name: " + task.get(tsk.NAME).to_string
-        puts "Task Start: " + task.get(tsk.START).to_string
-        puts "Task Finish: "+  task.get(tsk.FINISH).to_string
-        puts "---------------------------------------------"
-        i += 1
-    end
+project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
+collector = Rjb::import('com.aspose.tasks.ChildTasksCollector').new
+Rjb::import('com.aspose.tasks.TaskUtils').apply(project.getRootTask(), collector, 0)
+tasks = collector.getTasks()
+tsk = Rjb::import('com.aspose.tasks.Tsk')
+i = 0
+while i < tasks.size()
+    task = tasks.get(i)
+    puts "Task Id:" + task.get(tsk.ID).to_string
+    puts "Task Uid: " + task.get(tsk.UID).to_string
+    puts "Task Name: " + task.get(tsk.NAME).to_string
+    puts "Task Start: " + task.get(tsk.START).to_string
+    puts "Task Finish: "+  task.get(tsk.FINISH).to_string
+    puts "---------------------------------------------"
+    i += 1
 end
 {{< /highlight >}}
 

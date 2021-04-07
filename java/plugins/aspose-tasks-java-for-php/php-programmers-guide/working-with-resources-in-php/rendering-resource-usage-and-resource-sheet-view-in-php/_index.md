@@ -11,21 +11,18 @@ To Render Resource Usage using **Aspose.Tasks Java for PHP**, call **render_reso
 **PHP Code**
 
 {{< highlight php >}}
-public static function render_resource_usage()
-{
-    $project = new Project('test_tasks.mpp');
-    $options = new PdfSaveOptions();
-    $timescale = new Timescale();
-    $options->setTimescale($timescale->Days);
-    $presentationFormat = new PresentationFormat();
-    $options->setPresentationFormat($presentationFormat->ResourceUsage);
-    $project->save("result_days.pdf", $options);
-    $options->setTimescale($timescale->ThirdsOfMonths);
-    $project->save("result_thirdsOfMonths.pdf", $options);
-    $options->setTimescale($timescale->Months);
-    $project->save("result_months.pdf", $options);
-    print "Created resource usage files.".PHP_EOL;
-}
+$project = new Project('test_tasks.mpp');
+$options = new PdfSaveOptions();
+$timescale = new Timescale();
+$options->setTimescale($timescale->Days);
+$presentationFormat = new PresentationFormat();
+$options->setPresentationFormat($presentationFormat->ResourceUsage);
+$project->save("result_days.pdf", $options);
+$options->setTimescale($timescale->ThirdsOfMonths);
+$project->save("result_thirdsOfMonths.pdf", $options);
+$options->setTimescale($timescale->Months);
+$project->save("result_months.pdf", $options);
+print "Created resource usage files.".PHP_EOL;
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Rendering Resource Sheet View**
@@ -34,15 +31,12 @@ To Render Resource Sheet View using **Aspose.Tasks Java for PHP**, call **render
 **PHP Code**
 
 {{< highlight php >}}
-public static function render_resource_sheetview()
-{
-    $project = new Project('test_tasks.mpp');
-    $options = new PdfSaveOptions();
-    $presentationFormat = new PresentationFormat();
-    $options->setPresentationFormat($presentationFormat->ResourceSheet);
-    $project->save("result.pdf", $options);
-    print "Created resource sheet view file.".PHP_EOL;
-}
+$project = new Project('test_tasks.mpp');
+$options = new PdfSaveOptions();
+$presentationFormat = new PresentationFormat();
+$options->setPresentationFormat($presentationFormat->ResourceSheet);
+$project->save("result.pdf", $options);
+print "Created resource sheet view file.".PHP_EOL;
 {{< /highlight >}}
 
 ## **Download Running Code**

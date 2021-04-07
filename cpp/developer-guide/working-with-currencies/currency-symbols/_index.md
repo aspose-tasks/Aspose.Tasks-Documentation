@@ -1,5 +1,6 @@
 ---
 title: Currency Symbols
+description: "Learn how to manage currency symbols in Microsoft Project (MPP/XML) files using Aspose.Tasks for C++."
 type: docs
 weight: 30
 url: /cpp/currency-symbols/
