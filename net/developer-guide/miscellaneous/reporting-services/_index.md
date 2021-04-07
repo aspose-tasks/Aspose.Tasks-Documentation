@@ -8,7 +8,7 @@ url: /net/reporting-services/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks provides reporting services for creating reports from project files similar to Microsoft Project. The SaveReport function is used to create PDF files containing the report's images. This function takes two arguments:
+Aspose.Tasks for .NET provides reporting services for creating reports from project files similar to Microsoft Project. The SaveReport function is used to create PDF files containing the report's images. This function takes two arguments:
 
 1. the PDF file name, and
 2. the ReportType enumerator.

@@ -148,7 +148,7 @@ The following code writes weekday properties, as shown in the screenshot above, 
 ## **Currency Properties**
 Microsoft Project lets users set which currency costs are shown in, in a project. They can define set the currency code, numbers after the decimal point and currency symbol so that costs show in an easy to read and intuitive way. Aspose.Tasks supports these features and provides a series of properties that help developers set and control currency properties. This article explains both how to read currency properties, and how to set them.
 
-Aspose.Tasks provides properties, exposed by the Prj class, for managing currency properties:
+Aspose.Tasks for Java provides properties, exposed by the Prj class, for managing currency properties:
 
 - CURRENCY: the three-letter currency code, for example USD, GBP or AUD, passed as a string.
 - CURRENCY_DIGITS: the number of numbers after the decimal point, for example 2 (100.00) or 3 (100.000), passed as an integer.

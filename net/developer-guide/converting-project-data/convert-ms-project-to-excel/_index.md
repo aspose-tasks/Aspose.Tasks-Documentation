@@ -34,6 +34,6 @@ There are two ways to save data to Spreadsheet2003 XML format: default, or using
 
 
 ### **Using Spreadsheet2003SaveOptions**
-Aspose.Tasks provides Spreadsheet2003SaveOptions for modifying the view data.
+Aspose.Tasks for .NET provides Spreadsheet2003SaveOptions for modifying the view data.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-UsingSpreadsheet2003SaveOptions-UsingSpreadsheet2003SaveOptions.cs" >}}

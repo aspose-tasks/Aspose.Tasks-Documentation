@@ -32,7 +32,7 @@ Aspose.Tasks allows developers to read information about filters applied to MPP 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Miscellaneous-ReadFilterCriteriaData-ReadFilterCriteriaData.cs" >}}
 
 ## **Reading Group Definition Data**
-A Microsoft Project data file may contain data in groups. Aspose.Tasks provides the facility to read the group definition data as shown in the below example.
+A Microsoft Project data file may contain data in groups. Aspose.Tasks for .NET provides the facility to read the group definition data as shown in the below example.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Miscellaneous-ReadGroupDefinitionData-ReadGroupDefinitionData.cs" >}}
 

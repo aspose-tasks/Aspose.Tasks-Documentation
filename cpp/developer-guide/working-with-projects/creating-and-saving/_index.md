@@ -26,10 +26,13 @@ The XML project file can be opened in Microsoft Project:
 3. On the **Project** menu, select **Project Information**
 
 ### **Create an Empty Project And Saving as XML File**
+
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-CreatingReadingAndSaving-CreateEmptyProjectSaveXML-CreateEmptyProjectSaveXML.cpp" >}}
 
 ### **Create an Empty Project and Save to Stream**
+
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-CreatingReadingAndSaving-CreateEmptyProjectSaveStream-CreateEmptyProjectSaveStream.cpp" >}}
 
 ### **Create an Empty Project and Save to MPP**
+
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-CreatingReadingAndSaving-CreateEmptyProjectSaveMPP-CreateEmptyProjectSaveMPP.cpp" >}}

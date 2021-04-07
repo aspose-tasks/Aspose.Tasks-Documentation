@@ -30,7 +30,7 @@ The following lines of code demonstrate how to achieve this using C#.
 
 
 ## **Fitting Contents to Cell Size**
-Commonly, a task (or resource) name is so long that it is truncated when project views are rendered. Aspose.Tasks provides the FitContent property in the SaveOptions class to avoid truncation of task and resource names. The code example below renders a project to PDF format with the FitContent property set to true.
+Commonly, a task (or resource) name is so long that it is truncated when project views are rendered. Aspose.Tasks for .NET provides the FitContent property in the SaveOptions class to avoid truncation of task and resource names. The code example below renders a project to PDF format with the FitContent property set to true.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-FitContentsToCellSize-FitContentsToCellSize.cs" >}}
 

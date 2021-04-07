@@ -9,7 +9,8 @@ url: /cpp/writing-updated-resource-data-to-mpp/
 
 Aspose.Tasks for C++ API allows to update a Microsoft Project MPP file's resource data and save it data back to the MPP file.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Writing Updated Resource Data back to the MPP file**
 The code snippet in this article opens a source MPP file that has one resource. It then updates the data of the resource and adds several new resources. The steps involved in this activity are:
 
@@ -18,6 +19,7 @@ The code snippet in this article opens a source MPP file that has one resource. 
 3. Add resources to the project.
 4. Update existing resource data.
 5. Save the project using the Project Writer.
+
 ### **Programming Sample**
 The following code example demonstrates how to write updated resource data back to the MPP.
 

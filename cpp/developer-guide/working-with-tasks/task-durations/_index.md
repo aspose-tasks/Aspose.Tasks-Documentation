@@ -9,20 +9,22 @@ url: /cpp/task-durations/
 
 Tasks take time, they have a duration. Realistic task durations help give a realistic project end date. Aspose.Tasks for C++ API allows developers to set task durations in projects.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Durations**
 The Duration and DurationFormat properties exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to determine the planned duration and format of the duration of a task:
 
 - Duration sets and gets a task's planned duration (TimeSpan).
 - DurationFormat sets and gets formats defined by the TimeUnitType enumeration.
-### **Duration in Microsoft Project**
-To see a task's duration in Microsoft Project:
 
-1. From the **View** menu, select **More Views** and then **Task Entry**.
+### **Duration in Microsoft Project**
+To see a task's duration in Microsoft Project one can select **More Views** and then **Task Entry** from the **View** menu.
+
 ### **Setting task duration using Aspose.Tasks**
 The code example given below demonstrates how to increase and decrease the task duration to 1 week and half week respectively.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-WriteTaskDuration-WriteTaskDuration.cpp" >}}
+
 ## **Calculating Durations**
 It can be useful to calculate the duration of a task in different units such as minutes, hours, etc.
 

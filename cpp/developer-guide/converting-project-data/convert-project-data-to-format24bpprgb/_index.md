@@ -1,5 +1,7 @@
 ---
 title: Convert Project Data to Format24bppRgb
+description: "Learn how to Aspose.Tasks for C++ allows converting Microsoft Project (MPP) to Format24bppRgb."
+keywords: "Export your project to Format24bppRgb, MPP to Format24bppRgb, Convert your MPP to Format24bppRgb, Convert Microsoft Project to Format24bppRgb, convert MPP to Format24bppRgb, save project data to Format24bppRgb, Aspose.Tasks, C++"
 type: docs
 weight: 60
 url: /cpp/convert-project-data-to-format24bpprgb/

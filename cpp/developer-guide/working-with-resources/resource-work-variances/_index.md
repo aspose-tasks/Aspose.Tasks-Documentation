@@ -1,5 +1,6 @@
 ---
 title: Resource Work Variances
+description: "Learn how to use Aspose.Tasks for C++ to manage resource work variances in Microsoft Project (MPP/XML) files."
 type: docs
 weight: 120
 url: /cpp/resource-work-variances/

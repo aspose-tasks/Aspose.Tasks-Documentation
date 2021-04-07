@@ -29,7 +29,7 @@ Aspose.Tasks allows to read Information about filters applied to an MPP file dat
 ### **Reading Filter Criteria Data**
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-FilterDataFromMppFile-filter-data-criteria.java" >}}
 ## **Reading Group Definition Data**
-A Microsoft Project data file may contain data in groups. Aspose.Tasks provides the facility to read the group definition data as shown in this topic.
+A Microsoft Project data file may contain data in groups. Aspose.Tasks for Java provides the facility to read the group definition data as shown in this topic.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadGroupDefinitionData-read-group-information-data.java" >}}
 

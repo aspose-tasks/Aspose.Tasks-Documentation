@@ -1,5 +1,6 @@
 ---
 title: Sort Tasks by Column in Gantt Chart
+description: "Learn how to sort tasks by any column defined in Gantt chart view using Aspose.Tasks for Java."
 type: docs
 weight: 10
 url: /java/sort-tasks-by-column-in-gantt-chart/
@@ -7,9 +8,9 @@ url: /java/sort-tasks-by-column-in-gantt-chart/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks provides the ability to sort tasks by any column in the Gantt chart view. This is accomplished with the help of the comparer method saveOptions.setTasksComparer before rendering in Gantt chart. The default comparer sorts tasks by task ID if no other option is specified.
+Aspose.Tasks for Java provides the ability to sort tasks by any column in the Gantt chart view. This is accomplished with the help of the comparer method saveOptions.setTasksComparer before rendering in Gantt chart. The default comparer sorts tasks by task ID if no other option is specified.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Sort Tasks**
 {{< highlight java >}}

@@ -7,7 +7,7 @@ url: /net/working-with-project-views/
 ---
 
 ## **Reading Specific Gantt Chart View Data**
-Gantt charts provide a graphical representation of a project plan. Sometimes it is necessary to read particular data associated with a Gantt chart view, such as the bar-style information, gridline properties, progress lines properties and time scale information. Aspose.Tasks provides the capability to access all the properties individually with the [GanttChartView](https://apireference.aspose.com/tasks/net/aspose.tasks/ganttchartview) class that inherits from View. This feature is supported for Microsoft Project 2003, 2007, 2010, 2013, 2016 and 2013 MPP file formats.
+Gantt charts provide a graphical representation of a project plan. Sometimes it is necessary to read particular data associated with a Gantt chart view, such as the bar-style information, gridline properties, progress lines properties and time scale information. Aspose.Tasks for .NET provides the capability to access all the properties individually with the [GanttChartView](https://apireference.aspose.com/tasks/net/aspose.tasks/ganttchartview) class that inherits from View. This feature is supported for Microsoft Project 2003, 2007, 2010, 2013, 2016 and 2013 MPP file formats.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectViews-ReadSpecificGantChartViewData-ReadSpecificGantChartViewData.cs" >}}
 

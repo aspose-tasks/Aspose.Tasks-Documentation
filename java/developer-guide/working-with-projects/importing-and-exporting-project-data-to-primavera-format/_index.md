@@ -7,7 +7,7 @@ url: /java/importing-and-exporting-project-data-to-primavera-format/
 
 {{% alert color="primary" %}} 
 
-Primavera’s Proprietary Exchange Format (XER), by Primavera Systems, Inc., is primarily associated with Primavera Project Management. Aspose.Tasks provides the capability to export Microsoft Project Data to Primavera XER and XML formats. This article shows how to export project data to both these formats. 
+Primavera’s Proprietary Exchange Format (XER), by Primavera Systems, Inc., is primarily associated with Primavera Project Management. Aspose.Tasks for Java provides the capability to export Microsoft Project Data to Primavera XER and XML formats. This article shows how to export project data to both these formats. 
 
 {{% /alert %}} 
 
