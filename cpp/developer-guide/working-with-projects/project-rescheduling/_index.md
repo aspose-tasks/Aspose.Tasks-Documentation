@@ -1,5 +1,6 @@
 ---
 title: Project Rescheduling
+description: "Learn how to reschedule Microsoft Project (MPP/XML) project files from the project start/finish date using Aspose.Tasks for C++."
 type: docs
 weight: 40
 url: /cpp/project-rescheduling/

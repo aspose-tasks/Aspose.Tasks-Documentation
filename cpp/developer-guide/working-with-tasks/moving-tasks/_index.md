@@ -1,5 +1,6 @@
 ---
 title: Moving Tasks
+description: "Learn how to move Microsoft Project (MPP/XML) the tasks under another ones using Aspose.Tasks for C++."
 type: docs
 weight: 230
 url: /cpp/moving-tasks/
@@ -10,6 +11,7 @@ url: /cpp/moving-tasks/
 Microsoft Project allows moving one task under another task. In this case, the child tasks of the selected tasks are also moved with it. Aspose.Tasks for C++ API provides the same feature by moving a task under another task. This can be achieved by adding the selected task to the children of the new parent as shown in this article. The task can be moved under a different parent or the same parent.
 
 {{% /alert %}} 
+
 ## **Move Task Under Another Parent**
 Please note that using *CalculationMode.None* can improve performance when you add several tasks and call *Recalculate* method one time.
 

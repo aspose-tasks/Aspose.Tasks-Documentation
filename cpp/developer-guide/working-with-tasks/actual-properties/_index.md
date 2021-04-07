@@ -1,5 +1,6 @@
 ---
-title: Actual Properties
+title: Working with Task's Actual Properties
+description: "Learn how to work with Microsoft Project (MPP/XML) task's actual properties using Aspose.Tasks for C++."
 type: docs
 weight: 30
 url: /cpp/actual-properties/
@@ -9,7 +10,8 @@ url: /cpp/actual-properties/
 
 The actual properties are used to find out how much time or money has been sent on a task to date.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Actual Properties**
 The static class Tsk exposes a number of properties for determining a task's actual properties:
 
@@ -22,11 +24,13 @@ The static class Tsk exposes a number of properties for determining a task's a
 - ACWP: the actual cost of the work performed on a task (double).
 
 The ChildTasksCollector class collects all the child tasks from a given RootTask when used by TaskUtils.
+
 ### **Actual Properties in Microsoft Project**
 To access these properties in Microsoft Project:
 
 1. On the **View** menu, select **More Views** and then **Task Entry**.
 2. On the **Insert** menu, select **Column** and add the desired columns to the Task Entry form.
+
 ### **Getting Actual Properties with Aspose.Tasks**
 A tasks' actual properties can be obtained by traversing the tasks in a project. The code sample given below writes the actual properties for all tasks found in a project to a console window.
 

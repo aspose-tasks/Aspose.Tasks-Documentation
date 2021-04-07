@@ -1,5 +1,6 @@
 ---
 title: Outline Properties
+description: "Learn how to work Microsoft Project (MPP/XML) outline values using Aspose.Tasks for .NET."
 type: docs
 weight: 100
 url: /net/outline-properties/

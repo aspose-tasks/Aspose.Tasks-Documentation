@@ -1,5 +1,6 @@
 ---
 title: Task Budget Work and Cost Values
+description: "Learn how to edit with Microsoft Project (MPP/XML) task budget works and costs using Aspose.Tasks for C++."
 type: docs
 weight: 210
 url: /cpp/task-budget-work-and-cost-values/

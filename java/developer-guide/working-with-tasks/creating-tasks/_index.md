@@ -1,5 +1,6 @@
 ---
 title: Creating Tasks
+description: "Learn how to create Microsoft Project (MPP/XML) tasks using Aspose.Tasks for Java."
 type: docs
 weight: 10
 url: /java/creating-tasks/

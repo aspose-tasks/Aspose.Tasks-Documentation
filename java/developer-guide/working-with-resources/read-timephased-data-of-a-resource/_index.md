@@ -1,5 +1,6 @@
 ---
 title: Read Timephased Data of a Resource
+description: "Learn how to read  Microsoft Project (MPP/XML) resource timephased data using Aspose.Tasks for Java."
 type: docs
 weight: 80
 url: /java/read-timephased-data-of-a-resource/

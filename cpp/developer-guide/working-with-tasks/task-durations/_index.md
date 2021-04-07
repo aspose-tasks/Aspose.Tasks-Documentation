@@ -1,5 +1,6 @@
 ---
-title: Task Durations
+title: Working With Task Durations
+description: "Learn how to work with Microsoft Project (MPP/XML) task durations using Aspose.Tasks for C++."
 type: docs
 weight: 50
 url: /cpp/task-durations/

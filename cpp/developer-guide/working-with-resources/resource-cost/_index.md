@@ -1,5 +1,6 @@
 ---
-title: Resource Cost
+title: Working with Resource Costs
+description: "Learn how to work with Microsoft Project (MPP/XML) resource works using Aspose.Tasks for C++."
 type: docs
 weight: 50
 url: /cpp/resource-cost/
@@ -15,12 +16,14 @@ The [Resource](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.reso
 - ACWP represents the actual cost of work performed by a resource to date (double).
 - AccrueAt represents the cost accrual method used for a resource (CostAccrualType).
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Resource Costs**
 To view resource costs in Microsoft Project:
 
 1. On the Resource sheet, from the **Insert** menu, select **Column**.
 2. Add the columns.
+
 ### **Getting Resource Costs in Aspose.Tasks**
 The following code example demonstrates how to get task costs using Aspose.Tasks.
 

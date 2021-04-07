@@ -1,5 +1,6 @@
 ---
 title: Overtimes in Tasks
+description: "Learn how to assign overtime values for Microsoft Project (MPP/XML) tasks using Aspose.Tasks for Java."
 type: docs
 weight: 170
 url: /java/overtimes-in-tasks/

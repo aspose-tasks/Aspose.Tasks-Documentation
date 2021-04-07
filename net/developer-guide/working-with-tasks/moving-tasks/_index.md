@@ -1,5 +1,6 @@
 ---
 title: Moving Tasks
+description: "Learn how to move with Microsoft Project (MPP/XML) the tasks under another ones using Aspose.Tasks for .NET."
 type: docs
 weight: 270
 url: /net/moving-tasks/

@@ -1,5 +1,6 @@
 ---
-title: Resource Overtime
+title: Working with Resource Overtimes
+description: "Learn how to work with Microsoft Project (MPP/XML) resource overtimes using Aspose.Tasks for C++."
 type: docs
 weight: 40
 url: /cpp/resource-overtime/
@@ -22,6 +23,7 @@ To see overtime cost, overtime rate and overtime work in Microsoft Project:
 
 1. On the Resource sheet, select the **Insert** menu, and then select **Column**.
 2. Add the columns.
+
 ### **Getting Resource Overtimes in Aspose.Tasks**
 The following code example demonstrates how to get resource overtimes using Aspose.Tasks.
 

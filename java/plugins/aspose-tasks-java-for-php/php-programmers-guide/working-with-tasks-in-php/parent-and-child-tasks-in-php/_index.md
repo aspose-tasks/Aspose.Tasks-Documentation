@@ -1,5 +1,6 @@
 ---
 title: Parent and Child Tasks in PHP
+description: "Learn how to work with Microsoft Project (MPP/XML) parent-child relations using Aspose.Tasks Java for PHP."
 type: docs
 weight: 100
 url: /java/parent-and-child-tasks-in-php/

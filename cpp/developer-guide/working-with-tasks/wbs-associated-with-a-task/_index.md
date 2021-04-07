@@ -1,5 +1,6 @@
 ---
-title: WBS Associated with a Task
+title: Working with WBS Associated with Tasks
+description: "Learn how to work with Microsoft Project (MPP/XML) WBS associated with tasks using Aspose.Tasks for C++."
 type: docs
 weight: 130
 url: /cpp/wbs-associated-with-a-task/

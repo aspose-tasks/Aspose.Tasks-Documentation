@@ -1,5 +1,6 @@
 ---
 title: Writing Updated Resource Data to MPP
+description: "Learn how to update Microsoft Project (MPP/XML) resources using Aspose.Tasks for C++."
 type: docs
 weight: 90
 url: /cpp/writing-updated-resource-data-to-mpp/

@@ -1,5 +1,6 @@
 ---
 title: Rendering Task Sheet View in Ruby
+description: "Learn how to render Microsoft Project (MPP/XML) task sheet views using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 130
 url: /java/rendering-task-sheet-view-in-ruby/

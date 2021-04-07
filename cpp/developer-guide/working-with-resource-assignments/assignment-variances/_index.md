@@ -1,5 +1,6 @@
 ---
-title: Assignment Variances
+title: Working With Assignment Variances
+description: "Learn how to work with Microsoft Project (MPP/XML) resource assignment variances using Aspose.Tasks for C++."
 type: docs
 weight: 60
 url: /cpp/assignment-variances/
@@ -17,6 +18,7 @@ To see resource assignment variances in Microsoft Project:
 
 1. On the Task Usage screen, select **Insert** and ten **Columns**.
 2. Add the desired columns.
+
 ### **Getting Assignment Variance in Aspose.Tasks**
 The following code example demonstrates how to get the resource work variance using Aspose.Tasks.
 

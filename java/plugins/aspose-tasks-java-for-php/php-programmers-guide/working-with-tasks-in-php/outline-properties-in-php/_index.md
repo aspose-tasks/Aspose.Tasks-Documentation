@@ -1,5 +1,6 @@
 ---
 title: Outline Properties in PHP
+description: "Learn how to work Microsoft Project (MPP/XML) outline values using Aspose.Tasks Java for PHP."
 type: docs
 weight: 90
 url: /java/outline-properties-in-php/

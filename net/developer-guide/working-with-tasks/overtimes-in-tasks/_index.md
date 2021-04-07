@@ -1,5 +1,6 @@
 ---
 title: Overtimes in Tasks
+description: "Learn how to assign overtime values for Microsoft Project (MPP/XML) tasks using Aspose.Tasks for .NET."
 type: docs
 weight: 170
 url: /net/overtimes-in-tasks/
@@ -12,11 +13,13 @@ The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) exposes se
 
 - [OvertimeCost](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/overtimecost): reads and writes the sum of a task's actual and remaining overtime cost (double).
 - [OvertimeWork](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/overtimework): reads and writes the amount of overtime scheduled for a task (TimeSpan).
+
 ### **Microsoft Project view of task overtime**
 To see a task's overtime work and cost properties:
 
 1. In the Task Entry form, select the **Insert** menu and then **Column**.
 2. Add the overtime columns.
+
 ### **Getting task overtimes in Aspose.Tasks**
 The following examples show how to get the overtime cost and work associated with a task with Aspose.Tasks.
 

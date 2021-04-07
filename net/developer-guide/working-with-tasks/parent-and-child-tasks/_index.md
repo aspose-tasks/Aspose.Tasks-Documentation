@@ -1,5 +1,6 @@
 ---
 title: Parent and Child Tasks
+description: "Learn how to work with Microsoft Project (MPP/XML) parent-child relations using Aspose.Tasks for .NET."
 type: docs
 weight: 150
 url: /net/parent-and-child-tasks/

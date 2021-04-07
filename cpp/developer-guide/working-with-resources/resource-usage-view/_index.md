@@ -1,5 +1,6 @@
 ---
-title: Resource Usage View
+title: Render Resource Usage View
+description: "Learn how to render Microsoft Project (MPP/XML) resource usage view using Aspose.Tasks for C++."
 type: docs
 weight: 100
 url: /cpp/resource-usage-view/

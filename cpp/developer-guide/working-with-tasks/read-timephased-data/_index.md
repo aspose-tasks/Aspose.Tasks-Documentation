@@ -1,5 +1,6 @@
 ---
-title: Read Timephased Data
+title: Read Task Timephased Data
+description: "Learn how to read Microsoft Project (MPP/XML) task timephased data using Aspose.Tasks for C++."
 type: docs
 weight: 190
 url: /cpp/read-timephased-data/

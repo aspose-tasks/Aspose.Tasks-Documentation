@@ -1,5 +1,6 @@
 ---
 title: Parent and Child Tasks in Ruby
+description: "Learn how to work with Microsoft Project (MPP/XML) parent-child relations using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 100
 url: /java/parent-and-child-tasks-in-ruby/

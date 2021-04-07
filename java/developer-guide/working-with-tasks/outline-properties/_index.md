@@ -1,5 +1,6 @@
 ---
 title: Outline Properties
+description: "Learn how to work Microsoft Project (MPP/XML) outline values using Aspose.Tasks for Java."
 type: docs
 weight: 100
 url: /java/outline-properties/
@@ -9,12 +10,14 @@ url: /java/outline-properties/
 
 Microsoft Project has an outline structure that lets users get a quick overview of a project. Aspose.Tasks supports this functionality and lets developers control the outline number - where the task appears in a hierarchy - and the outline level - which level of the hierarchy the task is in.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Outline Properties**
 The [Tsk](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Tsk/) class exposes the OUTLINE_NUMBER and OUTLINE_LEVEL properties for managing outlines associated with a class:
 
 1. OutlineNumber (string).
 2. OutlineLevel (integer).
+
 ### **Outlines in Microsoft Project**
 In Microsoft Project, outline number and outline level properties can be viewed on the Task Entry form by adding the columns:
 
