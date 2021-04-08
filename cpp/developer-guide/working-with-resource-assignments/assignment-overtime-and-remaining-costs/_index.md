@@ -1,5 +1,6 @@
 ---
 title: Assignment Overtime and Remaining Costs
+description: "The page describes how to work with Microsoft Project (MPP/XML) resource assignment overtimes and remaining costs using Aspose.Tasks for C++."
 type: docs
 weight: 50
 url: /cpp/assignment-overtime-and-remaining-costs/

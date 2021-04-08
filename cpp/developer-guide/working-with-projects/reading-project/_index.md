@@ -1,5 +1,6 @@
 ---
 title: Reading Project
+description: "Learn how to read Microsoft Project files using Aspose.Tasks for C++ API without having Microsoft Office dependencies installed."
 type: docs
 weight: 20
 url: /cpp/reading-project/

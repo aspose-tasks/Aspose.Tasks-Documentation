@@ -1,5 +1,6 @@
 ---
 title: Functions in Formulas
+description: "Learn how to work with Microsoft Project (MPP/XML) formula functions using Aspose.Tasks for C++."
 type: docs
 weight: 30
 url: /cpp/functions-in-formulas/
@@ -9,7 +10,8 @@ url: /cpp/functions-in-formulas/
 
 Aspose.Tasks for C++ API supports evaluating functions defined as formula expression in Extended Attribute. These include calculation of Math, General, Text, and DateTime functions.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Calculation of Math Expressions**
 1. Abs( number )
 2. Atn( number )

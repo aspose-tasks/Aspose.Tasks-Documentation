@@ -1,5 +1,7 @@
 ---
 title: Import and Export Project Data to Primavera Format
+description: "Learn how to import or export Microsoft Project (MPP/XML) files from or to Primavera (XER, P6 XML) formats using Aspose.Tasks for C++."
+keywords: "Export project data to primavera, convert project data to primavera, Primavera XML, P6 XML, XER, Aspose.Tasks, C++"
 type: docs
 weight: 100
 url: /cpp/import-and-export-project-data-to-primavera-format/
@@ -20,6 +22,7 @@ Aspose.Tasks for C++ can import Primavera XML similar to Microsoft Project XML a
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ImportingAndExporting-ImportDataFromXMLFileFormats-ImportDataFromXMLFileFormats.cpp" >}}
 
 ### **Importing Data from Primavera MPX File Formats**
+
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ImportingAndExporting-ImportDataFromMPXFileFormats-ImportDataFromMPXFileFormats.cpp" >}}
 
 ### **Reading Project UIDs from Primavera XML file**
@@ -28,18 +31,22 @@ A Primavera XML file may contain multiple projects, each having its own UID. Asp
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ImportingAndExporting-ReadProjectUIDsFromXMLFile-ReadProjectUIDsFromXMLFile.cpp" >}}
 
 ### **Reading Primavera XML file with Multiple Projects**
+
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ImportingAndExporting-ReadXMLFileWithMultipleProjects-ReadXMLFileWithMultipleProjects.cpp" >}}
 
 ## **Exporting Project Data in Primavera Formats**
 The SaveFileFormat enumerator is used to specifying the project export type as Primavera XML or XER.
 
 ### **Exporting Project Data to Primavera XML Format**
+
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ImportingAndExporting-ExportProjectDataToXMLFormat-ExportProjectDataToXMLFormat.cpp" >}}
 
 ### **Exporting Project Data to Primavera XER Format**
+
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ImportingAndExporting-ExportProjectDataToXERFormat-ExportProjectDataToXERFormat.cpp" >}}
 
 ### **Exporting Project Data to Primavera MPX Format**
+
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ImportingAndExporting-ExportProjectDataToPrimaveraMPXFormat-ExportProjectDataToPrimaveraMPXFormat.cpp" >}}
 
 ### **Primavera XML Save Options**

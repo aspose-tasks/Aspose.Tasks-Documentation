@@ -1,17 +1,16 @@
 ---
 title: Split Tasks
+description: "Learn how to split Microsoft Project (MPP/XML) tasks using Aspose.Tasks for Java."
 type: docs
 weight: 160
 url: /java/split-tasks/
 ---
 
-{{% alert color="primary" %}} 
-
 Sometimes it is not possible to complete a task as scheduled and it needs to be split into two or more parts. Aspose.Tasks support this Microsoft Project feature.
 
-{{% /alert %}} 
 ## **Splitting Tasks**
 The SplitParts property exposed by the [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class is used to determine the split parts of a task whereas the SplitTask method exposed by the ResourceAssignment class is used to split a single task into multiple parts. SplitParts returns a collection of split parts whereas the SplitTask method accepts start date, finish date and calendar arguments to split the task.
+
 ### **Splitting and Viewing Tasks in Microsoft Project**
 To split a task in Microsoft Project:
 
@@ -19,10 +18,7 @@ To split a task in Microsoft Project:
 2. On the **Task** menu, select the **Schedule** group and click **Split Task**.
 3. Click at the position you want to split the task.
 
-To see split tasks in Microsoft Project:
-
-1. On the **View** menu, select **Gantt Chart**.
-   Split tasks are linked by a dotted line. 
+To see split tasks in Microsoft Project one can select **Gantt Chart** on the **View** menu.  Split tasks are linked by a dotted line.
 
 **Split tasks in Microsoft Project**
 

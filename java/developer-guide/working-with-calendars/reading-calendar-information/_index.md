@@ -25,7 +25,7 @@ Aspose.Tasks for Java API can read Work weeks information from any of the Projec
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Calendars-ReadWorkWeeks-ReadWorkWeeksInformation.java" >}}
 
 ## **Getting Working Hours On or Between Dates**
-Working hours are typically defined as a range of hours over a day, on specific days of the week. For example, 09:00 – 17:00, Monday to Friday. With Aspose.Tasks, it is possible to calculate the number of working hours that fall on a date, or between two dates. Finding out the number of working dates between two dates help project managers figure out whether there are enough hours to get work done, or if they need to find more resources to complete a task.
+Working hours are typically defined as a range of hours over a day, on specific days of the week. For example, 09:00 – 17:00, Monday to Friday. With Aspose.Tasks for Java, it is possible to calculate the number of working hours that fall on a date, or between two dates. Finding out the number of working dates between two dates help project managers figure out whether there are enough hours to get work done, or if they need to find more resources to complete a task.
 
 ### **Calculating Working Hours**
 The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class exposes two overloaded methods for finding working hours on or between dates:

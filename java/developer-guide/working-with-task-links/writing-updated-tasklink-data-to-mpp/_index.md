@@ -7,7 +7,7 @@ url: /java/writing-updated-tasklink-data-to-mpp/
 
 {{% alert color="primary" %}} 
 
-With Aspose.Tasks, it is possible to link tasks in a project and save the updated task link data back to a Microsoft Project MPP file. This means that you can open an MPP file, update task links, and save the file back out.
+With Aspose.Tasks for Java, it is possible to link tasks in a project and save the updated task link data back to a Microsoft Project MPP file. This means that you can open an MPP file, update task links, and save the file back out.
 
 {{% /alert %}} 
 **Updating Task Links**

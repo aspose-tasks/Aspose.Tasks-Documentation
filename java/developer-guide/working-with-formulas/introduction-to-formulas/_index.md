@@ -1,15 +1,12 @@
 ---
 title: Introduction to Formulas
+description: "The page contains an introduction in project formula grammar that used by Aspose.Tasks for Java library for calculations."
 type: docs
 weight: 10
 url: /java/introduction-to-formulas/
 ---
 
-{{% alert color="primary" %}} 
-
 Aspose.Tasks for Java API supports reading/writing formulas to MPP project files. The Formula property of the ExtendedAttributeDefinition provides the interface for reading the formula value. This section describes how to read formulas from local as well as Enterprise Extended Attributes from the MPP file.
-
-{{% /alert %}} 
 
 When assigning an invalid formula string to the instance of ExtendedAttributeDefinition class, FormatException is thrown.
 

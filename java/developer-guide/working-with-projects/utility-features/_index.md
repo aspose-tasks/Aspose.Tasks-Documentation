@@ -1,5 +1,6 @@
 ---
-title: Utility Features
+title: Utility Features Available in Aspose.Tasks for Java
+description: "The page describes a set of useful utility functions that can be applied to project files using Aspose.Tasks for Java. such as a critical path calculation, working with task filters and so on."
 type: docs
 weight: 110
 url: /java/utility-features/

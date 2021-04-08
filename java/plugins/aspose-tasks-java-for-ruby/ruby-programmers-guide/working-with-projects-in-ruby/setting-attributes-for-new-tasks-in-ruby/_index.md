@@ -1,5 +1,6 @@
 ---
 title: Setting Attributes for New Tasks in Ruby
+description: "Learn how to set Microsoft Project (MPP/XML) project attributes for newly created tasks using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 140
 url: /java/setting-attributes-for-new-tasks-in-ruby/

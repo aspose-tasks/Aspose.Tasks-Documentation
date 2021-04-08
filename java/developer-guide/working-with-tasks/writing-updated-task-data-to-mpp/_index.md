@@ -1,15 +1,13 @@
 ---
 title: Writing Updated Task Data to MPP
+description: "Learn how to write Microsoft Project (MPP/XML) task properties using Aspose.Tasks for Java."
 type: docs
 weight: 230
 url: /java/writing-updated-task-data-to-mpp/
 ---
 
-{{% alert color="primary" %}} 
+With Aspose.Tasks for Java it is possible to update [tasks](/tasks/java/working-with-tasks/) and then write the updated data back to a Microsoft Project MPP file.
 
-With Aspose.Tasks, it is possible to update [tasks](/tasks/java/working-with-tasks/) and then write the updated data back to a Microsoft Project MPP file.
-
-{{% /alert %}} 
 **Updating Task Data**
 The following code snippet shows how to update a project's task data and write it back to the MPP file. The step involved in this activity are:
 

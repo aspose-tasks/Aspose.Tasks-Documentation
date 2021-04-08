@@ -1,5 +1,6 @@
 ---
 title: Introduction to Formulas
+description: "The page contains an introduction in project formula grammar that used by Aspose.Tasks for C++ library for calculations."
 type: docs
 weight: 10
 url: /cpp/introduction-to-formulas/

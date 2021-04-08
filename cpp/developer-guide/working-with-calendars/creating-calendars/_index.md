@@ -7,7 +7,7 @@ url: /cpp/creating-calendars/
 ---
 
 ## **Creating a Calendar**
-Calendars and other information is used by Microsoft Project to build project schedules. With Aspose.Tasks, adding a calendar to a project is easy. The Calendar class constructors allow you to assign an ID or a calendar name to the calendar, or use the default constructor. The options are described below.
+Calendars and other information is used by Microsoft Project to build project schedules. With Aspose.Tasks for C++, adding a calendar to a project is easy. The Calendar class constructors allow you to assign an ID or a calendar name to the calendar, or use the default constructor. The options are described below.
 
 There are three ways of creating a calendar in Aspose.Tasks. The [Calendar](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.calendar) class exposes the following three constructors:
 

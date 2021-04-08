@@ -1,5 +1,6 @@
 ---
 title: Split Tasks in VSTO and Aspose.Tasks
+description: "Learn how to split Microsoft Project (MPP/XML) tasks using Aspose.Tasks for .NET in comparison with VSTO."
 type: docs
 weight: 80
 url: /net/split-tasks-in-vsto-and-aspose-tasks/
@@ -34,10 +35,7 @@ To split a task in Microsoft Project:
 2. On the **Task** menu, select the **Schedule** group and click **Split Task**.
 3. Click at the position you want to split the task.
 
-To see split tasks in Microsoft Project:
-
-1. On the **View** menu, select **Gantt Chart**.
-   Split tasks are linked by a dotted line. 
+To see split tasks in Microsoft Project one can select **Gantt Chart** on the **View** menu.  Split tasks are linked by a dotted line.
 
 #### **Creating and Splitting Task**
 To create and split a task, follow these steps:

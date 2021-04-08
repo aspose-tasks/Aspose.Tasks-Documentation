@@ -1,5 +1,6 @@
 ---
 title: Setting Attributes for New Tasks
+description: "Learn how to set Microsoft Project (MPP/XML) project attributes for newly created tasks using Aspose.Tasks for C++."
 type: docs
 weight: 60
 url: /cpp/setting-attributes-for-new-tasks/

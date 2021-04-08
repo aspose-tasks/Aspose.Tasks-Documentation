@@ -1,15 +1,12 @@
 ---
 title: Writing Updated Task Data to MPP
+description: "Learn how to write Microsoft Project (MPP/XML) task properties using Aspose.Tasks for C++."
 type: docs
 weight: 200
 url: /cpp/writing-updated-task-data-to-mpp/
 ---
 
-{{% alert color="primary" %}} 
-
-With Aspose.Tasks, it is possible to update tasks and then write the updated data back to a Microsoft Project MPP file.
-
-{{% /alert %}}
+With Aspose.Tasks for C++ it is possible to update tasks and then write the updated data back to a Microsoft Project MPP file.
 
 ## **Updating Task Data**
 The following code snippet shows how to update a project's task data and write it back to the MPP file. The step involved in this activity are:

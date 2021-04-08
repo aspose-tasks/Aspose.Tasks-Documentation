@@ -1,5 +1,6 @@
 ---
 title: Currency Codes
+description: "Learn how to work with Microsoft Project (MPP/XML) currency codes using Aspose.Tasks for C++."
 type: docs
 weight: 10
 url: /cpp/currency-codes/

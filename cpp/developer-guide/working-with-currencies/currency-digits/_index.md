@@ -1,5 +1,6 @@
 ---
 title: Currency Digits
+description: "Learn how to work with Microsoft Project (MPP/XML) currency digits using Aspose.Tasks for C++."
 type: docs
 weight: 20
 url: /cpp/currency-digits/

@@ -1,5 +1,6 @@
 ---
 title: Split Tasks in Ruby
+description: "Learn how to split Microsoft Project (MPP/XML) tasks using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 160
 url: /java/split-tasks-in-ruby/

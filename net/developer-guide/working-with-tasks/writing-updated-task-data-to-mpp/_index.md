@@ -1,5 +1,6 @@
 ---
 title: Writing Updated Task Data to MPP
+description: "Learn how to write Microsoft Project (MPP/XML) task properties using Aspose.Tasks for .NET."
 type: docs
 weight: 230
 url: /net/writing-updated-task-data-to-mpp/

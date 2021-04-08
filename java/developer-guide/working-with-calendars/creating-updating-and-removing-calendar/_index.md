@@ -6,7 +6,7 @@ url: /java/creating-updating-and-removing-calendar/
 ---
 
 ## **Creating Calendars**
-Calendars and other information is used by Microsoft Project to build project schedules. With Aspose.Tasks, adding a calendar to a project is easy. The Calendar class constructors allow you to assign a calendar name to the calendar. The options are described below.
+Calendars and other information is used by Microsoft Project to build project schedules. With Aspose.Tasks for Java, adding a calendar to a project is easy. The Calendar class constructors allow you to assign a calendar name to the calendar. The options are described below.
 
 There are three ways of creating a calendar in Aspose.Tasks. The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class exposes the following constructor:
 
@@ -78,7 +78,7 @@ The following lines of code create a standard calendar using both methods.
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Calendars-MakeStandardCalendar-MakeStandardCalendar.java" >}}
 
 ## **Writing Updated Calendar Data to MPP**
-With Aspose.Tasks, you can update calendar data in a Microsoft Project MPP file and save it back. This topic shows an example of adding a calendar to the MPP file, update it and save back the changes to the MPP file.
+With Aspose.Tasks for Java, you can update calendar data in a Microsoft Project MPP file and save it back. This topic shows an example of adding a calendar to the MPP file, update it and save back the changes to the MPP file.
 
 The following code shows how to update the calendar data of a project by adding a new calendar and saving it back to the original MPP file. The steps involved in this activity are:
 

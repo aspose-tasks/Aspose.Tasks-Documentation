@@ -9,7 +9,7 @@ url: /cpp/defining-weekdays-for-exceptions/
 
 {{% alert color="primary" %}} 
 
-When setting up calendar exceptions with Aspose.Tasks, it is possible to define working days as exceptions.
+When setting up calendar exceptions with Aspose.Tasks for C++, it is possible to define working days as exceptions.
 
 {{% /alert %}}
 

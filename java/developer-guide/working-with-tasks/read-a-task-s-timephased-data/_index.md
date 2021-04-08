@@ -5,11 +5,8 @@ weight: 210
 url: /java/read-a-task-s-timephased-data/
 ---
 
-{{% alert color="primary" %}} 
+In Microsoft Project, time-phased data is displayed on the right side of the Task Usage and Resource Usage views. Users can write this data manually and with Aspose.Tasks for Java, you can write it programmatically, or get it from a project into your application.
 
-In Microsoft Project, time-phased data is displayed on the right side of the Task Usage and Resource Usage views. Users can write this data manually and with Aspose.Tasks, you can write it programmatically, or get it from a project into your application.
-
-{{% /alert %}} 
 ## **Working with Timephased Data**
 Aspose.Tasks supports reading a task's time-phased data from Microsoft Project (MPP) files. The time-phased data is retrieved using the [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) object's TimeScaleData method.
 

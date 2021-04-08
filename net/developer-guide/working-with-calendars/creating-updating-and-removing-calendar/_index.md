@@ -7,7 +7,7 @@ url: /net/creating-updating-and-removing-calendar/
 ---
 
 ## **Creating a Calendar**
-Calendars and other information is used by Microsoft Project to build project schedules. With Aspose.Tasks, adding a calendar to a project is easy. The Calendar class constructors allow you to assign an ID or a calendar name to the calendar, or use the default constructor. The options are described below.
+Calendars and other information is used by Microsoft Project to build project schedules. With Aspose.Tasks for .NET, adding a calendar to a project is easy. The Calendar class constructors allow you to assign an ID or a calendar name to the calendar, or use the default constructor. The options are described below.
 
 There are three ways of creating a calendar in Aspose.Tasks. The [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar) class exposes the following three constructors:
 
@@ -75,7 +75,7 @@ The following lines of code create a standard calendar using both methods.
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-MakeAStandardCalendar-MakeAStandardCalendar.cs" >}}
 
 ## **Writing Updated Calendar Data to MPP**
-With Aspose.Tasks, you can update calendar data in a Microsoft Project MPP file and save it back.
+With Aspose.Tasks for .NET, you can update calendar data in a Microsoft Project MPP file and save it back.
 
 The following code shows how to update the calendar data of a project by adding a new calendar and saving it back to the original MPP file. The steps involved in this activity are:
 
