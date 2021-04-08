@@ -9,17 +9,18 @@ url: /java/handling-critical-and-effort-driven-tasks/
 
 Microsoft Project recognized a number of different types of tasks. Tasks with no duration, for example, are considered milestones by default. Critical tasks make up the critical path, one or a series of tasks that, ultimately, determines how long a project will take.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Critical and Effort-Driven Tasks**
 The [Tsk](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Tsk) class exposes the IS_CRITICAL and IS_EFFORT_DRIVEN properties to handle critical and effort driven tasks.
+
 ### **Critical and Effort-driven Tasks Microsoft Project**
-To see whether a task is critical or effort-driven in Microsoft Project:
+To see whether a task is critical or effort-driven in Microsoft Project double-click a task in the Task Entry form.
 
-1. Double-click a task in the Task Entry form. 
-
-   **An effort-driven task in Microsoft Project** 
+## **An effort-driven task in Microsoft Project** 
 
 ![handling critical and effort driven tasks in Microsoft Project](handling-critical-and-effort-driven-tasks_1.png)
+
 ### **Getting Critical and Effort-driven Tasks**
 The following code examples show how to get information about whether a task is critical or effort-driven.
 

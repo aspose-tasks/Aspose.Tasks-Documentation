@@ -17,34 +17,19 @@ Aspose.Tasks for Java supports rendering project views such as Gantt charts, tas
 - Ledger
 - Letter
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Rendering Project Data to Pre-Defined Page Sizes**
 The following code sample shows how to render a project's different views to pre-defined page sizes.
 
-**Java**
-
 {{< highlight java >}}
-
- //Source File to Render
-
-//Source File to Render
-
 String file = "RenderMe.mpp";
-
 Project project = new Project(file);
-
 //Render the project to A3 size
-
 PdfSaveOptions options = new PdfSaveOptions();
-
 options.setPresentationFormat(PresentationFormat.GanttChart);
-
 options.setFitContent(true);
-
 options.setPageSize(PageSize.A3);
-
 String resFile = "result_" + "Gantt chart" + "_" + PageSize.A3 + ".pdf";
-
 project.save(resFile, options);
-
 {{< /highlight >}}

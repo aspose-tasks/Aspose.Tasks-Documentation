@@ -14,30 +14,29 @@ Aspose.Tasks for Java provides the ability to sort tasks by any column in the Ga
 
 ## **Sort Tasks**
 {{< highlight java >}}
-public static void main(String[] args) throws Exception{
-        setLicense();
-        Project project = new Project();
-        project.addTask("B Task 1");
-        project.addTask("A Task 2");
-        SaveOptions options = new PdfSaveOptions();
-        BarStyle barStyle = new BarStyle();
-        barStyle.setBarTextConverter(new BarStyle.TaskToBarTextConverter() {
-            //@Override
-            public String invoke(Task task) { return task.getName(); }
-        } );
-        barStyle.setBarColor(java.awt.Color.BLUE);
-        List<BarStyle> styles = new LinkedList<BarStyle>();
-        styles.add(barStyle);
-        options.setBarStyles(styles);
-        options.setTasksComparer(new TaskNameComparator());
-        project.save("Z:\\java.pdf", options);
-    }
+Project project = new Project();
+project.addTask("B Task 1");
+project.addTask("A Task 2");
+SaveOptions options = new PdfSaveOptions();
+BarStyle barStyle = new BarStyle();
+barStyle.setBarTextConverter(new BarStyle.TaskToBarTextConverter() {
+    //@Override
+    public String invoke(Task task) { return task.getName(); }
+} );
+barStyle.setBarColor(java.awt.Color.BLUE);
+List<BarStyle> styles = new LinkedList<BarStyle>();
+styles.add(barStyle);
+options.setBarStyles(styles);
+options.setTasksComparer(new TaskNameComparator());
+project.save("output.pdf", options);
 
-    private static class TaskNameComparator implements Comparator<Task>
-    {
-        //@Override
-        public int compare(Task o1, Task o2) {
-            return o1.getName().compareTo(o2.getName());
-        }
+// ...
+
+private static class TaskNameComparator implements Comparator<Task>
+{
+    //@Override
+    public int compare(Task o1, Task o2) {
+        return o1.getName().compareTo(o2.getName());
     }
+}
 {{< /highlight >}}

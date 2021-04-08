@@ -79,247 +79,149 @@ prj.save( "Project.Xml", SaveFileFormat.XML);
 **Java**
 
 {{< highlight java >}}
-
- //Create a project instance
-
 Project prj = new Project();
-
-//Define Calendar
-
 Calendar cal1 = prj.getCalendars().add("no info");
-
 Calendar cal2 = prj.getCalendars().add("no name");
-
 Calendar cal3 = prj.getCalendars().add("cal3");
-
-//Save the Project
-
 prj.save("Project.Xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
+
 ## **Making a Standard Calendar**
 Recalculating Calendar UIDs are no more required in the new Aspose.Tasks' API as compared to the legacy API.
+
 ### **Legacy API Code Sample**
 **Java**
 
 {{< highlight java >}}
-
- //Create a project instance
-
 Project prj = new  Project();
-
 //Define Calendar and make it standard
-
 Calendar cal1 = new Calendar("My Cal");
-
 Calendar.makeStandardCalendar(cal1);
-
 prj.getCalendars().add(cal1);
-
 prj.calcCalendarUids();
-
-//Save the Project
-
 prj.save( "Project.Xml" , SaveFileFormat.XML);
-
 {{< /highlight >}}
+
 ### **New Aspose.Tasks for Java 8.x Approach**
 **Java**
 
 {{< highlight java >}}
-
- //Create a project instance
-
+//Create a project instance
 Project project = new Project();
-
 //Define Calendar and make it standard
-
 Calendar cal1 = project.getCalendars().add("My Cal");
-
 Calendar.makeStandardCalendar(cal1);
-
-//Save the Project
-
 project.save("Project.Xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
+
 ## **Create and Adding Task to Project**
 Creating a new task in the legacy API, it required to define a root task, add it to the project as its root task, and then add a new task to this root task as a child. The new API, however, doesn't need you to define the root task and takes care of it automatically while adding the first task to the project.
 ### **Legacy API Code Sample**
 **Java**
 
 {{< highlight java >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Task rootTask = new Task();
-
 Task tskGen = new Task("Task1");
-
 tskGen.setId(1);
-
 tskGen.setUid (1);
-
 java.util.Calendar cal = java.util.Calendar.getInstance();
-
 cal.set(2014, 04, 23, 0, 0, 0);
-
 tskGen.setStart(cal.getTime());
-
 cal.set(2014, 04, 25, 0, 0, 0);
-
 tskGen.setFinish(cal.getTime());
-
 project.setRootTask (rootTask);
-
 project.getRootTask().getChildren().add(tskGen);
-
 project.save("Project.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
+
 ### **New Aspose.Tasks for Java 8.x Approach**
 **Java**
 
 {{< highlight java >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Task task = project.getRootTask().getChildren().add("Task 1");
-
 java.util.Calendar cal = java.util.Calendar.getInstance();
-
 cal.set(2014,3,4,0,0,0);
-
 task.set(Tsk.START, cal.getTime());
-
 //set task start day
-
 project.save("CreateTasks.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
+
 ## **Create and Add Resource to Project**
-*set* and *get* methods have been added to the Resource class of the API for manipulating attributes related to a project's Resource.
+The *set* and *get* methods have been added to the Resource class of the API for manipulating attributes related to a project's Resource.
+
 ### **Legacy API Code Sample**
 **Java**
 
 {{< highlight java >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Resource res =   new Resource("Res1");
-
 res.setId (1);
-
 res.setUid(1);
-
 java.util.Calendar cal = java.util.Calendar.getInstance();
-
 cal.set(2014, 04, 23, 0, 0, 0);
-
 res.setStart(cal.getTime());
-
 cal.set(2014, 04, 25, 0, 0, 0);
-
 res.setFinish(cal.getTime());
-
 project.getResources().add(res);
-
 project.save("Project.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
+
 ### **New Aspose.Tasks for Java 8.x Approach**
 **Java**
 
 {{< highlight java >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Resource rsc = project.getResources().add("R1");
-
 java.util.Calendar cal = java.util.Calendar.getInstance();
-
 cal.set(2014,3,4,0,0,0);
-
 rsc.set(Rsc.START, cal.getTime());
-
 cal.set(2014,3,10,0,0,0);
-
 rsc.set(Rsc.FINISH, cal.getTime());
-
 project.save("CreateResource.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
+
 ## **Create and Add Resource Assignment to Project**
 The *ResourceAssignment* class also introduces the *set* and *get* methods similar to other data collections of the API such as Tasks, Resources and Tasks Links.
 ### **Legacy API Code Sample**
 **Java**
 
 {{< highlight java >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Task tskRoot =  new Task();
-
 Task task = new Task("Task");
-
 Resource rsc = new Resource();
-
 rsc.setStandardRate(BigDecimal.valueOf(10));
-
 rsc.setOvertimeRate(BigDecimal.valueOf(15));
-
 ResourceAssignment assignment = new ResourceAssignment(task, rsc);
-
 assignment.setUid(1);
-
 java.util.Calendar cal = java.util.Calendar.getInstance();
-
 cal.set(2009, 8, 18, 0, 0, 0);
-
 assignment.setStart(cal.getTime());
-
 cal.set(2009,8,20,0,0,0);
-
 assignment.setFinish(cal.getTime() );
-
 project.setRootTask(tskRoot);
-
 project.getRootTask().getChildren().add(task);
-
 project.getResources().add(rsc);
-
 project.getResourceAssignments().add(assignment);
-
 project.save("project.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
+
 ### **New Aspose.Tasks for Java 8.x Approach**
 **Java**
 
 {{< highlight java >}}
-
- Project project = new Project();
-
+Project project = new Project();
 Task task = project.getRootTask().getChildren().add("Task");
-
 Resource rsc = project.getResources().add("Rsc");
-
 rsc.set(Rsc.STANDARD_RATE, BigDecimal.valueOf(10));
-
 rsc.set(Rsc.OVERTIME_RATE, BigDecimal.valueOf(15));
-
 ResourceAssignment assignment = project.getResourceAssignments().add(task, rsc);
-
 java.util.Calendar cal = java.util.Calendar.getInstance();
-
 cal.set(2014,3,4,0,0,0);
-
 assignment.set(Asn.START,cal.getTime());
-
 cal.set(2014,3,4,0,0,0);
-
 assignment.set(Asn.FINISH, cal.getTime());
-
 project.save("ResourceAssignments.xml", SaveFileFormat.XML);
-
 {{< /highlight >}}
