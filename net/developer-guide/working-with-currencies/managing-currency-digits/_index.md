@@ -1,6 +1,6 @@
 ---
 title: Managing Project Currency Digits
-description: "Learn how to edit currency digits in Microsoft Project files using Aspose.Tasks for .NET."
+description: "Learn how to edit currency digits in Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET."
 type: docs
 weight: 20
 url: /net/managing-currency-digits/

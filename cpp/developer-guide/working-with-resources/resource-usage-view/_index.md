@@ -8,7 +8,7 @@ url: /cpp/resource-usage-view/
 
 {{% alert color="primary" %}} 
 
-Being able to render individual project views, for example, resource usage against tasks is a common requirement for a developer who works with Microsoft Project files. Aspose.Tasks for C++ API supports this requirement and lets you render project resources to various formats e.g. PDF. Resource usage can be rendered using Aspose.Tasks' [PresentationFormat](https://apireference.aspose.com/tasks/cpp/namespace/aspose.tasks.visualization#aeb05d15e07a230b8e80a9e4c6c070ca4) with different timescale settings like Days, ThirdOfMonths and Months.
+Being able to render individual project views, for example, resource usage against tasks is a common requirement for a developer who works with Microsoft Project (MPP/XML) files. Aspose.Tasks for C++ API supports this requirement and lets you render project resources to various formats e.g. PDF. Resource usage can be rendered using Aspose.Tasks' [PresentationFormat](https://apireference.aspose.com/tasks/cpp/namespace/aspose.tasks.visualization#aeb05d15e07a230b8e80a9e4c6c070ca4) with different timescale settings like Days, ThirdOfMonths and Months.
 
 {{% /alert %}}
 

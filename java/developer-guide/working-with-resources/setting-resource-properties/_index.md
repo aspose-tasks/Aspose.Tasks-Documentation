@@ -1,5 +1,6 @@
 ---
 title: Setting Resource Properties
+description: "Learn how to set Microsoft Project (MPP/XML) resource fields using Aspose.Tasks for Java."
 type: docs
 weight: 20
 url: /java/setting-resource-properties/
@@ -15,7 +16,8 @@ The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resou
 - Start gets and sets a resource's start date (java.util.Date).
 - Finish gets and sets a resource's end date (java.util.Date).
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with General Resource Properties**
 To view a resource's general properties in Microsoft Project:
 

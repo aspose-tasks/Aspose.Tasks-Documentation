@@ -1,5 +1,6 @@
 ---
 title: Determine Task Schedule Conflict
+description: "Learn how to determine Microsoft Project (MPP/XML) task schedule conflicts using Aspose.Tasks for .NET."
 type: docs
 weight: 300
 url: /net/determine-task-schedule-conflict/

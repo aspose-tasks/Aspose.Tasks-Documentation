@@ -8,7 +8,7 @@ url: /net/adding-a-new-task-with-aspose-tasks-vs-vsto/
 
 {{% alert color="primary" %}} 
 
-While working with Microsoft Project files, you often need to add new tasks to projects. This article shows how to load MPP files in your .NET applications and add new tasks to your project using [VSTO](/tasks/net/adding-a-new-task-with-aspose-tasks-vs-vsto/) and [Aspose.Tasks for .NET](/tasks/net/adding-a-new-task-with-aspose-tasks-vs-vsto/).
+While working with Microsoft Project (MPP/XML) files, you often need to add new tasks to projects. This article shows how to load MPP files in your .NET applications and add new tasks to your project using [VSTO](/tasks/net/adding-a-new-task-with-aspose-tasks-vs-vsto/) and [Aspose.Tasks for .NET](/tasks/net/adding-a-new-task-with-aspose-tasks-vs-vsto/).
 
 {{% /alert %}} 
 ## **Add a Task Using VSTO**

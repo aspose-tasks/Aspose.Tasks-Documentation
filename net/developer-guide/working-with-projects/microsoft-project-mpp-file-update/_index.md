@@ -1,6 +1,6 @@
 ---
 title: How to Update Microsoft Project MPP Files
-description: "Learn how to update Microsoft Project files using Aspose.Tasks for .NET."
+description: "Learn how to update Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET."
 type: docs
 weight: 130
 url: /net/microsoft-project-mpp-file-update/

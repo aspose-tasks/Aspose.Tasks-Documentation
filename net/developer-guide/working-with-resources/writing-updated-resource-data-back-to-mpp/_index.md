@@ -1,5 +1,5 @@
 ---
-title: Writing Updated Resource Data Back to MPP file
+title: Writing Updated Resource Data Back to MPP files
 description: "Learn how to update Microsoft Project (MPP/XML) resource fields using Aspose.Tasks for .NET."
 type: docs
 weight: 90

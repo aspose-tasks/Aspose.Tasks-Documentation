@@ -1,6 +1,6 @@
 ---
 title: Creating and Saving Microsoft Project (MPP/XML) Files
-description: "Learn how to create, edit or save Microsoft Project files using Aspose.Tasks for C++ API without having Microsoft Office dependencies installed."
+description: "Learn how to create, edit or save Microsoft Project (MPP/XML) files using Aspose.Tasks for C++ API without having Microsoft Office dependencies installed."
 type: docs
 weight: 10
 url: /cpp/creating-and-saving/
@@ -8,7 +8,7 @@ url: /cpp/creating-and-saving/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks for C++ lets you work with Microsoft Project files without having Microsoft Project installed, or using Microsoft Office Automation. A powerful and flexible API, Aspose.Tasks saves you time and effort by giving you the tools you need to write efficient code for manipulating project files in your C++ applications.
+Aspose.Tasks for C++ lets you work with Microsoft Project (MPP/XML) files without having Microsoft Project installed, or using Microsoft Office Automation. A powerful and flexible API, Aspose.Tasks saves you time and effort by giving you the tools you need to write efficient code for manipulating project files in your C++ applications.
 
 Aspose.Tasks can be used to open existing files or creating a new files. This article explains how to create a new and empty project file from the stream using the Project class as well as open existing files.
 

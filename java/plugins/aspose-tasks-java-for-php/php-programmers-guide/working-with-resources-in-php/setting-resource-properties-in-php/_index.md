@@ -1,5 +1,6 @@
 ---
 title: Setting Resource Properties in PHP
+description: "Learn how to set Microsoft Project (MPP/XML) resource fields using Aspose.Tasks Java for PHP."
 type: docs
 weight: 50
 url: /java/setting-resource-properties-in-php/

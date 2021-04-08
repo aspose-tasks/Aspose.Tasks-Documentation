@@ -1,5 +1,6 @@
 ---
 title: Managing Currency Symbols
+description: "Learn how to edit currency symbols in Microsoft Project (MPP/XML) files using Aspose.Tasks for Java."
 type: docs
 weight: 30
 url: /java/managing-currency-symbols/

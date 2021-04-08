@@ -1,6 +1,6 @@
 ---
 title: Managing Currency Symbols
-description: "Learn how to edit currency symbols in Microsoft Project files using Aspose.Tasks for .NET."
+description: "Learn how to edit currency symbols in Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET."
 type: docs
 weight: 30
 url: /net/managing-currency-symbols/

@@ -1,6 +1,6 @@
 ---
 title: Reading Project
-description: "Learn how to read Microsoft Project files using Aspose.Tasks for C++ API without having Microsoft Office dependencies installed."
+description: "Learn how to read Microsoft Project (MPP/XML) files using Aspose.Tasks for C++ API without having Microsoft Office dependencies installed."
 type: docs
 weight: 20
 url: /cpp/reading-project/
@@ -8,7 +8,7 @@ url: /cpp/reading-project/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks for C++ lets you work with Microsoft Project files without having Microsoft Project installed, or using Microsoft Office Automation. A powerful and flexible API, Aspose.Tasks saves you time and effort by giving you the tools you need to write efficient code for manipulating project files in your C++ applications.
+Aspose.Tasks for C++ lets you work with Microsoft Project (MPP/XML) files without having Microsoft Project installed, or using Microsoft Office Automation. A powerful and flexible API, Aspose.Tasks saves you time and effort by giving you the tools you need to write efficient code for manipulating project files in your C++ applications.
 
 This article explains how to open and read project file.
 

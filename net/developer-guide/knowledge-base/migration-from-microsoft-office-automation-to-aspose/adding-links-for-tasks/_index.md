@@ -8,7 +8,7 @@ url: /net/adding-links-for-tasks/
 
 {{% alert color="primary" %}} 
 
-Tasks linking is often required while working with Microsoft Project files. In VSTO, TaskDependencies.Add() is used for adding task links; Aspose.Tasks uses Project.TaskLinks.Add() to link tasks.
+Tasks linking is often required while working with Microsoft Project (MPP/XML) files. In VSTO, TaskDependencies.Add() is used for adding task links; Aspose.Tasks uses Project.TaskLinks.Add() to link tasks.
 
 VSTO provides access to these links using MSProject.Project.Tasks.get_UniqueID(taskID).TaskDependencies. It provides a collection of dependencies that can be used to display and otherwise process requirements like access to detailed properties.
 

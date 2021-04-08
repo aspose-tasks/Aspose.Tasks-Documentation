@@ -1,5 +1,6 @@
 ---
 title: Determine Task Schedule Conflict
+description: "Learn how to determine Microsoft Project (MPP/XML) task schedule conflicts using Aspose.Tasks for C++."
 type: docs
 weight: 250
 url: /cpp/determine-task-schedule-conflict/

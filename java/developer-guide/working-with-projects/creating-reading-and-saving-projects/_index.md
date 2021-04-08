@@ -7,7 +7,7 @@ url: /java/creating-reading-and-saving-projects/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks for Java lets you work with Microsoft Project files without having Microsoft Project installed, or using Microsoft Office Automation. A powerful and flexible API, Aspose.Tasks saves you time and effort by giving you the tools you need to write efficient code for manipulating project files.
+Aspose.Tasks for Java lets you work with Microsoft Project (MPP/XML) files without having Microsoft Project installed, or using Microsoft Office Automation. A powerful and flexible API, Aspose.Tasks saves you time and effort by giving you the tools you need to write efficient code for manipulating project files.
 
 Aspose.Tasks can open existing files, but it can also create new files. This article explains how to create a new and empty project file from a stream or using the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class.
 

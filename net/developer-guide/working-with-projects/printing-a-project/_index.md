@@ -1,6 +1,6 @@
 ---
-title: Printing a Microsoft Project files
-description: "Learn how to print Microsoft Project files using Aspose.Tasks for .NET."
+title: Printing a Microsoft Project (MPP/XML) files
+description: "Learn how to print Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET."
 type: docs
 weight: 60
 url: /net/printing-a-project/

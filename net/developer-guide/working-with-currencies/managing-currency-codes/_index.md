@@ -1,6 +1,6 @@
 ---
 title: Managing Project Currency Codes
-description: "Learn how to manage currency codes in Microsoft Project files using Aspose.Tasks for .NET."
+description: "Learn how to manage currency codes in Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET."
 type: docs
 weight: 10
 url: /net/managing-currency-codes/

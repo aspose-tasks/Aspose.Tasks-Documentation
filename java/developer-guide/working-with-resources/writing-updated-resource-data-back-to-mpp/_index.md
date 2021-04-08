@@ -1,5 +1,6 @@
 ---
-title: Writing Updated Resource Data Back to MPP
+title: Writing Updated Resource Data Back to MPP files
+description: "Learn how to update Microsoft Project (MPP/XML) resource fields using Aspose.Tasks for Java."
 type: docs
 weight: 90
 url: /java/writing-updated-resource-data-back-to-mpp/

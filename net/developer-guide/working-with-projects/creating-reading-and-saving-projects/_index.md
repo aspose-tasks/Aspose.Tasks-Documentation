@@ -6,7 +6,7 @@ weight: 10
 url: /net/creating-reading-and-saving-projects/
 ---
 
-Aspose.Tasks for .NET lets you work with Microsoft Project files without having Microsoft Project installed, or using Microsoft Office Automation. A powerful and flexible API, Aspose.Tasks saves you time and effort by giving you the tools you need to write efficient code for manipulating project files.
+Aspose.Tasks for .NET lets you work with Microsoft Project (MPP/XML) files without having Microsoft Project installed, or using Microsoft Office Automation. A powerful and flexible API, Aspose.Tasks saves you time and effort by giving you the tools you need to write efficient code for manipulating project files.
 
 Aspose.Tasks can open existing files, but it can also create new files. This article explains how to create a new and empty project file from the stream using the Project class.  as well as open existing files.
 

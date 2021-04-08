@@ -1,5 +1,6 @@
 ---
 title: Reading Calendar Information
+description: "Learn how to read Microsoft Project (MPP/XML) calendar properties using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 30
 url: /java/reading-calendar-information/
@@ -15,13 +16,13 @@ To view calendar information in Microsoft Project:
 1. Open a project.
 2. From the **Project** menu, select **Change Working Time**.
 
-
 The following piece of code retrieves the calendar information from a project.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-RetrieveCalendarInfo-retrieve-calendar-info.java" >}}
 
 ## **Reading Work Weeks Information from Calendar**
 Aspose.Tasks for Java API can read Work weeks information from any of the Project’s calendar. The WorkWeek class can be used to achieve this.
+
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Calendars-ReadWorkWeeks-ReadWorkWeeksInformation.java" >}}
 
 ## **Getting Working Hours On or Between Dates**
