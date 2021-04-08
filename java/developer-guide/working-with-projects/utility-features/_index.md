@@ -18,7 +18,7 @@ The following piece of code calculates and displays the tasks in the critical pa
 ## **Printing the TaskWritingException**
 A project consists of a number of tasks and Aspose.Tasks for Java API allows adding, removing and updating task information. If there's a problem when writing tasks, use TasksWritingException to catch them. 
 
-Aspose.Tasks supports printing a message when there's an exception in writing a task. This is done with TaskWritingException, in a similar way to how TaskReadingException is used. The log message is contained in the public property TasksWritingException.getLogText(), as shown in the following code example.
+Aspose.Tasks for Java supports printing a message when there's an exception in writing a task. This is done with TaskWritingException, in a similar way to how TaskReadingException is used. The log message is contained in the public property TasksWritingException.getLogText(), as shown in the following code example.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-PrintTaskWritingExceptions-printing-task-writing-exceptions.java" >}}
 

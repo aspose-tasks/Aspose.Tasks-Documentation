@@ -7,7 +7,7 @@ url: /net/rendering-task-sheet-view/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks supports rendering project tasks to a variety of formats, such as PDF. Task sheets can be rendered using [PresentationFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/presentationformat) of Aspose.Tasks for .NET API.
+Aspose.Tasks for .NET supports rendering project tasks to a variety of formats, such as PDF. Task sheets can be rendered using [PresentationFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/presentationformat) of Aspose.Tasks for .NET API.
 
 {{% /alert %}}
 

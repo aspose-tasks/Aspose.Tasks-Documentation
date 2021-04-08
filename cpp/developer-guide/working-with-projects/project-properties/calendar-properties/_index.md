@@ -7,7 +7,7 @@ url: /cpp/calendar-properties/
 ---
 
 ## **Fiscal Year Properties**
-The fiscal year is the same as a financial year or budget year. It is the dates between which a country, an organization or an individual calculate budgets and taxes. Microsoft Project lets users define a fiscal year for projects. Aspose.Tasks supports this functionality with properties that allow developers to both read fiscal year properties from existing projects, and set fiscal year properties when creating or working with projects.
+The fiscal year is the same as a financial year or budget year. It is the dates between which a country, an organization or an individual calculate budgets and taxes. Microsoft Project lets users define a fiscal year for projects. Aspose.Tasks for C++ supports this functionality with properties that allow developers to both read fiscal year properties from existing projects, and set fiscal year properties when creating or working with projects.
 
 The [Prj](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj) class exposes the [FyStartDate](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj#af2248a2e6774eadc20587bded81a2da4) and [FiscalYearStart](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj#a39aa93f1bf7d9d8cd06a7b7490b21a56) properties used to manage fiscal year for a project:
 

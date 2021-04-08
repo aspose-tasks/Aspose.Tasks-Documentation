@@ -8,7 +8,7 @@ url: /java/percentage-complete-calculations/
 
 {{% alert color="primary" %}} 
 
-Microsoft Project shows the percentage of a task that's been completed. The percentage can be added manually, by a project manager, or automatically calculated by the application. Aspose.Tasks supports several percentage calculations related to tasks.
+Microsoft Project shows the percentage of a task that's been completed. The percentage can be added manually, by a project manager, or automatically calculated by the application. Aspose.Tasks for Java supports several percentage calculations related to tasks.
 
 {{% /alert %}}
 

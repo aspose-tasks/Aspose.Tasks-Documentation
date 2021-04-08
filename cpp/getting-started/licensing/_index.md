@@ -26,9 +26,12 @@ The project file created from the code looks like the one below in Microsoft Pro
 |**Date changes in the evaluation version of Aspose.Tasks**|
 | :- |
 |![reset task dates on evaluation version of Aspose.Tasks for C++](licensing_1.png)|
+
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Licensing-EvaluationDateTimeLimitations-DateTimeLimitations.cpp" >}}
+
 #### **MPP Write Support**
-Aspose.Tasks supports reading MPP files, updating the project summary information and then writing updated project files in original MPP format. That is if original MPP format belongs to Microsoft Project 2003 version, the MPP file updated through Aspose.Tasks for C++ API will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010 and 2013 MPP formats. However, this support is only available in licensed versions of Aspose.Tasks for C++.
+Aspose.Tasks for C++ supports reading MPP files, updating the project summary information and then writing updated project files in original MPP format. That is if original MPP format belongs to Microsoft Project 2003 version, the MPP file updated through Aspose.Tasks for C++ API will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010 and 2013 MPP formats. However, this support is only available in licensed versions of Aspose.Tasks for C++.
+
 ## **Applying the License**
 Once you are happy with your evaluation of Aspose.Tasks for C++, buy a license at the Aspose website: <https://purchase.aspose.com/buy>. Make yourself familiar with the different [licenses](https://purchase.aspose.com/policies/license-types/) offered. If you have any questions, [contact the Aspose sales team](https://about.aspose.com/contact) and they'll be happy to help you.
 

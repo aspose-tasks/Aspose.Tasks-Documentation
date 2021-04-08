@@ -16,7 +16,7 @@ The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) cl
 ## **Printing the TaskWritingException**
 A project consists of a number of tasks and Aspose.Tasks for .NET API allows adding, removing and updating task information. If there's a problem when writing tasks, use [TasksWritingException](https://apireference.aspose.com/tasks/net/aspose.tasks/taskswritingexception) to catch them.
 
-Aspose.Tasks supports printing a message when there's an exception in writing a task. This is done with TaskWritingException, in a similar way to how TaskReadingException is used.
+Aspose.Tasks for .NET supports printing a message when there's an exception in writing a task. This is done with TaskWritingException, in a similar way to how TaskReadingException is used.
 
 The log message is contained in the public property [TasksWritingException.LogText](https://apireference.aspose.com/tasks/net/aspose.tasks/tasksloggedexception/properties/logtext), as shown in the following code example.
 

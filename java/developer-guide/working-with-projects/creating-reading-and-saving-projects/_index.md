@@ -33,7 +33,7 @@ The given below code example shows how to create an empty project using file str
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-CreateEmptyProjectFile-CreateEmptyProjectFile.java" >}}
 
 ## **Reading a Project File**
-Aspose.Tasks lets you open existing files and manipulate them as well as creating new files. This topic shows how a Project file can be read using the Project class's constructor.
+Aspose.Tasks for Java lets you open existing files and manipulate them as well as creating new files. This topic shows how a Project file can be read using the Project class's constructor.
 
 The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class constructor accepts a valid FileInputStream object or path to MPP or XML document and returns a [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) object which can be used to manipulate project data.
 

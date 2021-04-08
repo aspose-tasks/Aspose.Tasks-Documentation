@@ -7,9 +7,10 @@ url: /java/writing-updated-resource-data-back-to-mpp/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks lets you update a Microsoft Project MPP file's resource data and save it data back to the MPP file.
+Aspose.Tasks for Java lets you update a Microsoft Project MPP file's resource data and save it data back to the MPP file.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 **Writing Updated Resource Data back to the MPP file**
 The code snippet in this article opens a source MPP file that has one resource. It then updates the data of the resource and adds several new resources. The steps involved in this activity are:
 

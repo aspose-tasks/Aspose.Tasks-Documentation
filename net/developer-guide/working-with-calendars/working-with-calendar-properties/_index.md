@@ -7,7 +7,7 @@ url: /net/working-with-calendar-properties/
 ---
 
 ## **Working with General Calendar Properties**
-Microsoft Project uses calendars and other information to calculate project end dates. Aspose.Tasks supports calendar functionality. This article illustrates the calendar properties that can be set and shows how they are applied in code.
+Microsoft Project uses calendars and other information to calculate project end dates. Aspose.Tasks for .NET supports calendar functionality. This article illustrates the calendar properties that can be set and shows how they are applied in code.
 
 The [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/extendedattributedefinition) exposes a number of properties used to define the base calendar in Microsoft Outlook:
 

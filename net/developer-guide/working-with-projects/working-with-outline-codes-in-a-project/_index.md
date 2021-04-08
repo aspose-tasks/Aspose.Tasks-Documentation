@@ -6,7 +6,7 @@ weight: 120
 url: /net/working-with-outline-codes-in-a-project/
 ---
 
-Custom outline codes are tags you define for tasks or resources that provide a project structure that is different from WBS codes or outline numbers. Aspose.Tasks lets you retrieve these outline codes and their properties, such as Alias, AllLevelsRequired, Enterprise, EnterpriseOutlineCodeAlias, FieldId, FieldName, PhoneticAlias, Guid, Masks and Values.
+Custom outline codes are tags you define for tasks or resources that provide a project structure that is different from WBS codes or outline numbers. Aspose.Tasks for .NET lets you retrieve these outline codes and their properties, such as Alias, AllLevelsRequired, Enterprise, EnterpriseOutlineCodeAlias, FieldId, FieldName, PhoneticAlias, Guid, Masks and Values.
  
 ## **Reading Outline Codes**
 The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class exposes [OutlineCodes](https://apireference.aspose.com/tasks/net/aspose.tasks/task/properties/outlinecodes) which is a collection of [OutlineCodeDefinition](https://apireference.aspose.com/tasks/net/aspose.tasks/outlinecodedefinition) items. The OutlineCodeDefinition provides all the detail as shown in the following sample code.

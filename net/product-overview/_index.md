@@ -18,7 +18,7 @@ With Aspose.Tasks for .NET, it is possible to program with Microsoft Project fil
 
 {{% /alert %}} 
 ## **Benefits**
-Aspose.Tasks supports MPP, MPT, XML, XLSX, HTML, PDF, XAML and other formats. With Aspose.Tasks you can generate, modify, convert, render and print documents without utilizing Microsoft Project®. Using Aspose.Tasks for .NET in your applications gives you the following benefits:
+Aspose.Tasks for .NET supports MPP, MPT, XML, XLSX, HTML, PDF, XAML and other formats. With Aspose.Tasks you can generate, modify, convert, render and print documents without utilizing Microsoft Project®. Using Aspose.Tasks for .NET in your applications gives you the following benefits:
 ### **Rich Features**
 Aspose.Tasks offers a wide arrange of features for creating, reading, manipulating and saving project files:
 

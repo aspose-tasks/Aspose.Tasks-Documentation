@@ -17,7 +17,8 @@ Aspose.Tasks for C++ is a native class library that enables C++ applications to 
 {{% /alert %}} 
 
 ## **Benefits**
-Aspose.Tasks supports MPP, MPT, XML, XLSX, HTML, PDF and other formats. Using Aspose.Tasks you can generate, modify and convert documents without utilizing Microsoft Project®.
+Aspose.Tasks for C++ supports MPP, MPT, XML, XLSX, HTML, PDF and other formats. Using Aspose.Tasks you can generate, modify and convert documents without utilizing Microsoft Project®.
+
 ### **Rich Features**
 Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, manipulating and saving project files:
 

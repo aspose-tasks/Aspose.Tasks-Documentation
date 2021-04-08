@@ -5,7 +5,7 @@ weight: 140
 url: /net/managing-task-costs/
 ---
 
-To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks supports this feature of Microsoft Project with a range of properties.
+To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks for .NET supports this feature of Microsoft Project with a range of properties.
 
 ## **Working with Task Cost**
 The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) exposes a number of properties for working with task cost:

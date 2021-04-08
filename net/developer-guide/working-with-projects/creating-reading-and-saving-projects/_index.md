@@ -31,7 +31,7 @@ The XML project file can be opened in Microsoft Project:
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-CreatingReadingAndSaving-CreateEmptyProjectSaveMPP-CreateEmptyProjectSaveMPP.cs" >}}
 
 ## **Reading a Project File**
-We mentioned earlier that Aspose.Tasks can export to Microsoft Project's XML format only. This is true if you are creating a new project. Aspose.Tasks lets you read existing MPP files and save these back in MPP format after updating. This allows reading MPP as well as MPT formats as input templates. This article shows how a Project file (**XML**, **MPP**, **MPT**) can be read using the Project class's constructor.
+We mentioned earlier that Aspose.Tasks can export to Microsoft Project's XML format only. This is true if you are creating a new project. Aspose.Tasks for .NET lets you read existing MPP files and save these back in MPP format after updating. This allows reading MPP as well as MPT formats as input templates. This article shows how a Project file (**XML**, **MPP**, **MPT**) can be read using the Project class's constructor.
 
 ### **Reading Project Files as a Template**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-CreatingReadingAndSaving-ReadProjectFiles-ReadProjectFiles.cs" >}}

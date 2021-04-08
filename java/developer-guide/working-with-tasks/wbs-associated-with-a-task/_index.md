@@ -7,7 +7,7 @@ url: /java/wbs-associated-with-a-task/
 
 {{% alert color="primary" %}} 
 
-WBS codes, work breakdown structure codes, lets you assign outline numbers to tasks according to the needs of your business. It's a method for applying a customized outline scheme to a project. Aspose.Tasks supports this feature.
+WBS codes, work breakdown structure codes, lets you assign outline numbers to tasks according to the needs of your business. It's a method for applying a customized outline scheme to a project. Aspose.Tasks for Java supports this feature.
 
 {{% /alert %}} 
 ## **Working with Work Breakdown Structure**

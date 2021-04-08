@@ -6,7 +6,7 @@ weight: 170
 url: /net/overtimes-in-tasks/
 ---
 
-Microsoft Project lets users assign overtime to tasks. Aspose.Tasks supports this functionality through two properties in the Task class.
+Microsoft Project lets users assign overtime to tasks. Aspose.Tasks for .NET supports this functionality through two properties in the Task class.
 
 ## **Overtime**
 The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) exposes several properties for working with overtime:

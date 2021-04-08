@@ -9,9 +9,10 @@ url: /java/rendering-gantt-chart/
 
 Microsoft Project lets users set the timescale that a Gantt chart is displayed in. (The timescale is indicated at the top of the Gantt chart view.) They can have up to three tiers of timescale to give them exactly the time resolution they need.
 
-Aspose.Tasks supports this feature and lets you render Gantt charts with different timescale settings. Gantt charts can be rendered to one page image using these options.
+Aspose.Tasks for Java supports this feature and lets you render Gantt charts with different timescale settings. Gantt charts can be rendered to one page image using these options.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Setting Timescales and Saving to an Image**
 The ImageSaveOptions class' Timescale property determines a project's timescale settings. The timescale is set to Days by default. The other options are Month and Third of Months.
 

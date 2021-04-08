@@ -7,7 +7,7 @@ url: /java/managing-task-costs/
 
 {{% alert color="primary" %}} 
 
-To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks supports this feature of Microsoft Project with a range of properties.
+To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks for Java supports this feature of Microsoft Project with a range of properties.
 
 {{% /alert %}}
 

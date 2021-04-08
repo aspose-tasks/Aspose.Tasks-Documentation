@@ -1,5 +1,6 @@
 ---
 title: Working with Extended Attributes of a Project
+description: "Learn how to work with Microsoft Project (MPP/XML) extended attributes and custom field using Aspose.Tasks for Java."
 type: docs
 weight: 80
 url: /java/working-with-extended-attributes-of-a-project/

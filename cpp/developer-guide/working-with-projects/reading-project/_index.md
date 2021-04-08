@@ -15,7 +15,7 @@ This article explains how to open and read project file.
 {{% /alert %}}
 
 ## **Reading a Project File**
-At the moment, Aspose.Tasks can export Microsoft Project to Microsoft Project's XML format only. This is true if you are creating a new project. Aspose.Tasks lets you read existing MPP files and save these back in MPP format after updating. This allows reading MPP as well as MPT formats as input templates. This article shows how a Project file (**XML**, **MPP**, **MPT**) can be read using the Project class's constructor.
+At the moment, Aspose.Tasks can export Microsoft Project to Microsoft Project's XML format only. This is true if you are creating a new project. Aspose.Tasks for C++ lets you read existing MPP files and save these back in MPP format after updating. This allows reading MPP as well as MPT formats as input templates. This article shows how a Project file (**XML**, **MPP**, **MPT**) can be read using the Project class's constructor.
 
 ### **Reading Project Files as a Template**
 

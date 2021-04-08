@@ -6,7 +6,7 @@ weight: 160
 url: /net/split-tasks/
 ---
 
-Sometimes it is not possible to complete a task as scheduled and it needs to be split into two or more parts. Aspose.Tasks supports this Microsoft Project feature.
+Sometimes it is not possible to complete a task as scheduled and it needs to be split into two or more parts. Aspose.Tasks for .NET supports this Microsoft Project feature.
 
 ## **Splitting Tasks**
 The [SplitParts](https://apireference.aspose.com/tasks/net/aspose.tasks/task/properties/splitparts) property exposed by the [Task](https://apireference.aspose.com/tasks/net/aspose.tasks/task) class is used to determine the split parts of a task whereas [SplitTask](https://apireference.aspose.com/tasks/net/aspose.tasks/resourceassignment/methods/splittask) method exposed by the [ResourceAssignment](https://apireference.aspose.com/tasks/net/aspose.tasks/resourceassignment) class is used to split a single task into multiple parts. SplitParts returns a collection of split parts whereas SplitTask method accepts start date, finish date and calendar arguments to split the task.

@@ -7,7 +7,7 @@ url: /cpp/default-project-properties/
 ---
 
 ## **Default Project Properties**
-Microsoft Project lets users set default project properties that speed up the process of setting up a project. The default properties define when a new task starts and finishes, sets the default overtime and standard pay rates and more. Aspose.Tasks supports these features.
+Microsoft Project lets users set default project properties that speed up the process of setting up a project. The default properties define when a new task starts and finishes, sets the default overtime and standard pay rates and more. Aspose.Tasks for C++ supports these features.
 
 The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) exposes a number of properties for managing a project's default properties:
 

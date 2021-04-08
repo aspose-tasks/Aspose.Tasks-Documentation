@@ -8,7 +8,7 @@ url: /java/rendering-task-sheet-view/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks supports rendering project tasks to a variety of formats, such as PDF. Task sheets can be rendered using Aspose.Tasks' PresentationFormat.
+Aspose.Tasks for Java supports rendering project tasks to a variety of formats, such as PDF. Task sheets can be rendered using Aspose.Tasks' PresentationFormat.
 
 {{% /alert %}}
 

@@ -7,7 +7,7 @@ url: /java/working-with-project-properties/
 ---
 
 ## **Working with General Project Properties**
-Microsoft Project saves project properties, metadata, for every project. The properties include the project's start and end dates, the current date and the status date, the type of calendar used and when a project is scheduled from. Aspose.Tasks lets you read and set project properties. This topic shows how.
+Microsoft Project saves project properties, metadata, for every project. The properties include the project's start and end dates, the current date and the status date, the type of calendar used and when a project is scheduled from. Aspose.Tasks for Java lets you read and set project properties. This topic shows how.
 
 {{% alert color="primary" %}} 
 
@@ -48,7 +48,7 @@ The SAVE_VERSION and LAST_SAVED properties exposed by the [Project](https://apir
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-DetermineProjectVersion-determining-project-version.java" >}}
 
 ## **Default Project Properties**
-Microsoft Project lets users set default project properties that speed up the process of setting up a project. The default properties define when a new task starts and finishes, sets the default overtime and standard pay rates and more. Aspose.Tasks supports these features. This article explains both how to read default properties and how to write default properties to a project file.
+Microsoft Project lets users set default project properties that speed up the process of setting up a project. The default properties define when a new task starts and finishes, sets the default overtime and standard pay rates and more. Aspose.Tasks for Java supports these features. This article explains both how to read default properties and how to write default properties to a project file.
 
 The Prj class exposes a number of properties for managing a project's default properties:
 
@@ -84,7 +84,7 @@ The following lines of code set a project's default properties.
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-DefaultProjectProperties-writing-default-project-properties.java" >}}
 
 ## **Writing Project Summary Information**
-Most programs save summary information with the files they save. Microsoft Project is no different. As well as the name of the author, the date the project was created and the last time it was edited and saved, it saves keywords, subject, comments and more. Aspose.Tasks lets you both read and write this type of information. This topic explains how to open a project file, set the summary information and save it again.
+Most programs save summary information with the files they save. Microsoft Project is no different. As well as the name of the author, the date the project was created and the last time it was edited and saved, it saves keywords, subject, comments and more. Aspose.Tasks for Java lets you both read and write this type of information. This topic explains how to open a project file, set the summary information and save it again.
 
 The [Prj](https://apireference.aspose.com/tasks/java/com.aspose.tasks/prj) class exposes a number of properties to set or get summary information about an MPP project file. Aspose.Tasks for Java can update the project summary information and then write the project file back to MPP. To update the project summary information of an existing MPP file:
 
@@ -101,7 +101,7 @@ To see the a file's summary information:
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-WriteMPPProjectSummary-writing-mpp-project-summary.java" >}}
 
 ## **Fiscal Year Properties**
-The fiscal year is the same as a financial year or budget year. It is the dates between which a country, an organization or an individual calculates budgets and taxes. Microsoft Project lets users define a fiscal year for projects. Aspose.Tasks supports this functionality with properties that allow developers to both read fiscal year properties from existing projects, and set fiscal year properties when creating or working with projects.
+The fiscal year is the same as a financial year or budget year. It is the dates between which a country, an organization or an individual calculates budgets and taxes. Microsoft Project lets users define a fiscal year for projects. Aspose.Tasks for Java supports this functionality with properties that allow developers to both read fiscal year properties from existing projects, and set fiscal year properties when creating or working with projects.
 
 The Prj class exposes the FY_START_DATE and FISCAL_YEAR_START properties to manage fiscal year for a project:
 
@@ -146,7 +146,7 @@ The following code writes weekday properties, as shown in the screenshot above, 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-WeekdayProperties-writing-weekday-properties.java" >}}
 
 ## **Currency Properties**
-Microsoft Project lets users set which currency costs are shown in, in a project. They can define set the currency code, numbers after the decimal point and currency symbol so that costs show in an easy to read and intuitive way. Aspose.Tasks supports these features and provides a series of properties that help developers set and control currency properties. This article explains both how to read currency properties, and how to set them.
+Microsoft Project lets users set which currency costs are shown in, in a project. They can define set the currency code, numbers after the decimal point and currency symbol so that costs show in an easy to read and intuitive way. Aspose.Tasks for Java supports these features and provides a series of properties that help developers set and control currency properties. This article explains both how to read currency properties, and how to set them.
 
 Aspose.Tasks for Java provides properties, exposed by the Prj class, for managing currency properties:
 

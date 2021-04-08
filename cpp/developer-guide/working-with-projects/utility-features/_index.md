@@ -16,7 +16,7 @@ The Project class provides the CriticalPath property which is used to retrie
 ## **Printing the TaskWritingException**
 A project consists of a number of tasks and Aspose.Tasks for C++ API allows adding, removing and updating task information. If there's a problem when writing tasks, use TasksWritingException to catch them.
 
-Aspose.Tasks supports printing a message when there's an exception in writing a task. This is done with TaskWritingException, in a similar way to how TaskReadingException is used.
+Aspose.Tasks for C++ supports printing a message when there's an exception in writing a task. This is done with TaskWritingException, in a similar way to how TaskReadingException is used.
 
 The log message is contained in the public property TasksWritingException.LogText, as shown in the following code example.
 

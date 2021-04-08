@@ -6,7 +6,7 @@ weight: 60
 url: /net/rendering-project-data-to-xaml/
 ---
 
-Aspose.Tasks lets you render project data to an XAML file. The easiest way to accomplish this task is to use the SaveFileFormat.XAML option with the Project.Save function. SaveOptions can be used to set the options like FitContent, LegendOnEachPage, TimeScale and View}}. GanttChartView and GanttChartColumn can be used to select the columns for display.
+Aspose.Tasks for .NET lets you render project data to an XAML file. The easiest way to accomplish this task is to use the SaveFileFormat.XAML option with the Project.Save function. SaveOptions can be used to set the options like FitContent, LegendOnEachPage, TimeScale and View}}. GanttChartView and GanttChartColumn can be used to select the columns for display.
 
 ## **Rendering to XAML with Options**
 The following code sample demonstrates how this feature can be used in C#.NET and VB.NET:

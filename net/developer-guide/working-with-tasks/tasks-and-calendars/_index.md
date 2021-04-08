@@ -1,5 +1,6 @@
 ---
 title: Tasks and Calendars
+description: "Learn how to work with Microsoft Project (MPP/XML) tasks and calendars using Aspose.Tasks for .NET."
 type: docs
 weight: 30
 url: /net/tasks-and-calendars/

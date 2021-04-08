@@ -6,7 +6,7 @@ weight: 180
 url: /net/percentage-complete-calculations/
 ---
 
-Microsoft Project shows the percentage of a task that's been completed. The percentage can be added manually, by a project manager, or automatically calculated by the application. Aspose.Tasks supports several percentage calculations related to tasks.
+Microsoft Project shows the percentage of a task that's been completed. The percentage can be added manually, by a project manager, or automatically calculated by the application. Aspose.Tasks for .NET supports several percentage calculations related to tasks.
 
 ## **Percentages**
 The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class exposes a number of properties used to calculate percentages:

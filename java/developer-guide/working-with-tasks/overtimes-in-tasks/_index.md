@@ -6,7 +6,7 @@ weight: 170
 url: /java/overtimes-in-tasks/
 ---
 
-Microsoft Project lets users assign overtime to tasks. Aspose.Tasks supports this functionality through two properties in the Task class.
+Microsoft Project lets users assign overtime to tasks. Aspose.Tasks for Java supports this functionality through two properties in the Task class.
 
 ## **Overtime**
 The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) exposes several properties for working with overtime:

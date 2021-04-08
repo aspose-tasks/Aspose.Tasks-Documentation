@@ -7,7 +7,7 @@ url: /java/rendering-project-data-on-pre-defined-page-sizes/
 
 {{% alert color="primary" %}} 
 
-Aspose.Tasks supports rendering project views such as Gantt charts, task usage, resource usage and resource sheets to pre-defined page sizes, for example A0, A1, Letter, etc. The PageSize enumerator provides the following pre-defined page sizes:
+Aspose.Tasks for Java supports rendering project views such as Gantt charts, task usage, resource usage and resource sheets to pre-defined page sizes, for example A0, A1, Letter, etc. The PageSize enumerator provides the following pre-defined page sizes:
 
 - A0
 - A1

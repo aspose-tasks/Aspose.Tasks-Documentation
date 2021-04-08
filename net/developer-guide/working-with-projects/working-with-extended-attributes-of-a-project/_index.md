@@ -31,7 +31,7 @@ To add a new extended attribute for task or resource, we first need to define an
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithExtendedAttributes-CreateExtendedAttributes-CreateExtendedAttributes.cs" >}}
 
 ## **Writing Updated Extended Attribute Definitions and Values to MPP**
-Aspose.Tasks supports updating extended attribute data in a Microsoft Project MPP file and save it back.
+Aspose.Tasks for .NET supports updating extended attribute data in a Microsoft Project MPP file and save it back.
 
 The example code below adds new extended attributes of the [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/extendedattributeresource) and [Task](https://apireference.aspose.com/tasks/net/aspose.tasks/extendedattributetask) types to the source MPP file. The steps involved in this activity are:
 
