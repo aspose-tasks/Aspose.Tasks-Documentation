@@ -1,6 +1,6 @@
 ---
 title: Convert Project Pages to Separate Image Files
-description: "Learn how to how to convert Microsoft Project (MPP/XML) files to several JPEG files using Aspose.Tasks for C++."
+description: "Learn how to convert Microsoft Project (MPP/XML) files to several JPEG files using Aspose.Tasks for C++."
 keywords: "Convert Microsoft Project (MPP/XML) to JPEG, Convert MPP to JPEG, Export MPP Project to JPEG, save project data to several JPEG, Save MPP as JPEG, Aspose.Tasks for C++"
 type: docs
 weight: 80

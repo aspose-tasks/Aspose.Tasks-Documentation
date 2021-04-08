@@ -1,5 +1,6 @@
 ---
-title: Aspose.Tasks Java for IntelliJ IDEA - Maven
+title: Aspose.Tasks for Java with IntelliJ IDEA - Maven
+description: "Learn how to use Aspose.Tasks for Java using IntelliJ IDEA."
 type: docs
 weight: 20
 url: /java/aspose-tasks-java-for-intellij-idea-maven/
@@ -30,7 +31,9 @@ The plugin contains two wizards:
 **Wizard 2:** Aspose.Tasks Examples
 
 - **Aspose.Tasks Examples Wizard** lets you create / copy downloaded [Source Code Examples of Aspose.Tasks for Java API](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) into your project. All the examples for the selected category will get copied to the project's "com.aspose.tasks.examples" package folder along with the required resources within "src/main/resources" folder needed to run the examples.
+
 - [Source Code Examples of Aspose.Tasks for Java API](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) are meant for demonstrating the different usages of the API.
+
 ## **System Requirements and Supported Platforms**
 ### **System Requirements**
 - Microsoft Windows 10/8/7/Vista/2003/XP (incl.64-bit)  / Linux GNOME or KDE desktop / Mac OS X 10.5 or higher
@@ -46,6 +49,7 @@ Plugin supports the following IntelliJ IDEA Versions:
 - 13.1.2  (CE / UE)
 - 14.0.2 (CE/ UE)
 - 14.1.5 (CE/ UE)
+
 ## **Downloading**
 ### **Downloading IntelliJ IDEA**
 You will need to first install IntelliJ IDEA CE / UE before downloading the **Aspose.Tasks Java for IntelliJ IDEA (Maven)** plugin.
@@ -80,8 +84,10 @@ Please check [the video](https://youtu.be/yG8cZ_Fis-I) below to see Aspose.Tasks
 **Please use any of the following project's issues tracker:**
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/issues)
+
 ### **Extend and Contribute**
 **Aspose.Tasks Java for IntelliJ IDEA (Maven)** plugin is open source and its source code is available on the major social coding websites listed below. Developers are encouraged to download the source code and contribute by suggesting or adding new feature or improving the existing ones, so that others could also benefit from it.
+
 ### **Source Code**
 You can get the latest source code from one of the following locations
 

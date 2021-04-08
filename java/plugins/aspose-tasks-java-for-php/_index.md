@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks Java For PHP
+description: "This page contains an introduction to Aspose.Tasks Java for PHP."
 type: docs
 weight: 40
 url: /java/aspose-tasks-java-for-php/
@@ -10,6 +11,7 @@ url: /java/aspose-tasks-java-for-php/
 The PHP/Java Bridge is an implementation of a streaming, XML-based [network protocol](http://php-java-bridge.sourceforge.net/pjb/PROTOCOL.TXT), which can be used to connect a native script engine, for example PHP, Scheme or Python, with a Java virtual machine. It is up to 50 times faster than local RPC via SOAP, requires less resources on the web-server side. It is [faster](http://php-java-bridge.sourceforge.net/pjb/FAQ.html#performance) and more reliable than direct communication via the Java Native Interface, and it requires no additional components to invoke Java procedures from PHP or PHP procedures from Java.
 
 Read more at [sourceforge.net](http://php-java-bridge.sourceforge.net/pjb/)
+
 ## **Aspose.Tasks for Java**
 Aspose.Tasks for Java is a project management API that enables Java application developers to provide Microsoft Project® document manipulation capability in their applications – all without using Microsoft Project®. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
 
@@ -37,12 +39,8 @@ Download required libraries mentioned below. These are the required for executin
 - [PHP/Java Bridge](https://sourceforge.net/projects/php-java-bridge/files/Binary%20package/php-java-bridge_7.2.1/php-java-bridge_7.2.1_documentation.zip/download)
 
 ## **Download Examples from Social Coding Sites**
-Following releases of running examples are available to download on below mentioned social coding sites:
-
------
-### **GitHub**
-- **Aspose.Tasks Java for PHP Examples** 
-  - [Aspose.Tasks Java for PHP](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Plugins/Aspose_Tasks_Java_for_PHP)
+Following releases of running examples are available to download on:
+- [Aspose.Tasks Java for PHP](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Plugins/Aspose_Tasks_Java_for_PHP)
 
 ## **How to configure the source code on Linux Platform**
 Please follow these simple steps in order to open and extend the source code while using:

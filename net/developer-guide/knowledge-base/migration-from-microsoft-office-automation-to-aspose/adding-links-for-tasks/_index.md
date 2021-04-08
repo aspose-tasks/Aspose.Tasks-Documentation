@@ -12,7 +12,7 @@ Tasks linking is often required while working with Microsoft Project (MPP/XML) f
 
 VSTO provides access to these links using MSProject.Project.Tasks.get_UniqueID(taskID).TaskDependencies. It provides a collection of dependencies that can be used to display and otherwise process requirements like access to detailed properties.
 
-In Aspose.Tasks, Project.TaskLinks provides a collection of links which can be used for display and accessing detailed properties of these links like LinkType, PredTask, SuccTask etc.
+In Aspose.Tasks for .NET Project.TaskLinks provides a collection of links which can be used for display and accessing detailed properties of these links like LinkType, PredTask, SuccTask etc.
 
 This article shows how to load MPP files in your .NET application and add/display link tasks using [VSTO](/tasks/net/adding-links-for-tasks/) and [Aspose.Tasks for .NET](/tasks/net/adding-links-for-tasks/).
 

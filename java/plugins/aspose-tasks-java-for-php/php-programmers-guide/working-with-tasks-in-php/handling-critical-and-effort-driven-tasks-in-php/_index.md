@@ -1,5 +1,6 @@
 ---
 title: Handling Critical and Effort-driven Tasks in PHP
+description: "Learn how to handle Microsoft Project (MPP/XML) critical and effort-driven tasks using Aspose.Tasks Java for PHP."
 type: docs
 weight: 50
 url: /java/handling-critical-and-effort-driven-tasks-in-php/

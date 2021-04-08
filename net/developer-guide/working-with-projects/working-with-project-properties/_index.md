@@ -229,7 +229,7 @@ The following lines of code set the new task start date.
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-SetAttributesForNewTasks-SetAttributesForNewTasks.cs" >}}
 
 ## **Reading Custom and Built-in Properties**
-In Aspose.Tasks, the custom properties are available through the typed collection whereas the built-in properties are available directly.
+In Aspose.Tasks for .NET the custom properties are available through the typed collection whereas the built-in properties are available directly.
 
 The following code example demonstrates how to read custom and built-in properties.
 

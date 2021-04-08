@@ -9,7 +9,7 @@ url: /cpp/cross-project-predecessors/
 Microsoft Project lets users link tasks within the current project, or to external projects. Cross project predecessors are predecessors from another project. Aspose.Tasks for C++ API supports these too.
 
 ## **Working with Cross Project Predecessor Tasks**
-In Aspose.Tasks, the CrossProjectName and IsCrossProject properties exposed by the TaskLink class are used to handle cross project predecessors.
+In Aspose.Tasks for C++ the CrossProjectName and IsCrossProject properties exposed by the TaskLink class are used to handle cross project predecessors.
 
 - CrossProjectName represents the external predecessor project (string).
 - IsCrossProject determines whether a predecessor is part of another project (Boolean).

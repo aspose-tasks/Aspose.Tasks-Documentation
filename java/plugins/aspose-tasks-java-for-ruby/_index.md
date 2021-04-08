@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks Java For Ruby
+description: "This page contains an introduction to Aspose.Tasks Java for Ruby."
 type: docs
 weight: 10
 url: /java/aspose-tasks-java-for-ruby/

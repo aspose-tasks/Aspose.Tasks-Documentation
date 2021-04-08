@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks Java for Eclipse - Maven
+description: "Learn how to use Aspose.Tasks for Java using Eclipse."
 type: docs
 weight: 30
 url: /java/aspose-tasks-java-for-eclipse-maven/
