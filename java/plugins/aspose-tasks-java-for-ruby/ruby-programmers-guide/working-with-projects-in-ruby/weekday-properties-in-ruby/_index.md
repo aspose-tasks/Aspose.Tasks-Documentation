@@ -1,14 +1,13 @@
 ---
 title: Weekday Properties in Ruby
+description: "Learn how to work with Microsoft Project (MPP/XML) weekday properties using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 160
 url: /java/weekday-properties-in-ruby/
 ---
 
 ## **Aspose.Tasks - Reading Weekday Properties**
-To read Weekday Properties using **Aspose.Tasks Java for Ruby**, call **get_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
-
-**Ruby Code**
+To read weekday properties using **Aspose.Tasks Java for Ruby**, call **get_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
 
 {{< highlight ruby >}}
 project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')
@@ -20,9 +19,7 @@ puts "Minutes Per Week : " + project.get(prj.MINUTES_PER_WEEK).toString()
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Weekday Properties**
-To write Weekday Properties using **Aspose.Tasks Java for Ruby**, call **set_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
-
-**Ruby Code**
+To write weekday properties using **Aspose.Tasks Java for Ruby**, call **set_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
 
 {{< highlight ruby >}}
 project = Rjb::import('com.aspose.tasks.Project').new

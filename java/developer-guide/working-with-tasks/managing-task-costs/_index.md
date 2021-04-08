@@ -1,15 +1,12 @@
 ---
 title: Managing Task Costs
+description: "Learn how to manage Microsoft Project (MPP/XML) task costs using Aspose.Tasks for Java."
 type: docs
 weight: 140
 url: /java/managing-task-costs/
 ---
 
-{{% alert color="primary" %}} 
-
 To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks for Java supports this feature of Microsoft Project with a range of properties.
-
-{{% /alert %}}
 
 ## **Working with Task Cost**
 The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes several properties for working with task cost:

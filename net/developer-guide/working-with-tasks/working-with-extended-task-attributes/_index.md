@@ -1,5 +1,6 @@
 ---
 title: Working with Extended Task Attributes
+description: "Learn how to work with Microsoft Project (MPP/XML) task extended attributes using Aspose.Tasks for .NET."
 type: docs
 weight: 190
 url: /net/working-with-extended-task-attributes/

@@ -1,5 +1,6 @@
 ---
 title: Making a Standard Calendar in Ruby
+description: "Learn how to create Microsoft Project (MPP/XML) standard calendars using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 40
 url: /java/making-a-standard-calendar-in-ruby/

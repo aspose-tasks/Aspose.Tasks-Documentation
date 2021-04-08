@@ -1,5 +1,7 @@
 ---
 title: Reading Table Data from MPP files in Ruby
+description: "This article explains how to read table data from Microsoft Project (MPP/XML) files using Aspose.Tasks Java for Ruby."
+keywords: "read table data, read MPP table data, Export table data MPP, Aspose.Tasks Java for Ruby, Ruby"
 type: docs
 weight: 100
 url: /java/reading-table-data-from-mpp-files-in-ruby/

@@ -1,15 +1,12 @@
 ---
 title: Actual Properties
+description: "Learn how to work with Microsoft Project (MPP/XML) actual properties using Aspose.Tasks for .NET."
 type: docs
 weight: 50
 url: /net/actual-properties/
 ---
 
-{{% alert color="primary" %}} 
-
 The actual properties are used to find out how much time or money has been sent on a task to date.
-
-{{% /alert %}}
 
 ## **Working with Actual Properties**
 The static class [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) exposes a number of properties for determining a task's actual properties:

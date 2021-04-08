@@ -1,5 +1,6 @@
 ---
 title: Creating a Task Link in PHP
+description: "Learn how to create task links in Microsoft Project (MPP/XML) files using Aspose.Tasks Java for PHP."
 type: docs
 weight: 10
 url: /java/creating-a-task-link-in-php/

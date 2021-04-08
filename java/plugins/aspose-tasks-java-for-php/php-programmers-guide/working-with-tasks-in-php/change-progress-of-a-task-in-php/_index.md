@@ -1,5 +1,6 @@
 ---
 title: Change Progress of a Task in PHP
+description: "Learn how to change task progress in Microsoft Project (MPP/XML) files using Aspose.Tasks Java for PHP."
 type: docs
 weight: 30
 url: /java/change-progress-of-a-task-in-php/

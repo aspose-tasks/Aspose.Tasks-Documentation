@@ -1,14 +1,13 @@
 ---
-title: Managing Durations in Ruby
+title: Managing Task Durations in PHP
+description: "Learn how to manage Microsoft Project (MPP/XML) task durations using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 70
 url: /java/managing-durations-in-ruby/
 ---
 
 ## **Aspose.Tasks - Managing Durations**
-To Manage Durations using **Aspose.Tasks Java for Ruby**, simply invoke **ManagingDuration** module. Here you can see example code.
-
-**Ruby Code**
+To manage durations using **Aspose.Tasks Java for Ruby**, simply invoke **ManagingDuration** module. Here you can see example code.
 
 {{< highlight ruby >}}
 project = Rjb::import('com.aspose.tasks.Project').new

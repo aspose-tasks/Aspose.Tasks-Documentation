@@ -7,9 +7,8 @@ url: /java/rendering-task-sheet-view-in-php/
 ---
 
 ## **Aspose.Tasks - Rendering Task Sheet View**
-To render Task Sheet View using **Aspose.Tasks Java for PHP**, simply invoke **RenderTaskSheetView** module. Here you can see example code.
 
-**PHP Code**
+To render Task Sheet View using **Aspose.Tasks Java for PHP**, simply invoke **RenderTaskSheetView** module. Here you can see example code.
 
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');

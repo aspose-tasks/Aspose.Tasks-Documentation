@@ -1,5 +1,6 @@
 ---
 title: Outline Code Definition Data
+description: "Learn what outline code definition data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for Java."
 type: docs
 weight: 110
 url: /java/outline-code-definition-data/
@@ -23,4 +24,3 @@ url: /java/outline-code-definition-data/
 |13. |Masks |R/W |R/W |R/W |R/W |R/W |R/W |R/W | |
 |14. |IsCollapsed |– |N/A |N/A |– |– |– |– | |
 |15. |ShowIndent |– |N/A |N/A |R/W |R/W |R/W |R/W | |
-

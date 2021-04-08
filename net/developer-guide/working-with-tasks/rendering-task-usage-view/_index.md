@@ -1,5 +1,6 @@
 ---
 title: Rendering Task Usage View
+description: "Learn how to render Microsoft Project (MPP/XML) task usage views using Aspose.Tasks for .NET."
 type: docs
 weight: 250
 url: /net/rendering-task-usage-view/
@@ -17,6 +18,7 @@ The code snippet in this article reads a source MPP file that has a number of ta
 5. Render the project to PDF output.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-RenderTaskUsageView-RenderTaskUsageView.cs" >}}
+
 ## **Rendering Details Column to Output in Task Usage View**
 Details column included in the MPP file can be rendered to the output using the View's DisplayDetailsHeaderColumn property. This includes the list of following supported fields:
 

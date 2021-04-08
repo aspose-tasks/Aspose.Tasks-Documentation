@@ -1,14 +1,14 @@
 ---
 title: Rendering Task Usage View in PHP
+description: "Learn how to render Microsoft Project (MPP/XML) task usage views using Aspose.Tasks Java for PHP."
 type: docs
 weight: 140
 url: /java/rendering-task-usage-view-in-php/
 ---
 
 ## **Aspose.Tasks - Rendering Task Usage View**
-To render Task Usage View using **Aspose.Tasks Java for PHP**, simply invoke **RenderTaskUsageView** module. Here you can see example code.
 
-**PHP Code**
+To render Task Usage View using **Aspose.Tasks Java for PHP**, simply invoke **RenderTaskUsageView** module. Here you can see example code.
 
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');

@@ -1,5 +1,6 @@
 ---
 title: Get Number of Pages in Project in PHP
+description: "Learn how to get the number of pages in Microsoft Project (MPP/XML) files using Aspose.Tasks Java for PHP."
 type: docs
 weight: 70
 url: /java/get-number-of-pages-in-project-in-php/

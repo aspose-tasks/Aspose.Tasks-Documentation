@@ -1,5 +1,6 @@
 ---
 title: View Data
+description: "Learn what view data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for .NET."
 type: docs
 weight: 130
 url: /net/view-data/

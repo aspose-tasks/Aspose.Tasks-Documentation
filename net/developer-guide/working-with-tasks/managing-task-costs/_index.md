@@ -1,5 +1,6 @@
 ---
 title: Managing Task Costs
+description: "Learn how to manage Microsoft Project (MPP/XML) task costs using Aspose.Tasks for .NET."
 type: docs
 weight: 140
 url: /net/managing-task-costs/

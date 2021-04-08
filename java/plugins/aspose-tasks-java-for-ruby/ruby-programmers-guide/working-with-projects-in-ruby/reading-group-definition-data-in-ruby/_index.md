@@ -1,5 +1,6 @@
 ---
 title: Reading Group Definition Data in Ruby
+description: "This article explains how to read group definition data from Microsoft Project (MPP/XML) files using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 90
 url: /java/reading-group-definition-data-in-ruby/

@@ -1,5 +1,6 @@
 ---
 title: General Properties in Ruby
+description: "Learn how to read Microsoft Project (MPP/XML) general properties using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 40
 url: /java/general-properties-in-ruby/

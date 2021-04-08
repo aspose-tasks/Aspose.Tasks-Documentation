@@ -1,12 +1,13 @@
 ---
 title: Managing Task Costs in Ruby
+description: "Learn how to manage Microsoft Project (MPP/XML) task costs using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 80
 url: /java/managing-task-costs-in-ruby/
 ---
 
 ## **Aspose.Tasks - Managing Task Costs**
-To Manage Task Costs using **Aspose.Tasks Java for Ruby**, simply invoke **ManagingTaskCosts** module. Here you can see example code.
+To manage Task Costs using **Aspose.Tasks Java for Ruby**, simply invoke **ManagingTaskCosts** module. Here you can see example code.
 
 **Ruby Code**
 

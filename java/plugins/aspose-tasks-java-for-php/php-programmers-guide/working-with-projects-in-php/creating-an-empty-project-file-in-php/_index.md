@@ -1,5 +1,6 @@
 ---
 title: Creating an Empty Project File in PHP
+description: "Learn how to create Microsoft Project (MPP/XML) empty project using Aspose.Tasks Java for PHP."
 type: docs
 weight: 10
 url: /java/creating-an-empty-project-file-in-php/

@@ -1,5 +1,6 @@
 ---
 title: FilterCriteria Data
+description: "Learn what filter criteria fields of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for .NET."
 type: docs
 weight: 190
 url: /net/filtercriteria-data/

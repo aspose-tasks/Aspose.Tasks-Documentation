@@ -1,5 +1,6 @@
 ---
 title: Setting a Task to A SubProject
+description: "Learn how to work with Microsoft Project (MPP/XML) subprojects using Aspose.Tasks for .NET."
 type: docs
 weight: 280
 url: /net/setting-a-task-to-a-subproject/

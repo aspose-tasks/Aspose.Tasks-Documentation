@@ -1,14 +1,13 @@
 ---
 title: Weekday Properties in PHP
+description: "Learn how to work with Microsoft Project (MPP/XML) weekday properties using Aspose.Tasks Java for PHP."
 type: docs
 weight: 160
 url: /java/weekday-properties-in-php/
 ---
 
 ## **Aspose.Tasks - Reading Weekday Properties**
-To read Weekday Properties using **Aspose.Tasks Java for PHP**, call **get_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
-
-**PHP Code**
+To read weekday properties using **Aspose.Tasks Java for PHP**, call **get_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
 
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');
@@ -20,9 +19,7 @@ print "Minutes Per Week : " . (string)$project->get($prj->MINUTES_PER_WEEK).PHP_
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Weekday Properties**
-To write Weekday Properties using **Aspose.Tasks Java for PHP**, call **set_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
-
-**PHP Code**
+To write weekday properties using **Aspose.Tasks Java for PHP**, call **set_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
 
 {{< highlight php >}}
 $project = new Project();

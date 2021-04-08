@@ -1,5 +1,6 @@
 ---
 title: Resource Cost in PHP
+description: "Learn how to work with Microsoft Project (MPP/XML) resource costs using Aspose.Tasks Java for PHP."
 type: docs
 weight: 40
 url: /java/resource-cost-in-php/
@@ -7,8 +8,6 @@ url: /java/resource-cost-in-php/
 
 ## **Aspose.Tasks - Resource Cost**
 To get Resource Cost using **Aspose.Tasks Java for PHP**, simply invoke **ResourceCost** module. Here you can see example code.
-
-**PHP Code**
 
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');

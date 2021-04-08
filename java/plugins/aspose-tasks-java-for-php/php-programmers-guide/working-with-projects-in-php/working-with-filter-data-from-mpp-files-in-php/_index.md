@@ -1,5 +1,6 @@
 ---
 title: Working with Filter Data from MPP files in PHP
+description: "Learn how to work with Microsoft Project (MPP/XML) project filters using Aspose.Tasks Java for PHP."
 type: docs
 weight: 170
 url: /java/working-with-filter-data-from-mpp-files-in-php/

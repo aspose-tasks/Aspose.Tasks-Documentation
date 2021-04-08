@@ -1,5 +1,6 @@
 ---
 title: Determining Project Version in Ruby
+description: "Learn how to check Microsoft Project (MPP/XML) version using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 40
 url: /java/determining-project-version-in-ruby/

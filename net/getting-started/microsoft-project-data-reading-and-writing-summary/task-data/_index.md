@@ -1,5 +1,6 @@
 ---
 title: Task Data
+description: "Learn what task data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for .NET."
 type: docs
 weight: 20
 url: /net/task-data/

@@ -1,5 +1,6 @@
 ---
 title: TableField Data
+description: "Learn what table field data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for C++."
 type: docs
 weight: 150
 url: /cpp/tablefield-data/

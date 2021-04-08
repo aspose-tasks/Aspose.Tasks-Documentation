@@ -1,5 +1,6 @@
 ---
 title: Change Progress of a Task
+description: "Learn how to change task progress in Microsoft Project (MPP/XML) files using Aspose.Tasks for Java."
 type: docs
 weight: 220
 url: /java/change-progress-of-a-task/

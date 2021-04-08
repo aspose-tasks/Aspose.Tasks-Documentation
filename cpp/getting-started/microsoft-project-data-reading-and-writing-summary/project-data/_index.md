@@ -1,5 +1,6 @@
 ---
 title: Project Data
+description: "Learn what project data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for C++."
 type: docs
 weight: 10
 url: /cpp/project-data/

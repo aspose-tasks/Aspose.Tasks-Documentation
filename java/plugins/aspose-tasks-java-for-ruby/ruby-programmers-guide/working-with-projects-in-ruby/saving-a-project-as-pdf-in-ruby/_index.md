@@ -1,5 +1,7 @@
 ---
 title: Saving a Project as PDF in Ruby
+description: "This article explains how to save project to PDF using Aspose.Tasks Java for Ruby."
+keywords: "Convert Project Data to PDF, Convert MPP to PDF, Export MPP Project to PDF, MPP to PDF, save project data to PDF, Aspose.Tasks Java for Ruby, Ruby"
 type: docs
 weight: 110
 url: /java/saving-a-project-as-pdf-in-ruby/

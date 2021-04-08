@@ -1,5 +1,6 @@
 ---
 title: GanttChartView Data
+description: "Learn what Gantt chart view data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for C++."
 type: docs
 weight: 200
 url: /cpp/ganttchartview-data/

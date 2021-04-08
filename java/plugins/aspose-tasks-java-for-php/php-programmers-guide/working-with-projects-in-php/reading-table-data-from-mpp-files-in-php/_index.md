@@ -1,5 +1,7 @@
 ---
 title: Reading Table Data from MPP files in PHP
+description: "This article explains how to read table data from Microsoft Project (MPP/XML) files using Aspose.Tasks Java for PHP."
+keywords: "read table data, read MPP table data, Export table data MPP, Aspose.Tasks Java for PHP, PHP"
 type: docs
 weight: 100
 url: /java/reading-table-data-from-mpp-files-in-php/

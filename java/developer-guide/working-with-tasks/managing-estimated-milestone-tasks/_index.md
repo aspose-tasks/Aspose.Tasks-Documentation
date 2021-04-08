@@ -1,6 +1,6 @@
 ---
-title: Managing Estimated Milestone Tasks
-description: "Learn how to manage Microsoft Project (MPP/XML) estimated milestone tasks using Aspose.Tasks for Java."
+title: Managing Estimated and Milestone Tasks
+description: "Learn how to manage Microsoft Project (MPP/XML) estimated and milestone tasks using Aspose.Tasks for Java."
 type: docs
 weight: 80
 url: /java/managing-estimated-milestone-tasks/

@@ -1,5 +1,6 @@
 ---
 title: Filter Data
+description: "Learn what filter data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for Java."
 type: docs
 weight: 180
 url: /java/filter-data/

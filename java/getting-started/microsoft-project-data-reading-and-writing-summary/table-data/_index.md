@@ -1,5 +1,6 @@
 ---
 title: Table Data
+description: "Learn what table data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for Java."
 type: docs
 weight: 140
 url: /java/table-data/

@@ -1,5 +1,6 @@
 ---
 title: WBS Associated with a Task in PHP
+description: "Learn how to work with Microsoft Project (MPP/XML) task WBS values using Aspose.Tasks Java for PHP."
 type: docs
 weight: 170
 url: /java/wbs-associated-with-a-task-in-php/

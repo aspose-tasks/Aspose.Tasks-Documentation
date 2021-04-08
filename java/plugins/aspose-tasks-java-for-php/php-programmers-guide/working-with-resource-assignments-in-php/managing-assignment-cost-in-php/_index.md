@@ -7,7 +7,7 @@ url: /java/managing-assignment-cost-in-php/
 ---
 
 ## **Aspose.Tasks - Managing Assignment Cost**
-To Manage Assignment Cost using **Aspose.Tasks Java for PHP**, simply invoke **AssignmentCost** module. Here you can see example code.
+To manage Assignment Cost using **Aspose.Tasks Java for PHP**, simply invoke **AssignmentCost** module. Here you can see example code.
 
 **PHP Code**
 

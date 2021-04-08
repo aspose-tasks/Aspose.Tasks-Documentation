@@ -1,5 +1,6 @@
 ---
-title: Managing Durations
+title: Managing Task Durations
+description: "Learn how to manage Microsoft Project (MPP/XML) task durations using Aspose.Tasks for .NET."
 type: docs
 weight: 60
 url: /net/managing-durations/
@@ -14,9 +15,7 @@ The [Duration](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields
 - DurationFormat sets and gets formats defined by the TimeUnitType enumeration.
 
 ### **Duration in Microsoft Project**
-To see a task's duration in Microsoft Project:
-
-1. From the **View** menu, select **More Views** and then **Task Entry**.
+To see a task's duration in Microsoft Project one can select **More Views** and then **Task Entry** From the **View** menu.
 
 ### **Setting task duration using Aspose.Tasks**
 The following examples increases and decreases the task duration to 1 week and half week respectively.

@@ -1,5 +1,6 @@
 ---
 title: Managing Currency Digits in Ruby
+description: "Learn how to manage Microsoft Project (MPP/XML) currency digits using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 20
 url: /java/managing-currency-digits-in-ruby/

@@ -1,5 +1,6 @@
 ---
 title: Managing Currency Codes
+description: "Learn how to manage currency codes in Microsoft Project (MPP/XML) files using Aspose.Tasks for Java."
 type: docs
 weight: 10
 url: /java/managing-currency-codes/

@@ -1,5 +1,7 @@
 ---
 title: Saving Project Data to Excel Format in Ruby
+description: "This article explains how to export Project data to Excel using Aspose.Tasks Java for Ruby."
+keywords: "Convert Project Data to XLSX, Convert MPP to XLSX, Export MPP Project to XLSX, MPP to Excel, save project data to Excel, Aspose.Tasks Java for Ruby, Ruby"
 type: docs
 weight: 130
 url: /java/saving-project-data-to-excel-format-in-ruby/

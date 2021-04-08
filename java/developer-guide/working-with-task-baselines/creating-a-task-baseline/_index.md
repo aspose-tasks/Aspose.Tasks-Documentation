@@ -1,5 +1,6 @@
 ---
 title: Creating a Task Baseline
+description: "Learn how to create task baselines in Microsoft Project (MPP/XML) files using Aspose.Tasks for Java."
 type: docs
 weight: 10
 url: /java/creating-a-task-baseline/

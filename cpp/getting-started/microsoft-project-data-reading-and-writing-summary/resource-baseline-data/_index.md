@@ -1,5 +1,6 @@
 ---
 title: Resource Baseline Data
+description: "Learn what resource baseline data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for C++."
 type: docs
 weight: 70
 url: /cpp/resource-baseline-data/

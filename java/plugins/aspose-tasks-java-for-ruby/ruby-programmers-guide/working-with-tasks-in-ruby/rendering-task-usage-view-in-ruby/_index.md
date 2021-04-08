@@ -1,11 +1,13 @@
 ---
 title: Rendering Task Usage View in Ruby
+description: "Learn how to render Microsoft Project (MPP/XML) task usage views using Aspose.Tasks Java in Ruby."
 type: docs
 weight: 140
 url: /java/rendering-task-usage-view-in-ruby/
 ---
 
 ## **Aspose.Tasks - Rendering Task Usage View**
+
 To render Task Usage View using **Aspose.Tasks Java for Ruby**, simply invoke **RenderTaskUsageView** module. Here you can see example code.
 
 {{< highlight ruby >}}

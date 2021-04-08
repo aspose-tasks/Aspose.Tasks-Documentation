@@ -1,5 +1,6 @@
 ---
 title: Reading Group Definition Data in PHP
+description: "This article explains how to read group definition data from Microsoft Project (MPP/XML) files using Aspose.Tasks Java for PHP."
 type: docs
 weight: 90
 url: /java/reading-group-definition-data-in-php/
@@ -7,8 +8,6 @@ url: /java/reading-group-definition-data-in-php/
 
 ## **Aspose.Tasks - Reading Group Definition Data**
 To read Group Definition Data using **Aspose.Tasks Java for PHP**, simply invoke **ReadingGroupDefinitionData** module. Here you can see example code.
-
-**PHP Code**
 
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');

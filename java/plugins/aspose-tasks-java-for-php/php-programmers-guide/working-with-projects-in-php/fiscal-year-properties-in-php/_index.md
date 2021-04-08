@@ -1,5 +1,6 @@
 ---
 title: Fiscal Year Properties in PHP
+description: "Learn how to get Microsoft Project (MPP/XML) fiscal year properties using Aspose.Tasks Java for PHP."
 type: docs
 weight: 50
 url: /java/fiscal-year-properties-in-php/

@@ -1,5 +1,6 @@
 ---
 title: Resource Data
+description: "Learn what resource data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for C++."
 type: docs
 weight: 30
 url: /cpp/resource-data/

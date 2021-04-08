@@ -1,5 +1,6 @@
 ---
 title: Adding Calendar Exceptions in PHP
+description: "Learn how to add Microsoft Project (MPP/XML) calendar exceptions using Aspose.Tasks Java for PHP."
 type: docs
 weight: 10
 url: /java/adding-calendar-exceptions-in-php/

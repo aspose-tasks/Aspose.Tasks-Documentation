@@ -1,5 +1,6 @@
 ---
 title: Creating Resources in VSTO and Aspose.Tasks
+description: "Learn how to create resources in Microsoft Project (MPP/XML) files using Aspose.Tasks for .NET in comparison with VSTO."
 type: docs
 weight: 50
 url: /net/creating-resources-in-vsto-and-aspose-tasks/

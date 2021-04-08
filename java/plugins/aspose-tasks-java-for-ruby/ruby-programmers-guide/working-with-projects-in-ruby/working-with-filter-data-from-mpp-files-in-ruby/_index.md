@@ -1,5 +1,6 @@
 ---
 title: Working with Filter Data from MPP files in Ruby
+description: "Learn how to work with Microsoft Project (MPP/XML) project filters using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 170
 url: /java/working-with-filter-data-from-mpp-files-in-ruby/

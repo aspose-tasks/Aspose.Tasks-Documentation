@@ -1,5 +1,6 @@
 ---
 title: Outline Code Value Data
+description: "Learn what outline code value data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for C++."
 type: docs
 weight: 120
 url: /cpp/outline-code-value-data/

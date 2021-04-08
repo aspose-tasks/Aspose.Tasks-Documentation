@@ -1,12 +1,13 @@
 ---
 title: Managing Task Costs in PHP
+description: "Learn how to manage Microsoft Project (MPP/XML) task costs using Aspose.Tasks Java for PHP."
 type: docs
 weight: 80
 url: /java/managing-task-costs-in-php/
 ---
 
 ## **Aspose.Tasks - Managing Task Costs**
-To Manage Task Costs using **Aspose.Tasks Java for PHP**, simply invoke **ManagingTaskCosts** module. Here you can see example code.
+To manage Task Costs using **Aspose.Tasks Java for PHP**, simply invoke **ManagingTaskCosts** module. Here you can see example code.
 
 **PHP Code**
 

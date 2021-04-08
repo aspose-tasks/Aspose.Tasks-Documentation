@@ -1,5 +1,6 @@
 ---
 title: WBS Associated with a Task in Ruby
+description: "Learn how to work with Microsoft Project (MPP/XML) task WBS values using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 180
 url: /java/wbs-associated-with-a-task-in-ruby/

@@ -1,5 +1,7 @@
 ---
 title: Saving Project Data to Excel Format in PHP
+description: "This article explains how to export project data to Excel using Aspose.Tasks Java for PHP."
+keywords: "Convert Project Data to XLSX, Convert MPP to XLSX, Export MPP Project to XLSX, MPP to Excel, save project data to Excel, Aspose.Tasks Java for PHP, PHP"
 type: docs
 weight: 130
 url: /java/saving-project-data-to-excel-format-in-php/

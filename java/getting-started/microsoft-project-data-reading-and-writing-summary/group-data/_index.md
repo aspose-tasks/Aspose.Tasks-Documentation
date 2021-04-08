@@ -1,5 +1,6 @@
 ---
 title: Group Data
+description: "Learn what group data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for Java."
 type: docs
 weight: 160
 url: /java/group-data/

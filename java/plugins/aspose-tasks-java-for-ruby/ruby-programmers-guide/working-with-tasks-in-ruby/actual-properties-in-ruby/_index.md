@@ -1,5 +1,6 @@
 ---
 title: Actual Properties in Ruby
+description: "Learn how to work with Microsoft Project (MPP/XML) actual properties using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 10
 url: /java/actual-properties-in-ruby/

@@ -1,5 +1,6 @@
 ---
 title: Creating a Task Baseline in PHP
+description: "Learn how to create task baselines in Microsoft Project (MPP/XML) files using Aspose.Tasks Java for PHP."
 type: docs
 weight: 20
 url: /java/creating-a-task-baseline-in-php/

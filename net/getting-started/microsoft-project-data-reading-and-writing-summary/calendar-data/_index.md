@@ -1,5 +1,6 @@
 ---
 title: Calendar Data
+description: "Learn what calendar fields of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for .NET."
 type: docs
 weight: 50
 url: /net/calendar-data/

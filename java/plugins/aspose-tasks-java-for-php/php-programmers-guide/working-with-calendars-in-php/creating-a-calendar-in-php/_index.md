@@ -1,5 +1,6 @@
 ---
 title: Creating a Calendar in PHP
+description: "This article explains how to create calendar in Microsoft Project (MPP/XML) files using Aspose.Tasks Java for PHP."
 type: docs
 weight: 10
 url: /java/creating-a-calendar-in-php/

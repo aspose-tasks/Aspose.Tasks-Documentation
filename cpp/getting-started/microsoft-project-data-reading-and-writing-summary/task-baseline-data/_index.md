@@ -1,5 +1,6 @@
 ---
 title: Task Baseline Data
+description: "Learn what task baseline data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for C++."
 type: docs
 weight: 60
 url: /cpp/task-baseline-data/

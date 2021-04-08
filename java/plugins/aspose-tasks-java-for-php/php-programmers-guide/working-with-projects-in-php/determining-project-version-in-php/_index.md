@@ -1,5 +1,6 @@
 ---
 title: Determining Project Version in PHP
+description: "Learn how to check Microsoft Project (MPP/XML) version using Aspose.Tasks Java for PHP."
 type: docs
 weight: 40
 url: /java/determining-project-version-in-php/

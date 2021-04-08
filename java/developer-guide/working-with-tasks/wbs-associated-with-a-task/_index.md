@@ -1,5 +1,6 @@
 ---
 title: WBS Associated with a Task
+description: "Learn how to work with Microsoft Project (MPP/XML) task WBS values using Aspose.Tasks for Java."
 type: docs
 weight: 130
 url: /java/wbs-associated-with-a-task/

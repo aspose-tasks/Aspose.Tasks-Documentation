@@ -1,5 +1,6 @@
 ---
 title: General Properties in PHP
+description: "Learn how to read Microsoft Project (MPP/XML) general properties using Aspose.Tasks Java for PHP."
 type: docs
 weight: 40
 url: /java/general-properties-in-php/

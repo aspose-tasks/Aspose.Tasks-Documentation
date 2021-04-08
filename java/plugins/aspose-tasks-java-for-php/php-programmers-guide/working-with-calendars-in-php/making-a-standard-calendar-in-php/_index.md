@@ -1,5 +1,6 @@
 ---
 title: Making a Standard Calendar in PHP
+description: "Learn how to create Microsoft Project (MPP/XML) standard calendars using Aspose.Tasks Java for PHP."
 type: docs
 weight: 40
 url: /java/making-a-standard-calendar-in-php/

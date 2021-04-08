@@ -1,5 +1,6 @@
 ---
 title: Resource Baseline Data
+description: "Learn what resource baseline data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for Java."
 type: docs
 weight: 70
 url: /java/resource-baseline-data/

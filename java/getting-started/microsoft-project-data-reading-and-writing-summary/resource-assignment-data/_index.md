@@ -1,5 +1,6 @@
 ---
 title: Resource Assignment Data
+description: "Learn what resource assignment data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for Java."
 type: docs
 weight: 40
 url: /java/resource-assignment-data/

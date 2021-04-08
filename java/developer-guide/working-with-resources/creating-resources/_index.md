@@ -1,5 +1,6 @@
 ---
 title: Creating Resources
+description: "Learn how to create resources in Microsoft Project (MPP/XML) files using Aspose.Tasks for Java."
 type: docs
 weight: 10
 url: /java/creating-resources/

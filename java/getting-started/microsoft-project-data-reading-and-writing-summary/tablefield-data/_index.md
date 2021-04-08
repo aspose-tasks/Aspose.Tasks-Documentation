@@ -1,5 +1,6 @@
 ---
 title: TableField Data
+description: "Learn what table field data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for Java."
 type: docs
 weight: 150
 url: /java/tablefield-data/

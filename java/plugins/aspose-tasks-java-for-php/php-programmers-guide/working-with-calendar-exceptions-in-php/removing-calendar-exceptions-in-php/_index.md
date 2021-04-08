@@ -1,5 +1,6 @@
 ---
 title: Removing Calendar Exceptions in PHP
+description: "Learn how to remove Microsoft Project (MPP/XML) calendar exceptions using Aspose.Tasks Java for PHP."
 type: docs
 weight: 40
 url: /java/removing-calendar-exceptions-in-php/

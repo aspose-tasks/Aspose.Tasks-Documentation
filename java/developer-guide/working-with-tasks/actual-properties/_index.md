@@ -1,5 +1,6 @@
 ---
 title: Actual Properties
+description: "Learn how to work with Microsoft Project (MPP/XML) actual properties using Aspose.Tasks for Java."
 type: docs
 weight: 50
 url: /java/actual-properties/

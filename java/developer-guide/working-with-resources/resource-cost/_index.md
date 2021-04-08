@@ -1,5 +1,6 @@
 ---
-title: Resource Cost
+title: Work with Resource Costs
+description: "Learn how to work with Microsoft Project (MPP/XML) resource costs using Aspose.Tasks for Java."
 type: docs
 weight: 50
 url: /java/resource-cost/

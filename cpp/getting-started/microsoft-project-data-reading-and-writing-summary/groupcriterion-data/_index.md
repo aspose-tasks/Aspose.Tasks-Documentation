@@ -1,5 +1,6 @@
 ---
 title: GroupCriterion Data
+description: "Learn what group criterion data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for C++."
 type: docs
 weight: 170
 url: /cpp/groupcriterion-data/

@@ -1,5 +1,6 @@
 ---
 title: Actual Properties in PHP
+description: "Learn how to work with Microsoft Project (MPP/XML) actual properties using Aspose.Tasks Java for PHP."
 type: docs
 weight: 10
 url: /java/actual-properties-in-php/

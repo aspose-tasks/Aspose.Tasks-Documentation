@@ -1,15 +1,13 @@
 ---
 title: Managing Currency Digits
+description: "Learn how to manage Microsoft Project (MPP/XML) currency digits using Aspose.Tasks for Java."
 type: docs
 weight: 20
 url: /java/managing-currency-digits/
 ---
 
-{{% alert color="primary" %}} 
-
 Currency digits set the number of decimal points (digits after a decimal point) used for currency.
 
-{{% /alert %}} 
 ## **Managing Currency Digits**
 The CurrencyDigits property exposed by the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class is used to set or get the number of digits after the decimal symbol for a project's currency. This property supports the integer data type.
 

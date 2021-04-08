@@ -1,5 +1,6 @@
 ---
 title: Creating a Calendar in Ruby
+description: "This article explains how to create calendar in Microsoft Project (MPP/XML) files using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 10
 url: /java/creating-a-calendar-in-ruby/

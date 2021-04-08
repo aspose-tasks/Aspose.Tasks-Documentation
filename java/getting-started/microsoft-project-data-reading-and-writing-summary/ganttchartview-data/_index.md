@@ -1,5 +1,6 @@
 ---
 title: GanttChartView Data
+description: "Learn what Gantt chart view data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for Java."
 type: docs
 weight: 200
 url: /java/ganttchartview-data/

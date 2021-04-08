@@ -1,5 +1,6 @@
 ---
 title: Change Progress of a Task in Ruby
+description: "Learn how to change task progress in Microsoft Project (MPP/XML) files using Aspose.Tasks Java in Ruby."
 type: docs
 weight: 30
 url: /java/change-progress-of-a-task-in-ruby/

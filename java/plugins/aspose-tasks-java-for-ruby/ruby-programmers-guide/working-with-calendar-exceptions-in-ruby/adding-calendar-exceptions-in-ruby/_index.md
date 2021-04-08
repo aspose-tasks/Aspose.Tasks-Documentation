@@ -1,5 +1,6 @@
 ---
 title: Adding Calendar Exceptions in Ruby
+description: "Learn how to add Microsoft Project (MPP/XML) calendar exceptions using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 10
 url: /java/adding-calendar-exceptions-in-ruby/

@@ -1,12 +1,13 @@
 ---
-title: Managing Durations in PHP
+title: Managing Task Durations in PHP
+description: "Learn how to manage Microsoft Project (MPP/XML) task durations using Aspose.Tasks Java for PHP."
 type: docs
 weight: 70
 url: /java/managing-durations-in-php/
 ---
 
 ## **Aspose.Tasks - Managing Durations**
-To Manage Durations using **Aspose.Tasks Java for PHP**, simply invoke **ManagingDuration** module. Here you can see example code.
+To manage durations using **Aspose.Tasks Java for PHP**, simply invoke **ManagingDuration** module. Here you can see example code.
 
 **PHP Code**
 

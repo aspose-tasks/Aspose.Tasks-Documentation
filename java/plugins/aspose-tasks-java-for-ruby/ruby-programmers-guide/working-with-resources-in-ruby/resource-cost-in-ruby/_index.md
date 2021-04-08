@@ -1,5 +1,6 @@
 ---
 title: Resource Cost in Ruby
+description: "Learn how to work with Microsoft Project (MPP/XML) resource costs using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 40
 url: /java/resource-cost-in-ruby/
@@ -7,8 +8,6 @@ url: /java/resource-cost-in-ruby/
 
 ## **Aspose.Tasks - Resource Cost**
 To get Resource Cost using **Aspose.Tasks Java for Ruby**, simply invoke **ResourceCost** module. Here you can see example code.
-
-**Ruby Code**
 
 {{< highlight ruby >}}
 project = Rjb::import('com.aspose.tasks.Project').new('project.mpp')

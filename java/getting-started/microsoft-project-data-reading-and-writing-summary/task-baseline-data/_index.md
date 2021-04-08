@@ -1,5 +1,6 @@
 ---
 title: Task Baseline Data
+description: "Learn what task baseline data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for Java."
 type: docs
 weight: 60
 url: /java/task-baseline-data/

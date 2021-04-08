@@ -1,5 +1,6 @@
 ---
 title: Verifying Project Structure in PHP
+description: "Learn how to verify Microsoft Project (MPP/XML) project structure using Aspose.Tasks Java for PHP."
 type: docs
 weight: 150
 url: /java/verifying-project-structure-in-php/

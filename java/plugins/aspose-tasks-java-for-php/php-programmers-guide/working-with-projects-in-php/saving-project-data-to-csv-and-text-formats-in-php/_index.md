@@ -1,5 +1,7 @@
 ---
 title: Saving Project Data to CSV and Text Formats in PHP
+description: "This article explains how to save project data to CSV or text formats using Aspose.Tasks Java for PHP."
+keywords: "Convert Project Data to CSV, Convert MPP to CSV, Export MPP Project to CSV, MPP to Excel, save project data to Excel, Aspose.Tasks Java for PHP, PHP"
 type: docs
 weight: 120
 url: /java/saving-project-data-to-csv-and-text-formats-in-php/
