@@ -6,7 +6,7 @@ url: /java/weekday-properties-in-php/
 ---
 
 ## **Aspose.Tasks - Reading Weekday Properties**
-To Read Weekday Properties using **Aspose.Tasks Java for PHP**, call **get_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
+To read Weekday Properties using **Aspose.Tasks Java for PHP**, call **get_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
 
 **PHP Code**
 
@@ -20,7 +20,7 @@ print "Minutes Per Week : " . (string)$project->get($prj->MINUTES_PER_WEEK).PHP_
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Weekday Properties**
-To Write Weekday Properties using **Aspose.Tasks Java for PHP**, call **set_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
+To write Weekday Properties using **Aspose.Tasks Java for PHP**, call **set_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
 
 **PHP Code**
 

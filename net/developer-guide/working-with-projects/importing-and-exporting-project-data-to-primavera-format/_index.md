@@ -40,12 +40,15 @@ Aspose.Tasks for .NET provides support for reading project data from Primavera S
 The SaveFileFormat enumerator is used to specify the project export type as Primavera XML or XER.
 
 ### **Exporting Project Data to Primavera XML Format**
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ImportingAndExporting-ExportProjectDataToXMLFormat-ExportProjectDataToXMLFormat.cs" >}}
 
 ### **Exporting Project Data to Primavera XER Format**
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ImportingAndExporting-ExportProjectDataToXERFormat-ExportProjectDataToXERFormat.cs" >}}
 
 ### **Exporting Project Data to Primavera MPX Format**
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ImportingAndExporting-ExportProjectDataToPrimaveraMPXFormat-ExportProjectDataToPrimaveraMPXFormat.cs" >}}
 
 ### **Primavera XML Save Options**

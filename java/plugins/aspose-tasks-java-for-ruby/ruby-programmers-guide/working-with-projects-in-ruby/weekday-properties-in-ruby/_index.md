@@ -6,7 +6,7 @@ url: /java/weekday-properties-in-ruby/
 ---
 
 ## **Aspose.Tasks - Reading Weekday Properties**
-To Read Weekday Properties using **Aspose.Tasks Java for Ruby**, call **get_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
+To read Weekday Properties using **Aspose.Tasks Java for Ruby**, call **get_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
 
 **Ruby Code**
 
@@ -20,7 +20,7 @@ puts "Minutes Per Week : " + project.get(prj.MINUTES_PER_WEEK).toString()
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Weekday Properties**
-To Write Weekday Properties using **Aspose.Tasks Java for Ruby**, call **set_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
+To write Weekday Properties using **Aspose.Tasks Java for Ruby**, call **set_weekday_properties** method of **WeekdayProperties** module. Here you can see example code.
 
 **Ruby Code**
 

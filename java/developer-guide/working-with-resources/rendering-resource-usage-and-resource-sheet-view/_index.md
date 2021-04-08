@@ -1,5 +1,6 @@
 ---
-title: Rendering Resource Usage and Resource Sheet View
+title: Rendering Resource Usage and Resource Sheet Views
+description: "Learn how to read Microsoft Project (MPP/XML) resource usage and resource sheet views using Aspose.Tasks for Java."
 type: docs
 weight: 100
 url: /java/rendering-resource-usage-and-resource-sheet-view/

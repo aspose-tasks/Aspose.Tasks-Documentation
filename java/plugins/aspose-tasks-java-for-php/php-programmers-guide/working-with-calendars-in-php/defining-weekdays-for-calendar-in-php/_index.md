@@ -1,5 +1,7 @@
 ---
 title: Defining Weekdays for Calendar in PHP
+description: "Learn how to define calendar weekdays for Microsoft Project (MPP/XML) projects using Aspose.Tasks Java for PHP."
+keywords: "Defining Weekdays for Exceptions, work with weekdays exceptions, weekday calendar exception, Aspose.Tasks, Java, PHP"
 type: docs
 weight: 20
 url: /java/defining-weekdays-for-calendar-in-php/

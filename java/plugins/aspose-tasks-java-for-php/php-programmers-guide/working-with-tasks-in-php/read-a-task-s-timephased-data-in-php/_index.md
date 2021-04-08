@@ -6,7 +6,7 @@ url: /java/read-a-task-s-timephased-data-in-php/
 ---
 
 ## **Aspose.Tasks - Read a Task's Timephased Data**
-To Read a Task's Timephased Data using **Aspose.Tasks Java for PHP**, simply invoke **GetTaskTimephasedData** module. Here you can see example code.
+To read a Task's Timephased Data using **Aspose.Tasks Java for PHP**, simply invoke **GetTaskTimephasedData** module. Here you can see example code.
 
 **PHP Code**
 

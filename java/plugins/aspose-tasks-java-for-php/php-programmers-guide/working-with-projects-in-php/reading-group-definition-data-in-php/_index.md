@@ -6,7 +6,7 @@ url: /java/reading-group-definition-data-in-php/
 ---
 
 ## **Aspose.Tasks - Reading Group Definition Data**
-To Read Group Definition Data using **Aspose.Tasks Java for PHP**, simply invoke **ReadingGroupDefinitionData** module. Here you can see example code.
+To read Group Definition Data using **Aspose.Tasks Java for PHP**, simply invoke **ReadingGroupDefinitionData** module. Here you can see example code.
 
 **PHP Code**
 

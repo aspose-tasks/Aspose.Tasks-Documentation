@@ -7,7 +7,7 @@ url: /java/currency-properties-in-ruby/
 ---
 
 ## **Aspose.Tasks - Reading Currency Properties**
-To Read Currency Properties using **Aspose.Tasks Java for Ruby**, call **get_currency_properties** method of **CurrencyProperties** module. Here you can see example code.
+To read Currency Properties using **Aspose.Tasks Java for Ruby**, call **get_currency_properties** method of **CurrencyProperties** module. Here you can see example code.
 
 **Ruby Code**
 
@@ -21,7 +21,7 @@ puts "Currency Symbol Position: " + project.get(prj.CURRENCY_SYMBOL_POSITION).to
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Currency Properties**
-To Write Currency Properties using **Aspose.Tasks Java for Ruby**, call **set_currency_properties** method of **CurrencyProperties** module. Here you can see example code.
+To write Currency Properties using **Aspose.Tasks Java for Ruby**, call **set_currency_properties** method of **CurrencyProperties** module. Here you can see example code.
 
 **Ruby Code**
 

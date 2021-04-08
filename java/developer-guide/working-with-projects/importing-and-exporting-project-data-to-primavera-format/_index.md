@@ -1,15 +1,12 @@
 ---
 title: Importing and Exporting Project Data to Primavera Format
+description: "Learn how to import projects from Primavera XER/XML formats, edit and export them in any of a wide range of available formats (MPP, Primavera XML, PDF, JPEG, XLSX, etc.) using Aspose.Tasks for Java."
 type: docs
 weight: 60
 url: /java/importing-and-exporting-project-data-to-primavera-format/
 ---
 
-{{% alert color="primary" %}} 
-
 Primavera’s Proprietary Exchange Format (XER), by Primavera Systems, Inc., is primarily associated with Primavera Project Management. Aspose.Tasks for Java provides the capability to export Microsoft Project Data to Primavera XER and XML formats. This article shows how to export project data to both these formats. 
-
-{{% /alert %}} 
 
 ## **Importing Data from Primavera File**
 
@@ -28,9 +25,11 @@ A Primavera XML file may contain multiple projects, each having its own UID. Asp
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ImportExportDataToPrimavera-read-all-project-uid.java" >}}
 
 ### **Reading Primavera XML file with Multiple Projects**
+
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ImportExportDataToPrimavera-read-project-specific-uid.java" >}}
 
 ## **Importing Project Data from Primavera Database File**
+
 {{< highlight java >}}
 String url = "jdbc:sqlserver://";
 String serverName = "192.168.56.3\\MSSQLSERVER";
@@ -54,6 +53,7 @@ private static void addJDBCDriver(File file) throws Exception
 {{< /highlight >}}
 
 ## **Support for SQLite Database**
+
 {{< highlight java >}}
 const string connectionString = "Data Source=d:\\DB\\PPMDBSQLite.db";
 const int projectId = 4502;
@@ -64,12 +64,19 @@ Project project = new Project(primaveraDbSettings);
 
 ## **Exporting Project Data in Primavera Formats**
 The SaveFileFormat enumerator is used to specify the project export type as Primavera XML or XER.
+
 ### **Exporting Project Data to Primavera XML Format**
+
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ImportExportDataToPrimavera-export-data-to-primavera-xml-format.java" >}}
+
 ### **Exporting Project Data to Primavera XER Format**
+
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ImportExportDataToPrimavera-export-data-to-primavera-xer-format.java" >}}
+
 ### **Exporting Project Data to Primavera MPX Format**
+
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ImportExportDataToPrimavera-export-data-to-primavera-mpx-format.java" >}}
+
 ### **Primavera XML Save Options**
 If Primavera XML file doesn't has any WBS inside (only Activities), Aspose.Tasks can't read properly this type of file, because the API needs a root task to create a tree of tasks.
 In this case, the API creates a RootTask, even if it doesn't exist in the file, to be able to read these particular files. If the user wants to save after reading, it'll be saving with created RootTask, which did not exist before reading. This option helps to decide how to save into the file - with created RootTask or not. By default, it set to true.

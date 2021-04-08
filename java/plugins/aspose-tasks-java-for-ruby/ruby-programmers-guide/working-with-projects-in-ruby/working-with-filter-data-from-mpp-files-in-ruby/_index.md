@@ -6,7 +6,7 @@ url: /java/working-with-filter-data-from-mpp-files-in-ruby/
 ---
 
 ## **Aspose.Tasks - Reading Filter Definition Data**
-To Read Filter Definition Data using **Aspose.Tasks Java for Ruby**, call **get_filter_definition_data** method of **FilterData** module. Here you can see example code.
+To read Filter Definition Data using **Aspose.Tasks Java for Ruby**, call **get_filter_definition_data** method of **FilterData** module. Here you can see example code.
 
 **Ruby Code**
 

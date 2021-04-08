@@ -6,7 +6,7 @@ url: /java/rendering-task-usage-view-in-php/
 ---
 
 ## **Aspose.Tasks - Rendering Task Usage View**
-To Render Task Usage View using **Aspose.Tasks Java for PHP**, simply invoke **RenderTaskUsageView** module. Here you can see example code.
+To render Task Usage View using **Aspose.Tasks Java for PHP**, simply invoke **RenderTaskUsageView** module. Here you can see example code.
 
 **PHP Code**
 

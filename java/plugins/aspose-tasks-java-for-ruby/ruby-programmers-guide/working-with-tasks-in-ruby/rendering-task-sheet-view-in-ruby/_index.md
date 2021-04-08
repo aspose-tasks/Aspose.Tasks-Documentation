@@ -7,7 +7,7 @@ url: /java/rendering-task-sheet-view-in-ruby/
 ---
 
 ## **Aspose.Tasks - Rendering Task Sheet View**
-To Render Task Sheet View using **Aspose.Tasks Java for Ruby**, simply invoke **RenderTaskSheetView** module. Here you can see example code.
+To render Task Sheet View using **Aspose.Tasks Java for Ruby**, simply invoke **RenderTaskSheetView** module. Here you can see example code.
 
 **Ruby Code**
 

@@ -6,7 +6,7 @@ url: /java/read-a-task-s-timephased-data-in-ruby/
 ---
 
 ## **Aspose.Tasks - Read a Task's Timephased Data**
-To Read a Task's Timephased Data using **Aspose.Tasks Java for Ruby**, simply invoke **GetTaskTimephasedData** module. Here you can see example code.
+To read a Task's Timephased Data using **Aspose.Tasks Java for Ruby**, simply invoke **GetTaskTimephasedData** module. Here you can see example code.
 
 **Ruby Code**
 

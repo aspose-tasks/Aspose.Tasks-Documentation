@@ -1,12 +1,13 @@
 ---
 title: Writing Updated TaskLink Data to MPP in Ruby
+description: "Learn how to write Microsoft Project (MPP/XML) task links using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 40
 url: /java/writing-updated-tasklink-data-to-mpp-in-ruby/
 ---
 
 ## **Aspose.Tasks - Writing Updated TaskLink Data to MPP**
-To Write Updated TaskLink Data to MPP using **Aspose.Tasks Java for Ruby**, simply invoke **UpdateTaskLink** module. Here you can see example code.
+To write Updated TaskLink Data to MPP using **Aspose.Tasks Java for Ruby**, simply invoke **UpdateTaskLink** module. Here you can see example code.
 
 **Ruby Code**
 

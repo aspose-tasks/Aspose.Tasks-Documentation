@@ -1,12 +1,13 @@
 ---
 title: Writing Updated TaskLink Data to MPP in PHP
+description: "Learn how to write Microsoft Project (MPP/XML) task links using Aspose.Tasks Java for PHP."
 type: docs
 weight: 40
 url: /java/writing-updated-tasklink-data-to-mpp-in-php/
 ---
 
 ## **Aspose.Tasks - Writing Updated TaskLink Data to MPP**
-To Write Updated TaskLink Data to MPP using **Aspose.Tasks Java for PHP**, simply invoke **UpdateTaskLink** module. Here you can see example code.
+To write Updated TaskLink Data to MPP using **Aspose.Tasks Java for PHP**, simply invoke **UpdateTaskLink** module. Here you can see example code.
 
 **PHP Code**
 

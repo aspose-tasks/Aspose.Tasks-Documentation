@@ -6,7 +6,7 @@ url: /java/fiscal-year-properties-in-php/
 ---
 
 ## **Aspose.Tasks - Reading Fiscal Year Properties**
-To Read Fiscal Year Properties using **Aspose.Tasks Java for PHP**, call **get_fiscal_year_properties** method of **FiscalYearProperties** module. Here you can see example code.
+To read Fiscal Year Properties using **Aspose.Tasks Java for PHP**, call **get_fiscal_year_properties** method of **FiscalYearProperties** module. Here you can see example code.
 
 **PHP Code**
 
@@ -18,7 +18,7 @@ print "Fiscal Year Numbering : " . (string)$project->get($prj->FISCAL_YEAR_START
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Fiscal Year Properties**
-To Write Fiscal Year Properties using **Aspose.Tasks Java for PHP**, call **set_fiscal_year_properties** method of **FiscalYearProperties** module. Here you can see example code.
+To write Fiscal Year Properties using **Aspose.Tasks Java for PHP**, call **set_fiscal_year_properties** method of **FiscalYearProperties** module. Here you can see example code.
 
 **PHP Code**
 

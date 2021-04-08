@@ -1,15 +1,13 @@
 ---
 title: Working with Calendar Properties
+description: "The page describes the general properties of project calendars using Aspose.Tasks for Java."
 type: docs
 weight: 20
 url: /java/working-with-calendar-properties/
 ---
 
-{{% alert color="primary" %}} 
-
 Microsoft Project use calendars and other information to calculate project end dates. Aspose.Tasks supports the calendar functionality. This article illustrates the calendar properties that can be set and shows how they are applied in code.
 
-{{% /alert %}} 
 **Calendar Properties**
 The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) exposes several properties used to define the base calendar in Microsoft Outlook:
 
@@ -22,7 +20,3 @@ The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calen
 The code that follows gets the general calendar properties.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Calendars-CalendarProperties-CalendarProperties.java" >}}
-
-
-
-

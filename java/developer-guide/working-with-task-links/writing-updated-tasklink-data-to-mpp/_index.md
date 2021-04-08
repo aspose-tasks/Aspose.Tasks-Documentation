@@ -1,5 +1,6 @@
 ---
 title: Writing Updated TaskLink Data to MPP
+description: "Learn how to write Microsoft Project (MPP/XML) task links using Aspose.Tasks for Java."
 type: docs
 weight: 60
 url: /java/writing-updated-tasklink-data-to-mpp/
@@ -9,7 +10,8 @@ url: /java/writing-updated-tasklink-data-to-mpp/
 
 With Aspose.Tasks for Java, it is possible to link tasks in a project and save the updated task link data back to a Microsoft Project MPP file. This means that you can open an MPP file, update task links, and save the file back out.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 **Updating Task Links**
 The code snippet below shows how to link tasks in a project and write the link data back to the MPP file. The steps involved in this activity are:
 

@@ -1,15 +1,12 @@
 ---
 title: Rendering Project Data to XAML
+description: "Learn how to render a project as XAML using Aspose.Tasks for Java."
 type: docs
 weight: 30
 url: /java/rendering-project-data-to-xaml/
 ---
 
-{{% alert color="primary" %}} 
-
-Aspose.Tasks lets you render project data to an XAML file. The easiest way to accomplish this task is to use the SaveFileFormat.XAML option with the Project.Save function. SaveOptions can be used to set the options like FitContent, LegendOnEachPage, TimeScale and View. GanttChartView and GanttChartColumn can be used to select the columns for display.
-
-{{% /alert %}}
+Aspose.Tasks for Java lets you render project data to an XAML file. The easiest way to accomplish this task is to use the SaveFileFormat.XAML option with the Project.Save function. SaveOptions can be used to set the options like FitContent, LegendOnEachPage, TimeScale and View. GanttChartView and GanttChartColumn can be used to select the columns for display.
 
 ## **Rendering to XAML**
 
@@ -23,6 +20,7 @@ project.save("NewProductDev.xaml", SaveFileFormat.XAML);
 {{< /highlight >}}
 
 ### **Render XAML with Options**
+
 **Java**
 
 {{< highlight java >}}
@@ -45,9 +43,3 @@ SaveOptions options = new XamlOptions();
 options.setPresentationFormat(PresentationFormat.GanttChart);
 project.save("NewProductDev GanttChart.xaml", options);
 {{< /highlight >}}
-
-
-
-
-
-

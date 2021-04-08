@@ -1,12 +1,13 @@
 ---
-title: Rendering Resource Usage and Resource Sheet View in PHP
+title: Rendering Resource Usage and Resource Sheet Views in PHP
+description: "Learn how to read Microsoft Project (MPP/XML) resource usage and resource sheet views using Aspose.Tasks Java for PHP."
 type: docs
 weight: 30
 url: /java/rendering-resource-usage-and-resource-sheet-view-in-php/
 ---
 
 ## **Aspose.Tasks - Rendering Resource Usage**
-To Render Resource Usage using **Aspose.Tasks Java for PHP**, call **render_resource_usage** method of **RenderResourceUsageAndSheetView** module. Here you can see example code.
+To render Resource Usage using **Aspose.Tasks Java for PHP**, call **render_resource_usage** method of **RenderResourceUsageAndSheetView** module. Here you can see example code.
 
 **PHP Code**
 
@@ -26,7 +27,7 @@ print "Created resource usage files.".PHP_EOL;
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Rendering Resource Sheet View**
-To Render Resource Sheet View using **Aspose.Tasks Java for PHP**, call **render_resource_sheetview** method of **RenderResourceUsageAndSheetView** module. Here you can see example code.
+To render Resource Sheet View using **Aspose.Tasks Java for PHP**, call **render_resource_sheetview** method of **RenderResourceUsageAndSheetView** module. Here you can see example code.
 
 **PHP Code**
 

@@ -6,7 +6,7 @@ url: /java/rendering-task-usage-view-in-ruby/
 ---
 
 ## **Aspose.Tasks - Rendering Task Usage View**
-To Render Task Usage View using **Aspose.Tasks Java for Ruby**, simply invoke **RenderTaskUsageView** module. Here you can see example code.
+To render Task Usage View using **Aspose.Tasks Java for Ruby**, simply invoke **RenderTaskUsageView** module. Here you can see example code.
 
 {{< highlight ruby >}}
 project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')

@@ -6,7 +6,7 @@ url: /java/reading-table-data-from-mpp-files-in-ruby/
 ---
 
 ## **Aspose.Tasks - Reading Table Data from MPP files**
-To Read Table Data from MPP files using **Aspose.Tasks Java for Ruby**, simply invoke **ReadingTableData** module. Here you can see example code.
+To read Table Data from MPP files using **Aspose.Tasks Java for Ruby**, simply invoke **ReadingTableData** module. Here you can see example code.
 
 **Ruby Code**
 

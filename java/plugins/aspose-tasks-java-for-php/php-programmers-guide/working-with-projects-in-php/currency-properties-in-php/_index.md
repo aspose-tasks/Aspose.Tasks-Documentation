@@ -7,7 +7,7 @@ url: /java/currency-properties-in-php/
 ---
 
 ## **Aspose.Tasks - Reading Currency Properties**
-To Read Currency Properties using **Aspose.Tasks Java for PHP**, call **get_currency_properties** method of **CurrencyProperties** module. Here you can see example code.
+To read Currency Properties using **Aspose.Tasks Java for PHP**, call **get_currency_properties** method of **CurrencyProperties** module. Here you can see example code.
 
 **PHP Code**
 
@@ -21,7 +21,7 @@ print "Currency Symbol Position: ". (string)$project->get($prj->CURRENCY_SYMBOL_
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Currency Properties**
-To Write Currency Properties using **Aspose.Tasks Java for PHP**, call **set_currency_properties** method of **CurrencyProperties** module. Here you can see example code.
+To write Currency Properties using **Aspose.Tasks Java for PHP**, call **set_currency_properties** method of **CurrencyProperties** module. Here you can see example code.
 
 **PHP Code**
 
