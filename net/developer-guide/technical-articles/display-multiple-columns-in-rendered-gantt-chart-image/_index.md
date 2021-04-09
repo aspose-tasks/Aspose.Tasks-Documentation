@@ -39,7 +39,7 @@ You pass the number of pages to be rendered in the image. For example, this code
 BaseImageRenderParam imageRenderingParameters = new BaseImageRenderParam(null, Point.Empty, new Size(800, 600),100, 0, true);
 {{< /highlight >}}
 
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 Dim imageRenderingParameters As New BaseImageRenderParam(Nothing, Point.Empty, New Size(800, 600),100, 0, True)
 {{< /highlight >}}
 

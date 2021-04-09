@@ -40,7 +40,7 @@ If your programming language (for example, Visual Basic) allows you to reference
 
 Once created, you are able to access the object’s methods and properties, as if it was a COM object:
 
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 Dim prj As New Aspose_Tasks.Project
 prj.IsScheduleFromStart = True
 {{< /highlight >}}

@@ -28,7 +28,7 @@ This new API is incompatible with the Legacy API and the objective of this artic
 ### **Setting Default Project Properties**
 Aspose.Tasks' legacy API allowed setting default properties of a project by directly setting the public attributes of the Project class. In the new API implementation, however, it exposes Set and Get methods to achieve the same.
 
-#### **Legacy API Code Sample**
+**Legacy API Code Sample**
 
 {{< highlight csharp >}}
 Project prj = new Project();
@@ -43,7 +43,7 @@ prj.DefaultFixedCostAccrual = CostAccrualType.Prorated;
 prj.Save( "Project4.xml" , Aspose.Tasks.Saving.SaveFileFormat.XML);
 {{< /highlight >}}
 
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 'Create a project instance
 Dim prj As New Project()
 prj.IsScheduleFromStart = True
@@ -57,7 +57,7 @@ prj.DefaultFixedCostAccrual = CostAccrualType.Prorated
 prj.Save("Project4.xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
 {{< /highlight >}}
 
-#### **New Aspose.Tasks for .NET 8.x Approach**
+**New Aspose.Tasks for .NET 8.x Approach**
 {{< highlight csharp >}}
 Project project = new Project();
 project.Set(Prj.ScheduleFromStart,true);
@@ -71,9 +71,7 @@ project.Set(Prj.DefaultFixedCostAccrual, CostAccrualType.Prorated);
 project.Save("ProjectDefaultProps.xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
-**VB.NET**
-
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 Dim project As New Project()
 project.[Set](Prj.ScheduleFromStart, True)
 project.[Set](Prj.StartDate, DateTime.Now)
@@ -89,8 +87,7 @@ project.Save("ProjectDefaultProps.xml", SaveFileFormat.XML)
 ### **Creating and Adding Calendar to a Project**
 In order for proper functionality of Calendar items added to the Project, the legacy API required to recalculate Calendar UIDs. In the new API, however, UIDs recalculation are automatically dealt and there is no need to call the calculations manually.
 
-#### **Legacy API Code Sample**
-
+**Legacy API Code Sample**
 {{< highlight csharp >}}
 Project prj =  new Project();
 Aspose.Tasks.Calendar cal1 = new  Aspose.Tasks.Calendar();
@@ -105,9 +102,7 @@ prj.CalcCalendarUids();
 prj.Save( "Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML);
 {{< /highlight >}}
 
-**VB.NET**
-
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 'Create a project instance
 Dim prj As New Project()
 'Define Calendar
@@ -124,9 +119,7 @@ prj.CalcCalendarUids()
 prj.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
 {{< /highlight >}}
 
-#### **New Aspose.Tasks for .NET 8.x Approach**
-**C#**
-
+**New Aspose.Tasks for .NET 8.x Approach**
 {{< highlight csharp >}}
 //Create a project instance
 Project prj = new Project();
@@ -136,9 +129,7 @@ Aspose.Tasks.Calendar cal3 = prj.Calendars.Add("cal3");
 prj.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML);
 {{< /highlight >}}
 
-**VB.NET**
-
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 'Create a project instance
 Dim prj As New Project()
 Dim cal1 As Aspose.Tasks.Calendar = prj.Calendars.Add("no info")
@@ -150,9 +141,7 @@ prj.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
 ### **Making A Standard Calendar**
 Recalculating Calendar UIDs are no more required in the new ASpose.Tasks' API as compared to the legacy API.
 
-#### **Legacy API Code Sample**
-**C#**
-
+**Legacy API Code Sample**
 {{< highlight csharp >}}
 //Create a project instance
 Project prj = new  Project();
@@ -164,9 +153,7 @@ prj.CalcCalendarUids();
 prj.Save( "Project.Xml" , Aspose.Tasks.Saving.SaveFileFormat.XML);
 {{< /highlight >}}
 
-**VB.NET**
-
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 'Create a project instance
 Dim prj As New Project()
 'Define Calendar and make it standard
@@ -178,9 +165,7 @@ prj.CalcCalendarUids()
 prj.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
 {{< /highlight >}}
 
-#### **New Aspose.Tasks for .NET 8.x Approach**
-**C#**
-
+**New Aspose.Tasks for .NET 8.x Approach**
 {{< highlight csharp >}}
 // Create a project instance
 Project project = new Project();
@@ -190,9 +175,7 @@ Aspose.Tasks.Calendar.MakeStandardCalendar(cal1);
 project.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML);
 {{< /highlight >}}
 
-**VB.NET**
-
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 'Create a project instance
 Dim project As New Project()
 'Define Calendar and make it standard
@@ -205,9 +188,7 @@ project.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
 ### **Create and Add Task to Project**
 Creating a new task in the legacy API, it required to define a root task, add it to the project as its root task, and then add a new task to this root task as a child. The new API, however, doesn't need you to define the root task and takes care of it automatically while adding the first task to the project.
 
-#### **Legacy API Code Sample**
-
-**C#**
+**Legacy API Code Sample**
 
 {{< highlight csharp >}}
 Project project = new Project();
@@ -222,9 +203,7 @@ project.RootTask.Children.Add(tskGen);
 project.Save("Project.xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
-**VB.NET**
-
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 Dim project As New Project()
 Dim tskGen As New Task("Task1")
 tskGen.Id = 1
@@ -236,9 +215,7 @@ project.RootTask.Children.Add(tskGen)
 project.Save("Project.xml", SaveFileFormat.XML)
 {{< /highlight >}}
 
-#### **New Aspose.Tasks for .NET 8.x Approach**
-**C#**
-
+**New Aspose.Tasks for .NET 8.x Approach**
 {{< highlight csharp >}}
 Project project = new Project();
 Task task = project.RootTask.Children.Add("Task 1");
@@ -247,9 +224,7 @@ task.Set(Tsk.Start, project.RootTask.Get(Tsk.Start).AddDays(1));
 project.Save("CreateTasks.xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
-**VB.NET**
-
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 Dim project As New Project()
 Dim task As Task = project.RootTask.Children.Add("Task 1")
 task.[Set](Tsk.Start, project.RootTask.[Get](Tsk.Start).AddDays(1))
@@ -260,9 +235,7 @@ project.Save("CreateTasks.xml", SaveFileFormat.XML)
 ### **Create and Add Resource to Project**
 Set and Get methods have been added to the Resource class of the API for manipulating attributes related to a project's Resource.
 
-#### **Legacy API Code Sample**
-**C#**
-
+**Legacy API Code Sample**
 {{< highlight csharp >}}
 Project project = new Project();
 Resource res =   Resource(new "Res1");
@@ -274,9 +247,7 @@ project.Resources.Add(res);
 project.Save("Project.xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
-**VB.NET**
-
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 Dim project As New Project()
 Dim res As New Resource("Res1")
 res.Id = 1
@@ -287,9 +258,7 @@ project.Resources.Add(res)
 project.Save("Project.xml", SaveFileFormat.XML)
 {{< /highlight >}}
 
-#### **New Aspose.Tasks for .NET 8.x Approach**
-**C#**
-
+**New Aspose.Tasks for .NET 8.x Approach**
 {{< highlight csharp >}}
 Project project = new Project();
 Resource rsc = project.Resources.Add("R1");
@@ -298,9 +267,7 @@ rsc.Set(Rsc.Finish, DateTime.Parse("31-Aug-2014 5:00 PM"));
 project.Save("CreateResource.xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
-**VB.NET**
-
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 Dim project As New Project()
 Dim rsc As Resource = project.Resources.Add("R1")
 rsc.[Set](Rsc.Start, DateTime.Parse("31-Aug-2014 8:00 AM"))
@@ -311,9 +278,7 @@ project.Save("CreateResource.xml", SaveFileFormat.XML)
 ### **Create and Add Resource Assignment to Project**
 The ResourceAssignment class also introduces the Set and Get methods similar to other data collections of the API such as Tasks, Resources and Tasks Links.
 
-#### **Legacy API Code Sample**
-**C#**
-
+**Legacy API Code Sample**
 {{< highlight csharp >}}
 Project project = new Project();
 Task tskRoot =  new Task();
@@ -332,9 +297,7 @@ project.ResourceAssignments.Add(assignment);
 project.Save("project.xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
-**VB.NET**
-
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 Dim project As New Project()
 Dim tskRoot As New Task()
 Dim task As New Task("Task")
@@ -352,9 +315,7 @@ project.ResourceAssignments.Add(assignment)
 project.Save("project.xml", SaveFileFormat.XML)
 {{< /highlight >}}
 
-#### **New Aspose.Tasks for .NET 8.x Approach**
-**C#**
-
+**New Aspose.Tasks for .NET 8.x Approach**
 {{< highlight csharp >}}
 Project project = new Project();
 Task task = project.RootTask.Children.Add("Task");
@@ -367,9 +328,7 @@ assignment.Set(Assn.Finish, DateTime.Parse("18-Aug-2009 5:00 PM" );
 project.Save("ResourceAssignments.xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
-**VB.NET**
-
-{{< highlight csharp >}}
+{{< highlight vbnet >}}
 Dim project As New Project()
 Dim task As Task = project.RootTask.Children.Add("Task")
 Dim rsc As Resource = project.Resources.Add("Rsc")
