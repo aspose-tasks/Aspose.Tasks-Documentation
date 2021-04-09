@@ -25,7 +25,7 @@ This new API is incompatible with the Legacy API and the objective of this artic
 
 {{% /alert %}}
 
-### **Setting Default Project Properties**
+## **Setting Default Project Properties**
 Aspose.Tasks' legacy API allowed setting default properties of a project by directly setting the public attributes of the Project class. In the new API implementation, however, it exposes Set and Get methods to achieve the same.
 
 **Legacy API Code Sample**
@@ -84,7 +84,7 @@ project.[Set](Prj.DefaultFixedCostAccrual, CostAccrualType.Prorated)
 project.Save("ProjectDefaultProps.xml", SaveFileFormat.XML)
 {{< /highlight >}}
 
-### **Creating and Adding Calendar to a Project**
+## **Creating and Adding Calendar to a Project**
 In order for proper functionality of Calendar items added to the Project, the legacy API required to recalculate Calendar UIDs. In the new API, however, UIDs recalculation are automatically dealt and there is no need to call the calculations manually.
 
 **Legacy API Code Sample**
@@ -138,7 +138,7 @@ Dim cal3 As Aspose.Tasks.Calendar = prj.Calendars.Add("cal3")
 prj.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
 {{< /highlight >}}
 
-### **Making A Standard Calendar**
+## **Making A Standard Calendar**
 Recalculating Calendar UIDs are no more required in the new ASpose.Tasks' API as compared to the legacy API.
 
 **Legacy API Code Sample**
@@ -185,7 +185,7 @@ Aspose.Tasks.Calendar.MakeStandardCalendar(cal1)
 project.Save("Project.Xml", Aspose.Tasks.Saving.SaveFileFormat.XML)
 {{< /highlight >}}
 
-### **Create and Add Task to Project**
+## **Create and Add Task to Project**
 Creating a new task in the legacy API, it required to define a root task, add it to the project as its root task, and then add a new task to this root task as a child. The new API, however, doesn't need you to define the root task and takes care of it automatically while adding the first task to the project.
 
 **Legacy API Code Sample**
@@ -232,7 +232,7 @@ task.[Set](Tsk.Start, project.RootTask.[Get](Tsk.Start).AddDays(1))
 project.Save("CreateTasks.xml", SaveFileFormat.XML)
 {{< /highlight >}}
 
-### **Create and Add Resource to Project**
+## **Create and Add Resource to Project**
 Set and Get methods have been added to the Resource class of the API for manipulating attributes related to a project's Resource.
 
 **Legacy API Code Sample**
@@ -275,7 +275,7 @@ rsc.[Set](Rsc.Finish, DateTime.Parse("31-Aug-2014 5:00 PM"))
 project.Save("CreateResource.xml", SaveFileFormat.XML)
 {{< /highlight >}}
 
-### **Create and Add Resource Assignment to Project**
+## **Create and Add Resource Assignment to Project**
 The ResourceAssignment class also introduces the Set and Get methods similar to other data collections of the API such as Tasks, Resources and Tasks Links.
 
 **Legacy API Code Sample**
