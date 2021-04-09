@@ -16,6 +16,7 @@ To see assignment budgets in Microsoft Project:
 
 1. On the Task Usage page, select the Insert menu and then Column.
 2. Add columns.
+
 ### **Getting Assignment Budget with Aspose.Tasks**
 The following code example demonstrates how to get an assignment budget using Aspose.Tasks.
 

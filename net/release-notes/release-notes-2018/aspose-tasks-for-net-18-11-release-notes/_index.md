@@ -10,7 +10,8 @@ url: /net/aspose-tasks-for-net-18-11-release-notes/
 
 This page contains release notes information for Aspose.Tasks for .NET 18.11.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

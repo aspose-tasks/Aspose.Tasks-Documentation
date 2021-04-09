@@ -10,7 +10,8 @@ url: /net/create-resources-and-link-with-tasks/
 
 While working with MPP files, you might need to create resources and link them to tasks from your project. This article gives an idea about how to load MPP files in your .NET applications and create resources and link to tasks from your projects using [VSTO](/tasks/net/create-resources-and-link-with-tasks/) and [Aspose.Tasks for .NET](/tasks/net/create-resources-and-link-with-tasks/).
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Create Resources and Link them to Tasks using VSTO**
 The following steps are required to accomplish this task:
 
@@ -19,6 +20,7 @@ The following steps are required to accomplish this task:
 3. Select Microsoft Project 12.0 Object Library and click **OK**. 
    This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.
 4. Use the code from the following example to read tasks and resources.
+
 ### **Code Examples - VSTO**
 The sample project file used in the following code snippets, SampleProject.mpp, can be downloaded from this page attachments. Before resources are created and linked to tasks, the Project1.mpp file looks as below.
 

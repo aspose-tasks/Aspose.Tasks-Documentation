@@ -10,10 +10,12 @@ url: /java/aspose-tasks-for-java-18-11-release-notes/
 
 This page contains release notes information for Aspose.Tasks for Java 18.11.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Major Features**
 - In this release we added support for JDK 11, now you can use either -jdk17 or -jdk18 library versions on JRE 11 environment.
 - Please also note about breaking changes in this release. We are going to put our Java port in order to minimize differences from the .NET version of the library. One of that changes is marking non-virtual methods of .NET version, as "final" in Java. In a case when such methods was overridden, compilation errors may appear in customer's code.
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

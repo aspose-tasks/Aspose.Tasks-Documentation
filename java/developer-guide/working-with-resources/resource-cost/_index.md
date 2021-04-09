@@ -16,7 +16,8 @@ The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resou
 - ACWP represents the actual cost of work performed by a resource to date (double).
 - AccrueAt represents the cost accrual method used for a resource (CostAccrualType).
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Resource Costs**
 To view resource costs in Microsoft Project:
 

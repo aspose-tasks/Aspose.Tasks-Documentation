@@ -17,6 +17,7 @@ The ConstraintDate and ConstraintType properties are exposed by the static c
 
 - ConstraintDate accepts and returns the DateTime datatype.
 - ConstraintType accepts and returns one of the values of the ConstraintType enumeration.
+
 ### **Setting Constraints in Microsoft Project**
 To set constraints in Microsoft Project:
 

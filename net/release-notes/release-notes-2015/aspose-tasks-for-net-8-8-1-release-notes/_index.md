@@ -21,6 +21,7 @@ bugs have been fixed. Please see the list of changes below.
 Also we have implemented Task ExtendedAttributes and 
 ExtendedAttributeDefinitions reading from Microsoft Project Server. About ten 
 bugs have been fixed. Please see the list of changes below.
+
 ## **All Changes**
 All Changes
 

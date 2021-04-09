@@ -11,6 +11,7 @@ url: /net/aspose-tasks-for-net-21-1-release-notes/
 This page contains release notes information for [Aspose.Tasks for .NET 21.1](https://downloads.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-21.1/).
 
 {{% /alert %}}
+
 ## **All Changes**
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |

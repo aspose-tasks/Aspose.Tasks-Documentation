@@ -28,6 +28,7 @@ This page contains release notes information for Aspose.Tasks for .NET 18.4.
 |TASKSNET-2297|Duration errors while loading XML Primavera file|Bug|
 |TASKSNET-2254|Updating task progress by setting PercentComplete creates wrong output|Bug|
 |TASKSNET-1667|If Tsk.Start is empty the Tsk.StartText must contain task start date|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**Public Types added**|**Description**|

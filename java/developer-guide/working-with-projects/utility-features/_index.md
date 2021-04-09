@@ -26,9 +26,13 @@ Aspose.Tasks for Java supports printing a message when there's an exception in w
 Aspose.Tasks allows to read Information about filters applied to an MPP file data. This topic shows retrieving Filter Definition and Filter Criteria data from a Microsoft Project MPP file.
 
 ### **Reading Filter Definition Data**
+
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-FilterDataFromMppFile-filter-data-definition.java" >}}
+
 ### **Reading Filter Criteria Data**
+
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-FilterDataFromMppFile-filter-data-criteria.java" >}}
+
 ## **Reading Group Definition Data**
 A Microsoft Project data file may contain data in groups. Aspose.Tasks for Java provides the facility to read the group definition data as shown in this topic.
 

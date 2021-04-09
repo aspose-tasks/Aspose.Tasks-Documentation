@@ -10,8 +10,7 @@ url: /java/aspose-tasks-for-java-19-5-release-notes/
 
 This page contains release notes information for Aspose.Tasks for Java 19.5.
 
-{{% /alert %}} 
-
+{{% /alert %}}
 
 ## **Features**
 - The support of Microsoft Project Online has been added.

@@ -14,7 +14,7 @@ url: /cpp/product-overview/
 
 Aspose.Tasks for C++ is a native class library that enables C++ applications to read and write Microsoft Project® files without using Microsoft Project®. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Benefits**
 Aspose.Tasks for C++ supports MPP, MPT, XML, XLSX, HTML, PDF and other formats. Using Aspose.Tasks you can generate, modify and convert documents without utilizing Microsoft Project®.
@@ -43,12 +43,14 @@ Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, ma
 - Resource prefix implementation for nested resources
 - Support of setting CSS prefix for HTML export
 - Set custom date format while exporting to PDF format
+
 ### **Platform Independence**
 Aspose.Tasks for C++ can be used to build 64-bit applications only and supports:
 
 - Visual Studio 2012
 - Visual Studio 2015
 - Visual Studio 2017
+
 ### **Supported Microsoft Project Versions**
 - 2003
 - 2007

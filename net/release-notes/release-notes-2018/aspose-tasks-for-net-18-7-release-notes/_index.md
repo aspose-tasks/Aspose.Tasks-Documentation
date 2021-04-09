@@ -6,10 +6,14 @@ weight: 70
 url: /net/aspose-tasks-for-net-18-7-release-notes/
 ---
 
-{{% alert color="primary" %}} This page contains release notes information of Aspose.Tasks for .NET 18.7. {{% /alert %}} 
+{{% alert color="primary" %}}
+This page contains release notes information of Aspose.Tasks for .NET 18.7.
+{{% /alert %}}
+
 ## **Key Features**
 - Support for saving Fonts/Images/CSS styles separately when saving as HTML
 - Support for OnlyTableValuesAllowed in Extended Attributes API
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Category**|

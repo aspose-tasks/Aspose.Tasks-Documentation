@@ -10,7 +10,8 @@ url: /net/aspose-tasks-for-net-20-3-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for .NET 20.3](https://downloads.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-20.3/).
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Major Features**
 In this release, we are presenting improvements related to interaction with Project Online and Project Server.
 

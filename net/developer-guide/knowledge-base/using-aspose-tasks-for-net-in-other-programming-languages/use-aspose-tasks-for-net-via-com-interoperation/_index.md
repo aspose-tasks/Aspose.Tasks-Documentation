@@ -25,6 +25,7 @@ Here are the topics that you will eventually need to master:
 - Using COM objects in your programming language. See your programming language documentation and the language-specific topics further in this documentation.
 - Working with COM objects exposed by .NET COM Interop. See [Interoperating With Unmanaged Code](https://docs.microsoft.com/en-us/dotnet/framework/interop/?redirectedfrom=MSDN) and [Exposing .NET Framework Components to COM](https://docs.microsoft.com/en-us/dotnet/framework/interop/exposing-dotnet-components-to-com?redirectedfrom=MSDN) in MSDN.
 - The Aspose.Tasks document object model. See Aspose.Tasks [Developer Guide](/tasks/net/developer-guide/) and [API Reference](https://apireference.aspose.com/tasks/net).
+
 ### **Register Aspose.Tasks for .NET with COM Interop**
 You need to install Aspose.Tasks for .NET and make sure that it is registered with COM Interop (ensuring that it can be called from unmanaged code).
 

@@ -10,7 +10,8 @@ url: /java/tasks-and-calendars/
 
 It is possible to associate calendars with particular tasks in Microsoft Project. Aspose.Task supports this functionality.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Tasks with Calendars**
 The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes the [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar/) property, used to set or get the calendar associated with a task. This property accepts or returns an object of com.aspose.tasks.Calendar class.
 

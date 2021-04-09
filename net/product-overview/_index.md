@@ -16,9 +16,11 @@ Aspose.Tasks for .NET is a cross-platform class library that enables .NET applic
 
 With Aspose.Tasks for .NET, it is possible to program with Microsoft Project (MPP/XML) files without using Microsoft Project. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Benefits**
 Aspose.Tasks for .NET supports MPP, MPT, XML, XLSX, HTML, PDF, XAML and other formats. With Aspose.Tasks you can generate, modify, convert, render and print documents without utilizing Microsoft Project®. Using Aspose.Tasks for .NET in your applications gives you the following benefits:
+
 ### **Rich Features**
 Aspose.Tasks offers a wide arrange of features for creating, reading, manipulating and saving project files:
 

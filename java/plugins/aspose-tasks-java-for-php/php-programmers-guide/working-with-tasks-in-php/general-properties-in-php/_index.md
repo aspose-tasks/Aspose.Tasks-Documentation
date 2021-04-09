@@ -17,10 +17,8 @@ $collector = new ChildTasksCollector();
 $taskUtils = new TaskUtils();
 $taskUtils->apply($project->getRootTask(), $collector, 0);
 $tasks = $collector->getTasks();
-#puts tasks.size()
-#abort()
+puts tasks.size()
 $tsk = new Tsk();
-#tasks.each do |task|
 $i = 0;
 while ($i < sizeof($tasks))
 {

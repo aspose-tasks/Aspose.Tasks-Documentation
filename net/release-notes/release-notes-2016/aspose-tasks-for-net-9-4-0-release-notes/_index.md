@@ -12,6 +12,7 @@ Aspose.Tasks for .NET API enables application developers to write code for manip
 - Support for CalculationType and RollupType reading/Writing for an Extended Attribute
 - Support for reading VBA from MPP file
 - Implementation of Field Type converter for the Formula Calculation
+
 ## **Features and Improvements**
 
 |**Key** |**Summary** |**Category** |

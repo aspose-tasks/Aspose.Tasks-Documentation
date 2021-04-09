@@ -10,7 +10,8 @@ url: /net/aspose-tasks-for-net-19-9-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for .NET 19.9](https://downloads.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-19.9/).
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **All Changes**
 
 | **Key** | **Summary** |**Issue Type**|

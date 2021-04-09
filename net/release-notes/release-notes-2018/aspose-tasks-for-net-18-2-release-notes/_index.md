@@ -6,7 +6,12 @@ weight: 120
 url: /net/aspose-tasks-for-net-18-2-release-notes/
 ---
 
-{{% alert color="primary" %}}  This page contains release notes information for Aspose.Tasks for .NET 18.2. {{% /alert %}} 
+{{% alert color="primary" %}}
+
+This page contains release notes information for Aspose.Tasks for .NET 18.2.
+
+{{% /alert %}}
+
 ## **Major Features**
 
 |**Key**|**Summary**|**Category**|
@@ -23,6 +28,7 @@ url: /net/aspose-tasks-for-net-18-2-release-notes/
 |TASKSNET-2223|Exception raised while loading project from memory stream|Bug|
 |TASKSNET-2097|GanttBarStyle not set for summary task|Bug|
 |TASKSNET-1690|Tasks with custom time-phased data have different finish date while opened in MSP (.NET)|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**Added Public Types**|**Description**|

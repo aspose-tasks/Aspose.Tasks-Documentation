@@ -11,6 +11,7 @@ url: /java/aspose-tasks-for-java-20-12-release-notes/
 This page contains release notes information for [Aspose.Tasks for Java 20.12](https://downloads.aspose.com/tasks/java/new-releases/aspose.tasks-for-java-20.12/).
 
 {{% /alert %}}
+
 ## **All Changes**
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |

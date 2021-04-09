@@ -10,8 +10,7 @@ url: /java/aspose-tasks-for-java-19-4-release-notes/
 
 This page contains release notes information for Aspose.Tasks for Java 19.4.
 
-{{% /alert %}} 
-
+{{% /alert %}}
 
 ## **All Changes**
 

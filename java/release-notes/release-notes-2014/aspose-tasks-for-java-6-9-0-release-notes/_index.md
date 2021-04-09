@@ -25,6 +25,7 @@ The following public methods were added to existing classes (Java):
 |AssignmentViewColumn.setField|Sets column field. |
 |GanttChartView.getNonWorkingTimeColor|Returns non-working time color of a Gantt chart view. |
 |GanttChartView.setNonWorkingTimeColor|Sets non-working time color of a Gantt chart view. |
+
 ### **Added Public Fields**
 The following public fields were added to existing classes (Java):
 

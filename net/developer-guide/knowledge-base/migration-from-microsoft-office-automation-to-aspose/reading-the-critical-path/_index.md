@@ -16,7 +16,8 @@ If it's important for your project to finish on schedule, pay close attention to
 
 This article gives a small idea of how to load MPP files in your .NET applications and read the critical path or the tasks on the critical path from your projects using [VSTO](/tasks/net/reading-the-critical-path/) and [Aspose.Tasks for .NET](/tasks/net/reading-the-critical-path/).
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Read Critical Path Using VSTO**
 Following steps are required to accomplish this task:
 
@@ -25,9 +26,8 @@ Following steps are required to accomplish this task:
 3. Select the Microsoft Project 12.0 Object Library and then click **OK**.
    This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.
 4. Use the code from the following example to read critical tasks.
+
 ### **Code Examples - VSTO**
-
-
 {{< highlight csharp >}}
 // Create Application object
 Application projectApplication = new ApplicationClass();

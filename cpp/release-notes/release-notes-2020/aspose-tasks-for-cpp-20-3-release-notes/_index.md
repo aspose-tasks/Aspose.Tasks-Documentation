@@ -10,7 +10,7 @@ url: /cpp/aspose-tasks-for-cpp-20-3-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for C++ 20.3](https://www.nuget.org/packages/Aspose.Tasks.Cpp/20.3.0) version.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 Aspose.Tasks for C++ is based on the .NET version of the API and provides strictly the same functionality as Aspose.Tasks for .NET provides, excluding printing, database I/O operations, Project Online support, and EMF/WMF format support.
 ## **Deprecated Members**

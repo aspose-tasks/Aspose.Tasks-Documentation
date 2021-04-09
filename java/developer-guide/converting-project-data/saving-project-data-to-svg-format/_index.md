@@ -11,7 +11,8 @@ url: /java/saving-project-data-to-svg-format/
 
 This article shows how to render project data to SVG format using Aspose.Tasks Java.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Saving a Project as SVG**
 The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The save method allows you to render project data to SVG format using the SaveFileFormat enumeration type.
 

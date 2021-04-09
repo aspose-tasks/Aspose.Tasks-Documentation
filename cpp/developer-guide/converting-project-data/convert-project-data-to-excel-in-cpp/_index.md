@@ -18,14 +18,17 @@ To save a project to XLSX:
 
 1. Load a Microsoft Project file.
 2. Save the project to XLSX using SaveFileFormat.XLSX.
+
 ## **Saving a Project as XLSX**
 The following lines of code demonstrate how to achieve this using C++.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-SaveProjectAsXLSX-SaveProjectAsXLSX.cpp" >}}
+
 ### **Using XlsxOptions**
 With XlsxOptions, you can modify how the project is exported.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-UsingXlsxOptions-UsingXlsxOptions.cpp" >}}
+
 ## **Save Project Data to Spreadsheet2003 XML**
 There are two ways to save data to Spreadsheet2003 XML format: default, or using save options. Using the SaveFileFormat instance, the default view data is saved.
 

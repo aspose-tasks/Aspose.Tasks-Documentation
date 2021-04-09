@@ -10,8 +10,7 @@ url: /java/aspose-tasks-for-java-20-1-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for Java 20.1](https://downloads.aspose.com/tasks/java/new-releases/aspose.tasks-for-java-20.1/).
 
-{{% /alert %}} 
-
+{{% /alert %}}
 
 ## **All Changes**
 

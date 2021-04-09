@@ -11,8 +11,10 @@ url: /java/aspose-tasks-java-for-intellij-idea-maven/
 **IntelliJ IDEA** is a Java integrated development environment (IDE) for software developers. It is developed by JetBrains. Originally created for Java, it currently supports a wide variety of languages, including JavaScript, Groovy, HTML, CSS, RSS, R, Haskell, PHP, Ruby, Python, Scala, Clojure, and Kotlin.
 
 In a 2010 **InfoWorld** report, IntelliJ received the highest test center score out of the four top Java programming tools: Eclipse, IntelliJ IDEA, NetBeans and Oracle JDeveloper.
+
 ### **Aspose.Tasks for Java**
 [Aspose.Tasks](https://products.aspose.com/tasks/java) for Java is a project management API that enables Java application developers to provide Microsoft Project® document manipulation capability in their applications – all without using Microsoft Project®. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
+
 ### **Aspose.Tasks Java for IntelliJ IDEA - Maven**
 - Aspose.Tasks Java for IntelliJ IDEA (Maven) is an **IntelliJ IDEA Plugin** which lets you create maven projects (i.e. created project contains Aspose.Tasks for Java API maven dependency) and download source code examples of the API for using [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java).
 - This plugin helps you to work with [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) inside your favorite IntelliJ IDEA.

@@ -10,7 +10,8 @@ url: /net/aspose-tasks-for-net-20-7-1-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for .NET 20.7.1](https://downloads.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.7.1/).
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **All Changes**
 
 | **Key** | **Summary** |**Issue Type**|

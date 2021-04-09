@@ -10,7 +10,7 @@ url: /cpp/aspose-tasks-for-cpp-19-9-release-notes/
 
 This page contains release notes information for Aspose.Tasks for C++ 19.9 version.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 Aspose.Tasks for C++ has been launched. It allows you to read and write Microsoft Project® files without using Microsoft Project®.
 

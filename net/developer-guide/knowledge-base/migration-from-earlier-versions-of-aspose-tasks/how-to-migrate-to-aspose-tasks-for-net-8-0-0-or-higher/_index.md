@@ -23,7 +23,7 @@ This new API is incompatible with the Legacy API and the objective of this artic
 - [Adding a Resource to Project](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/)
 - [Create Resource Assignment](/tasks/net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/)
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ### **Setting Default Project Properties**
 Aspose.Tasks' legacy API allowed setting default properties of a project by directly setting the public attributes of the Project class. In the new API implementation, however, it exposes Set and Get methods to achieve the same.
@@ -310,7 +310,8 @@ project.Save("CreateResource.xml", SaveFileFormat.XML)
 
 ### **Create and Add Resource Assignment to Project**
 The ResourceAssignment class also introduces the Set and Get methods similar to other data collections of the API such as Tasks, Resources and Tasks Links.
-###### **Legacy API Code Sample**
+
+#### **Legacy API Code Sample**
 **C#**
 
 {{< highlight csharp >}}

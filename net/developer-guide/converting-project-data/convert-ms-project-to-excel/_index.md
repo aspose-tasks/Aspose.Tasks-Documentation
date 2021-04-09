@@ -11,7 +11,7 @@ url: /net/convert-ms-project-to-excel/
 
 This article shows how to save project data to XLSX format using Aspose.Tasks for .NET.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project/) class exposes the Save method which is used to save a project in various formats. The Save method allows you to save project tasks, resources and assignments to separate worksheets to XLSX format using the SaveFileFormat enumeration type.
 
@@ -19,6 +19,7 @@ To save a project to XLSX:
 
 1. Load a Microsoft Project file.
 2. Save the project to XLSX using SaveFileFormat.XLSX.
+
 ## **Saving a Project as XLSX**
 The following lines of code show how to achieve this using C#.
 

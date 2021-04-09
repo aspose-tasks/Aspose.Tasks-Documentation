@@ -34,6 +34,7 @@ Please perform the following steps in order to use Aspose.Tasks for C++ in your 
 1. [Download](https://www.nuget.org/packages/Aspose.Tasks.Cpp/) the latest files.
 2. Unzip the folder to the production environment.
 3. To use Aspose.Tasks for C++, reference Include and lib folders in your project.
+
 ## **Uninstalling Aspose.Tasks for C++**
 If you installed Aspose.Tasks using the MSI installer, you can remove the component and the associated demos and documentation:
 

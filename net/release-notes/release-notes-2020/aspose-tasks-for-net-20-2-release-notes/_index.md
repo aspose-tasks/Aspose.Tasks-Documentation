@@ -68,6 +68,7 @@ foreach (var property in project.BuiltInProps)
 |TASKSNET-3753 | Fix extra resource presented in output MPP after reading from DB |Bug |
 |TASKSNET-3727 | Fix different project start/end dates in licensed and evaluation modes |Bug |
 |TASKSNET-3709 | Fix reading of GdHtml files |Bug |
+
 ## **Public API and Backwards Incompatible Changes**
 
 | **The following public types were added:** | **Description** |

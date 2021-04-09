@@ -10,8 +10,9 @@ url: /java/creating-resources/
 
 The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class exposes two methods for creating a resource: default or by name. Each is shown below.
 
-{{% /alert %}} 
-**Creating a Resource**
+{{% /alert %}}
+
+## **Creating a Resource**
 The simplest way of creating and adding a resource is to call the Project class' addResource method. Variants of this method let you:
 
 1. Add a resource with the default constructor

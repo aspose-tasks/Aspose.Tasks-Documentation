@@ -10,9 +10,10 @@ url: /cpp/aspose-tasks-for-cpp-20-1-release-notes/
 
 This page contains release notes information for Aspose.Tasks for C++ 20.1 version.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 Aspose.Tasks for C++ is based on the .NET version of the API and provides strictly the same functionality as Aspose.Tasks for .NET provides, excluding printing, database I/O operations, Project Online support, and EMF/WMF format support.
+
 ## **API Features**
 Aspose.Tasks for С++ 20.1 release now supports the long-awaited feature of saving into the MPP format without preloading of MPP template. So, the next scenario is valid now:
 

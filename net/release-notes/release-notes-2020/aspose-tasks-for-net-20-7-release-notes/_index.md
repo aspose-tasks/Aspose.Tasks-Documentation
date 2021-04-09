@@ -10,7 +10,8 @@ url: /net/aspose-tasks-for-net-20-7-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for .NET 20.7](https://downloads.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.7/).
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **All Changes**
 
 | **Key** | **Summary** |**Issue Type** |
@@ -33,6 +34,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.7](ht
 |**The following public methods and properties were added:** | **Description** |
 | :- | :- |
 | Aspose.Tasks.Project.CustomProperties | |
+
 ### **Breaking change in Project Server credential usage**
 In Aspose.Tasks for .NET 20.7, the requirements to a site URL for Project Server credentials have been changed.
 Now, a user should specify the full URL of the PWA endpoint when using ProjectServerCredentials.

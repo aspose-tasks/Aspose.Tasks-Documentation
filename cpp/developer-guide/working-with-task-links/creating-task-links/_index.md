@@ -8,6 +8,7 @@ url: /cpp/creating-task-links/
 
 ## **Overview**
 Microsoft Project allows to link tasks based on the relationship between these. A task link is defined by a predecessor and a successor task. Task links can be of different types including FinishToFinish, FinishToStart, StartToFinish, and StartToStart. Aspose.Tasks for C++ API provides users with the capability to define task links in their project using the [TaskLink](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.task_link) class.
+
 ## **Creating a Task Link**
 A task link is created using the default constructor (TaskLink) which accepts three parameters:
 

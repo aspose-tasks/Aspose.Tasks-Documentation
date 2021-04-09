@@ -17,6 +17,7 @@ After saving a baseline, the task baseline duration can be viewed in Microsoft P
 1. On the **View** menu, select **More Views** and ten **Task Entry**.
 2. From the **Insert** menu, select **Columns**.
 3. Add the Baseline Duration column.
+
 ### **Getting Task Baseline Duration using Aspose.Tasks**
 The code example given below demonstrates the task baseline duration in the console window after traversing the task baselines of a task.
 

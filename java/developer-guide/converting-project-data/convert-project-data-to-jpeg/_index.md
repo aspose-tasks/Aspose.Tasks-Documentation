@@ -11,6 +11,6 @@ url: /java/convert-project-data-to-jpeg/
 
 Aspose.Tasks for Java API lets you save project data to JPEG file format. You can also export the project data to JPEG with specified image quality.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveProjectAsJPEG-SaveProjectAsJPEG.java" >}}

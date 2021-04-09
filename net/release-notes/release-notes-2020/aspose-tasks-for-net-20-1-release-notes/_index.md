@@ -10,10 +10,9 @@ url: /net/aspose-tasks-for-net-20-1-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for .NET 20.1](https://downloads.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-20.1/).
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Major Features**
-
 The release Aspose.Tasks for .NET 20.1 supports the long-awaited feature of saving into MPP format without preloading of MPP template file.
 
 {{< highlight csharp >}}

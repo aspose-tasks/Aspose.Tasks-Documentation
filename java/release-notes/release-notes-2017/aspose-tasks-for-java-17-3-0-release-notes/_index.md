@@ -10,7 +10,8 @@ url: /java/aspose-tasks-for-java-17-3-0-release-notes/
 
 This page contains release notes for Aspose.Tasks for Java 17.3.0 version.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Features and Improvements**
 
 |**Key**|**Summary**|**Category**|

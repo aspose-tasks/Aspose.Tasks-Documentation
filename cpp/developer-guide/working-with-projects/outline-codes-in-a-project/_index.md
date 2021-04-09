@@ -10,7 +10,8 @@ url: /cpp/outline-codes-in-a-project/
 
 Custom outline codes are tags you define for tasks or resources that provide a project structure that is different from WBS codes or outline numbers. Aspose.Tasks for C++ lets you retrieve these outline codes and their properties, such as Alias, AllLevelsRequired, Enterprise, EnterpriseOutlineCodeAlias, FieldId, FieldName, PhoneticAlias, GUID, Masks and Values.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Reading Outline Codes**
 The Project class exposes OutlineCodes which is a collection of OutlineCodeDefinition items. The OutlineCodeDefinition provides all the detail as shown in the following sample code.
 

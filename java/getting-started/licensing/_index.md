@@ -11,12 +11,14 @@ A free evaluation version of Aspose.Tasks for Java can be downloaded from [downl
 
 {{% alert color="primary" %}} 
 If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](https://purchase.aspose.com/temporary-license)?
-{{% /alert %}} 
+{{% /alert %}}
 
 ### **PDF Creator Information**
-Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for Java x.x.x will be displayed against these fields
+Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for Java x.x.x will be displayed against these fields.
+
 ### **Limitations**
 The evaluation version provides all the features except the following:
+
 #### **DateTime Limitation**
 The date year will be converted to 2000 in the projects that will be written through Aspose.Tasks for Java as explained in the following code example. This example tries to create a project with two tasks through Aspose.Tasks for Java without using a license file.
 

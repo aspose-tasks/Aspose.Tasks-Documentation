@@ -10,7 +10,8 @@ url: /net/aspose-tasks-for-net-18-3-release-notes/
 
 This page contains release notes information about Aspose.Tasks for .NET 18.3.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Major Features**
 
 |**Key**|**Summary**|**Category**|
@@ -21,6 +22,7 @@ This page contains release notes information about Aspose.Tasks for .NET 18.3.
 |TASKSNET-2234|Dates and tasks duration are not correct|Bug|
 |TASKSNET-1937|Not all properties of extended attributes are filled|Bug|
 |TASKSNET-1738|MPP with formulas gets corrupted after saving by Aspose.Tasks|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**Public methods and Properties added**|**Description**|

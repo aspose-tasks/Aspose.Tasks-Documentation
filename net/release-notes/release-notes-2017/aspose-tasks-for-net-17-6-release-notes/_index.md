@@ -10,7 +10,8 @@ url: /net/aspose-tasks-for-net-17-6-release-notes/
 
 This page contains release notes of Aspose.Tasks for .NET 17.6 version.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Improvements**
 
 |**Key**|**Summary**|**Category**|
@@ -27,6 +28,7 @@ This page contains release notes of Aspose.Tasks for .NET 17.6 version.
 |TASKSNET-1724|Use of PrintOptions causes exception while using with Print()|Bug|
 |TASKSNET-1685|Difference in timephased data while using calendar with exception and comparing the output XML with MSP view (.NET)|Bug|
 |TASKSNET-1586|Company Information written to MPP is not displayed in MPP|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**APIs Added**|**Description**|

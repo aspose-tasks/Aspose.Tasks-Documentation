@@ -16,7 +16,8 @@ In Aspose.Tasks for .NET Project.TaskLinks provides a collection of links which 
 
 This article shows how to load MPP files in your .NET application and add/display link tasks using [VSTO](/tasks/net/adding-links-for-tasks/) and [Aspose.Tasks for .NET](/tasks/net/adding-links-for-tasks/).
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Link Tasks Using VSTO**
 To link a task using VSTO:
 

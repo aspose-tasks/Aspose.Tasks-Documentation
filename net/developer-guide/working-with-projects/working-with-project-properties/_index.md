@@ -126,6 +126,7 @@ The [Prj](https://apireference.aspose.com/tasks/net/aspose.tasks/prj) class expo
 
 - **FyStartDate**: define the fiscal year start month and supports one of the values defined by the Month enumeration.
 - **FiscalYearStart**: determines whether the fiscal year numbering has been used in the project. Boolean.
+
 ### **Reading Fiscal Year Properties**
 The FyStartDate and FiscalYearStart properties make it easy to find out what the current fiscal year start date is, and whether fiscal year numbering is used, with Aspose.Tasks.
 

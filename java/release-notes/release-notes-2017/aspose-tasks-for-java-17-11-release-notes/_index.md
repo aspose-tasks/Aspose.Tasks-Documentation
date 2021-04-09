@@ -10,9 +10,11 @@ url: /java/aspose-tasks-for-java-17-11-release-notes/
 
 This page contains release notes information about Aspose.Tasks for Java 17.11 version.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Major Features**
 - Option to set Image quality while saving project data to JPEG
+
 ## **Improvements**
 
 |**Key**|**Summary**|**Category**|

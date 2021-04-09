@@ -10,7 +10,8 @@ url: /net/aspose-tasks-for-net-17-11-release-notes/
 
 This page contains release notes information about Aspose.Tasks for .NET 17.11.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Major Features**
 This release of Aspose.Tasks for .NET includes following major features.
 
@@ -33,6 +34,7 @@ This release of Aspose.Tasks for .NET includes following major features.
 |TASKSNET-1748|Loading project raises ProjectReadingException|Bug|
 |TASKSNET-1747|TaskReadingException while reading the MPP file|Bug|
 |TASKSNET-702|MSP 2010 raises error while updating and saving MPP created by Aspose.Tasks|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**The following public methods and properties were added:**|**Description**|

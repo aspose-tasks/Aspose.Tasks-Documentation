@@ -18,6 +18,7 @@ To view assignment costs in Microsoft Project:
 
 1. On the Task Usage page, select the **Insert** menu and then **Column**.
 2. Add columns.
+
 ### **Getting Assignment Costs with Aspose.Tasks**
 The following code example demonstrates how to get task costs using Aspose.Tasks.
 

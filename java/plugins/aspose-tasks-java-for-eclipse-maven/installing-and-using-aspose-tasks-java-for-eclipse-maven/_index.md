@@ -14,7 +14,9 @@ url: /java/installing-and-using-aspose-tasks-java-for-eclipse-maven/
 ![Aspose.Tasks for Java Maven Step One](image_1.png)
 
 - This adds the **Aspose.Tasks Maven Project** in New Project wizard and **Aspose.Tasks Code Example** in New File wizard of Eclipse IDE.
+
 ## **Using**
+
 ### **Aspose.Tasks Maven Project (wizard)**
 To create **Maven Project** by wizard for using [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java):
 
@@ -40,7 +42,7 @@ To create **Maven Project** by wizard for using [Aspose.Tasks for Java API](http
 
 To be able to use **Aspose.Tasks Code Example wizard** comfortably: it is recommended to always select **Also Download Code Examples** while creating **Maven Project** on **Aspose.Tasks Maven Project Wizard**, 
 
-{{% /alert %}} 
+{{% /alert %}}
 
 To use examples, just:
 

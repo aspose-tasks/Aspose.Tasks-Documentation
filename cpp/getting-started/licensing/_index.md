@@ -13,11 +13,14 @@ A free evaluation version of Aspose.Tasks for C++ can be downloaded from the dow
 
 If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](https://purchase.aspose.com/temporary-license)?
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ### **PDF Creator Information**
 - Please note that you cannot set values against the **Application** and **Producer** fields, because of Aspose Ltd. and Aspose.Tasks for C++ x.x.x will be displayed against these fields.
+
 ### **Evaluation Limitations**
 The evaluation version provides all the features except the following:
+
 #### **DateTime Limitation**
 The date year will be converted to 2000 in the projects that will be written through Aspose.Tasks for C++ as explained in the following code example. This example tries to create a project with two tasks through Aspose.Tasks for C++ without using a license file.
 
@@ -38,6 +41,7 @@ Once you are happy with your evaluation of Aspose.Tasks for C++, buy a license
 Every Aspose license carries a one-year [subscription](https://purchase.aspose.com/policies/subscriptions) for free upgrades to any new versions or fixes that come out during this time. Technical support is free and unlimited and provided both to licensed and evaluation users.
 
 The license is a plain-text XML file that contains details such as the product name, number of licensed developers, subscription expiry date and so on. The file is digitally signed, so do not modify the file: even adding an extra line break to the file invalidates it.
+
 ### **When to Apply a License**
 Follow these simple rules:
 

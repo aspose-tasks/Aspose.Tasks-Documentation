@@ -12,6 +12,7 @@ Work variance is the difference between the estimated work (the baseline) and ac
 The WorkVariance property exposed by the Resource class handles variance in work:
 
 - WorkVariance: a project resource's difference from the baseline work (double).
+
 ### **Microsoft Project View of Resource Work Variance**
 To see the resource work variance in Microsoft Project:
 

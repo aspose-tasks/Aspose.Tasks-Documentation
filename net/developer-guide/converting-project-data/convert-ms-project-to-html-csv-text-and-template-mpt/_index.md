@@ -20,13 +20,16 @@ Aspose.Tasks can export project data to HTML format. It allows to save all the d
 
 
 ### **Controlling Document Header Name during Export to HTML**
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-ControlHeaderNameDuringHTMLExport-ControlHeaderNameDuringHTMLExport.cs" >}}
+
 ### **Saving Fonts, Images and CSS Styles Separately**
 Aspose.Tasks for .NET API gives you enough power to save fonts, images, and CSS styles information separately to files while saving Project Data to HTML. This is achieved using the HtmlSaveOptions class by providing information about CSS, Font and Image destinations. 
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-ResourcePrefixForNestedResources-ResourcePrefixForNestedResources.cs" >}}
 
 ### **Adding Page Prefix in CSS Classes While Exporting to HTML**
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-AddingCssStylePrefix-AddingCssStylePrefix.cs" >}}
 
 ## **Saving a Project as CSV**
@@ -65,7 +68,9 @@ if (CSV == writtenCSV)
 {{< /highlight >}}
 
 ## **Save Project to Text**
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectAsText-SaveProjectAsText.cs" >}}
 
 ## **Save Project Data as Template (MPT)**
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectDataAsTemplate-SaveProjectDataAsTemplate.cs" >}}

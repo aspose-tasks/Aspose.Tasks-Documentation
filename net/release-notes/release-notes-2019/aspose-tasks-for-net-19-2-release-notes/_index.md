@@ -10,8 +10,7 @@ url: /net/aspose-tasks-for-net-19-2-release-notes/
 
 This page contains release notes information for Aspose.Tasks for .NET 19.2.
 
-{{% /alert %}} 
-
+{{% /alert %}}
 
 ## **Major Features**
 - Support for Microsoft Project Online,  MPP files saved with Microsoft Office 365 cloud has been supported.
@@ -34,6 +33,7 @@ This page contains release notes information for Aspose.Tasks for .NET 19.2.
 |TASKSNET-2905|Fix schedule differences after the MPP file being re-saved|Bug|
 |TASKSNET-2827|Fix Chinese timestamps after the MPP file being exported to PDF in US locale|Bug|
 |TASKSNET-2519|Fix displaying of lookup values after the MPP file being re-saved|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**The following public types were added:**|**Description**|

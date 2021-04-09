@@ -10,10 +10,12 @@ url: /java/aspose-tasks-for-java-18-6-release-notes/
 
 This page contains release notes information of Aspose.Tasks for Java 18.6.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Major Improvements**
-- Support for [reading/writing of extended attributes to resource assignment](/tasks/java/adding-extended-attributes-to-resource-assignments/)
-- Validation of work contour type for manual tasks and assignments without resource
+- Support for [reading/writing of extended attributes to resource assignment](/tasks/java/adding-extended-attributes-to-resource-assignments/).
+- Validation of work contour type for manual tasks and assignments without resource.
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Category**|

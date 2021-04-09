@@ -10,8 +10,7 @@ url: /java/aspose-tasks-for-java-20-2-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for Java 20.2](https://downloads.aspose.com/tasks/java/new-releases/aspose.tasks-for-java-20.2/).
 
-{{% /alert %}} 
-
+{{% /alert %}}
 
 ## **All Changes**
 
@@ -27,6 +26,7 @@ This page contains release notes information for [Aspose.Tasks for Java 20.2](ht
 |TASKSNET-3530|Fix rendering of newly added task|Bug|
 |TASKSJAVA-1073|Resource GUID is not being saved correctly in MPP|Bug|
 |TASKSJAVA-1026|Resaving to .mpp fails with exception "TasksWritingException: Project writing exception."|Bug|
+
 |TASKSJAVA-1019|Resource rates does not shown correctly in the output|Bug|
 ## **Public API and Backwards Incompatible Changes**
 

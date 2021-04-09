@@ -7,6 +7,7 @@ url: /net/creating-resources-in-vsto-and-aspose-tasks/
 ---
 
 ## **Code Examples**
+
 ### **VSTO**
 Below is code sample to create resource in project.
 

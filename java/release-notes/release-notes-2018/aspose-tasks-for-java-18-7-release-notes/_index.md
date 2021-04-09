@@ -10,12 +10,15 @@ url: /java/aspose-tasks-for-java-18-7-release-notes/
 
 This page contains release notes information for Aspose.Tasks for Java 18.7.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Major Improvements**
 - Support for saving fonts/images/css styles separately when saving as HTML
 - Support for OnlyTableValuesAllowed in Extended Attribute
+
 ## **Breaking Changes**
 - Methods save and saveAsTemplate in Project class can now throw java.io.IOException.
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Category**|

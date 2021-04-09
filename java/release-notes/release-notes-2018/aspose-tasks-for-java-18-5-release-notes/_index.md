@@ -10,7 +10,8 @@ url: /java/aspose-tasks-for-java-18-5-release-notes/
 
 This page contains release notes information of Aspose.Tasks for Java 18.5.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Category**|

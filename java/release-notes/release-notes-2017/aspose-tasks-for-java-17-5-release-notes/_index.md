@@ -10,7 +10,8 @@ url: /java/aspose-tasks-for-java-17-5-release-notes/
 
 This page contains release notes information about Aspose.Tasks for Java 17.5.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Features and Improvements**
 
 |**Key**|**Summary**|**Category**|

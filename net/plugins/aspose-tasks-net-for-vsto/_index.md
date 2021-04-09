@@ -23,6 +23,7 @@ The developers looking for file format libraries may need to walk through the fe
 If you are a .NET developer looking for faster, easy and light-weight file format library to process files, you may need to compare VSTO (Visual Studio tool for Office) with Aspose. In this case, this project will help you to compare features and code in both libraries.
 
 ## **System Requirements and Supported Platforms**
+
 ### **System Requirements**
 One or more of the following editions of Visual Studio Tools for Office:
 

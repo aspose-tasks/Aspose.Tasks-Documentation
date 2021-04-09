@@ -10,7 +10,8 @@ url: /java/general-resource-assignment-properties/
 
 An assignment is a resource that has been assigned to a specific task. Each resource has general properties, typically a unique ID, a start and a finish time. This article explains how to set and get these properties with Aspose.Tasks.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with General Assignment Properties**
 The [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.tasks/ResourceAssignment) class exposes a number of properties used to set and get general assignment properties:
 

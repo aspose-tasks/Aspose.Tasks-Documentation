@@ -16,6 +16,7 @@ Aspose.Tasks for Java provides reporting services for creating reports from proj
 {{% /alert %}}
 
 ## **Aspose.Tasks Reporting Services**
+
 ### **Types of Report**
 The following types of reports can be created using Aspose.Tasks:
 

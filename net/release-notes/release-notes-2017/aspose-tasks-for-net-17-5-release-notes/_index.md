@@ -10,7 +10,8 @@ url: /net/aspose-tasks-for-net-17-5-release-notes/
 
 This page contains release notes of Aspose.Tasks for .NET 17.5 version.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Improvements**
 
 |**Key**|**Summary**|**Category**|
@@ -29,6 +30,7 @@ This page contains release notes of Aspose.Tasks for .NET 17.5 version.
 |TASKSNET-1616|Wrong Actual Start, % Complete and Actual duration calculated while saving MPP|Bug|
 |TASKSNET-1574|The value of actual start of parent node set to NA while loading and saving the project (.NET)|Bug|
 |TASKSNET-1565|TimephasedData written to MPP File shows wrong Work Values for the Last two days|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**Public Types added**|**Description**|

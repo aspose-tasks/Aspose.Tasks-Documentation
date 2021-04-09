@@ -6,9 +6,11 @@ weight: 40
 url: /net/aspose-tasks-for-net-17-8-release-notes/
 ---
 
-{{% alert color="primary" %}} This page contains release notes of Aspose.Tasks for .NET 17.8. {{% /alert %}} 
+{{% alert color="primary" %}} This page contains release notes of Aspose.Tasks for .NET 17.8. {{% /alert %}}
+
 ## **Major Features**
 This release provides the capability of reading/writing RateScale information for Microsoft Project 2013 onward versions.
+
 ## **Features and Improvements**
 
 |**Key**|**Summary**|**Category**|

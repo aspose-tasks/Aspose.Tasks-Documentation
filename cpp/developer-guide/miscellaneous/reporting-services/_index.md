@@ -16,6 +16,7 @@ Aspose.Tasks for C++ API provides reporting services for creating reports from p
 {{% /alert %}}
 
 ## **Aspose.Tasks for C++ Reporting Services**
+
 ### **Types of Report**
 The following types of report can be created using Aspose.Tasks:
 

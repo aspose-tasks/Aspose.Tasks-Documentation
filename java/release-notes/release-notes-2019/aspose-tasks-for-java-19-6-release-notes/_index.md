@@ -10,11 +10,11 @@ url: /java/aspose-tasks-for-java-19-6-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for Java 19.6](https://downloads.aspose.com/tasks/java/new-releases/aspose.tasks-for-java-19.6/).
 
-{{% /alert %}} 
-
+{{% /alert %}}
 
 ## **Features**
 - The support of Microsoft Project 2019 has been added.
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

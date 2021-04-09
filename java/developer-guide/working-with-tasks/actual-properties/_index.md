@@ -10,7 +10,8 @@ url: /java/actual-properties/
 
 The actual properties are used to find out how much time or money has been sent on a task to date.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Working with Actual Properties**
 The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/task) exposes a number of properties for determining a task's actual properties:
 

@@ -7,7 +7,7 @@ url: /net/importing-and-exporting-project-data-to-primavera-format/
 ---
 
 Primavera Proprietary Exchange Format (XER), by Oracle Inc., is primarily associated with Primavera Project Management. Aspose.Tasks for .NET provides the capability to export Microsoft Project Data to Primavera XER as well as XML formats. This article shows how to import or export to a variety of Primavera supported formats.
- 
+
 ## **Importing Data from Primavera File**
 
 ### **Importing Data from Primavera XML File Formats**
@@ -16,6 +16,7 @@ Aspose.Tasks can import Primavera XML similar to Microsoft Project XML and MPP f
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ImportingAndExporting-ImportDataFromXMLFileFormats-ImportDataFromXMLFileFormats.cs" >}}
 
 ### **Importing Data from Primavera MPX File Formats**
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ImportingAndExporting-ImportDataFromMPXFileFormats-ImportDataFromMPXFileFormats.cs" >}}
 
 ### **Reading Project UIDs from Primavera XML file**

@@ -11,7 +11,9 @@ url: /net/aspose-tasks-for-net-20-11-release-notes/
 This page contains release notes information for [Aspose.Tasks for .NET 20.11](https://downloads.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.11/).
 
 {{% /alert %}}
+
 ## **All Changes**
+
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 | TASKSNET-4520 | Add support for "Clear" operation for project's OleObjects collection | Enhancement |

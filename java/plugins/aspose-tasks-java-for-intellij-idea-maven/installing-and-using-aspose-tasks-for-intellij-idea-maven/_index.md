@@ -7,6 +7,7 @@ url: /java/installing-and-using-aspose-tasks-for-intellij-idea-maven/
 ---
 
 ## **Installing**
+
 ### **How to Install Aspose.Tasks Java for IntelliJ IDEA (Maven)**
 Steps below demonstrates how to install **Aspose.Tasks Java for IntelliJ IDEA (Maven)** plugin.
 

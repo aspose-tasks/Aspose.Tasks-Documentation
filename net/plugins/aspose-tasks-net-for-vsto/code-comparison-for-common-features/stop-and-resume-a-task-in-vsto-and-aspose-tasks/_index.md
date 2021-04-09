@@ -9,6 +9,7 @@ url: /net/stop-and-resume-a-task-in-vsto-and-aspose-tasks/
 A task's stop date is the date that it should (or did) end. Sometimes, a task has to be stopped temporarily and then resumed later. Microsoft Project can calculate stop dates, or let users enter them manually.
 
 ## **Code Examples**
+
 ### **VSTO**
 Below is the code of VSTO Project to Stop and Resume a task:
 

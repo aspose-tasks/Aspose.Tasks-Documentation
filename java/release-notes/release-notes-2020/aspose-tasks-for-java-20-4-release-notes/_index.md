@@ -10,8 +10,7 @@ url: /java/aspose-tasks-for-java-20-4-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for Java 20.4](https://downloads.aspose.com/tasks/java/new-releases/aspose.tasks-for-java-20.4/).
 
-{{% /alert %}} 
-
+{{% /alert %}}
 
 ## **Major Features**
 The release Aspose.Tasks for Java 20.4supports the long-awaited feature of saving into MPP format without preloading of MPP template file.

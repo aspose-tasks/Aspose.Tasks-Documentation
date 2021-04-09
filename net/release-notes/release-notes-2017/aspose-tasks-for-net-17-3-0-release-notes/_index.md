@@ -19,6 +19,7 @@ Aspose.Tasks for .NET API enables application developers to write code for manip
 |TASKSNET-1684|Formula values not calculated properly for DateAdd, DateDiff and DatePart|Bug|
 |TASKSNET-1649|Project reading exception while loading MPP file|Bug|
 |TASKSNET-1577|Project Reading Exception while Loading MPP file|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**The following public methods and properties were added:**|**Description**|

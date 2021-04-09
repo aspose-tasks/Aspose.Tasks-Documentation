@@ -10,7 +10,8 @@ url: /net/aspose-tasks-for-net-17-12-release-notes/
 
 This page contains release notes information about Aspose.Tasks for .NET 17.12 release.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Improvements**
 
 |**Key**|**Summary**|**Category**|
@@ -24,6 +25,7 @@ This page contains release notes information about Aspose.Tasks for .NET 17.12 r
 |TASKSNET-2145|Resource assignment has incorrect baseline start/finish date|Bug|
 |TASKSNET-2121|FontFamily not set in MPP|Bug|
 |TASKSNET-1908|Header text is only changed for the default view|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**Methods and Properties Added**|**Description**|

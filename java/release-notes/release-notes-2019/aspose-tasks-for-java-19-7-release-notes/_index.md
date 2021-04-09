@@ -10,11 +10,11 @@ url: /java/aspose-tasks-for-java-19-7-release-notes/
 
 This page contains release notes information for [Aspose.Tasks for Java 19.7](https://downloads.aspose.com/tasks/java/new-releases/aspose.tasks-for-java-19.7/).
 
-{{% /alert %}} 
-
+{{% /alert %}}
 
 ## **Features**
 - Implemented resource prefix for nested resources.
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

@@ -10,7 +10,8 @@ url: /net/aspose-tasks-for-net-17-7-release-notes/
 
 This page contains release notes of Aspose.Tasks for .NET 17.7.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **All Changes**
 
 |**Key**|**Summary**|**Category**|

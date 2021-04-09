@@ -9,6 +9,7 @@ url: /net/split-tasks-in-vsto-and-aspose-tasks/
 Sometimes it is not possible to complete a task as scheduled and it needs to be split into two or more parts. Aspose.Tasks for .NET supports this Microsoft Project feature.
 
 ## **Code Examples**
+
 ### **VSTO**
 Below is the code for VSTO Project to split tasks:
 

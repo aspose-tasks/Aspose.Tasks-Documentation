@@ -7,6 +7,7 @@ url: /java/aspose-tasks-for-java-16-11-0-release-notes/
 ---
 
 Aspose.Tasks for Java API enables application developers to write code for manipulating Microsoft Project documents without it being installed on the systems. It provides support for Microsoft Project (MPP/XML) as well as Primavera File Formats. Project data can be exported to a number of formats including PDF, PNG, BMP and others.
+
 ## **Features and Improvements**
 
 |**Key** |**Summary** |**Category** |
@@ -21,6 +22,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 |TASKSNET-1604 |Wrong split task data saved to MPP |Bug |
 |TASKSJAVA-221 |Custom field with custom values in dropdown cannot be retrieved from MPP |Bug |
 |TASKSNET-1589 |PhysicalPercentComplete not saved in MPP file |Bug |
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**Public Methods and Properties Added**|**Description**|

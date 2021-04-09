@@ -13,7 +13,7 @@ Microsoft Project saves project properties, metadata, for every project. The pro
 
 Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for Java x.x.x will be displayed against these fields
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ### **Reading Project Information**
 The Prj class has a number of properties that deal with project properties:
