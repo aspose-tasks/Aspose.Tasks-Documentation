@@ -12,7 +12,7 @@ To write Updated TaskLink Data to MPP using **Aspose.Tasks Java for PHP**, simpl
 **PHP Code**
 
 {{< highlight php >}}
-$one_sec = 10000000; # microsecond * 10
+$one_sec = 10000000;
 $one_min = 60 * $one_sec;
 $one_hour = 60 * $one_min;
 $project = new Project('test_tasks.mpp');

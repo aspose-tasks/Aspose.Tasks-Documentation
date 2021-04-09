@@ -12,7 +12,7 @@ To write Updated TaskLink Data to MPP using **Aspose.Tasks Java for Ruby**, simp
 **Ruby Code**
 
 {{< highlight ruby >}}
-one_sec = 10000000 # microsecond * 10
+one_sec = 10000000
 one_min = 60 * one_sec
 one_hour = 60 * one_min
 project = Rjb::import('com.aspose.tasks.Project').new('test_tasks.mpp')

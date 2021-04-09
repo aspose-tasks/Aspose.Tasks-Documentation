@@ -49,26 +49,26 @@ Please follow these simple steps in order to open and extend the source code wh
 ## **1. Install Tomcat Server**
 To install tomcat server, issue following command on the linux console. This will successfully install tomcat server. 
 
-{{< highlight actionscript3 >}}
+{{< highlight text >}}
 sudo apt-get install tomcat8
 {{< /highlight >}}
 
 ## **2. Download and Configure PHP/JavaBridge**
 In order to download the PHP/JavaBridge binaries, issue following command on the linux console. 
 
-{{< highlight actionscript3 >}}
+{{< highlight text >}}
 wget https://citylan.dl.sourceforge.net/project/php-java-bridge/Binary%20package/php-java-bridge_6.2.1/php-java-bridge_6.2.1_documentation.zip 
 {{< /highlight >}}
 
 Unzip the PHP/JavaBridge binaries by issuing the following command on linux console. 
 
-{{< highlight actionscript3 >}}
+{{< highlight text >}}
 unzip -d php-java-bridge_6.2.1_documentation.zip 
 {{< /highlight >}}
 
 This will extract **JavaBridge.war** file. Copy it to tomcat88 **webapps** folder by issuing the following command on Linux console. 
 
-{{< highlight actionscript3 >}}
+{{< highlight text >}}
 sudo cp JavaBridge.war /var/lib/tomcat8/webapps/JavaBridge.war 
 {{< /highlight >}}
 
@@ -76,7 +76,7 @@ By copying, tomcat8 will automatically create a new folder "**JavaBridge**" in 
 
 If any error message appears then install  **FastCGI** by issuing the following command on Linux console.
 
-{{< highlight actionscript3 >}}
+{{< highlight text >}}
 sudo apt-get install php55-cgi 
 {{< /highlight >}}
 
@@ -87,7 +87,7 @@ If **JAVA_HOME** error is displayed, then open /etc/default/tomcat8 file and u
 ## **3. Configure Aspose.Tasks Java for PHP Examples**
 Clone, PHP examples by issuing the following commands inside webapps/JavaBridge folder.  
 
-{{< highlight actionscript3 >}}
+{{< highlight text >}}
 git init
 git clone [https://github.com/asposeslides/Aspose_Slides_Java/tree/master/Plugins/Aspose_Tasks_Java_for_PHP] 
 {{< /highlight >}}
