@@ -22,7 +22,3 @@ The code snippet in this article reads a source MPP file that has a number of re
 5. Render the project to PDF output.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithResources-RenderResourceUsageView-RenderResourceUsageView.cpp" >}}
-
-
-
-

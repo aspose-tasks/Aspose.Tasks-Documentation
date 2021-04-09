@@ -24,7 +24,7 @@ To see an assignment's general properties in Microsoft Project:
 2. From the **Insert** menu, select **Column**.
 3. Add the Start. Finish and Unique ID columns.
 
-**General assignment properties viewed in Microsoft Project** 
+**General assignment properties viewed in Microsoft Project**
 
 ![open resource assignment properties in Microsoft Project](general-resource-assignment-properties_1.png)
 

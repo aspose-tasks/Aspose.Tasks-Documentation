@@ -25,7 +25,7 @@ The XML project file can be opened in Microsoft Project:
 2. Select the XML format (*.xml) option from the file types and browse to the output XML file.
 3. On the **Project** menu, select **Project Information**.
 
-**The project information for the output XML file** 
+**The project information for the output XML file**
 
 ![check project properties of resaved Microsoft Project XML file](creating-reading-and-saving-projects_1.png)
 
@@ -54,7 +54,6 @@ Aspose.Tasks for Java API now allows to read Project data from the Microsoft Pro
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadingProjectDatafromMicrosoftProjectDatabase-ReadingProjectDatafromMicrosoftProjectDatabase.java" >}}
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadingProjectDatafromMicrosoftProjectDatabase-addJDBCDriver.java" >}}
-
 
 ### **Reading Project Data from Microsoft Access Database (MPD)**
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadingProjectDataFromMicrosoftAccessDatabase-ReadingProjectDataFromMicrosoftAccessDatabase.java" >}}

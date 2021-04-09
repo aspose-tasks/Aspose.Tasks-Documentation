@@ -6,7 +6,7 @@ weight: 50
 url: /cpp/calendar-data/
 ---
 
-|**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |
+|**Number** |**Property name** |**XML** |**MPP** |** |** |** |** |** |**Comments** |
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
 | | | |**2003** |**2007** |**2010** |**2013** |**2016** |**2019** | |
 |1. |UID |R/W |R/W |R/W |R/W |R/W |R/W |R/W | |

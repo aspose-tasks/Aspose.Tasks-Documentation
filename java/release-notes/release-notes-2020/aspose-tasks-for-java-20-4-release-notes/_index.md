@@ -25,8 +25,6 @@ Project p = new Project(); // there is no more need to load MPP template to save
 p.save("project.mpp", SaveFileFormat.MPP); // !The project will be saved into MPP by using internal MPP template.
 {{< /highlight >}}
 
-
-
 Also in this release, we are presenting the new API to work with the built-in and custom properties of a project.
 
 Old meta properties API:

@@ -19,7 +19,7 @@ To view assignment costs in Microsoft Project:
 1. On the Task Usage page, select the **Insert** menu and then **Column**.
 2. Add columns.
 
-**Resource cost columns in Microsoft Project** 
+**Resource cost columns in Microsoft Project**
 
 ![modify resource costs in Microsoft Project 2010](managing-assignment-cost_1.png)
 

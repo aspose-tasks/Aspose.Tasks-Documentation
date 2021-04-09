@@ -30,7 +30,8 @@ Also, if SaveOptions.DrawNonWorkingTime (default value = true) is set to false, 
 ### **Example 1: Gantt Chart Bars Not Rolled Up**
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderGanttChartWithBarsNotRolledUp-RenderGanttChartWithBarsNotRolledUp.cs" >}}
 
-**The output from example 1** 
+**The output from example 1**
+
 ![rendering Gantt Chart without bar rollup](rendering-gantt-chart_1.png)
 
 ### **Example 2: Rolling Up Gantt Chart Bars**

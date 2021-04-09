@@ -18,7 +18,7 @@ There are three ways of creating a calendar in Aspose.Tasks. The [Calendar](http
 The following code creates three different calendars, one using each constructor.
 Open the output file in Microsoft Project and, on the **Project** menu, select **Project Information** to access the calendars. 
 
-**Project information showing the calendars** 
+**Project information showing the calendars**
 
 ![checking available calendars in Microsoft Project](creating-updating-and-removing-calendar_1.png)
 
@@ -33,7 +33,7 @@ The CreateDefaultWorkingDay method exposed by the WeekDay class can further be i
 
 The code samples below set weekdays for a project. After running the code, open the output file in Microsoft Project and, on the **Tools** menu, select **Change Work Timing** to establish that the changes have been applied. 
 
-**Defining weekdays in Microsoft Project** 
+**Defining weekdays in Microsoft Project**
 
 ![adding week days in Microsoft Project calendars](creating-updating-and-removing-calendar_2.png)
 
@@ -66,7 +66,7 @@ The [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar) 
 
 In Microsoft Project, open the file output by the code below and, on the **Tools** menu, select **Change Working Times Information**, to see the standard calendar. 
 
-**The Change Working Times Information dialogue shows the standard calendar used by the project** 
+**The Change Working Times Information dialogue shows the standard calendar used by the project**
 
 ![editing calendar working times in Microsoft Project](creating-updating-and-removing-calendar_3.png)
 

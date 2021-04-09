@@ -17,7 +17,7 @@ The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) cl
 ### **Viewing Estimated and Milestone Tasks in Microsoft Project**
 To see whether a task is estimated or marked as a milestone in Microsoft Project double-click a task in the Task Entry form.
 
-**Marking an estimated task as a milestone in Microsoft Project** 
+**Marking an estimated task as a milestone in Microsoft Project**
 
 ![managing estimated milestone tasks in Microsoft Project](managing-estimated-milestone-tasks_1.png)
 

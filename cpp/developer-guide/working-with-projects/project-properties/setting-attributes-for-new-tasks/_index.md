@@ -19,7 +19,7 @@ To see the task attribute:
 
 The tab looks like the one shown below.
 
-**New tasks set to start on the current date** 
+**New tasks set to start on the current date**
 
 ![edit task's schedule options in Microsoft Project](working-with-project-properties_6.png)
 

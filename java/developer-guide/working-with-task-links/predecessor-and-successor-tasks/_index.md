@@ -18,7 +18,7 @@ To manage predecessor tasks in Microsoft Project:
 1. From the **View** menu, select **More Views** and then **Task Entry Form**.
 2. Double-click the desired task.# Select the Predecessor tab.
 
-**Viewing predecessor tasks in Microsoft Project** 
+**Viewing predecessor tasks in Microsoft Project**
 
 ![checking predecessor/successors tasks in Microsoft Project 2019](predecessor-and-successor-tasks_1.png)
 

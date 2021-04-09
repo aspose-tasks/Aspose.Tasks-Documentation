@@ -116,7 +116,3 @@ This page contains release notes information for Aspose.Tasks for Java 18.7.
 |com.aspose.tasks.HtmlImageType.Svgz|Compressed SVG.|
 |com.aspose.tasks.HtmlImageType.Tiff|Tiff image format.|
 |com.aspose.tasks.HtmlImageType.Unknown|Unknown format.|
-
-
-
-

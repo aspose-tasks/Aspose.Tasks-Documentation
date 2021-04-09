@@ -24,7 +24,7 @@ To see a task's stop and resume dates:
 1. In the Task Entry form, on the **Inset** menu, select **Column**.
 2. Add the Stop and Resume columns.
 
-**The Stop and Resume columns in Microsoft Project** 
+**The Stop and Resume columns in Microsoft Project**
 
 ![work with Stopped or Resumed tasks in Microsoft Project](stop-and-resume-a-task_1.png)
 

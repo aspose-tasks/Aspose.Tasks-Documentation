@@ -25,7 +25,7 @@ To declare a task as a parent or a child task in Microsoft Project:
 2. Select **Outdent** to turn a task into a parent, or,
 3. Select **Indent** to turn a task into a child.
 
-**Parent tasks and children in Microsoft Project** 
+**Parent tasks and children in Microsoft Project**
 
 ![parent child relations in Microsoft Project](parent-and-child-tasks_1.png)
 

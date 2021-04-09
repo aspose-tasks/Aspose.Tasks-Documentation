@@ -25,7 +25,6 @@ You should now find that Aspose.Tasks has successfully been added and referenced
 
 ![installing Aspose.Tasks for C++ through NuGet step three](installation_3.png)
 
-
 ### **Manual Installation**
 You can download [Aspose.Tasks for C++](https://www.nuget.org/packages/Aspose.Tasks.Cpp/) from NuGet Gallery, by clicking the "Manual download" link in the Info Section or can be downloaded from <https://downloads.aspose.com/tasks/cpp>.
 

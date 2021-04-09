@@ -58,7 +58,7 @@ To see weekday properties in Microsoft Project:
 2. On the **Tools** menu, click **Options**.
 3. Select the **Calendar** tab. It will look something like the example below.
 
-**Viewing weekday properties in Microsoft Project** 
+**Viewing weekday properties in Microsoft Project**
 
 ![show project calendar properties in Microsoft Project](working-with-project-properties_4.png)
 

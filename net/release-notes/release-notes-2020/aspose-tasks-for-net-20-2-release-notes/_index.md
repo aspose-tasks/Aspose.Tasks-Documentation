@@ -53,11 +53,6 @@ foreach (var property in project.BuiltInProps)
 }
 {{< /highlight >}}
 
-
-
-
-
-
 ## **All Changes**
 
 | **Key** | **Summary** | **Issue Type** |

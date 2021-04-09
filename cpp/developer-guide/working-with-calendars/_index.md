@@ -5,5 +5,3 @@ type: docs
 weight: 30
 url: /cpp/working-with-calendars/
 ---
-
-

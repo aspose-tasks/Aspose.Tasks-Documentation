@@ -5,5 +5,3 @@ type: docs
 weight: 10
 url: /net/migration-from-microsoft-office-automation-to-aspose/
 ---
-
-

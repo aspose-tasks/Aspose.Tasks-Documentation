@@ -14,7 +14,7 @@ To see a project's currency symbol in Microsoft Project:
 1. From the **Tools** menu, select **Options**.
 2. Select the **View** tab.
 
-**Viewing the currency symbol in Microsoft Project** 
+**Viewing the currency symbol in Microsoft Project**
 
 ![checking currency symbols in Microsoft Project 2013](managing-currency-symbols_1.png)
 

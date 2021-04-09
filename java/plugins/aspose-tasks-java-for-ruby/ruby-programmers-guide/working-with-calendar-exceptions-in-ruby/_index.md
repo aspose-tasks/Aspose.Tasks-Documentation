@@ -5,5 +5,3 @@ type: docs
 weight: 30
 url: /java/working-with-calendar-exceptions-in-ruby/
 ---
-
-

@@ -26,7 +26,9 @@ The project file created from the code looks like the one below in Microsoft Pro
 
 |**Date changes in the evaluation version of Aspose.Tasks**|
 | :- |
+
 |![Year of start and finish dates were reset to 2000](licensing_1.png)|
+
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-EvaluationDateTimeLimitations-DateTimeLimitations.cs" >}}
 
 #### **MPP Write Support**

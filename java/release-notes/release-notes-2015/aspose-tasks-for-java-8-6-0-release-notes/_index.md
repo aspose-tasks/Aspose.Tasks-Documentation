@@ -23,7 +23,6 @@ see the list of changes below.
 |Bug |TASKS-34072 |SF link is rendered incorrectly |
 |Bug |TASKS-34071 |Difference in dates calculation using SF Predecessor before and after saving project to file |
 
-
 ## **Public API and Backwards Incompatible Changes**
 
 **The following public classes were added:**

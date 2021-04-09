@@ -24,7 +24,7 @@ To view WBS information in Microsoft Project:
 1. On the Task Entry Form, select the **Insert** menu and then **Column**.
 2. Add the WBS column.
 
-**Work breakdown structure in Microsoft Project** 
+**Work breakdown structure in Microsoft Project**
 
 ![WBS associated with tasks](wbs-associated-with-a-task_1.png)
 

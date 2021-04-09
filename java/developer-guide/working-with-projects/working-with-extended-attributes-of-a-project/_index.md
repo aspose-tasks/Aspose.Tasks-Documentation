@@ -18,9 +18,3 @@ The ExtendedAttribute property exposed by the [ResourceAssignment](https://apire
 The following example shows setting the extended attributes of a resource.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ExtendedAttributes-ExtendedAttributes.java" >}}
-
-
-
-
-
-

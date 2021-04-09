@@ -9,7 +9,7 @@ url: /java/identify-cross-project-tasks/
 ## **Linking tasks between projects**
 If you have linked a task from one project to a task from the other project, the IDs and UIDs of the task is different in the original and external projects as you can see in the following image.
 
-## **Internal and external IDs in Microsoft Project** 
+## **Internal and external IDs in Microsoft Project**
 
 ![viewing cross project links](identify-cross-project-tasks_1.png)
 

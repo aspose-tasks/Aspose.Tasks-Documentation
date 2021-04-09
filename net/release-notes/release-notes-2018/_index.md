@@ -5,5 +5,3 @@ type: docs
 weight: 30
 url: /net/release-notes-2018/
 ---
-
-

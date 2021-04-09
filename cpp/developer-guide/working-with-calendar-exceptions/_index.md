@@ -5,5 +5,3 @@ type: docs
 weight: 40
 url: /cpp/working-with-calendar-exceptions/
 ---
-
-

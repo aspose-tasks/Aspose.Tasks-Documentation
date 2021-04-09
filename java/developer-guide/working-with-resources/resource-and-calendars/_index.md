@@ -14,7 +14,7 @@ To define a calendar for a resource in Microsoft Project:
 1. In the Resource Sheet, double-click the desired resource.
 2. Click the **Change Working Time** button.
 
-**Changing working times in Microsoft Project** 
+**Changing working times in Microsoft Project**
 
 ![changing working times in Microsoft Project](resource-and-calendars_1.png)
 

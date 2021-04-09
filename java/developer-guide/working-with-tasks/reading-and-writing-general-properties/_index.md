@@ -27,7 +27,7 @@ To view a task's general properties in Microsoft Project:
 2. On the **View** menu, select **More Views** and then **Task Entry** to open the task entry form.
 3. From the **Insert** menu, select **Column** and add the **ID** and **Unique ID** as shown in the screenshot below.
 
-**Task general properties view in Microsoft Project** 
+**Task general properties view in Microsoft Project**
 
 ![read and write general properties of Microsoft Project](reading-and-writing-general-properties_1.png)
 

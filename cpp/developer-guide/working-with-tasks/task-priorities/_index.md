@@ -16,7 +16,7 @@ The priorities associated with a class are handled through the Priority proper
 ### **Priorities in Microsoft Project**
 To check a task's priority in Microsoft Project one need to double-click a task in the Task Entry form:
 
-**Task priority in Microsoft Project** 
+**Task priority in Microsoft Project**
 
 ![viewing task priorities](handling-priorities_1.png)
 

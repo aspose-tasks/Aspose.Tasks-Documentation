@@ -14,7 +14,7 @@ To see a project's currency code in Microsoft Project:
 1. On the **Tools** menu, select **Options**.
 2. Select the **View** tab
 
-**Currency codes in Microsoft Project** 
+**Currency codes in Microsoft Project**
 
 ![viewing currency codes](managing-currency-codes_1.png)
 

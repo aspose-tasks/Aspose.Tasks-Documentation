@@ -39,7 +39,6 @@ for (ProjectInfo projectInfo : list) {
 }
 {{< /highlight >}}
 
-
 ## **Deprecated Members**
 ProjectOnlineReader class is deprecated and will be removed after v.20.8. Use ProjectServerManager class instead.
 Value.getNumberValue()/Value.setNumberValue(int) property is deprecated and will be removed after v.20.8. Use Value.getNumericValue()/Value.setNumericValue(java.math.BigDecimal) property instead.

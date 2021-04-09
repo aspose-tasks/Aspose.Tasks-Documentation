@@ -82,7 +82,6 @@ ImageSaveOptions saveOptions = new ImageSaveOptions(SaveFileFormat.PNG)
 project.Save("output.png", saveOptions);
 {{< /highlight >}}
 
-
 Related issue: TASKSNET-3585 - Add support of "RenderToSinglePage" option to TaskUsage, ResourceUsage, TaskSheet and ResourceSheet views
 
 Now SaveOptions.RenderToSinglePage property can be used to specify that the project should be rendered to single page document. In this case the size of the page is adjusted to fit project on one page.

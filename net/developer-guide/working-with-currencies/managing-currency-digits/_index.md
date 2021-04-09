@@ -16,7 +16,7 @@ To view the currency digit for a project in Microsoft Project:
 1. Form the **Tools** menu, select **Options**.
 2. Select the **View** tab.
 
-**Currency digits in Microsoft Project** 
+**Currency digits in Microsoft Project**
 
 ![altering currency symbol in Microsoft Project](managing-currency-digits_1.png)
 

@@ -19,7 +19,6 @@ The following lines of code retrieve a project's outline code information.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithOutlineCodes-ReadOutlineCodes.cpp" >}}
 
-
 ## **Check Outline Code Id Uniqueness**
 While working with OutlineCode, Aspose.Tasks shall check the uniqueness of the Outline Code Id and duplicate Ids will be replaced with unique values.
 

@@ -48,11 +48,9 @@ Aspose.Tasks for .NET API enables application developers to write code for manip
 |Aspose.Tasks.VbaReferenceCollection |Collection of  the  VbaReferences |
 |Aspose.Tasks.VbaModuleAttributeCollection |Collection of  the  ModuleAttributes |
 
-
 |**The following public interfaces were added:**           |**Description**                                                               |
 | :- | :- |
 |IVbaModule |Represents an interface to work with vbaModule |
-
 
 |**The following public properties were added:** |**Description** |
 | :- | :- |

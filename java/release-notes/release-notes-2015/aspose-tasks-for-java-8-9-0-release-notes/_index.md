@@ -33,7 +33,6 @@ bugs have been fixed. Please see the list of changes below.
 |Bug |TASKS-34233 |Task with Empty Duration, Start and Finish dates not created in Manual Mode |
 |Bug |TASKS-34231 |Wrong dates read from Primavera XML file |
 
-
 ## **Public API and Backwards Incompatible Changes**
 
 **The following public classes were added:**

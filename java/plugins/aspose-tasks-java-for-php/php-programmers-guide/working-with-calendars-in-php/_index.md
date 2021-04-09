@@ -5,5 +5,3 @@ type: docs
 weight: 20
 url: /java/working-with-calendars-in-php/
 ---
-
-

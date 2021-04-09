@@ -18,7 +18,6 @@ Aspose.Tasks can export project data to HTML format. It allows to save all the d
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectDataAsHTML-SaveProjectDataAsHTML.cs" >}}
 
-
 ### **Controlling Document Header Name during Export to HTML**
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-ControlHeaderNameDuringHTMLExport-ControlHeaderNameDuringHTMLExport.cs" >}}

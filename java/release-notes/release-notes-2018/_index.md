@@ -5,5 +5,3 @@ type: docs
 weight: 30
 url: /java/release-notes-2018/
 ---
-
-

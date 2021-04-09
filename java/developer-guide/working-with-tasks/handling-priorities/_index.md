@@ -20,7 +20,7 @@ The priorities associated with a class are handled through the PRIORITY property
 #### **Priorities in Microsoft Project**
 To check a task's priority in Microsoft Project one can double-click a task in the Task Entry form:
 
-**Task priority in Microsoft Project** 
+**Task priority in Microsoft Project**
 
 ![checking task priorities in Microsoft Project](handling-priorities_1.png)
 

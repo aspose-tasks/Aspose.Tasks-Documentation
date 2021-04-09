@@ -19,7 +19,7 @@ On the **View** menu, select **More Views** and then **Task Entry Form**.
 1. Double-click the desired task.
 2. Select the **Predecessor** tab.
 
-**Defining link type in Microsoft Project** 
+**Defining link type in Microsoft Project**
 
 ![editing task link type in Microsoft Project](defining-link-type_1.png)
 

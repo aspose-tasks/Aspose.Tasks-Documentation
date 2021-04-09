@@ -27,7 +27,6 @@ The following lines of code show how to achieve this.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsPdf-saving-as-pdf.java" >}}
 
-
 ### **Supported Graphical Column Indicators**
 Aspose.Tasks draw graphical column indicators while rendering project data to PDF. The following are the graphical indicators supported by Aspose.Tasks.
 

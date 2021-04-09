@@ -58,6 +58,3 @@ Aspose.Tasks for C++ is based on the .NET version of the API and provides strict
 | Svg | SVG image format |
 | Svgz | Compressed SVG |
 | Unknown | Unknown format |
-
-
-

@@ -171,7 +171,7 @@ To see weekday properties in Microsoft Project:
 2. On the **Tools** menu, click **Options**.
 3. Select the **Calendar** tab. It will look something like the example below.
 
-## **Viewing weekday properties in Microsoft Project** 
+## **Viewing weekday properties in Microsoft Project**
 
 ![calendar properties in Microsoft Project](working-with-project-properties_4.png)
 
@@ -201,7 +201,7 @@ To see the currency properties in Microsoft Project:
 2. On the **Tools** menu, select **Options**.
 3. Click the **View** tab. It will look like the one shown below.
 
-## **Reading currency properties in Microsoft Project** 
+## **Reading currency properties in Microsoft Project**
 
 ![checking currency properties in Microsoft Project](working-with-project-properties_2.png)
 
@@ -221,7 +221,7 @@ To see the task attributes:
 3. Select the **Schedule** tab.
    The tab looks like the one shown below.
 
-**New tasks set to start on the current date** 
+**New tasks set to start on the current date**
 
 ![altering task's schedule options in Microsoft Project](working-with-project-properties_6.png)
 

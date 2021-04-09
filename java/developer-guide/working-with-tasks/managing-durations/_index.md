@@ -17,7 +17,7 @@ The Duration and DurationFormat properties exposed by the [Task](https://apirefe
 ### **Duration in Microsoft Project**
 To see a task's duration in Microsoft Project one can select **More Views** and then **Task Entry** From the **View** menu.
 
-**Setting task duration in Microsoft Project** 
+**Setting task duration in Microsoft Project**
 
 ![how to manage task duration in Microsoft Project](managing-durations_1.png)
 

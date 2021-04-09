@@ -5,5 +5,3 @@ type: docs
 weight: 60
 url: /java/release-notes-2015/
 ---
-
-

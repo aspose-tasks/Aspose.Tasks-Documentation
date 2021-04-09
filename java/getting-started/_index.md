@@ -5,5 +5,3 @@ type: docs
 weight: 11
 url: /java/getting-started/
 ---
-
-

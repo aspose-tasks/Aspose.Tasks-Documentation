@@ -27,7 +27,7 @@ The Prj class has a number of properties that deal with project properties:
 
 To read project properties in Microsoft Project, click **Project Information** on the **Project** menu.
 
-## **Reading project properties in Microsoft Project** 
+## **Reading project properties in Microsoft Project**
 
 ![working with Microsoft Project properties](working-with-project-properties_1.png)
 
@@ -137,7 +137,7 @@ To see weekday properties in Microsoft Project:
 2. On the **Tools** menu, click **Options**.
 3. Select the **Calendar** tab. It will look something like the example below.
 
-## **Viewing weekday properties in Microsoft Project** 
+## **Viewing weekday properties in Microsoft Project**
 
 ![edit calendar weekday Microsoft Project](working-with-project-properties_4.png)
 
@@ -169,7 +169,7 @@ To see the currency properties in Microsoft Project:
 2. On the **Tools** menu, select **Options**.
 3. Click the **View** tab. It will look like the one shown below.
 
-## **Reading currency properties in Microsoft Project** 
+## **Reading currency properties in Microsoft Project**
 
 ![check currency properties in Microsoft Project](working-with-project-properties_4.png)
 

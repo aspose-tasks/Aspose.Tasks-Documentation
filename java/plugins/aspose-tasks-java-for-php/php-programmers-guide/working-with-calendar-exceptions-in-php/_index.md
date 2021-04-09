@@ -5,5 +5,3 @@ type: docs
 weight: 10
 url: /java/working-with-calendar-exceptions-in-php/
 ---
-
-
