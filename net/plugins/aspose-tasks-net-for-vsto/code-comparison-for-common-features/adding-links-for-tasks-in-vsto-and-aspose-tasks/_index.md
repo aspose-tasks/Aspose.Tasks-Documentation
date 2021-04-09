@@ -7,6 +7,7 @@ url: /net/adding-links-for-tasks-in-vsto-and-aspose-tasks/
 ---
 
 ## **Code Examples**
+
 ### **VSTO**
 To link a task using VSTO:
 

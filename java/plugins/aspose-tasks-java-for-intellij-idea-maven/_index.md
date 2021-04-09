@@ -7,7 +7,9 @@ url: /java/aspose-tasks-java-for-intellij-idea-maven/
 ---
 
 ## **Introduction**
+
 ### **IntelliJ IDEA**
+
 **IntelliJ IDEA** is a Java integrated development environment (IDE) for software developers. It is developed by JetBrains. Originally created for Java, it currently supports a wide variety of languages, including JavaScript, Groovy, HTML, CSS, RSS, R, Haskell, PHP, Ruby, Python, Scala, Clojure, and Kotlin.
 
 In a 2010 **InfoWorld** report, IntelliJ received the highest test center score out of the four top Java programming tools: Eclipse, IntelliJ IDEA, NetBeans and Oracle JDeveloper.
@@ -37,6 +39,7 @@ The plugin contains two wizards:
 - [Source Code Examples of Aspose.Tasks for Java API](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) are meant for demonstrating the different usages of the API.
 
 ## **System Requirements and Supported Platforms**
+
 ### **System Requirements**
 - Microsoft Windows 10/8/7/Vista/2003/XP (incl.64-bit)  / Linux GNOME or KDE desktop / Mac OS X 10.5 or higher
 - 1 GB RAM minimum, 2 GB RAM recommended
@@ -44,6 +47,7 @@ The plugin contains two wizards:
 - 1024x768 minimum screen resolution
 - JDK 1.8 or higher recommended
 - Internet Connection (2 MB or faster recommended)
+
 ### **Supported Platforms**
 Plugin supports the following IntelliJ IDEA Versions:
 
@@ -53,6 +57,7 @@ Plugin supports the following IntelliJ IDEA Versions:
 - 14.1.5 (CE/ UE)
 
 ## **Downloading**
+
 ### **Downloading IntelliJ IDEA**
 You will need to first install IntelliJ IDEA CE / UE before downloading the **Aspose.Tasks Java for IntelliJ IDEA (Maven)** plugin.
 
@@ -61,6 +66,7 @@ To download IntellliJ IDEA
 1. Go to <https://www.jetbrains.com/idea/download/>
 2. Select your running OS
 3. Click on UE or CE download.
+
 ### **Downloading Aspose.Tasks Java for IntelliJ IDEA plugin (Maven)**
 - The plugin can be directly downloaded from the [JetBrains plugin hosting URL](https://plugins.jetbrains.com/plugin/8003-aspose-tasks-java-for-intellij-idea-maven/) - on IntelliJ IDEA Plugin Repository
   and later can be installed using the IDE option: 
@@ -71,13 +77,18 @@ To download IntellliJ IDEA
   - Select **"Browse Repositories"**
   - In Search Box type: "Aspose"
   - Select "**Aspose.Tasks Java for IntelliJ IDEA Maven**" plugin to install.
+
 ## **Installing**
 [Installing Aspose.Tasks for IntelliJ IDEA - Maven](https://docs.aspose.com/tasks/java/installing-and-using-aspose-tasks-for-intellij-idea-maven/#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Installing)
+
 ## **Using**
 [Using Aspose.Tasks for IntelliJ IDEA - Maven](https://docs.aspose.com/tasks/java/installing-and-using-aspose-tasks-for-intellij-idea-maven/#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Using)
+
 ## **Video Demo**
 Please check [the video](https://youtu.be/yG8cZ_Fis-I) below to see Aspose.Tasks Maven Project Wizard and Aspose.Tasks Example Wizard in action.
+
 ## **Support, Extend and Contribute**
+
 ### **Support**
 - If you like to see known / reported issues (by the users or Q.A team) in the plugin.
 - Or you want to report any issue you found in the plugin
@@ -88,6 +99,7 @@ Please check [the video](https://youtu.be/yG8cZ_Fis-I) below to see Aspose.Tasks
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/issues)
 
 ### **Extend and Contribute**
+
 **Aspose.Tasks Java for IntelliJ IDEA (Maven)** plugin is open source and its source code is available on the major social coding websites listed below. Developers are encouraged to download the source code and contribute by suggesting or adding new feature or improving the existing ones, so that others could also benefit from it.
 
 ### **Source Code**

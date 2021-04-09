@@ -19,8 +19,6 @@ The following code sample:
 2. Sets each different timescale setting.
 3. Saves the file to disk as a JPG.
 
-**Java**
-
 {{< highlight java >}}
 Project project = new Project("NewProductDev.mpp");
 // Save to one page image (Timescale.days by default)
@@ -38,8 +36,6 @@ project.save("NewProductDevMonths.jpeg", options);
 If the SaveOptions.RollUpGanttBars property is set to true, any summary task in the project is marked by its visible subtasks, keeping into account the Task.HideBar property when rendering. (If Task.HideBar = true, the bar is not rendered on the Gantt chart.) If SaveOptions.RollUpGanttBars = false, the subtask will be shown on the summary task anyway, provided that subtask.IsRollup and subtask.ParentTask.IsRollup are set to true. Also, if SaveOptions.DrawNonWorkingTime (default value = true) is set to false, non-working time will not be shown on the Gantt chart.
 
 ### **Example 1**
-**Java**
-
 {{< highlight java >}}
 PdfSaveOptions options = new PdfSaveOptions();
 options.PresentationFormat = PresentationFormat.GanttChart;
@@ -56,10 +52,9 @@ project.Save(resFile, options);
 **Output from example 1** 
 
 ![Gannt chart PDF example](rendering-gantt-chart_1.png)
+
 ### **Example 2**
 In this example, SaveOptions.RollUpGanttBars = true, SaveOptions.DrawNonWorkingTime = true, and task.HideBar = false for hidden tasks.
-
-**Java**
 
 {{< highlight java >}}
 PdfSaveOptions options = new PdfSaveOptions();
@@ -77,8 +72,6 @@ project.save("RollUpGanttBars.pdf", options);
 ![export MPP as Gannt chart PDF](rendering-gantt-chart_2.png)
 ## **Customizing Text with Task Bars**
 In this example, the text on the right of the task bar can be customized by delegate instance. Here we customize text on the critical tasks.
-
-**Java**
 
 {{< highlight java >}}
 long OneSec = 10000000;//microsecond * 10
@@ -121,8 +114,6 @@ project.save("result2.pdf", options);
 ## **Align Cell Contents**
 Text can be aligned by the GanttChartColumn.StringAlignment, ResourceViewColumn.StringAlignment properties. Alignment by default is StringAlignment.Near (left).
 
-**Java**
-
 {{< highlight java >}}
 Project project = new Project("RenderMe.mpp"); // attached test project
 SaveOptions options = new PdfSaveOptions();
@@ -148,8 +139,6 @@ project.save("result ResourceSheet.pdf", options);
 ## **Changing Gantt Chart Bars Color Gradient**
 Microsoft Project allows users to render the output of Gantt charts using gradient colors. The same functionality is provided by Aspose.Tasks as shown in the following sample code.
 
-**Java**
-
 {{< highlight java >}}
 Project project = new Project("NewProductDev.mpp");
 SaveOptions options = new XamlOptions();
@@ -161,8 +150,6 @@ project.save("gradient.xaml", options);
 
 ## **Setting Start date of Gantt Chart View**
 The TimeScaleStart property exposed by Prj class allows to set the start date of Gantt chart view. However, if the saved file is opened by MSP in maximized window mode then the timescale start date will not match.
-
-**Java**
 
 {{< highlight java >}}
 Project project = new Project("REL_Constr.mpp");

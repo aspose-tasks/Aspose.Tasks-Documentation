@@ -36,7 +36,7 @@ com.aspose.tasks.LoadOptions Allows to specify additional load parameters when l
 stream.
 com.aspose.tasks.WorkWeekCollection Represents a collection of WorkWeek objects.
 
-#### **The following public constructors were added to existing classes:**
+### **The following public constructors were added to existing classes:**
 com.aspose.tasks.Project(InputStream, LoadOptions) Initializes a new instance of the Project class from the Stream with the specified instance of the LoadOptions class.
 com.aspose.tasks.Project(String, LoadOptions) Initializes a new instance of the Project class from a template (existent mpp or mpt file)
 with the specified instance of the LoadOptions class.

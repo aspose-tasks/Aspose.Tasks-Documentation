@@ -18,9 +18,6 @@ The following code sample:
 3. Applies compression and saves an image to disk.
 4. Removes compression and saves an image to disk.
 
-### **Code Example**
-**Java**
-
 {{< highlight java >}}
 // Source file to be converted to TIFF
 String file = "RenderMe.mpp";

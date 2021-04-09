@@ -11,17 +11,12 @@ Aspose.Tasks for Java lets you render project data to an XAML file. The easiest 
 ## **Rendering to XAML**
 
 The following code sample demonstrates how this feature can be used using Aspose.Tasks for Java:
-
-**Java**
-
 {{< highlight java >}}
 Project project = new Project("RenderMe.mpp");
 project.save("NewProductDev.xaml", SaveFileFormat.XAML);
 {{< /highlight >}}
 
 ### **Render XAML with Options**
-
-**Java**
 
 {{< highlight java >}}
 Project project = new Project("NewProductDev.mpp");
@@ -34,8 +29,6 @@ project.save("NewProductDev.xaml", options);
 
 ### **Render to XAML using Different Presentation Formats**
 Different presentation formats can be used to render the project to XAML: PresentationFormat.GanttChart, PresentationFormat.TaskUsage, PresentationFormat.ResourceUsage and PresentationFormat.ResourceSheet.
-
-**Java**
 
 {{< highlight java >}}
 Project project = new Project("NewProductDev.mpp");

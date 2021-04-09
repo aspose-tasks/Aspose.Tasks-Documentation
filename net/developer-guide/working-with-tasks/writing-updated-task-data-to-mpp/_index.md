@@ -18,7 +18,6 @@ The following code snippet shows how to update a project's task data and write i
 5. Add additional tasks to the root task.
 6. Save the project.
 
-### **Programming Samples**
 The following code finds a task's original and external ID through the cross project.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-UpdateTaskData-UpdateTaskData.cs" >}}

@@ -18,7 +18,6 @@ The following code snippet shows how to update a project's task data and write i
 5. Add additional tasks to the root task.
 6. Save the project.
 
-### **Programming Samples**
 The following code finds a task's original and external ID in the project.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-UpdateTaskData-UpdateTaskData.cpp" >}}

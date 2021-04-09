@@ -17,14 +17,14 @@ The priorities associated with a class are handled through the PRIORITY property
 
 - Priority: a task's priority (integer between 1 and 1000).
 
-#### **Priorities in Microsoft Project**
+### **Priorities in Microsoft Project**
 To check a task's priority in Microsoft Project one can double-click a task in the Task Entry form:
 
 **Task priority in Microsoft Project**
 
 ![checking task priorities in Microsoft Project](handling-priorities_1.png)
 
-#### **Getting a Task's Priority**
+### **Getting a Task's Priority**
 The following examples show how to get a task's priority and write it to a console window using Aspose.Tasks.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-HandlePriorities-handle-priorities.java" >}}

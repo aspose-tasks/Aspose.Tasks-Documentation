@@ -16,7 +16,6 @@ To read, assign and save the updated file:
 3. Add the assigned resource to the project.
 4. Finally, save the project to the MPP file.
 
-### **Code Examples**
 The code examples given below demonstrates how to perform these tasks.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-UpdateResourceAssignmentInMPP-UpdateResourceAssignmentInMPP.cs" >}}

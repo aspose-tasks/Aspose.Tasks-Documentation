@@ -51,8 +51,6 @@ Aspose.Tasks allows you to customize the text style for overallocated resources.
 ### **Customizing Date Format**
 Aspose.Tasks give developers control over date formatting when rendering project data to output. The following example shows how to use the DateFormat enumerator to specify the date format.
 
-**Java**
-
 {{< highlight java >}}
 Project project = new Project();
 Date date = new Date();

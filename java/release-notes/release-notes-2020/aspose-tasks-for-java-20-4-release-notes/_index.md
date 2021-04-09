@@ -16,8 +16,6 @@ This page contains release notes information for [Aspose.Tasks for Java 20.4](ht
 The release Aspose.Tasks for Java 20.4supports the long-awaited feature of saving into MPP format without preloading of MPP template file.
 The next scenario is valid now:
 
-**Java**
-
 {{< highlight java >}}
 Project p = new Project(); // there is no more need to load MPP template to save it into MPP
 // add tasks, resources, etc.
@@ -28,8 +26,6 @@ p.save("project.mpp", SaveFileFormat.MPP); // !The project will be saved into MP
 Also in this release, we are presenting the new API to work with the built-in and custom properties of a project.
 
 Old meta properties API:
-
-**Java**
 
 {{< highlight java >}}
 // Custom properties are available through the dictionary of untyped properties:
@@ -45,8 +41,6 @@ System.out.println(project.get(Prj.AUTHOR));
 {{< /highlight >}}
 
 New meta properties API:
-
-**Java**
 
 {{< highlight java >}}
 // Custom properties are available through the typed collection:

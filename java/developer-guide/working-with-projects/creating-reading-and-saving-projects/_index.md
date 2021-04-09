@@ -42,8 +42,6 @@ The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/projec
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadProjectFiles-ReadProjectFiles.java" >}}
 
 ### **Reading Project Files as a Template**
-**Java**
-
 {{< highlight java >}}
 Project project = new Project("d:\\Project1.mpp");
 {{< /highlight >}}

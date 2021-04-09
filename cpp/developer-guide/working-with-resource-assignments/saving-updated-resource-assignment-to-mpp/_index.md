@@ -17,7 +17,6 @@ To read, assign and save the updated file:
 3. Add the assigned resource to the project.
 4. Finally, save the project to the MPP file.
 
-### **Code Examples**
 The following code example demonstrates how to perform these tasks.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithResourceAssignments-UpdateResourceAssignmentInMPP-UpdateResourceAssignmentInMPP.cpp" >}}

@@ -28,8 +28,6 @@ The project file created from the code looks like the one below in Microsoft Pro
 
 ![changed dates in evaluated version of Aspose.Tasks for Java](licensing_1.png)
 
-**Java**
-
 {{< highlight java >}}
 java.util.Calendar calendar = java.util.Calendar.getInstance(TimeZone.getTimeZone("GMT"));
 calendar.set(2010, java.util.Calendar.APRIL, 6, 0, 0, 0);
@@ -54,7 +52,7 @@ prj.calcTaskUids();
 prj.save("ResultingProject.xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
-#### **MPP Write Support**
+### **MPP Write Support**
 Aspose.Tasks for Java supports reading MPP files, updating the project summary information and then writing updated project files in original the MPP format. That is, if original MPP format belongs to Microsoft Project 2003 version, the MPP file updated through Aspose.Tasks for Java will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010 and 2013 MPP formats. However, this support is only available in licensed versions of Aspose.Tasks for Java.
 
 ## **Applying the License**

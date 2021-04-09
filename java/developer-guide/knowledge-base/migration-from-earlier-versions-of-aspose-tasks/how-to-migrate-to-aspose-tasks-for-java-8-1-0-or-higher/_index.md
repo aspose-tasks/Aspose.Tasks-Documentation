@@ -20,8 +20,8 @@ This new API is incompatible with the Legacy API and the objective of this artic
 
 ## **Setting Default Project Properties**
 Aspose.Tasks' legacy API allowed setting default properties of a project by directly setting the public attributes of the Project class. In the new API implementation, however, it exposes Set and Get methods to achieve the same.
+
 ### **Legacy API Code Sample**
-**Java**
 
 {{< highlight java >}}
 // Create a project instance
@@ -40,10 +40,8 @@ prj.save( "Project4.xml" , SaveFileFormat.XML);
 {{< /highlight >}}
 
 ### **New Aspose.Tasks for Java 8.x Approach**
-**Java**
 
 {{< highlight java >}}
-// Create a project instance
 Project project = new Project();
 // Set default properties
 project.set(Prj.SCHEDULE_FROM_START,new NullableBool(true));
@@ -58,9 +56,8 @@ project.save("ProjectDefaultProps.xml", SaveFileFormat.XML);
 
 ## **Creating and Adding Calendar to Project**
 In order for proper functionality of Calendar items added to the Project, the legacy API required to recalculate Calendar UIDs. In the new API, however, UIDs recalculation are automatically dealt and there is no need to call the calculations manually.
-### **Legacy API Code Sample**
-**Java**
 
+### **Legacy API Code Sample**
 {{< highlight java >}}
 // Create a project instance
 Project prj =  new Project();
@@ -78,8 +75,6 @@ prj.save( "Project.Xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
 ### **New Aspose.Tasks for Java 8.x Approach**
-**Java**
-
 {{< highlight java >}}
 Project prj = new Project();
 Calendar cal1 = prj.getCalendars().add("no info");
@@ -92,8 +87,6 @@ prj.save("Project.Xml", SaveFileFormat.XML);
 Recalculating Calendar UIDs are no more required in the new Aspose.Tasks' API as compared to the legacy API.
 
 ### **Legacy API Code Sample**
-**Java**
-
 {{< highlight java >}}
 Project prj = new  Project();
 //Define Calendar and make it standard
@@ -105,8 +98,6 @@ prj.save( "Project.Xml" , SaveFileFormat.XML);
 {{< /highlight >}}
 
 ### **New Aspose.Tasks for Java 8.x Approach**
-**Java**
-
 {{< highlight java >}}
 //Create a project instance
 Project project = new Project();
@@ -118,9 +109,8 @@ project.save("Project.Xml", SaveFileFormat.XML);
 
 ## **Create and Adding Task to Project**
 Creating a new task in the legacy API, it required to define a root task, add it to the project as its root task, and then add a new task to this root task as a child. The new API, however, doesn't need you to define the root task and takes care of it automatically while adding the first task to the project.
-### **Legacy API Code Sample**
-**Java**
 
+### **Legacy API Code Sample**
 {{< highlight java >}}
 Project project = new Project();
 Task rootTask = new Task();
@@ -138,8 +128,6 @@ project.save("Project.xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
 ### **New Aspose.Tasks for Java 8.x Approach**
-**Java**
-
 {{< highlight java >}}
 Project project = new Project();
 Task task = project.getRootTask().getChildren().add("Task 1");
@@ -154,8 +142,6 @@ project.save("CreateTasks.xml", SaveFileFormat.XML);
 The *set* and *get* methods have been added to the Resource class of the API for manipulating attributes related to a project's Resource.
 
 ### **Legacy API Code Sample**
-**Java**
-
 {{< highlight java >}}
 Project project = new Project();
 Resource res =   new Resource("Res1");
@@ -171,8 +157,6 @@ project.save("Project.xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
 ### **New Aspose.Tasks for Java 8.x Approach**
-**Java**
-
 {{< highlight java >}}
 Project project = new Project();
 Resource rsc = project.getResources().add("R1");
@@ -188,8 +172,6 @@ project.save("CreateResource.xml", SaveFileFormat.XML);
 The *ResourceAssignment* class also introduces the *set* and *get* methods similar to other data collections of the API such as Tasks, Resources and Tasks Links.
 
 ### **Legacy API Code Sample**
-**Java**
-
 {{< highlight java >}}
 Project project = new Project();
 Task tskRoot =  new Task();
@@ -212,8 +194,6 @@ project.save("project.xml", SaveFileFormat.XML);
 {{< /highlight >}}
 
 ### **New Aspose.Tasks for Java 8.x Approach**
-**Java**
-
 {{< highlight java >}}
 Project project = new Project();
 Task task = project.getRootTask().getChildren().add("Task");

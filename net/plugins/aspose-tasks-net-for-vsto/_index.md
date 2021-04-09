@@ -75,7 +75,6 @@ Please follow these simple steps to get started
 - Open Visual Studio 2010 and Choose File > Open Project.
 - Browse to the latest source code that you have downloaded and Open the solution file.
 
-## **Sample Code Examples**
 This section includes the following topics
 
 - [Code Comparison for common features](/tasks/net/code-comparison-for-common-features/)
