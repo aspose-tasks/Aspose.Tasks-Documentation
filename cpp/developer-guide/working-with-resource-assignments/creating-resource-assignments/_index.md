@@ -11,7 +11,7 @@ Resource assignments are linking tasks and resources. This article explains how 
 ## **Creating Resource Assignments**
 The [Resource](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource) class exposes two different ways of creating a resource assignment, either using the default constructor or by passing a task and resource.
 
-### **Programming Sample: Default Constructor**
+**Programming Sample: Default Constructor**
 Create a [ResourceAssignment](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource_assignment) instance without requiring any parameters to be passed.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithResourceAssignments-CreateResourceAssignments-CreateResourceAssignments.cpp" >}}

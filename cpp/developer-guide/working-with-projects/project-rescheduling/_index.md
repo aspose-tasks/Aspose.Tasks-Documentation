@@ -11,12 +11,12 @@ This topic shows how to reschedule a project from the project start/finish date 
 
 We can recalculate dates from finish date by setting the project finish date and then invoking Task.Recalculate(). Rescheduling is made faster by the public method Project.CalcSlacks(). You can calculate tasks slacks based on their early/late dates.
 
-### **Programming Sample: Rescheduling a Project from the Finish Date**
+**Programming Sample: Rescheduling a Project from the Finish Date**
 The following lines of code demonstrate how to achieve rescheduling of a project from the finish date.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-Rescheduling-RescheduleProjectFromFinishDate-RescheduleProjectFromFinishDate.cpp" >}}
 
-### **Programming Sample: Rescheduling a Project from the Start Date**
+**Programming Sample: Rescheduling a Project from the Start Date**
 The following lines of code demonstrate how to achieve rescheduling of a project from the start date.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-Rescheduling-RescheduleProjectFromStartDate-ReschedueProjectFromStartDate.cpp" >}}

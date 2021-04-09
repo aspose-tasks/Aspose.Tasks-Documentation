@@ -11,7 +11,6 @@ Aspose.Tasks for C++ API supports reading/writing formulas to MPP project files.
 ## **Formula Grammar**
 Microsoft Project uses the following grammar for formula.
 
-**Formula Grammar (Simplified)**
 {{< highlight text >}}
 Formula -> Formula Binary_Op Primary | Primary
 Primary -> (Formula) | Unary_Op Primary | Function | [ValidFieldName] | ValidDoubleValue | "StringLiteral"

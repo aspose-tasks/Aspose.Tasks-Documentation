@@ -11,12 +11,12 @@ This topic shows how to reschedule a project from the project start/finish date 
 
 We can recalculate dates from finish date by setting the project finish date and then invoking [Project.Recalculate()](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/recalculate).
 
-### **Programming Sample: Rescheduling a Project from the Finish Date**
+**Programming Sample: Rescheduling a Project from the Finish Date**
 The following lines of code show how to achieve this using C#.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Rescheduling-RescheduleProjectFromFinishDate-RescheduleProjectFromFinishDate.cs" >}}
 
-### **Programming Sample: Rescheduling a Project from the Start Date**
+**Programming Sample: Rescheduling a Project from the Start Date**
 The following lines of code shows how to achieve this using C#.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Rescheduling-RescheduleProjectFromStartDate-ReschedueProjectFromStartDate.cs" >}}
