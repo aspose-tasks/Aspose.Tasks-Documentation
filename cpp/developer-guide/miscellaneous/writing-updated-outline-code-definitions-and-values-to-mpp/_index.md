@@ -6,7 +6,7 @@ weight: 60
 url: /cpp/writing-updated-outline-code-definitions-and-values-to-mpp/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for C++ API provides the facility to add new outline code attributes to an existing Microsoft Project MPP file and save it back.
 

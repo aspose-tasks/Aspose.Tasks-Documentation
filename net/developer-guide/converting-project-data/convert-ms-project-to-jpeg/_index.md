@@ -7,7 +7,7 @@ weight: 20
 url: /net/convert-ms-project-to-jpeg/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for .NET API lets you save project data to JPEG file format. You can also export the project data to JPEG with specified image quality.
 

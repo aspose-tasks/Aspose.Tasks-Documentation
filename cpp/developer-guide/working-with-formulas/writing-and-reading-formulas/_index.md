@@ -6,7 +6,7 @@ weight: 10
 url: /cpp/writing-and-reading-formulas/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for C++ API supports reading/writing formulas to MPP project files. The Formula property of the ExtendedAttributeDefinition provides the interface for reading the formula value. This article describes how to read formulas from local as well as Enterprise Extended Attributes from the MPP file. It also shows how to write formulas to MPP file.
 

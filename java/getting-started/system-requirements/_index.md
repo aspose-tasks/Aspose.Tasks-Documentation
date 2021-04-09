@@ -30,7 +30,7 @@ Aspose.Tasks for Java supports any operating system where Java runtime is instal
 ### **Mac**
 - Mac OS X
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 In the case of Linux and Mac, Aspose.Tasks for Java requires TrueType fonts installed on the system in order to render project data to different formats.
 

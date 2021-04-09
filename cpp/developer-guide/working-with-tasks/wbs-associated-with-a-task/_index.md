@@ -6,7 +6,7 @@ weight: 130
 url: /cpp/wbs-associated-with-a-task/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 WBS (Work Breakdown Structure) codes, lets you assign outline numbers to tasks according to the needs of your business. It's a method for applying a customized outline scheme to a project. Aspose.Tasks for C++ API supports this feature.
 

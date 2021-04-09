@@ -6,7 +6,7 @@ weight: 190
 url: /cpp/read-timephased-data/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 In Microsoft Project, timephased data is displayed on the right side of the Task Usage and Resource Usage views. You can write this data manually and programmatically it can be written with Aspose.Tasks for C++ API or get it from a project into your application.
 

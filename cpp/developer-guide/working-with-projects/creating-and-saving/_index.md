@@ -6,7 +6,7 @@ weight: 10
 url: /cpp/creating-and-saving/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for C++ lets you work with Microsoft Project (MPP/XML) files without having Microsoft Project installed, or using Microsoft Office Automation. A powerful and flexible API, Aspose.Tasks saves you time and effort by giving you the tools you need to write efficient code for manipulating project files in your C++ applications.
 

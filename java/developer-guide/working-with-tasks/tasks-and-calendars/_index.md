@@ -6,7 +6,7 @@ weight: 30
 url: /java/tasks-and-calendars/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 It is possible to associate calendars with particular tasks in Microsoft Project. Aspose.Task supports this functionality.
 

@@ -6,7 +6,7 @@ weight: 80
 url: /cpp/extended-attributes-of-a-project/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Microsoft Project has an extensive XML data interchange schema that makes exchanging information between applications and programming with project files easier. The schema allows you to add extended attributes to tasks, resources and assignments. This article demonstrates how to work with Extended Attributes using Aspose.Tasks.
 

@@ -9,7 +9,7 @@ url: /cpp/licensing/
 ## **Evaluate Aspose.Tasks**
 A free evaluation version of Aspose.Tasks for C++ can be downloaded from the downloads section of Aspose's web site at <https://downloads.aspose.com/tasks/cpp>.
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](https://purchase.aspose.com/temporary-license)?
 

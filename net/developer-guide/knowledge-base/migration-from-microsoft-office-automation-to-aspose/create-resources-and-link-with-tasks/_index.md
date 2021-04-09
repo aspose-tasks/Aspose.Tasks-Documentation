@@ -6,7 +6,7 @@ weight: 50
 url: /net/create-resources-and-link-with-tasks/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 While working with MPP files, you might need to create resources and link them to tasks from your project. This article gives an idea about how to load MPP files in your .NET applications and create resources and link to tasks from your projects using [VSTO](/tasks/net/create-resources-and-link-with-tasks/) and [Aspose.Tasks for .NET](/tasks/net/create-resources-and-link-with-tasks/).
 

@@ -6,7 +6,7 @@ weight: 120
 url: /cpp/stopping-and-resuming-a-task/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 A tasks' stop date is the date that it should (or did) end. Sometimes, a task has to be stopped temporarily and then resumed later. Microsoft Project can calculate stop dates, or let users enter them manually.
 

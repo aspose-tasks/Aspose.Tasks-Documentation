@@ -7,7 +7,7 @@ weight: 40
 url: /cpp/convert-project-data-to-svg-format/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This article demonstrates how to render project data to SVG format using Aspose.Tasks for C++.
 

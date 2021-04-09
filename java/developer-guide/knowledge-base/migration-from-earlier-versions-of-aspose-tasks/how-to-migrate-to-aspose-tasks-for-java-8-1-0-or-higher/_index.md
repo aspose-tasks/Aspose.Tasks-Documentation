@@ -6,7 +6,7 @@ weight: 100
 url: /java/how-to-migrate-to-aspose-tasks-for-java-8-1-0-or-higher/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for Java 8.1.0 is a revamped version of the API that includes considerable changes from usage perspective. Key differences of both the implementations include:
 

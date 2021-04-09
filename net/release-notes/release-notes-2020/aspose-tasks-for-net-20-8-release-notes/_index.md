@@ -6,7 +6,7 @@ weight: 8
 url: /net/aspose-tasks-for-net-20-8-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.Tasks for .NET 20.8](https://downloads.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.8/).
 

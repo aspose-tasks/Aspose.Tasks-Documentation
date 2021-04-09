@@ -7,7 +7,7 @@ weight: 80
 url: /cpp/convert-project-pages-to-separate-image-files/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 To print a Project's pages to separate output files, use the ImageSaveOptions.SaveToSeparateFiles property. It specifies whether to save pages to separate files or not. Also, the API provides the ImageSaveOptions.Pages property that contains a list of page numbers to save when saving project layouts to separate files. All pages are saved if this list is empty and ImageSaveOptions.SaveToSeparateFiles is set to true.
 

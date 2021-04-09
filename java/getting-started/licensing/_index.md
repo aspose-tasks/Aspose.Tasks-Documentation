@@ -9,7 +9,7 @@ url: /java/licensing/
 ## **Evaluate Aspose.Tasks**
 A free evaluation version of Aspose.Tasks for Java can be downloaded from [download section](https://downloads.aspose.com/tasks/java) of Aspose.Tasks for Java.
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 If you want to test Aspose.Tasks without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License](https://purchase.aspose.com/temporary-license)?
 {{% /alert %}}
 

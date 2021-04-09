@@ -6,7 +6,7 @@ weight: 10
 url: /net/product-overview/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Tasks for .NET logo](product-overview_1.png)
 

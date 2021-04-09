@@ -6,7 +6,7 @@ weight: 20
 url: /cpp/resource-properties/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 The [Resource](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource) class has a number of properties for getting and setting resource attributes:
 

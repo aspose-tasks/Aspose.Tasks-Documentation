@@ -7,7 +7,7 @@ weight: 80
 url: /net/reduce-gap-between-tasks-list-and-footer/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Conversion of Project data to different formats can lead to space between the project's tasks list and footer. Using the ReduceFooterGap property will eliminate the extra gap between the tasks' list and the footer of the document.
 

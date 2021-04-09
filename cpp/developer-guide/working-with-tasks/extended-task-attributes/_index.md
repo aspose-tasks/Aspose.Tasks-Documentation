@@ -6,7 +6,7 @@ weight: 180
 url: /cpp/extended-task-attributes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 In Microsoft Project, an extended task attribute is an element used to capture data for a custom task field. Aspose.Tasks can create as well as retrieve extended attribute information for all versions of Microsoft Project: 2003, 2007, 2010, and 2013.
 

@@ -6,7 +6,7 @@ weight: 180
 url: /net/aspose-tasks-for-net-6-3-0-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 The page contains release notes information for [Aspose.Tasks for .NET 6.3.0](https://downloads.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-6.3.0-(dlls-only)/).
 

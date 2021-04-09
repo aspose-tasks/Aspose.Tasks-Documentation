@@ -7,7 +7,7 @@ weight: 40
 url: /net/convert-ms-project-to-svg/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This article shows how to render project data to SVG format using Aspose.Tasks for .NET.
 

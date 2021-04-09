@@ -7,7 +7,7 @@ weight: 30
 url: /net/convert-ms-project-to-excel/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This article shows how to save project data to XLSX format using Aspose.Tasks for .NET.
 

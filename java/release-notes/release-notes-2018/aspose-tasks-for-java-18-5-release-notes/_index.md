@@ -6,7 +6,7 @@ weight: 60
 url: /java/aspose-tasks-for-java-18-5-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information of Aspose.Tasks for Java 18.5.
 

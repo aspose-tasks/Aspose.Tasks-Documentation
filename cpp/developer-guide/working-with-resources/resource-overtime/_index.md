@@ -6,7 +6,7 @@ weight: 40
 url: /cpp/resource-overtime/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 The [Resource](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource) class exposes a number of properties for managing resource overtime:
 

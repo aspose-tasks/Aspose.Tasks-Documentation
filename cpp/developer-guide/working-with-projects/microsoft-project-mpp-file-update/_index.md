@@ -6,7 +6,7 @@ weight: 100
 url: /cpp/microsoft-project-mpp-file-update/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 With Aspose.Tasks for C++ it is possible to update Microsoft Project 2010 MPP files in addition to XML. You can save the updated data to an existing or a new file.
 

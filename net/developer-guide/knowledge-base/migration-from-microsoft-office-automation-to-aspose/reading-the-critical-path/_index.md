@@ -6,7 +6,7 @@ weight: 20
 url: /net/reading-the-critical-path/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 The critical path is the series of tasks (or even a single task) that dictates the calculated finish date of the project. That is, when the last task in the critical path is completed, the project is completed.
 

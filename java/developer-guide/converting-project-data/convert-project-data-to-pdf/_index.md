@@ -7,7 +7,7 @@ weight: 60
 url: /java/convert-project-data-to-pdf/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This article shows how to render project data to PDF using Aspose.Tasks for Java. The API provides the following capabilities while rendering project data to various output formats including PDF.
 

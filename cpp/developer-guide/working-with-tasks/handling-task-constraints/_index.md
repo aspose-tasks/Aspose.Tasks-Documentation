@@ -6,7 +6,7 @@ weight: 70
 url: /cpp/handling-task-constraints/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Task constraints are used to define a Microsoft Project project's schedule and define when tasks should be started or finished. Constraints can be flexible - start or end as soon as possible or as late as possible - or inflexible. Inflexible constraints are tied to specific dates.
 

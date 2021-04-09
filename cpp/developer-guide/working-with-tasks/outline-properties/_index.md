@@ -6,7 +6,7 @@ weight: 100
 url: /cpp/outline-properties/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Microsoft Project has an outline structure that let users get a quick overview of a project. Aspose.Tasks for C++ API supports this functionality and lets developers control the outline number - where the task appears in a hierarchy - and the outline level - which level of the hierarchy the task is in.
 

@@ -49,7 +49,7 @@ Aspose components provide everything needed for managing Office files plus much 
 The best part of purchasing an Aspose component (or component suite like [Aspose.Total](https://purchase.aspose.com/buy)) is having access to our development teams. Our development teams realize that if there is a feature that your company needs, more than likely other companies will need it as well. While not every feature request can be added, our teams try to be very open-minded and flexible when assisting. That mind set is what has helped Aspose components to become as powerful as they are. If there are additional features that you need from Office Automation objects, your chances of having them added are very, very low.
 
 ### **Conclusion**
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 While this article has covered many of the key points why Aspose components are a better choice than Office Automation, there are many, many more. This article primarily addresses only the most key points. All of the different Aspose components offer a risk-free, no-obligation [Evaluation Version](https://downloads.aspose.com/tasks/cpp). We encourage you to take advantage of that [Evaluation](https://downloads.aspose.com/tasks/cpp) in order to better see what Aspose can do for your applications.
 

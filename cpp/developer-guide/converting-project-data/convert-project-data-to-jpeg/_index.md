@@ -7,7 +7,7 @@ weight: 50
 url: /cpp/convert-project-data-to-jpeg/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for C++ API lets you save project data to JPEG file format. You can also export the project data to JPEG with specified image quality.
 

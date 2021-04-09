@@ -6,7 +6,7 @@ weight: 8
 url: /java/aspose-tasks-for-java-20-10-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.Tasks for Java 20.10](https://downloads.aspose.com/tasks/java/new-releases/aspose.tasks-for-java-20.10/).
 

@@ -6,7 +6,7 @@ weight: 10
 url: /cpp/product-overview/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Tasks for C++ Logo](product-overview_1.png)
 

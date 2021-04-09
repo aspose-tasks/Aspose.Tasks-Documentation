@@ -6,7 +6,7 @@ weight: 20
 url: /java/defining-link-type/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 The LinkType property exposed by the [TaskLink](https://apireference.aspose.com/tasks/java/com.aspose.tasks/TaskLink) class is used to retrieve or define the type of link between two tasks. It reads and writes one of the values defined by the TaskLinkType enumeration type.
 

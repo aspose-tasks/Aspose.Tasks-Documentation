@@ -6,7 +6,7 @@ weight: 60
 url: /cpp/aspose-tasks-for-cpp-20-1-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for Aspose.Tasks for C++ 20.1 version.
 

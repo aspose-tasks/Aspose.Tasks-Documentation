@@ -6,7 +6,7 @@ weight: 110
 url: /java/handling-priorities/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 A task's priority helps Microsoft Project with automatic resource leveling (a process of fixing conflicts when a resource is over-allocated). In Microsoft Project, it is possible to assign priority values between 0 and 1000 (where 0 is the lowest priority). By default, tasks are assigned the value 500.
 

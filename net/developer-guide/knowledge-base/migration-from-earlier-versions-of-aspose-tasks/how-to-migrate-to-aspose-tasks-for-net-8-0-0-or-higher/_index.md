@@ -6,7 +6,7 @@ weight: 90
 url: /net/how-to-migrate-to-aspose-tasks-for-net-8-0-0-or-higher/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for .NET 8.0.0 is a revamped version of the API that includes considerable changes from usage perspective. Key differences of both the implementations include:
 

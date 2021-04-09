@@ -7,7 +7,7 @@ weight: 40
 url: /java/saving-project-data-to-svg-format/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This article shows how to render project data to SVG format using Aspose.Tasks Java.
 

@@ -6,7 +6,7 @@ weight: 240
 url: /java/retrieve-a-task-s-budget-work-and-cost-values/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Microsoft Project 2007 and 2010 provide budget cost and budget work as task fields. Aspose.Tasks for Java provides these properties as Task.BudgetWork and Task.BudgetCost.
 

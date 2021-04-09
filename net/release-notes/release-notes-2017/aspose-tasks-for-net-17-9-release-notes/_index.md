@@ -6,7 +6,7 @@ weight: 30
 url: /net/aspose-tasks-for-net-17-9-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information about Aspose.Tasks for .NET 17.9.
 

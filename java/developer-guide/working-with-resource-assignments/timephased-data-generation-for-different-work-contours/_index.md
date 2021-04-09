@@ -6,7 +6,7 @@ weight: 90
 url: /java/timephased-data-generation-for-different-work-contours/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks can generate timephased data for different work contours of an assigned resource. The generated data is obtained using TimeScaleData which takes the project start and finish dates as input parameters.
 

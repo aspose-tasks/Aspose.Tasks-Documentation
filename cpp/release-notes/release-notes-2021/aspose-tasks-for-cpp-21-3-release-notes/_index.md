@@ -6,7 +6,7 @@ weight: 98
 url: /net/aspose-tasks-for-cpp-21-3-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.Tasks for C++ 21.3](https://downloads.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c---21.3/).
 

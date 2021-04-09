@@ -7,7 +7,7 @@ weight: 10
 url: /java/saving-project-data-to-excel-format/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This article shows how to save project data to XLSX format using Aspose.Tasks.
 

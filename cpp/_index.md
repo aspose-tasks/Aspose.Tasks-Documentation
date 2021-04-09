@@ -8,7 +8,7 @@ is_root: true
 ---
 
 ## **Aspose.Tasks for C++**
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Tasks for C++ Product Logo](home_1.png)
 

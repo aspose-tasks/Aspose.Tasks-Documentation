@@ -6,7 +6,7 @@ weight: 70
 url: /net/calculating-split-task-s-finish-date/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Microsoft Project allows users to split tasks when the schedule is interrupted. Aspose.Tasks allows you to calculate the finishing date of a split task.
 

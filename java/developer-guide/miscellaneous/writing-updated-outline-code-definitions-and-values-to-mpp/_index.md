@@ -6,7 +6,7 @@ weight: 20
 url: /java/writing-updated-outline-code-definitions-and-values-to-mpp/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for Java provides the facility to add new outline code attributes to an existing Microsoft Project MPP file and save it back.
 

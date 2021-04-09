@@ -6,7 +6,7 @@ weight: 50
 url: /cpp/project-pages/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for C++ can retrieve the total number of pages in a project. The GetPageCount method offered by Aspose.Tasks' Visualization namespace returns the total page count in a project with options of rendering them based on Timescale.Days, Timescale.Months or Timescale.ThirdsOfMonths.
 

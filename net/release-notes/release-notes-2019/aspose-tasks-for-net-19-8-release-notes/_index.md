@@ -6,14 +6,13 @@ weight: 60
 url: /net/aspose-tasks-for-net-19-8-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.Tasks for .NET 19.8](https://downloads.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-19.8/).
 
 {{% /alert %}}
 
 ## **All Changes**
-
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 |TASKSNET-3424 | Add writing DurationText tag in XML output |Bug |

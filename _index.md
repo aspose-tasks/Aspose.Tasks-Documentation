@@ -8,7 +8,7 @@ url: /
 
 ## **Aspose.Tasks for .NET**
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Tasks for .NET Product Logo](home_1.png)
 

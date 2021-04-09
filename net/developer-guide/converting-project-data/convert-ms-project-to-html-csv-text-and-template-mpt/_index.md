@@ -7,7 +7,7 @@ weight: 50
 url: /net/convert-ms-project-to-html-csv-text-and-template-mpt/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Microsoft Project (MSP) allows developers to save project data (MPP/XML) to HTML, comma-delimited (CSV), text and MPT templates. Aspose.Tasks also allows you to save project data to the same formats similar to MSP. This is achieved using the standard Save method exposed by the [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project/) class.
 

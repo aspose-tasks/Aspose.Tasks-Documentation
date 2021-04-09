@@ -6,7 +6,7 @@ weight: 50
 url: /cpp/resource-cost/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 The [Resource](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource) class is used to manage costs related to a resource:
 

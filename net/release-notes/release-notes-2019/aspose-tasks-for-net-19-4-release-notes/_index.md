@@ -6,7 +6,7 @@ weight: 110
 url: /net/aspose-tasks-for-net-19-4-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for Aspose.Tasks for .NET 19.4.
 

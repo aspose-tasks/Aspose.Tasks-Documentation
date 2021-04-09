@@ -6,7 +6,7 @@ weight: 10
 url: /java/product-overview/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Tasks for Java logo](product-overview_1.png)
 

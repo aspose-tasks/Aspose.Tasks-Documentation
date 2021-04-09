@@ -38,7 +38,7 @@ To create **Maven Project** by wizard for using [Aspose.Tasks for Java API](http
 ### **Aspose.Tasks Code Example (wizard)**
 **Aspose.Tasks Code Example wizard** allows you to try out many samples provided for [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) API.
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 To be able to use **Aspose.Tasks Code Example wizard** comfortably: it is recommended to always select **Also Download Code Examples** while creating **Maven Project** on **Aspose.Tasks Maven Project Wizard**, 
 

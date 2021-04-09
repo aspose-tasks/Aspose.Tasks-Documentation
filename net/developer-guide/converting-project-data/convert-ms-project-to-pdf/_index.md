@@ -7,7 +7,7 @@ weight: 10
 url: /net/convert-ms-project-to-pdf/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for .NET API provides the capability to render project data in PDF format. This article gives a detailed overview of the variety of options available in Aspose.Tasks for exporting projects to PDF.
 

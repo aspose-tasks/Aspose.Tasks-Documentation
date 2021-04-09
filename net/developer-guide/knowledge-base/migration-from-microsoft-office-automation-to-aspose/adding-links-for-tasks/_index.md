@@ -6,7 +6,7 @@ weight: 40
 url: /net/adding-links-for-tasks/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Tasks linking is often required while working with Microsoft Project (MPP/XML) files. In VSTO, TaskDependencies.Add() is used for adding task links; Aspose.Tasks uses Project.TaskLinks.Add() to link tasks.
 

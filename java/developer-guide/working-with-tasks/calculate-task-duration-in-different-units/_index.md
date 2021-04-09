@@ -6,7 +6,7 @@ weight: 200
 url: /java/calculate-task-duration-in-different-units/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 It can be useful to calculate the duration of a task in different units such as minutes, hours, etc.
 

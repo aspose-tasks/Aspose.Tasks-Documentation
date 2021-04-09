@@ -6,7 +6,7 @@ weight: 50
 url: /java/resource-cost/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class is used to manage costs related to a resource:
 

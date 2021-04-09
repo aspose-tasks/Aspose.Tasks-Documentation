@@ -6,7 +6,7 @@ weight: 210
 url: /net/read-task-s-timephased-data/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 In Microsoft Project, time-phased data is displayed on the right side of the Task Usage and Resource Usage views. Users can write this data manually and with Aspose.Tasks for .NET, you can write it programmatically, or get it from a project into your application.
 

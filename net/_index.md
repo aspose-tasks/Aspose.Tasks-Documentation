@@ -7,7 +7,7 @@ url: /net/
 is_root: true
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![Aspose.Tasks for .NET Product Logo](home_1.png)
 

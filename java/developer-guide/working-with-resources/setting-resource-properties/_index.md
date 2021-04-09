@@ -6,7 +6,7 @@ weight: 20
 url: /java/setting-resource-properties/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class has a number of properties for getting and setting resource attributes:
 

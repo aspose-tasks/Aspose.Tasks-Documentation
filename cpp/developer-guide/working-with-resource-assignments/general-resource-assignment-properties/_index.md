@@ -6,7 +6,7 @@ weight: 20
 url: /cpp/general-resource-assignment-properties/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 An assignment is a resource that has been assigned to a specific task. Each resource has general properties, typically a unique ID, a start and a finish time. This article explains how to set and get these properties with Aspose.Tasks.
 

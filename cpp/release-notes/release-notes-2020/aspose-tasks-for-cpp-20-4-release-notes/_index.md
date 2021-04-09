@@ -6,7 +6,7 @@ weight: 30
 url: /cpp/aspose-tasks-for-cpp-20-4-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.Tasks for C++ 20.4](https://www.nuget.org/packages/Aspose.Tasks.Cpp/20.4.0) version.
 

@@ -7,7 +7,7 @@ weight: 100
 url: /cpp/import-and-export-project-data-to-primavera-format/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Primavera Proprietary Exchange Format (XER), by Primavera Systems, Inc., is primarily associated with Primavera Project Management. Aspose.Tasks for C++ provides the capability to export Microsoft Project Data to Primavera XER as well as XML formats. This article demonstrates how to import or export to a variety of Primavera supported formats.
 

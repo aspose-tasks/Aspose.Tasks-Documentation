@@ -6,7 +6,7 @@ weight: 9
 url: /cpp/aspose-tasks-for-cpp-20-7-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.Tasks for C++ 20.7](https://downloads.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c---20.7.0/) version.
 

@@ -6,7 +6,7 @@ weight: 150
 url: /java/parent-and-child-tasks/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Tasks can be organized in a hierarchy. When a task has one or more tasks beneath it, they are referred to as parents. The tasks underneath are called parents.
 

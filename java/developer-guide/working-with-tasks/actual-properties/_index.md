@@ -6,7 +6,7 @@ weight: 50
 url: /java/actual-properties/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 The actual properties are used to find out how much time or money has been sent on a task to date.
 

@@ -6,7 +6,7 @@ weight: 50
 url: /cpp/task-durations/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Tasks take time, they have a duration. Realistic task durations help give a realistic project end date. Aspose.Tasks for C++ API allows developers to set task durations in projects.
 

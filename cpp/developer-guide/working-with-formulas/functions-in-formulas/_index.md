@@ -6,7 +6,7 @@ weight: 30
 url: /cpp/functions-in-formulas/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for C++ API supports evaluating functions defined as formula expression in Extended Attribute. These include calculation of Math, General, Text, and DateTime functions.
 

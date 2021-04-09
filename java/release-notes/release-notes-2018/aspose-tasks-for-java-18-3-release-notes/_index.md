@@ -6,7 +6,7 @@ weight: 80
 url: /java/aspose-tasks-for-java-18-3-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information about Aspose.Tasks for Java 18.3.
 

@@ -9,7 +9,7 @@ url: /java/working-with-project-properties/
 ## **Working with General Project Properties**
 Microsoft Project saves project properties, metadata, for every project. The properties include the project's start and end dates, the current date and the status date, the type of calendar used and when a project is scheduled from. Aspose.Tasks for Java lets you read and set project properties. This topic shows how.
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for Java x.x.x will be displayed against these fields
 

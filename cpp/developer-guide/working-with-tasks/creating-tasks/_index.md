@@ -6,7 +6,7 @@ weight: 10
 url: /cpp/creating-tasks/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 A project is, essentially, made up by a number of tasks, each of which has to be completed for the project to be completed. When working with project files, adding tasks is an important activity. Tasks are often linked to other tasks, to indicate dependency, and typically have a set duration. Aspose.Tasks for C++ API allows developers to create tasks and define name, children and duration at the time of creation.
 

@@ -6,7 +6,7 @@ weight: 20
 url: /cpp/currency-digits/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Currency digits set the number of decimal points (digits after a decimal point) used for currency.
 

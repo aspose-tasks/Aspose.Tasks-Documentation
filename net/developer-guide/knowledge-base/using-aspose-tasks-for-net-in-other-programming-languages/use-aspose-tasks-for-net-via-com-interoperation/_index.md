@@ -6,7 +6,7 @@ weight: 20
 url: /net/use-aspose-tasks-for-net-via-com-interoperation/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 The information in this topic applies to scenarios where you want to use Aspose.Tasks for .NET via COM Interop in any of the following programming languages:
 
@@ -45,7 +45,7 @@ Dim prj As New Aspose_Tasks.Project
 prj.IsScheduleFromStart = True
 {{< /highlight >}}
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Some methods have overloads and they will be exposed by COM Interop with a numeric suffix added to them, except for the very first method that stays unchanged. For example, Project.CalcCalendarUids method overloads become Project.CalcCalendarUids, Project.CalcCalendarUids _2 and so on.
 

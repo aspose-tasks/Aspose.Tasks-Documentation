@@ -6,7 +6,7 @@ weight: 110
 url: /net/aspose-tasks-for-net-18-3-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information about Aspose.Tasks for .NET 18.3.
 
