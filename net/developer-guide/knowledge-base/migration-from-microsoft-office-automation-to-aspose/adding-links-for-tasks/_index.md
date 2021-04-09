@@ -27,7 +27,6 @@ To link a task using VSTO:
 4. Click **OK**.
 
 This imports the Microsoft.Office.Interop.MSProject namespace at the start of your code. Use the code from the following example to link tasks.
-### **Programming Samples - VSTO**
 
 {{< highlight csharp >}}
 Microsoft.Office.Interop.MSProject.Application projectApplication = new Application();

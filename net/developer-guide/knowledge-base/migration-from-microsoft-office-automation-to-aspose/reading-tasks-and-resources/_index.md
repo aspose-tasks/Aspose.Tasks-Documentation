@@ -21,8 +21,6 @@ The following steps are required to accomplish this task:
    This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.
 4. Use the code from the following example to read tasks and resources.
 
-### **Code Examples - VSTO**
-
 {{< highlight csharp >}}
 // Create Application object
 Application projectApplication = new ApplicationClass();
@@ -74,7 +72,5 @@ The following steps are required to accomplish this task:
 3. Select **Aspose.Tasks** and then click **OK**.
    This imports the Aspose.Tasks namespace at the start of the code.
 4. Use the code from the following example to read tasks and resources.
-
-### **Code Examples - Aspose.Tasks**
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-KnowledgeBase-ReadTaskAndResources-ReadTaskAndResources.cs" >}}

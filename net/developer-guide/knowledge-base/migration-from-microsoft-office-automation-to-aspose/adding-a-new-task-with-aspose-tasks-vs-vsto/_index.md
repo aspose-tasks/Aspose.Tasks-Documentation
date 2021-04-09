@@ -22,8 +22,6 @@ To add a task using VSTO:
 
 This imports the Microsoft.Office.Interop.MSProject namespace at the start of your code. Use the code from the following example to add a new task.
 
-### **Programming Samples - VSTO**
-
 {{< highlight csharp >}}
 Microsoft.Office.Interop.MSProject.Application projectApplication = new Application();
 object missingValue = System.Reflection.Missing.Value;
