@@ -1,5 +1,6 @@
 ---
 title: Creating, Updating and Removing Calendar
+description: "Learn how to create or modify project calendars using Aspose.Tasks for Java."
 type: docs
 weight: 10
 url: /java/creating-updating-and-removing-calendar/

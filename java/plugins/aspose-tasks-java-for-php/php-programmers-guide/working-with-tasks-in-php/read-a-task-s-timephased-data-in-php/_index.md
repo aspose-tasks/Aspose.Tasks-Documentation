@@ -1,5 +1,6 @@
 ---
 title: Read a Task's Timephased Data in PHP
+description: "Learn how to read Microsoft Project (MPP/XML) task timephased data using Aspose.Tasks Java for PHP."
 type: docs
 weight: 120
 url: /java/read-a-task-s-timephased-data-in-php/

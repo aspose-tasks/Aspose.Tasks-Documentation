@@ -1,5 +1,6 @@
 ---
 title: Read Custom and Built-in Properties
+description: "Learn how to work with Microsoft Project (MPP/XML) custom and built-in properties using Aspose.Tasks for C++."
 type: docs
 weight: 70
 url: /cpp/read-custom-and-built-in-properties/

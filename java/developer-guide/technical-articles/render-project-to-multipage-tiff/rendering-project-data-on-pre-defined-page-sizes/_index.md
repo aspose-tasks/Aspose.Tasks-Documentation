@@ -1,5 +1,6 @@
 ---
-title: Rendering Project Data on Pre-Defined Page sizes
+title: Rendering Project Data on Predefined Page sizes
+description: "Learn how to render Microsoft Project (MPP/XML)  project data with predefined page sizes using Aspose.Tasks for Java."
 type: docs
 weight: 10
 url: /java/rendering-project-data-on-pre-defined-page-sizes/

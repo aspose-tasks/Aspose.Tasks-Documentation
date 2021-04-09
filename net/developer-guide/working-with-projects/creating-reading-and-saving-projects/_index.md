@@ -17,7 +17,7 @@ At present, Aspose.Tasks for .NET provides the facility to create **XML** projec
 
 The XML project file can be opened in Microsoft Project:
 
-1. ON the **File** menu, select **Open**.
+1. On the **File** menu, select **Open**.
 2. Select the XML format (*.xml) option from the file types and browse to the output XML file.
 3. On the **Project** menu, select **Project Information**
 

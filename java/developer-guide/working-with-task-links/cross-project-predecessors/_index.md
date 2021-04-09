@@ -1,5 +1,6 @@
 ---
-title: Cross-Project Predecessors
+title: Cross Project Predecessors
+description: "Learn how to work with Microsoft Project (MPP/XML) cross project predecessors using Aspose.Tasks for Java."
 type: docs
 weight: 40
 url: /java/cross-project-predecessors/

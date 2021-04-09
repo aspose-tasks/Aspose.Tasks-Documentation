@@ -1,5 +1,6 @@
 ---
 title: Custom Field (Extended Attribute) Definition Data
+description: "Learn what custom field (extended attribute) definition data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for .NET."
 type: docs
 weight: 90
 url: /net/custom-field-extended-attribute-definition-data/

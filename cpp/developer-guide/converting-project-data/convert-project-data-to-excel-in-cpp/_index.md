@@ -1,11 +1,12 @@
 ---
 title: Convert Project Data to Excel in C++
+description: "Learn how to convert Microsoft Project (MPP/XML) projects to Excel using Aspose.Tasks for C++."
 type: docs
 weight: 10
 url: /cpp/convert-project-data-to-excel-in-cpp/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This article demonstrates how to save project data to XLSX format using Aspose.Tasks for C++.
 

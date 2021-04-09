@@ -1,5 +1,6 @@
 ---
 title: Handling Overtime, Remaining Costs and Work in PHP
+description: "Learn how to handle Microsoft Project (MPP/XML) overtime, remaining and work values using Aspose.Tasks Java for PHP."
 type: docs
 weight: 60
 url: /java/handling-overtime-remaining-costs-and-work-in-php/

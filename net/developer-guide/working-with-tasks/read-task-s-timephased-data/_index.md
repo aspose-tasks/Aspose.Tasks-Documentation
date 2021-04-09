@@ -1,5 +1,6 @@
 ---
-title: Read Task's Timephased Data
+title: Read Task Timephased Data
+description: "Learn how to read Microsoft Project (MPP/XML) task timephased data using Aspose.Tasks for .NET."
 type: docs
 weight: 210
 url: /net/read-task-s-timephased-data/

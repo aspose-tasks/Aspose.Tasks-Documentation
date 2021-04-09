@@ -1,15 +1,17 @@
 ---
 title: Aspose.Tasks for C++ 21.1 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for C++ 21.1."
 type: docs
 weight: 100
 url: /cpp/aspose-tasks-for-cpp-21-1-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.Tasks for C++ 21.1](https://downloads.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c---21.1/).
 
 {{% /alert %}}
+
 ## **All Changes**
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |

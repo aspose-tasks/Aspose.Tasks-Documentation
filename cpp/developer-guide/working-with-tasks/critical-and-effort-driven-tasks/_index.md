@@ -1,5 +1,6 @@
 ---
 title: Critical and Effort-Driven Tasks
+description: "Learn how to work with Microsoft Project (MPP/XML) critical and effort-driven tasks using Aspose.Tasks for C++."
 type: docs
 weight: 90
 url: /cpp/critical-and-effort-driven-tasks/

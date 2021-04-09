@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks for C++ 21.3 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for C++ 21.3."
 type: docs
 weight: 98
 url: /net/aspose-tasks-for-cpp-21-3-release-notes/

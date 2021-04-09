@@ -1,5 +1,6 @@
 ---
 title: Convert Project Data to HTML in C++
+description: "Learn how to convert Microsoft Project (MPP/XML) projects to HTML using Aspose.Tasks for C++."
 type: docs
 weight: 20
 url: /cpp/convert-project-data-to-html-in-cpp/

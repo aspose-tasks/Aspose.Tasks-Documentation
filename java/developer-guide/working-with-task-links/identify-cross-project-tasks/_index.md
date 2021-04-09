@@ -1,5 +1,6 @@
 ---
 title: Identify Cross-Project Tasks
+description: "Learn how to identify Microsoft Project (MPP/XML) cross-project tasks using Aspose.Tasks for Java."
 type: docs
 weight: 50
 url: /java/identify-cross-project-tasks/

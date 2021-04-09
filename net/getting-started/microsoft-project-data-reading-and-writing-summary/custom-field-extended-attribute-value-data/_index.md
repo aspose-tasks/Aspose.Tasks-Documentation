@@ -1,5 +1,6 @@
 ---
 title: Custom Field (Extended Attribute) Value Data
+description: "Learn what custom field (extended attribute) value data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for .NET."
 type: docs
 weight: 100
 url: /net/custom-field-extended-attribute-value-data/

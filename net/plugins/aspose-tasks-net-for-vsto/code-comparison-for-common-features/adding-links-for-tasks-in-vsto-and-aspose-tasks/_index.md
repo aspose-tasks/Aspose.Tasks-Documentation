@@ -1,5 +1,6 @@
 ---
 title: Adding Links for Tasks in VSTO and Aspose.Tasks
+description: "Learn how to add Microsoft Project (MPP/XML) new task links using Aspose.Tasks for .NET. in comparison with VSTO."
 type: docs
 weight: 20
 url: /net/adding-links-for-tasks-in-vsto-and-aspose-tasks/

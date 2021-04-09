@@ -1,17 +1,19 @@
 ---
 title: Creating, Reading and Saving Projects
+description: "Learn how to create, reading or saving Microsoft Project (MPP/XML) projects using Aspose.Tasks for Java."
 type: docs
 weight: 10
 url: /java/creating-reading-and-saving-projects/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 Aspose.Tasks for Java lets you work with Microsoft Project (MPP/XML) files without having Microsoft Project installed, or using Microsoft Office Automation. A powerful and flexible API, Aspose.Tasks saves you time and effort by giving you the tools you need to write efficient code for manipulating project files.
 
 Aspose.Tasks can open existing files, but it can also create new files. This article explains how to create a new and empty project file from a stream or using the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Creating an Empty Project File**
 The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class is the main class in Aspose.Tasks used to set and get properties associated with a project, as well as behavior. The save method offered by this class makes it possible to render the Project to various output formats such as XML, MPP, PDF, HTML, etc. with a single API call. This method accepts a file stream or file name, and one of the values provided by the SaveFileFormat enumeration type.
 
@@ -19,7 +21,7 @@ At present, Aspose.Tasks for Java provides the facility to create XML project fi
 
 The XML project file can be opened in Microsoft Project:
 
-1. ON the **File** menu, select **Open**.
+1. On the **File** menu, select **Open**.
 2. Select the XML format (*.xml) option from the file types and browse to the output XML file.
 3. On the **Project** menu, select **Project Information**.
 

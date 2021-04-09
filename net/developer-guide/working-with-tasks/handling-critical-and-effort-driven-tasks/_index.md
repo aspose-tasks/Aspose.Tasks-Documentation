@@ -1,5 +1,6 @@
 ---
 title: Handling Critical and Effort-Driven Tasks
+description: "Learn how to handle with Microsoft Project (MPP/XML) critical and effort-driven tasks using Aspose.Tasks for .NET."
 type: docs
 weight: 90
 url: /net/handling-critical-and-effort-driven-tasks/

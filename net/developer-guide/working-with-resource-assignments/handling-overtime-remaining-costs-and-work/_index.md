@@ -1,5 +1,6 @@
 ---
 title: Handling Overtime, Remaining Costs and Work
+description: "Learn how to handle Microsoft Project (MPP/XML) overtime and remaining costs and works values using Aspose.Tasks for .NET."
 type: docs
 weight: 50
 url: /net/handling-overtime-remaining-costs-and-work/
@@ -19,6 +20,7 @@ To see assignment overtime, remaining cost and work in Microsoft Project:
 
 1. On the Task Usage screen, select the **Insert** menu, then **Column**.
 2. Add the desired columns.
+
 ### **Getting Assignment Overtimes in Aspose.Tasks**
 The following example shows how to get assignment overtimes, remaining costs and work using Aspose.Tasks.
 

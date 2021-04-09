@@ -1,5 +1,6 @@
 ---
-title: Handling Overtime, Remaining Costs and Work
+title: Handling Overtime, Remaining Costs and Work Values
+description: "Learn how to handle Microsoft Project (MPP/XML) overtime, remaining and work values using Aspose.Tasks for Java."
 type: docs
 weight: 50
 url: /java/handling-overtime-remaining-costs-and-work/

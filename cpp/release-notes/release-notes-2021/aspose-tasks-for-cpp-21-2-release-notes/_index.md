@@ -1,5 +1,6 @@
 ---
 title: Aspose.Tasks for C++ 21.2 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for C++ 21.2."
 type: docs
 weight: 99
 url: /cpp/aspose-tasks-for-cpp-21-2-release-notes/
@@ -10,6 +11,7 @@ url: /cpp/aspose-tasks-for-cpp-21-2-release-notes/
 This page contains release notes information for [Aspose.Tasks for C++ 21.2](https://downloads.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c---21.2/).
 
 {{% /alert %}}
+
 ## **CLang support**
 ***Since version 21.2, the release also includes a ELF shared library built with CLang-3.9. Since the size of the full distribution becomes quite large, platform-specific packages are now available for download. They contain separate binaries for Windows and for Linux, respectively.***
 

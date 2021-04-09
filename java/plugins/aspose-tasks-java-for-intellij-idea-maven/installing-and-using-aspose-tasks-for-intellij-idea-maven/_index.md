@@ -1,5 +1,6 @@
 ---
 title: Installing and Using Aspose.Tasks for IntelliJ IDEA - Maven
+description: "Learn how to install Aspose.Tasks for Java using IntelliJ IDEA with Maven."
 type: docs
 weight: 10
 url: /java/installing-and-using-aspose-tasks-for-intellij-idea-maven/
@@ -86,7 +87,7 @@ Then follow the steps below on IntelliJ IDEA:
 
 ![Aspose.Tasks for Java option menu](idea_plugin_12.png)
 
-  The wizard will refresh / check for the latest available [Aspose.Tasks for Java API Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) 
+The wizard will refresh / check for the latest available [Aspose.Tasks for Java API Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) 
 
 ![Aspose.Tasks for Java example wizard check latest version](idea_plugin_13.png)
 

@@ -1,5 +1,6 @@
 ---
 title: Custom Field (Extended Attribute) Definition Data
+description: "Learn what custom field (extended attribute) definition data of Microsoft Project (MPP/XML) files are can be written or read by Aspose.Tasks for Java."
 type: docs
 weight: 90
 url: /java/custom-field-extended-attribute-definition-data/

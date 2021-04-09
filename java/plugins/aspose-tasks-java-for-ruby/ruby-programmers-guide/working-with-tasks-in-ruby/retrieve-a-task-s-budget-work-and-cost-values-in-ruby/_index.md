@@ -1,5 +1,6 @@
 ---
 title: Retrieve a Task's Budget Work and Cost Values in Ruby
+description: "Learn how to read Microsoft Project (MPP/XML) task budget work and cost values using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 150
 url: /java/retrieve-a-task-s-budget-work-and-cost-values-in-ruby/

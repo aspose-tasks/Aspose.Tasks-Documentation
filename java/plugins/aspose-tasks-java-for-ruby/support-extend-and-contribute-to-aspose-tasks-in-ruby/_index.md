@@ -1,5 +1,6 @@
 ---
 title: Support, Extend and Contribute to Aspose.Tasks in Ruby
+description: "Learn how to support, extend, and contribute to Aspose.Tasks Java for Ruby."
 type: docs
 weight: 30
 url: /java/support-extend-and-contribute-to-aspose-tasks-in-ruby/

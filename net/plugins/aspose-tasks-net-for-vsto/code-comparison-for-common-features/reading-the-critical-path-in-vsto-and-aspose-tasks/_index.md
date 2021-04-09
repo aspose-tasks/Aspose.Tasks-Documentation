@@ -1,5 +1,6 @@
 ---
 title: Reading the Critical Path in VSTO and Aspose.Tasks
+description: "Learn how to read Microsoft Project (MPP/XML) critical path using Aspose.Tasks for .NET. in comparison with VSTO."
 type: docs
 weight: 70
 url: /net/reading-the-critical-path-in-vsto-and-aspose-tasks/
@@ -20,24 +21,24 @@ Application projectApplication = new MSProject.Application();
 object missingValue = System.Reflection.Missing.Value;
 //Open an MPP file
 projectApplication.FileOpenEx("Project1.mpp",
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue);
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue);
 //Create a Project object by assigning active project
 Project project = projectApplication.ActiveProject;
 // Enumerate the tasks
 foreach (Task task in project.Tasks)
 {
-	//Get critical tasks
-	if (task != null)
-		if ((bool)task.Critical)
-		{
-			Console.WriteLine(task.ID + "  " + task.Name);
-			Console.WriteLine(task.Start);
-			Console.WriteLine(task.Finish + "\n");
-		}
+    //Get critical tasks
+    if (task != null)
+        if ((bool)task.Critical)
+        {
+            Console.WriteLine(task.ID + "  " + task.Name);
+            Console.WriteLine(task.Start);
+            Console.WriteLine(task.Finish + "\n");
+        }
 }
 // Make sure to clean up and close the file
 projectApplication.FileCloseAll(PjSaveType.pjDoNotSave);

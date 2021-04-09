@@ -1,5 +1,6 @@
 ---
 title: Handling Critical and Effort-driven Tasks
+description: "Learn how to handle with Microsoft Project (MPP/XML) critical and effort-driven tasks using Aspose.Tasks for Java."
 type: docs
 weight: 90
 url: /java/handling-critical-and-effort-driven-tasks/

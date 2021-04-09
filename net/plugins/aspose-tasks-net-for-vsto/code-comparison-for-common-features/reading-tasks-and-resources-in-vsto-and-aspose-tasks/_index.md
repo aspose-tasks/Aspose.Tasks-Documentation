@@ -1,5 +1,6 @@
 ---
 title: Reading Tasks and Resources in VSTO and Aspose.Tasks
+description: "Learn how to read Microsoft Project (MPP/XML) tasks and resources using Aspose.Tasks for .NET. in comparison with VSTO."
 type: docs
 weight: 60
 url: /net/reading-tasks-and-resources-in-vsto-and-aspose-tasks/

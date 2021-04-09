@@ -1,5 +1,6 @@
 ---
 title: Read a Task's Timephased Data in Ruby
+description: "Learn how to read Microsoft Project (MPP/XML) task timephased data using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 120
 url: /java/read-a-task-s-timephased-data-in-ruby/
@@ -31,8 +32,8 @@ assignment.set(Rjb::import('com.aspose.tasks.Asn').WORK_CONTOUR, Rjb::import('co
 project.setBaseline(Rjb::import('com.aspose.tasks.BaselineType').Baseline)
 task.set(tsk.PERCENT_COMPLETE, 50)
 td = assignment.getTimephasedData(assignment.get(Rjb::import('com.aspose.tasks.Asn').START), 
-				assignment.get(Rjb::import('com.aspose.tasks.Asn').FINISH), 
-Rjb::import('com.aspose.tasks.TimephasedDataType').AssignmentRemainingWork).toList()
+                                  assignment.get(Rjb::import('com.aspose.tasks.Asn').FINISH), 
+                                  Rjb::import('com.aspose.tasks.TimephasedDataType').AssignmentRemainingWork).toList()
 puts "Size: " + td.size().to_s
 puts "Value: " + td.get(0).getValue().to_s
 {{< /highlight >}}

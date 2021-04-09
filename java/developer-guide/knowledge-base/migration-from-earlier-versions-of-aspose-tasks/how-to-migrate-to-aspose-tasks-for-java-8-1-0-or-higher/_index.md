@@ -1,5 +1,6 @@
 ---
 title: How to Migrate to Aspose.Tasks for Java 8.1.0 or higher
+description: "Learn how to migrate from Aspose.Tasks for Java 8.1.0 to the latest ones."
 type: docs
 weight: 100
 url: /java/how-to-migrate-to-aspose-tasks-for-java-8-1-0-or-higher/
@@ -15,7 +16,8 @@ Aspose.Tasks for Java 8.1.0 is a revamped version of the API that includes consi
 
 This new API is incompatible with the Legacy API and the objective of this article is to help you migrate your code to the new API.  The article shows comparative code samples of the Legacy and the new API implementation, and includes:
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Setting Default Project Properties**
 Aspose.Tasks' legacy API allowed setting default properties of a project by directly setting the public attributes of the Project class. In the new API implementation, however, it exposes Set and Get methods to achieve the same.
 ### **Legacy API Code Sample**
@@ -184,6 +186,7 @@ project.save("CreateResource.xml", SaveFileFormat.XML);
 
 ## **Create and Add Resource Assignment to Project**
 The *ResourceAssignment* class also introduces the *set* and *get* methods similar to other data collections of the API such as Tasks, Resources and Tasks Links.
+
 ### **Legacy API Code Sample**
 **Java**
 

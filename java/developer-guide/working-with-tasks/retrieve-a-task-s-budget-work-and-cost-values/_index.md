@@ -1,5 +1,6 @@
 ---
 title: Retrieve a Task's Budget Work and Cost Values
+description: "Learn how to read Microsoft Project (MPP/XML) task budget work and cost values using Aspose.Tasks for Java."
 type: docs
 weight: 240
 url: /java/retrieve-a-task-s-budget-work-and-cost-values/
@@ -9,7 +10,8 @@ url: /java/retrieve-a-task-s-budget-work-and-cost-values/
 
 Microsoft Project 2007 and 2010 provide budget cost and budget work as task fields. Aspose.Tasks for Java provides these properties as Task.BudgetWork and Task.BudgetCost.
 
-{{% /alert %}} 
+{{% /alert %}}
+
 ## **Reading Budget Work and Cost Value**
 The following lines of code retrieve a task's budget work and cost information.
 

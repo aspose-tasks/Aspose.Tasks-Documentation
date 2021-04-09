@@ -1,5 +1,6 @@
 ---
 title: Adding a New Task in VSTO and Aspose.Tasks
+description: "Learn how to add Microsoft Project (MPP/XML) new tasks using Aspose.Tasks for .NET. in comparison with VSTO."
 type: docs
 weight: 10
 url: /net/adding-a-new-task-in-vsto-and-aspose-tasks/
