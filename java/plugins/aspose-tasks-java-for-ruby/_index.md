@@ -15,7 +15,7 @@ RJB is a bridge program that connect between Ruby and Java with Java Native Inte
 Aspose.Tasks for Java is a project management API that enables Java application developers to provide Microsoft Project® document manipulation capability in their applications – all without using Microsoft Project®. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
 
 ### **Aspose.Tasks Java for Ruby**
-Project Aspose.Tasks Java for Ruby shows how different tasks can be performed using Aspose.Tasks Java APIs in Ruby. This project is aimed to provide useful examples for Ruby developers who want to utilize Aspose.Tasks for Java in their Ruby Projects using Rjb (Ruby Java Bridge).
+Project Aspose.Tasks Java for Ruby shows how different tasks can be performed using Aspose.Tasks Java APIs in Ruby. This project is aimed to provide useful examples for Ruby developers who want to utilize Aspose.Tasks for Java in their Ruby Projects using Rjb (Ruby Java Bridge).
 
 ## **System Requirements and Supported Platforms**
 ### **System Requirements**

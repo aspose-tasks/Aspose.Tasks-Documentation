@@ -22,6 +22,6 @@ print "Set resource properties".PHP_EOL;
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Setting Resource Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Setting Resource Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithResources/SetResourceProperties.php)

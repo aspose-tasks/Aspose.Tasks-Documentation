@@ -11,7 +11,7 @@ url: /java/installing-and-using-aspose-tasks-for-intellij-idea-maven/
 ### **How to Install Aspose.Tasks Java for IntelliJ IDEA (Maven)**
 Steps below demonstrates how to install **Aspose.Tasks Java for IntelliJ IDEA (Maven)** plugin.
 
-The  plugin is listed on IntelliJ IDEA’s CE [official plugin website](https://plugins.jetbrains.com/plugin/8003-aspose-tasks-java-for-intellij-idea-maven/) - plugin repository as **Aspose.Tasks Java for IntelliJ IDEA Maven**, so you don’t need to download it manually and install it from disk, but this extra option still exists in IntelliJ IDEA.
+The  plugin is listed on IntelliJ IDEA’s CE [official plugin website](https://plugins.jetbrains.com/plugin/8003-aspose-tasks-java-for-intellij-idea-maven/) - plugin repository as **Aspose.Tasks Java for IntelliJ IDEA Maven**, so you don’t need to download it manually and install it from disk, but this extra option still exists in IntelliJ IDEA.
 
 **Aspose.Tasks for Java for IntelliJ IDEA (Maven)** plugin can be easily installed (without manual downloading) from within IntelliJ IDEA. To do it:
 
@@ -44,7 +44,7 @@ To create Aspose.Tasks Maven project for using [Aspose.Tasks for Java API](https
 
 ![create Aspose.Tasks for Java Maven example project](idea_plugin_4.png)
 
-4. Provide a **GroupId, ArtifactId** and **Version** for your maven project and click **Next.**
+4. Provide a **GroupId, ArtifactId** and **Version** for your maven project and click **Next.**
 
 ![set properties Aspose.Tasks for Java Maven example project](idea_plugin_5.png)
 
@@ -72,7 +72,7 @@ The created Aspose.Tasks for Java API Maven project is ready to be modified as p
 If you have opted to download [Example Source Codes](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples), you can use Aspose.Tasks Examples wizard to copy / create the downloaded examples into your project.
 
 ## **Aspose.Tasks Examples Wizard**
-To import/ copy [Example Source Codes ](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples)into the project using **Aspose.Tasks Examples Wizard**, you need to first download the examples by opting  "Also Download Examples Source Code" on Aspose.Tasks Maven Project Wizard.
+To import/ copy [Example Source Codes ](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples)into the project using **Aspose.Tasks Examples Wizard**, you need to first download the examples by opting  "Also Download Examples Source Code" on Aspose.Tasks Maven Project Wizard.
 
 Then follow the steps below on IntelliJ IDEA:
 
@@ -80,7 +80,7 @@ Then follow the steps below on IntelliJ IDEA:
 
 ![create new project by using Maven project](idea_plugin_10.png)
 
--OR- **Right Click** (on project window) => **New**  - As shown below: 
+-OR- **Right Click** (on project window) => **New**  - As shown below: 
 
 ![edit new project by using Maven project](idea_plugin_11.png)
 
@@ -88,7 +88,7 @@ Then follow the steps below on IntelliJ IDEA:
 
 ![Aspose.Tasks for Java option menu](idea_plugin_12.png)
 
-The wizard will refresh / check for the latest available [Aspose.Tasks for Java API Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) 
+The wizard will refresh / check for the latest available [Aspose.Tasks for Java API Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) 
 
 ![Aspose.Tasks for Java example wizard check latest version](idea_plugin_13.png)
 

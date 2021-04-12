@@ -30,6 +30,6 @@ end
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **General Calendar Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **General Calendar Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Calendars/calendarproperties.rb)

@@ -30,12 +30,12 @@ The XML project file can be opened in Microsoft Project:
 ![check project properties of resaved Microsoft Project XML file](creating-reading-and-saving-projects_1.png)
 
 ### **Create an Empty Project Using File Stream**
-The given below code example shows how to create an empty project using file stream with Aspose.Tasks. 
+The given below code example shows how to create an empty project using file stream with Aspose.Tasks. 
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-CreateEmptyProjectFile-CreateEmptyProjectFile.java" >}}
 
 ## **Reading a Project File**
-Aspose.Tasks for Java lets you open existing files and manipulate them as well as creating new files. This topic shows how a Project file can be read using the Project class's constructor.
+Aspose.Tasks for Java lets you open existing files and manipulate them as well as creating new files. This topic shows how a Project file can be read using the Project class's constructor.
 
 The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class constructor accepts a valid FileInputStream object or path to MPP or XML document and returns a [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) object which can be used to manipulate project data.
 
@@ -80,7 +80,7 @@ The following code example demonstrates how to check if the project file is pass
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-ReadProjectFiles-CheckIfProjectIsPasswordProtected.java" >}}
 
 ## **Reading Project Online**
-The [ProjectServerManager](https://apireference.aspose.com/tasks/java/com.aspose.tasks/ProjectServerManager) class provides the methods to retrieve projects from the specified Project Online account. The ProjectServerCredentials class shall be used to provide credentials that are used to connect to Project Online. Previously,  Microsoft.SharePoint.Client.Runtime assembly was used to retrieve AuthToken but now Aspose.Tasks for Java provides an option to specify SiteUrl, username, and password to create a connection to Project Online.  
+The [ProjectServerManager](https://apireference.aspose.com/tasks/java/com.aspose.tasks/ProjectServerManager) class provides the methods to retrieve projects from the specified Project Online account. The ProjectServerCredentials class shall be used to provide credentials that are used to connect to Project Online. Previously,  Microsoft.SharePoint.Client.Runtime assembly was used to retrieve AuthToken but now Aspose.Tasks for Java provides an option to specify SiteUrl, username, and password to create a connection to Project Online.  
 
 The following lines of code show how to read the project online.
 

@@ -16,6 +16,6 @@ puts "Set baseline for the project."
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Creating a Task Baseline (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Creating a Task Baseline (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/TaskBaselines/createtaskbaseline.rb)

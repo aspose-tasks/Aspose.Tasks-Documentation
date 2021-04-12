@@ -28,6 +28,6 @@ end
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Resource Cost (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Resource Cost (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Resources/resourcecost.rb)

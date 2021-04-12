@@ -20,6 +20,6 @@ puts "Group Criteria count: " + task_group.getGroupCriteria().size().to_s
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Reading Group Definition Data (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Reading Group Definition Data (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Projects/readinggroupdefinitiondata.rb)

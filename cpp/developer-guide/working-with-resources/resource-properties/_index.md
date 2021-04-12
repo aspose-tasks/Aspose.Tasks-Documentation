@@ -21,8 +21,8 @@ The [Resource](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.reso
 ## **Working with General Resource Properties**
 To view a resource's general properties in Microsoft Project:
 
-1. From the **View** menu, select **More Views** and then **Resource Sheet**.
-2. From the **Insert** menu, select **Column**.
+1. From the **View** menu, select **More Views** and then **Resource Sheet**.
+2. From the **Insert** menu, select **Column**.
 3. Add the Start, Finish, ID and unique ID columns.
 
 ### **Setting General Resource Properties using Aspose.Tasks**

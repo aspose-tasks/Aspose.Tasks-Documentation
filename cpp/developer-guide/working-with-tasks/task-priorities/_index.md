@@ -9,7 +9,7 @@ url: /cpp/task-priorities/
 A task's priority helps Microsoft Project with automatic resource levelling (a process of fixing conflicts when a resource is over-allocated). In Microsoft Project, it is possible to assign priority values between 0 and 1000 (where 0 is the lowest priority). By default, tasks are assigned the value 500.
 
 ## **Working with Priorities**
-The priorities associated with a class are handled through the Priority property exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class.
+The priorities associated with a class are handled through the Priority property exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class.
 
 - Priority: a task's priority (an integer between 1 and 1000).
 

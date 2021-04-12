@@ -9,7 +9,7 @@ url: /net/aspose-tasks-for-net-6-4-0-release-notes/
 ## **Public API and Backwards Incompatible Changes**
 The **Aspose.Tasks.Saving.SaveFileFormat.PrimaveraP6XML** field was added. It is used by Project.Save method when saving project data to primavera P6 XML format.
 
-The **Aspose.Tasks.Saving.SaveFileFormat.PrimaveraXER** field added. It is used by Project.Save method when saving project data to primavera P6 XER format. 
+The **Aspose.Tasks.Saving.SaveFileFormat.PrimaveraXER** field added. It is used by Project.Save method when saving project data to primavera P6 XER format. 
 
 The **Aspose.Tasks.Saving.PrimaveraSaveOptions class** was added. It allows to specify additional options when saving project to Primavera XER format.
 

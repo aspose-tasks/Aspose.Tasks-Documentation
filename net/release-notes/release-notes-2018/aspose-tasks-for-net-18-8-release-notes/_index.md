@@ -50,7 +50,7 @@ This page contains release notes information for Aspose.Tasks for .NET 18.8.
 |**Public methods and properties added**|**Description**|
 |Aspose.Tasks.ByMonthDayRepetition.#ctor|Initializes a new instance of the <see cref="T:Aspose.Tasks.ByMonthDayRepetition" /> class.|
 |Aspose.Tasks.ByMonthDayRepetition.DayPosition|Gets or sets a position of a day in a month on which the task must be recurring.|
-|Aspose.Tasks.ByMonthWeekDayRepetition.#ctor|Initializes a new instance of the <see cref="ByMonthWeekDayRepetition"/> class. |
+|Aspose.Tasks.ByMonthWeekDayRepetition.#ctor|Initializes a new instance of the <see cref="ByMonthWeekDayRepetition"/> class. |
 |Aspose.Tasks.ByMonthWeekDayRepetition.WeekDay|Gets or sets a type of weekday on which the task must be recurring.|
 |Aspose.Tasks.ByMonthWeekDayRepetition.Position|Gets or sets a position of a weekday in a month on which the task must be recurring.|
 |Aspose.Tasks.ByYearDayRepetition.#ctor|Initializes a new instance of the <see cref="ByYearDayRepetition"/> class.|

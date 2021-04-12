@@ -13,13 +13,13 @@ Custom outline codes are tags you define for tasks or resources that provide a p
 {{% /alert %}}
 
 ## **Reading Outline Codes**
-The Project class exposes OutlineCodes which is a collection of OutlineCodeDefinition items. The OutlineCodeDefinition provides all the detail as shown in the following sample code.
+The Project class exposes OutlineCodes which is a collection of OutlineCodeDefinition items. The OutlineCodeDefinition provides all the detail as shown in the following sample code.
 
 The following lines of code retrieve a project's outline code information.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithOutlineCodes-ReadOutlineCodes.cpp" >}}
 
 ## **Check Outline Code Id Uniqueness**
-While working with OutlineCode, Aspose.Tasks shall check the uniqueness of the Outline Code Id and duplicate Ids will be replaced with unique values.
+While working with OutlineCode, Aspose.Tasks shall check the uniqueness of the Outline Code Id and duplicate Ids will be replaced with unique values.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-WorkingWithOutlineCodes-CheckOutlineCodeIdUniqueness.cpp" >}}

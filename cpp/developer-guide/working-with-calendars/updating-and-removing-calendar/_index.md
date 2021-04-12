@@ -16,7 +16,7 @@ Base calendars come in different forms:
 - Night shift: similar to the standard calendar, the night-shift calendar has a Monday to Saturday morning work week and a day that runs from 23:00 to 08:00.
 
 ### **Replacing a Calendar with a New Calendar**
-The list of all calendars can be retrieved as CalendarCollection using the Project class. The CalendarCollection can then be used to Remove or Add a new calendar as shown in the following code sample.
+The list of all calendars can be retrieved as CalendarCollection using the Project class. The CalendarCollection can then be used to Remove or Add a new calendar as shown in the following code sample.
 
 The code example given below demonstrates how to replace an existing calendar with a new standard calendar.
 

@@ -15,7 +15,7 @@ Task constraints are used to define a Microsoft Project project's schedule and d
 ## **Working with Constraints**
 The ConstraintDate and ConstraintType properties are exposed by the [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task) class to handle constraints:
 
-- ConstraintDate accepts and returns the Date data type.
+- ConstraintDate accepts and returns the Date data type.
 - ConstraintType accepts and returns one of the values of the ConstraintType enumeration.
 
 ### **Setting Constraints in Microsoft Project**

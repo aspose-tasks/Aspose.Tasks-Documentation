@@ -49,14 +49,14 @@ This page contains release notes information of Aspose.Tasks for .NET 18.7.
 |Aspose.Tasks.ExtendedAttributeDefinition.CreateResourceDefinition(Aspose.Tasks.ExtendedAttributeResource,System.String)|Factory method which creates a simple extended attribute definition, which Microsoft Project shows as "None".|
 |Aspose.Tasks.ExtendedAttributeDefinition.CreateLookupTaskDefinition(Aspose.Tasks.ExtendedAttributeTask,System.String)|Factory method which creates an extended attribute definition with lookup.|
 |Aspose.Tasks.ExtendedAttributeDefinition.CreateLookupResourceDefinition(Aspose.Tasks.ExtendedAttributeResource,System.String)|Factory method which creates an extended attribute definition with lookup.|
-|Aspose.Tasks.FontSavingArgs.#ctor| |
+|Aspose.Tasks.FontSavingArgs.#ctor| |
 |Aspose.Tasks.ICssSavingCallback.CssSaving(Aspose.Tasks.CssSavingArgs)|The method to be called while saving of CSS.|
 |Aspose.Tasks.IFontSavingCallback.FontSaving(Aspose.Tasks.FontSavingArgs)|The method to be called while saving of fonts.|
 |Aspose.Tasks.IImageSavingCallback.ImageSaving(Aspose.Tasks.ImageSavingArgs)|The method to be called while saving of images.|
 |Aspose.Tasks.ImageSavingArgs.#ctor|Initializes a new instance of the <see cref="T:Aspose.Tasks.ImageSavingArgs" /> class.|
 |Aspose.Tasks.ImageSavingArgs.ImageType|Gets a HTML image type.|
 |Aspose.Tasks.OutlineValue.DurationValue|Gets or sets the duration if Type is Duration.|
-|Aspose.Tasks.ResourceSavingArgs.#ctor| |
+|Aspose.Tasks.ResourceSavingArgs.#ctor| |
 |Aspose.Tasks.ResourceSavingArgs.FileName|Gets or sets the supposed file name that goes from converter to code of custom method.|
 |Aspose.Tasks.ResourceSavingArgs.KeepStreamOpen|Gets or sets a value indicating whether the stream will be kept open after resource saving finishes.|
 |Aspose.Tasks.ResourceSavingArgs.Stream|Gets or sets the binary content of saved file.|
@@ -71,9 +71,9 @@ This page contains release notes information of Aspose.Tasks for .NET 18.7.
 |Aspose.Tasks.Saving.HtmlSaveOptions.FontFaceTypes|Gets or sets the font face types.|
 |Aspose.Tasks.Value.Duration|Gets or sets the actual value which is used to represent Duration.|
 |**Public Methods and Properties deleted**|**Description**|
-|Aspose.Tasks.ExtendedAttributeDefinition.#ctor| |
-|Aspose.Tasks.OutlineValue.FieldGuid| |
-|Aspose.Tasks.Saving.ImageSaveOptions.RenderParam| |
+|Aspose.Tasks.ExtendedAttributeDefinition.#ctor| |
+|Aspose.Tasks.OutlineValue.FieldGuid| |
+|Aspose.Tasks.Saving.ImageSaveOptions.RenderParam| |
 |**Public Enumerations added**|**Description**|
 |Aspose.Tasks.FontFaceType.NotSpecified|Font type is not specified.|
 |Aspose.Tasks.FontFaceType.Ttf|The true type font.|

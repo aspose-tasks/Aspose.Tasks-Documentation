@@ -33,7 +33,7 @@ var projectServerCredentials = new ProjectServerCredentials("https://project_ser
 
 ## **All Changes**
 
-|**Key** | **Summary** | **Issue Type**|
+|**Key** | **Summary** | **Issue Type**|
 | :- | :- | :- |
 |TASKSNET-4262|Include Aspose.Tasks for .NET 4.5 to release package|Feature|
 |TASKSNET-4215|Add an ability to specify the non-default path for Project Server's PWA URL|Enhancement|
@@ -56,15 +56,15 @@ var projectServerCredentials = new ProjectServerCredentials("https://project_ser
 
 ## **Public API and Backwards Incompatible Changes**
 
-|**The following public methods and properties were deleted:** |**Description** |
+|**The following public methods and properties were deleted:** |**Description** |
 | :- | :- |
 |Aspose.Tasks.Project.CustomProperties | |	  
 
-|**The following public types and properties were deleted:** |**Description** |
+|**The following public types and properties were deleted:** |**Description** |
 | :- | :- |
 |Aspose.Tasks.TasksDataFormat | | 
 
-|**The following public enumerations and properties were deleted:** |**Description** |
+|**The following public enumerations and properties were deleted:** |**Description** |
 | :- | :- |
 |Aspose.Tasks.TasksDataFormat.XML| |
 |Aspose.Tasks.TasksDataFormat.MPP| |

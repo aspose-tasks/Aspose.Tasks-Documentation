@@ -17,7 +17,7 @@ The following code sample defines new outline codes and sets its various fields.
 
 1. Create an instance of Project Reader.
 2. Read the source MPP file.
-3. Define new OutlineValue objects and set the parameters.
+3. Define new OutlineValue objects and set the parameters.
 4. Add the outline codes to the project's codes.
 5. Save the updated project data back to the MPP file.
 

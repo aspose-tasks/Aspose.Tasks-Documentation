@@ -18,6 +18,6 @@ puts "Last Saved : " + project.get(Rjb::import('com.aspose.tasks.Prj').LAST_SAVE
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Determining Project Version (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Determining Project Version (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Projects/projectversion.rb)

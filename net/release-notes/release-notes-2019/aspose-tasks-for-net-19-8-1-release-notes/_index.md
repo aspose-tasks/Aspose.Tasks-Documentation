@@ -16,5 +16,5 @@ This page contains release notes information for [Aspose.Tasks for .NET 19.8.1](
 
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
-|TASKSNET-3465 | Fix issue with metered integration|Bug |
+|TASKSNET-3465 | Fix issue with metered integration|Bug |
 

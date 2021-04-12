@@ -24,6 +24,6 @@ puts "Default Cost Accrual: "+ project.get(prj.DEFAULT_FIXED_COST_ACCRUAL).to_st
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Default Project Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Default Project Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Projects/projectproperties.rb)

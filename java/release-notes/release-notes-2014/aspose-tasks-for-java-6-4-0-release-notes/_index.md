@@ -22,7 +22,7 @@ The **com.aspose.tasks.PrimaveraSaveOptions** was class added.
 
 It allows to specify additional options when saving project to Oracle Primavera XER format.
 
-The **com.aspose.tasks.PrimaveraSaveOptions.getRenumberActivityIds(), setRenumberActivityIds(boolean)** method was added.
+The **com.aspose.tasks.PrimaveraSaveOptions.getRenumberActivityIds(), setRenumberActivityIds(boolean)** method was added.
 
 Renumbers activity IDs if set to true according to provided prefix and suffix.
 

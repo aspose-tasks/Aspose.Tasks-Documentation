@@ -16,7 +16,7 @@ Aspose.Tasks for C++ is based on the .NET version of the API and provides strict
 
 ## **All Changes**
 
-|**Key** | **Summary** | **Issue Type**|
+|**Key** | **Summary** | **Issue Type**|
 | :- | :- | :- |
 |TASKSNET-4453|Add support for reading \ writing of cost time-phased data for resource assignments.|Enhancement|
 |TASKSNET-4447|Fix IsMilestone set to true after project’s recalculation|Bug|
@@ -28,6 +28,6 @@ Aspose.Tasks for C++ is based on the .NET version of the API and provides strict
 
 ## **Public API and Backwards Incompatible Changes**
 
-|**The following public methods and properties were added:** |**Description** |
+|**The following public methods and properties were added:** |**Description** |
 | :- | :- |
 |Aspose.Tasks.Project.Save(System.String) | Saves the project data to the file in mpp format.|

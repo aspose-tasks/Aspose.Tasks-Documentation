@@ -7,16 +7,16 @@ url: /cpp/assignment-variances/
 ---
 
 ## **Dealing Variances**
-The [Asn](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.asn) class exposes several properties for handling variance in an assignment's baseline values and the actual cost, start date, finish date and work:
+The [Asn](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.asn) class exposes several properties for handling variance in an assignment's baseline values and the actual cost, start date, finish date and work:
 
-- CostVariance handles the variance in cost against an assignment's baseline (double).
-- StartVariance handles the variance in start date against an assignments baseline (integer).
-- FinishVariance handles the variance in end date against an assignments baseline (integer).
-- WorkVariance handles the variance in work against an assignment's baseline (double).
+- CostVariance handles the variance in cost against an assignment's baseline (double).
+- StartVariance handles the variance in start date against an assignments baseline (integer).
+- FinishVariance handles the variance in end date against an assignments baseline (integer).
+- WorkVariance handles the variance in work against an assignment's baseline (double).
 
 To see resource assignment variances in Microsoft Project:
 
-1. On the Task Usage screen, select **Insert** and ten **Columns**.
+1. On the Task Usage screen, select **Insert** and ten **Columns**.
 2. Add the desired columns.
 
 ### **Getting Assignment Variance in Aspose.Tasks**

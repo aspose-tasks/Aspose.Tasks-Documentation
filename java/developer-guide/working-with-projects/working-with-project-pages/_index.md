@@ -9,7 +9,7 @@ url: /java/working-with-project-pages/
 Aspose.Tasks for Java can retrieve the total number of pages in a project. The getPageCount method offered by Aspose.Tasks' Visualization namespace returns the total page count in a project with options of rendering them based on Timescale.Days, Timescale.Months or Timescale.ThirdsOfMonths.
 
 ## **Getting number of pages in a project**
-The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes the getPageCount method which is used to get the number of total pages in a project. The total count of pages in a project can be retrieved for Timescale.Days, Timescale.Months or Timescale.ThirdsOfMonths.
+The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes the getPageCount method which is used to get the number of total pages in a project. The total count of pages in a project can be retrieved for Timescale.Days, Timescale.Months or Timescale.ThirdsOfMonths.
 
 To save a project to PDF:
 

@@ -41,7 +41,7 @@ The plugin contains two wizards:
 ## **System Requirements and Supported Platforms**
 
 ### **System Requirements**
-- Microsoft Windows 10/8/7/Vista/2003/XP (incl.64-bit)  / Linux GNOME or KDE desktop / Mac OS X 10.5 or higher
+- Microsoft Windows 10/8/7/Vista/2003/XP (incl.64-bit)  / Linux GNOME or KDE desktop / Mac OS X 10.5 or higher
 - 1 GB RAM minimum, 2 GB RAM recommended
 - 300 MB hard disk space + at least 1 G for caches
 - 1024x768 minimum screen resolution
@@ -52,7 +52,7 @@ The plugin contains two wizards:
 Plugin supports the following IntelliJ IDEA Versions:
 
 - 13.0.1 (Community / Ultimate Edition)
-- 13.1.2  (CE / UE)
+- 13.1.2  (CE / UE)
 - 14.0.2 (CE/ UE)
 - 14.1.5 (CE/ UE)
 

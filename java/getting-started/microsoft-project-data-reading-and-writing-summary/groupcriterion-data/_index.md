@@ -6,9 +6,9 @@ weight: 170
 url: /java/groupcriterion-data/
 ---
 
-|**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |
+|**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-| | | |**2003** |**2007** |**2010** |**2013** |**2016** |**2019** | |
+| | | |**2003** |**2007** |**2010** |**2013** |**2016** |**2019** | |
 |1. |Ascending |N/A |R |R |R |R |R |R | |
 |2. |Assignment |N/A |– |– |– |– |– |– | |
 |3. |CellColor |N/A |R |R |R |R |R |R | |

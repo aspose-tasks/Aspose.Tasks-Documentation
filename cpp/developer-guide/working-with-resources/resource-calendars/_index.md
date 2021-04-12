@@ -16,7 +16,7 @@ The [Resource](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.reso
 To define a calendar for a resource in Microsoft Project:
 
 1. In the Resource Sheet, double-click the desired resource.
-2. Click the **Change Working Time** button.
+2. Click the **Change Working Time** button.
 
 ### **Setting Resource Calendar using Aspose.Tasks**
 The following code example creates a standard calendar and resource and then assigns the calendar to the resource.

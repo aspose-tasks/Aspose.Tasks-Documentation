@@ -30,6 +30,6 @@ while ($i < sizeof($resource_assignments))
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Handling Overtime, Remaining Costs and Work (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Handling Overtime, Remaining Costs and Work (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithResourceAssignments/AssignmentOvertimeAndRemainingCosts.php)

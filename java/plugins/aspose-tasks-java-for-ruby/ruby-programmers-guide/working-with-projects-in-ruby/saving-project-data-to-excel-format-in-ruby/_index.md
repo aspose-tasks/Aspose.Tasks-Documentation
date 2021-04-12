@@ -19,6 +19,6 @@ puts "Saved project data to Excel, please check the output file"
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Saving Project Data to Excel Format (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Saving Project Data to Excel Format (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Projects/saveprojectdatatoexcel.rb)

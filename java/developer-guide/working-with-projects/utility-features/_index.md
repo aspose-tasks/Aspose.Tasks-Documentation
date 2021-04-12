@@ -9,14 +9,14 @@ url: /java/utility-features/
 ## **Calculating Critical Path**
 The critical path is the tasks, or task, that ultimately determine when your project will end. Keeping track of the critical path and the resources assigned to them helps keep the project on time. Microsoft Project calculates the critical path based on tasks that have no slack, have specific date constraints (must start on, must finish on, as soon as possible or as late as possible) or have the same, or later, end date as the project. Aspose.Tasks allows you to calculate the critical path.
 
-The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class provides the [getCriticalPath()](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Project#getCriticalPath--) method which is used to get the list of tasks that part of the critical path. 
+The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class provides the [getCriticalPath()](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Project#getCriticalPath--) method which is used to get the list of tasks that part of the critical path. 
 
 The following piece of code calculates and displays the tasks in the critical path.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-CriticalPath-critical-path.java" >}}
 
 ## **Printing the TaskWritingException**
-A project consists of a number of tasks and Aspose.Tasks for Java API allows adding, removing and updating task information. If there's a problem when writing tasks, use TasksWritingException to catch them. 
+A project consists of a number of tasks and Aspose.Tasks for Java API allows adding, removing and updating task information. If there's a problem when writing tasks, use TasksWritingException to catch them. 
 
 Aspose.Tasks for Java supports printing a message when there's an exception in writing a task. This is done with TaskWritingException, in a similar way to how TaskReadingException is used. The log message is contained in the public property TasksWritingException.getLogText(), as shown in the following code example.
 

@@ -11,7 +11,7 @@ Microsoft Project saves project properties, metadata, for every project. The pro
 
 {{% alert color="primary" %}}
 
-Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for Java x.x.x will be displayed against these fields
+Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for Java x.x.x will be displayed against these fields
 
 {{% /alert %}}
 
@@ -109,7 +109,7 @@ The Prj class exposes the FY_START_DATE and FISCAL_YEAR_START properties to mana
 - FISCAL_YEAR_START: determines whether the fiscal year numbering has been used in the project. nullable boolean
 
 ### **Reading Fiscal Year Properties**
-The FY_START_DATE and FISCAL_YEAR_START properties make it easy to find out what the current fiscal year start date is, and whether fiscal year numbering is used, with Aspose.Tasks.
+The FY_START_DATE and FISCAL_YEAR_START properties make it easy to find out what the current fiscal year start date is, and whether fiscal year numbering is used, with Aspose.Tasks.
 
 The following code reads a project's fiscal year properties and displays them in a console window.
 

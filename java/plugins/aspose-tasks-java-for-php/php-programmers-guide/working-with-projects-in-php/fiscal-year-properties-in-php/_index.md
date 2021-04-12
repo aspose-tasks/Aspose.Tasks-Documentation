@@ -35,6 +35,6 @@ print "Set fiscal year properties, please check the output file.".PHP_EOL;
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Fiscal Year Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Fiscal Year Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithProjects/FiscalYearProperties.php)

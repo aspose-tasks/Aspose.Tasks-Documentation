@@ -37,7 +37,7 @@ To add a new extended attribute for task or resource, we first need to define an
 ## **Writing Updated Extended Attribute Definitions and Values to MPP**
 Aspose.Tasks for C++ API supports updating extended attribute data in a Microsoft Project MPP file and save it back.
 
-The code example given below demonstrates how to add new extended attributes of the Resource and Task types to the source MPP file. The steps involved in this activity are:
+The code example given below demonstrates how to add new extended attributes of the Resource and Task types to the source MPP file. The steps involved in this activity are:
 
 1. Create an instance of Project Reader.
 2. Read the source MPP file.

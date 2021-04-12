@@ -20,9 +20,9 @@ It updates all work as complete through a specified date for the specified list 
 
 **RescheduleUncompletedWorkToStartAfter(DateTime after, List<Task> tasks) method added to Project.**
 
-It reschedules uncompleted project work for the specified list of tasks in a project to start after a specified date. 
+It reschedules uncompleted project work for the specified list of tasks in a project to start after a specified date. 
 
-**TaskToBarTextConverter BarTextConverter delegate property added to Visualization.BarStyle.** 
+**TaskToBarTextConverter BarTextConverter delegate property added to Visualization.BarStyle.** 
 
 A declaration of TaskToBarTextConverter is "delegate string BarStyle.TaskToBarTextConverter(Task task);"
 It allows to specify a code to be used to render text on the right of task bar when rendering Gantt chart view.
@@ -33,6 +33,6 @@ Resource names are rendered by default if BarTextConverter is not provided.
 It allows to specify sorting order of tasks in the Gantt chart view.
 By default tasks are sorted by Task.Id property.
 
-**StringAlignment property added to GanttChartColumn and ResourceViewColumn.** 
+**StringAlignment property added to GanttChartColumn and ResourceViewColumn.** 
 
 It allows left, right or centered alignment of text in columns of PresentationFormat.GanttChart, PresentationFormat.TaskUsage, PresentationFormat.ResourceUsage and PresentationFormat.ResourceSheet presentation formats.

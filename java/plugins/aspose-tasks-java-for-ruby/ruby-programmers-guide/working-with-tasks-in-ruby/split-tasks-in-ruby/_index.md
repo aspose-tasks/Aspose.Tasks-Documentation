@@ -40,6 +40,6 @@ project.save("SplitTasks.xml", Rjb::import('com.aspose.tasks.SaveFileFormat').XM
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Split Tasks (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Split Tasks (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Tasks/splittasks.rb)

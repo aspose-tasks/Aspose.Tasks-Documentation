@@ -11,7 +11,7 @@ Aspose.Tasks for C++ API supports updating resource assignment data and writing 
 ## **Updating Resource Assignments**
 To read, assign and save the updated file:
 
-1. Read an MPP file. 
+1. Read an MPP file. 
    The one used in this example contains one task and one resource without any assignments.
 2. Assign the resource to the task.
 3. Add the assigned resource to the project.

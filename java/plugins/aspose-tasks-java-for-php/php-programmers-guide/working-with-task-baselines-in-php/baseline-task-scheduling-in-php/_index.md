@@ -28,6 +28,6 @@ print "Baseline Finish: " . (string)$baseline->getFinish().PHP_EOL;
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Baseline Task Scheduling (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Baseline Task Scheduling (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithTaskBaselines/TaskBaselineSchedule.php)

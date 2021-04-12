@@ -13,12 +13,12 @@ Aspose.Tasks for C++ can retrieve the total number of pages in a project. The Ge
 {{% /alert %}}
 
 ## **Get Number of Pages in Project**
-The Project class exposes the GetPageCount method which is used to get the number of total pages in a project. The total count of pages in a project can be retrieved for Timescale.Days, Timescale.Months or Timescale.ThirdsOfMonths.
+The Project class exposes the GetPageCount method which is used to get the number of total pages in a project. The total count of pages in a project can be retrieved for Timescale.Days, Timescale.Months or Timescale.ThirdsOfMonths.
 
 To save a project to PDF:
 
 1. Load a Microsoft Project file.
-2. Get the project's total page count using the GetPageCount method with optional timescale settings.
+2. Get the project's total page count using the GetPageCount method with optional timescale settings.
 
 **Programming Sample: Get Number of Pages in Project**
 The following lines of code demonstrate how to get a number of pages in the project.

@@ -13,7 +13,7 @@ Microsoft Project (MSP) allows developers to save project data (MPP/XML) to HTML
 {{% /alert %}}
 
 ## **Saving Project Data as HTML**
-Aspose.Tasks for C++ can export project data to HTML format. It allows to save all the data to HTML or export only required pages to HTML by using the SaveOptions as shown in the following code samples.
+Aspose.Tasks for C++ can export project data to HTML format. It allows to save all the data to HTML or export only required pages to HTML by using the SaveOptions as shown in the following code samples.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-SaveProjectDataAsHTML-SaveProjectDataAsHTML.cpp" >}}
 
@@ -22,7 +22,7 @@ Aspose.Tasks for C++ can export project data to HTML format. It allows to save a
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-ControlHeaderNameDuringHTMLExport-ControlHeaderNameDuringHTMLExport.cpp" >}}
 
 ### **Saving Fonts, Images and CSS Styles Separately**
-Aspose.Tasks for C++ API gives you enough power to save fonts, images, and CSS styles information separately to files while saving Project Data to HTML. This is achieved using the HtmlSaveOptions class by providing information about CSS, Font and Image destinations. 
+Aspose.Tasks for C++ API gives you enough power to save fonts, images, and CSS styles information separately to files while saving Project Data to HTML. This is achieved using the HtmlSaveOptions class by providing information about CSS, Font and Image destinations. 
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithResources-ResourcePrefixForNestedResources-ResourcePrefixForNestedResources.cpp" >}}
 

@@ -13,7 +13,7 @@ The actual properties are used to find out how much time or money has been sent 
 {{% /alert %}}
 
 ## **Working with Actual Properties**
-The static class Tsk exposes a number of properties for determining a task's actual properties:
+The static class Tsk exposes a number of properties for determining a task's actual properties:
 
 - ActualCost: a task's actual cost (double).
 - ActualOvertimeCost: a task's actual overtime cost (double).
@@ -23,13 +23,13 @@ The static class Tsk exposes a number of properties for determining a task's a
 - ActualFinish: the date and time that a task actually finished (DateTime).
 - ACWP: the actual cost of the work performed on a task (double).
 
-The ChildTasksCollector class collects all the child tasks from a given RootTask when used by TaskUtils.
+The ChildTasksCollector class collects all the child tasks from a given RootTask when used by TaskUtils.
 
 ### **Actual Properties in Microsoft Project**
 To access these properties in Microsoft Project:
 
-1. On the **View** menu, select **More Views** and then **Task Entry**.
-2. On the **Insert** menu, select **Column** and add the desired columns to the Task Entry form.
+1. On the **View** menu, select **More Views** and then **Task Entry**.
+2. On the **Insert** menu, select **Column** and add the desired columns to the Task Entry form.
 
 ### **Getting Actual Properties with Aspose.Tasks**
 A tasks' actual properties can be obtained by traversing the tasks in a project. The code sample given below writes the actual properties for all tasks found in a project to a console window.

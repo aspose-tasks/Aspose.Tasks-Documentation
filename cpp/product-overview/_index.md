@@ -45,7 +45,7 @@ Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, ma
 - Set custom date format while exporting to PDF format
 
 ### **Platform Independence**
-Aspose.Tasks for C++ can be used to build 64-bit applications only and supports:
+Aspose.Tasks for C++ can be used to build 64-bit applications only and supports:
 
 - Visual Studio 2012
 - Visual Studio 2015
@@ -64,14 +64,14 @@ Aspose.Tasks for C++ can be used to build 64-bit applications only and supports
 - No support for the database I/O access of any kind
 - No support for EMF/WMF format, neither itself nor as Project file inclusions.
 ## **Technical Support**
-Aspose provides unlimited free technical support for all its products. The support is available to all users, including ones running an evaluation. If you need help, [**visit the Aspose.Forums**](https://forum.aspose.com/c/tasks/15). Post your question in the Aspose.Tasks forum and it will be answered within a few hours.
+Aspose provides unlimited free technical support for all its products. The support is available to all users, including ones running an evaluation. If you need help, [**visit the Aspose.Forums**](https://forum.aspose.com/c/tasks/15). Post your question in the Aspose.Tasks forum and it will be answered within a few hours.
 
 When expecting a reply in the forums, please allow for time zone differences.
 ### **Reporting an Issue**
 If you have an issue, follow these simple steps to make sure it is resolved efficiently:
 
-- Make sure you use the latest version of the product before reporting an issue. 
-- Have a look through the [forums](https://forum.aspose.com/c/tasks/15), this documentation Wiki and the [API Reference](https://apireference.aspose.com/tasks/cpp) before reporting an issue. Your question may already have an answer.
+- Make sure you use the latest version of the product before reporting an issue. 
+- Have a look through the [forums](https://forum.aspose.com/c/tasks/15), this documentation Wiki and the [API Reference](https://apireference.aspose.com/tasks/cpp) before reporting an issue. Your question may already have an answer.
 - When reporting an issue, please include the original document and possibly a fragment of your code that causes the problem. If you need to attach multiple files, zip them into one. It is safe to attach your documents in the forums since only you and Aspose's developers have access to attached files.
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.
 

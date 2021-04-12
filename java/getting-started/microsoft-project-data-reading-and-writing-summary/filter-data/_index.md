@@ -6,9 +6,9 @@ weight: 180
 url: /java/filter-data/
 ---
 
-|**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |
+|**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-| | | |**2003** |**2007** |**2010** |**2013** |**2016** |**2019** | |
+| | | |**2003** |**2007** |**2010** |**2013** |**2016** |**2019** | |
 |1. |FilterType |N/A |R |R |R |R |R |R | |
 |2. |Index |N/A |R |R |R |R |R |R | |
 |3. |Name |N/A |R |R |R |R |R |R | |

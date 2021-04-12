@@ -6,9 +6,9 @@ weight: 150
 url: /cpp/tablefield-data/
 ---
 
-|**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |
+|**Number** |**Property name** |**XML** |**MPP** |** |** |**  |** |** |**Comments** |
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-| | | |**2003** |**2007** |**2010** |**2013** |**2016** |**2019** | |
+| | | |**2003** |**2007** |**2010** |**2013** |**2016** |**2019** | |
 |1. |AlignData |N/A |R |R |R |R |R |R |
 |2. |AlignTitle |N/A |R |R |R |R |R |R |
 |3. |AutoWrap |N/A |– |– |– |– |– |– |

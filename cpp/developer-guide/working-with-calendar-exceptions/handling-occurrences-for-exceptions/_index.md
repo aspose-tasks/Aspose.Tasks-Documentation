@@ -7,7 +7,7 @@ url: /cpp/handling-occurrences-for-exceptions/
 ---
 
 ## **Handling Occurrences for Exceptions**
-The Occurrences property exposed by the CalendarException class are used to handle occurrences for an exception. Occurrences used in this case support the integer data type.
+The Occurrences property exposed by the CalendarException class are used to handle occurrences for an exception. Occurrences used in this case support the integer data type.
 
 The following lines of code will make the exception valid for five years.
 

@@ -21,7 +21,7 @@ The [Resource](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.reso
 ## **Working with Resource Overtimes**
 To see overtime cost, overtime rate and overtime work in Microsoft Project:
 
-1. On the Resource sheet, select the **Insert** menu, and then select **Column**.
+1. On the Resource sheet, select the **Insert** menu, and then select **Column**.
 2. Add the columns.
 
 ### **Getting Resource Overtimes in Aspose.Tasks**

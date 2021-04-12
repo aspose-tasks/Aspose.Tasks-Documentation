@@ -13,7 +13,7 @@ This page contains release notes information for Aspose.Tasks for .NET 19.2.
 {{% /alert %}}
 
 ## **Major Features**
-- Support for Microsoft Project Online,  MPP files saved with Microsoft Office 365 cloud has been supported.
+- Support for Microsoft Project Online,  MPP files saved with Microsoft Office 365 cloud has been supported.
 - The support of setting CSS prefix for HTML export has been added.
 - The feature to set custom date format while exporting to PDF format has been implemented.
 - Enhanced exceptions which are throwing while access to Primavera DB.

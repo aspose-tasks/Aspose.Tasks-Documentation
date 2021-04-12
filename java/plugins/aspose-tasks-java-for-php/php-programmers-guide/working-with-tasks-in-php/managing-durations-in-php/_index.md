@@ -25,6 +25,6 @@ print "0.5 weeks: " . (string)$task->get($tsk->DURATION).PHP_EOL;
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Managing Durations (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Managing Durations (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithTasks/ManagingDuration.php)

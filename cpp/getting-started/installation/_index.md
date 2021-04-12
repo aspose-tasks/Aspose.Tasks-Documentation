@@ -12,7 +12,7 @@ NuGet is the easiest way to download and install Aspose APIs. Open Microsoft Vis
 
 ![installing Aspose.Tasks for C++ through NuGet step one](installation_1.png)
 ### **Install or Update using the Package Manager Console**
-You can follow the steps below to reference the Aspose.Tasks for C++ API using the package manager console:
+You can follow the steps below to reference the Aspose.Tasks for C++ API using the package manager console:
 
 1. Open your solution/project in Visual Studio.
 2. Select Tools -> Library Package Manager -> Package Manager Console from the menu to open package manager console.
@@ -26,18 +26,18 @@ You should now find that Aspose.Tasks has successfully been added and referenced
 ![installing Aspose.Tasks for C++ through NuGet step three](installation_3.png)
 
 ### **Manual Installation**
-You can download [Aspose.Tasks for C++](https://www.nuget.org/packages/Aspose.Tasks.Cpp/) from NuGet Gallery, by clicking the "Manual download" link in the Info Section or can be downloaded from <https://downloads.aspose.com/tasks/cpp>.
+You can download [Aspose.Tasks for C++](https://www.nuget.org/packages/Aspose.Tasks.Cpp/) from NuGet Gallery, by clicking the "Manual download" link in the Info Section or can be downloaded from <https://downloads.aspose.com/tasks/cpp>.
 
 Please perform the following steps in order to use Aspose.Tasks for C++ in your applications:
 
-1. [Download](https://www.nuget.org/packages/Aspose.Tasks.Cpp/) the latest files.
+1. [Download](https://www.nuget.org/packages/Aspose.Tasks.Cpp/) the latest files.
 2. Unzip the folder to the production environment.
-3. To use Aspose.Tasks for C++, reference Include and lib folders in your project.
+3. To use Aspose.Tasks for C++, reference Include and lib folders in your project.
 
 ## **Uninstalling Aspose.Tasks for C++**
 If you installed Aspose.Tasks using the MSI installer, you can remove the component and the associated demos and documentation:
 
-1. On the **Start** menu, select **Settings** and then **Control Panel**.
-2. Click **Add/Remove Programs**.
-3. Select **Aspose.Tasks**.
-4. Click **Change/Remove** to remove Aspose.Tasks.
+1. On the **Start** menu, select **Settings** and then **Control Panel**.
+2. Click **Add/Remove Programs**.
+3. Select **Aspose.Tasks**.
+4. Click **Change/Remove** to remove Aspose.Tasks.

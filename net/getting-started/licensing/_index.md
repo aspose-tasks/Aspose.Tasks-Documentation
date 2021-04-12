@@ -16,7 +16,7 @@ If you want to test Aspose.Tasks without evaluation version limitations, you can
 {{% /alert %}}
 
 ### **PDF Creator Information**
-- Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks  for .NET x.x.x will be displayed against these fields.
+- Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks  for .NET x.x.x will be displayed against these fields.
 
 ### **Evaluation Limitations**
 The evaluation version provides all the features except the following:

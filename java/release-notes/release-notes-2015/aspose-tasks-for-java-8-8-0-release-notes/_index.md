@@ -68,7 +68,7 @@ bugs have been fixed. Please see the list of changes below.
 |com.aspose.tasks.HeaderFooterInfo.setRightText(java.lang.String) |Sets the right aligned text to display in the header. |
 |com.aspose.tasks.PageInfo.setFooter(com.aspose.tasks.HeaderFooterInfo) |Sets an instance of the HeaderFooterInfo class which represents a footer data. |
 |com.aspose.tasks.PageInfo.setHeader(com.aspose.tasks.HeaderFooterInfo) |Sets an instance of the HeaderFooterInfo class which represents a header data. |
-|com.aspose.tasks.PageInfo.setLegend(com.aspose.tasks.PageLegend) |Sets an instance of the '@code PageLegend' class which specifies page legend. |
+|com.aspose.tasks.PageInfo.setLegend(com.aspose.tasks.PageLegend) |Sets an instance of the '@code PageLegend' class which specifies page legend. |
 |com.aspose.tasks.PageLegend.setCenteredText(java.lang.String) |Sets the centered text to display in the page legend. |
 |com.aspose.tasks.PageLegend.setLeftText(java.lang.String) |Sets the left aligned text to display in the page legend. |
 |com.aspose.tasks.PageLegend.setRightText(java.lang.String) |Sets the right aligned text to display in the page legend. |

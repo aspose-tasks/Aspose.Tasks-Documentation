@@ -12,10 +12,10 @@ Microsoft Project allows to link tasks based on the relationship between these. 
 ## **Creating a Task Link**
 A task link is created using the default constructor (TaskLink) which accepts three parameters:
 
-1. The first parameter defines the predecessor Task,
-2. the second parameter defines the successor Task and, finally,
-3. the third parameter defines the task link type from values specified by the TaskLinkType enumeration type. This is an optional parameter.
+1. The first parameter defines the predecessor Task,
+2. the second parameter defines the successor Task and, finally,
+3. the third parameter defines the task link type from values specified by the TaskLinkType enumeration type. This is an optional parameter.
 
-The following example creates a link between two tasks with Task1 as predecessor.
+The following example creates a link between two tasks with Task1 as predecessor.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTaskLinks-CreateTaskLinks-CreateTaskLinks.cpp" >}}

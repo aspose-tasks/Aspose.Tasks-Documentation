@@ -31,7 +31,7 @@ This examples below shows the usage of each of these with the help of code sampl
 Microsoft Project saves project properties, metadata, for every project. The properties include the project's start and end dates, the current date and the status date, the type of calendar used and when a project is scheduled from. Aspose.Tasks for .NET lets you [read](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/get/_1) and [set project properties](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/set/_1), which is shown below.
 
 {{% alert color="primary" %}}
-Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for .NET x.x.x will be displayed against these fields.
+Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks for .NET x.x.x will be displayed against these fields.
 {{% /alert %}}
 
 ### **Reading Project Information**
@@ -230,7 +230,7 @@ The following lines of code set the new task start date.
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectProperties-SetAttributesForNewTasks-SetAttributesForNewTasks.cs" >}}
 
 ## **Reading Custom and Built-in Properties**
-In Aspose.Tasks for .NET the custom properties are available through the typed collection whereas the built-in properties are available directly.
+In Aspose.Tasks for .NET the custom properties are available through the typed collection whereas the built-in properties are available directly.
 
 The following code example demonstrates how to read custom and built-in properties.
 

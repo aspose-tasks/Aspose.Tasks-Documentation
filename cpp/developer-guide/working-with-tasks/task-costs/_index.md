@@ -9,7 +9,7 @@ url: /cpp/task-costs/
 To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks for C++ API supports this feature of Microsoft Project with a range of properties.
 
 ## **Working with Task Cost**
-The [Tsk](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.tsk) exposes a number of properties for working with task cost:
+The [Tsk](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.tsk) exposes a number of properties for working with task cost:
 
 - Cost: a task's projected or scheduled cost (double).
 - BCWP: the budgeted cost of the work performed to date (double).
@@ -20,7 +20,7 @@ The [Tsk](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.tsk) ex
 ### **Viewing Task Costs in Microsoft Project**
 To view task costs in Microsoft Project:
 
-1. On the Task Entry form, go to the **Insert** menu and select **Columns**.
+1. On the Task Entry form, go to the **Insert** menu and select **Columns**.
 2. Add the cost columns.
 
 ### **Getting Task Costs**

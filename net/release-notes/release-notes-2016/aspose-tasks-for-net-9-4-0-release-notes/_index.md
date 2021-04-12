@@ -38,17 +38,17 @@ Aspose.Tasks for .NET API enables application developers to write code for manip
 
 ## **Public API and Backwards Incompatible Changes**
 
-|**The following public classes were added:**               |**Description**                                                                |
+|**The following public classes were added:**               |**Description**                                                                |
 | :- | :- |
 |Aspose.Tasks.VbaProject |Represents the VBA Project |
 |Aspose.Tasks.VbaModule |Represents the VBA Module |
 |Aspose.Tasks.VbaReference |Represents the VBA reference |
 |Aspose.Tasks.VbaModuleAttribute |Represents the attribute of the VbaModule |
-|Aspose.Tasks.VbaModuleCollection |Collection of  the  VbaModules |
-|Aspose.Tasks.VbaReferenceCollection |Collection of  the  VbaReferences |
-|Aspose.Tasks.VbaModuleAttributeCollection |Collection of  the  ModuleAttributes |
+|Aspose.Tasks.VbaModuleCollection |Collection of  the  VbaModules |
+|Aspose.Tasks.VbaReferenceCollection |Collection of  the  VbaReferences |
+|Aspose.Tasks.VbaModuleAttributeCollection |Collection of  the  ModuleAttributes |
 
-|**The following public interfaces were added:**           |**Description**                                                               |
+|**The following public interfaces were added:**           |**Description**                                                               |
 | :- | :- |
 |IVbaModule |Represents an interface to work with vbaModule |
 
@@ -63,7 +63,7 @@ Aspose.Tasks for .NET API enables application developers to write code for manip
 |Aspose.Tasks.VbaProject.Modules |Represents a collection of VbaModuleCollection |
 |Aspose.Tasks.VbaModule.SourceCode |Source code of the specific module |
 |Aspose.Tasks.VbaModule.Name |Name of the specific module |
-|Aspose.Tasks.VbaModule.Attributes |Represents a collection of  VbaModuleAttributeCollection |
+|Aspose.Tasks.VbaModule.Attributes |Represents a collection of  VbaModuleAttributeCollection |
 |Aspose.Tasks.VbaModuleAttribute.Key |The key of the attribute |
 |Aspose.Tasks.VbaModuleAttribute.Value |The value of the attribute |
 |Aspose.Tasks.VbaReference.Name |The name and full path to the reference of the VBA project |

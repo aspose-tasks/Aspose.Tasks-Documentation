@@ -29,9 +29,9 @@ This page contains release notes information for [Aspose.Tasks for C++ 21.1](htt
 | Aspose.Tasks.Visualization.Shape.Diamond | Indicates Diamond shape. |
 | Aspose.Tasks.Field.TaskSummaryName | The name of the summary task associated with the task. |
 
-|**The following public methods and properties were added:** | **Description** |
+|**The following public methods and properties were added:** | **Description** |
 | :- | :- |
-| Aspose.Tasks.View.#ctor(ViewScreen) | Initializes a new instance of the <see cref="View"/> class which can be displayed in the specified ViewScreen. |
+| Aspose.Tasks.View.#ctor(ViewScreen) | Initializes a new instance of the <see cref="View"/> class which can be displayed in the specified ViewScreen. |
 
 
 ## **Examples**

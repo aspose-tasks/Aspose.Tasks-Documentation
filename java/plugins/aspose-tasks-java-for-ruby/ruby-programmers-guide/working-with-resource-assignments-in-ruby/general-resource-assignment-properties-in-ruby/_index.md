@@ -37,6 +37,6 @@ puts "Set resource assignment properties."
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **General Resource Assignment Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **General Resource Assignment Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/ResourceAssignments/resourceassignmentproperties.rb)

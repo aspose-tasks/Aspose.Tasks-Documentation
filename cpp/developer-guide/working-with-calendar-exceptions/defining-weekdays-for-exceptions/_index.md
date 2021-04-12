@@ -14,12 +14,12 @@ When setting up calendar exceptions with Aspose.Tasks for C++, it is possible to
 {{% /alert %}}
 
 ## **Defining Workdays**
-The Exceptions collection exposed by the Calendar class can be used to define the weekdays for an exception.
+The Exceptions collection exposed by the Calendar class can be used to define the weekdays for an exception.
 
 To see a list of exceptions in Microsoft Project:
 
 1. Open a file.
-2. From the **Tools** menu, select **Change Working Time** to open the Change Working Time dialogue.
+2. From the **Tools** menu, select **Change Working Time** to open the Change Working Time dialogue.
 
 The following code example defines the dates 24-Dec-2009 through 31-Dec-2009 as exceptions.
 

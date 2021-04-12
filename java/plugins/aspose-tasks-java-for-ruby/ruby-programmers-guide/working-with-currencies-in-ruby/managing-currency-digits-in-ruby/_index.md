@@ -25,6 +25,6 @@ puts "Set currency digits."
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Managing Currency Digits (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Managing Currency Digits (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Currencies/currencydigits.rb)

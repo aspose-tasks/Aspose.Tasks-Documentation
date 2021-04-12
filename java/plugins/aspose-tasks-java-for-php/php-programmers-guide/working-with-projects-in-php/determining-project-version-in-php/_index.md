@@ -19,6 +19,6 @@ print "Last Saved : " . (string)$project->get($prj->LAST_SAVED).PHP_EOL;
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Determining Project Version (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Determining Project Version (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithProjects/ProjectVersion.php)

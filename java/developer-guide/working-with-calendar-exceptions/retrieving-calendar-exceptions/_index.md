@@ -7,7 +7,7 @@ url: /java/retrieving-calendar-exceptions/
 ---
 
 **Retrieving Calendar Exceptions**
-The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class returns the exceptions as a collection using the getExceptions() method. The getFromDate() and getToDate() methods exposed by CalendarException are used to retrieve dates for calendar exceptions. Both of these methods support the Date data type. 
+The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class returns the exceptions as a collection using the getExceptions() method. The getFromDate() and getToDate() methods exposed by CalendarException are used to retrieve dates for calendar exceptions. Both of these methods support the Date data type. 
 
 **Programming Sample**
 

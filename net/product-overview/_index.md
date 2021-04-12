@@ -19,7 +19,7 @@ With Aspose.Tasks for .NET, it is possible to program with Microsoft Project (MP
 {{% /alert %}}
 
 ## **Benefits**
-Aspose.Tasks for .NET supports MPP, MPT, XML, XLSX, HTML, PDF, XAML and other formats. With Aspose.Tasks you can generate, modify, convert, render and print documents without utilizing Microsoft Project®. Using Aspose.Tasks for .NET in your applications gives you the following benefits:
+Aspose.Tasks for .NET supports MPP, MPT, XML, XLSX, HTML, PDF, XAML and other formats. With Aspose.Tasks you can generate, modify, convert, render and print documents without utilizing Microsoft Project®. Using Aspose.Tasks for .NET in your applications gives you the following benefits:
 
 ### **Rich Features**
 Aspose.Tasks offers a wide arrange of features for creating, reading, manipulating and saving project files:
@@ -41,12 +41,12 @@ Aspose.Tasks offers a wide arrange of features for creating, reading, manipulati
 - Read, change and create tasks, milestone, estimated critical or effort driven tasks
 - Manage resources costs and variances
 - Access assignment costs and budget
-- Support for the encoding of MPX files
+- Support for the encoding of MPX files
 - Resource prefix implementation for nested resources
 - Support of setting CSS prefix for HTML export
 - Set custom date format while exporting to PDF format
 ### **Platform Independence**
-Use Aspose.Tasks for .NET to build any type of 32-bit or 64-bit .NET application including ASP.NET, WCF, WPF, Web Services, and WinForms. It is possible to use Aspose.Tasks for .NET via COM Interop from ASP, Perl, PHP and Python. You can also use Aspose.Tasks for .NET to build applications with Mono. 
+Use Aspose.Tasks for .NET to build any type of 32-bit or 64-bit .NET application including ASP.NET, WCF, WPF, Web Services, and WinForms. It is possible to use Aspose.Tasks for .NET via COM Interop from ASP, Perl, PHP and Python. You can also use Aspose.Tasks for .NET to build applications with Mono. 
 
 Aspose.Tasks for .NET supports:
 
@@ -58,7 +58,7 @@ Aspose.Tasks for .NET supports:
 - Visual Studio 2017
 - Visual Studio 2019
 ### **Performance and Scalability**
-Aspose.Tasks for .NET is designed to perform equally well server- or client-side. Aspose.Tasks for .NET is a single .NET assembly that can be deployed with any .NET application by simply copying it. You do not have to worry about other services or modules. You can literally generate thousands of documents in minutes with Aspose.Tasks and that involves opening a document, modifying content and formatting or populating it with data and saving it. 
+Aspose.Tasks for .NET is designed to perform equally well server- or client-side. Aspose.Tasks for .NET is a single .NET assembly that can be deployed with any .NET application by simply copying it. You do not have to worry about other services or modules. You can literally generate thousands of documents in minutes with Aspose.Tasks and that involves opening a document, modifying content and formatting or populating it with data and saving it. 
 
 Aspose.Tasks is developed in a way that only one thread works on a document at a time. It is a typical scenario to have one thread working on one document. Different threads can safely work on different documents at the same time.
 ### **Supported Microsoft Project Versions**
@@ -90,7 +90,7 @@ When expecting a reply in the forums, please allow for time zone differences.
 ### **Reporting an Issue**
 If you have an issue, follow these simple steps to make sure it is resolved efficiently:
 
-- Make sure you use the latest version of the product before reporting an issue. 
+- Make sure you use the latest version of the product before reporting an issue. 
 - Have a look through the [forums](https://forum.aspose.com/), this documentation Wiki and the [API Reference](https://apireference.aspose.com/tasks/net) before reporting an issue. Your question may already have an answer.
 - When reporting an issue, please include the original document and possibly a fragment of your code that causes the problem. If you need to attach multiple files, zip them into one. It is safe to attach your documents in the forums since only you and Aspose's developers have access to the attached files.
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.

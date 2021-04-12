@@ -12,7 +12,7 @@ A project is, essentially, made up by a number of tasks, each of which has to be
 
 {{% /alert %}}
 
-The default constructor creates an instance of a [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/task/) class without any parameter being passed. You can also create a named tasks by passing a String argument to its constructor
+The default constructor creates an instance of a [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/task/) class without any parameter being passed. You can also create a named tasks by passing a String argument to its constructor
 
 The following code demonstrates how to do this using Aspose.Tasks Java API.
 

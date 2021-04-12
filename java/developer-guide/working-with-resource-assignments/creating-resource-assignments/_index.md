@@ -17,6 +17,6 @@ The following code sample adds a Resource Assignment to the project without inst
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-ResourceAssignments-CreateResourceAssignments-create-resource-assignments.java" >}}
 
 ## **Read Shared Resource Assignments**
-The shared assignments are assignments of the specific resource to tasks in other projects when the current project uses a resource from a resource pool.  Using Aspose.Tasks, the shared assignments can be read from MPP and taken into account when Peak\Overallocated properties are calculated. The following code example demonstrates how to read shared resource assignments.
+The shared assignments are assignments of the specific resource to tasks in other projects when the current project uses a resource from a resource pool.  Using Aspose.Tasks, the shared assignments can be read from MPP and taken into account when Peak\Overallocated properties are calculated. The following code example demonstrates how to read shared resource assignments.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-ResourceAssignments-ReadSharedResourceAssignments-ReadSharedResourceAssignments.java" >}}

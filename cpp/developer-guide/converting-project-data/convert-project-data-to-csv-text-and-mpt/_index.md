@@ -17,7 +17,7 @@ The following code snippet shows how to save a project as a CSV format.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-SaveProjectAsCSV-SaveProjectAsCSV.cpp" >}}
 
-The following lines of code demonstrate how to write string data to a project using CsvOptions, DataCategory and CsvTextDelimiter.
+The following lines of code demonstrate how to write string data to a project using CsvOptions, DataCategory and CsvTextDelimiter.
 
 {{< highlight csharp >}}
 string CSV = @"ID;Resource_Name;Group_Name;Max_Units;Peak;Std_Rate;Ovt_Rate;Cost;Work

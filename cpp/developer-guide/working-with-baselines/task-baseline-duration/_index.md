@@ -7,15 +7,15 @@ url: /cpp/task-baseline-duration/
 ---
 
 ## **Task Baseline Duration**
-The Duration and EstimatedDuration properties of the [TaskBaseLine](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.task_baseline) class can be used to read and write the scheduled duration when the baseline was saved and determine whether the scheduled duration was estimated or not respectively.
+The Duration and EstimatedDuration properties of the [TaskBaseLine](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.task_baseline) class can be used to read and write the scheduled duration when the baseline was saved and determine whether the scheduled duration was estimated or not respectively.
 
-- Duration supports the TimeSpan datatype.
-- EstimatedDuration supports the Boolean data type.
+- Duration supports the TimeSpan datatype.
+- EstimatedDuration supports the Boolean data type.
 
 After saving a baseline, the task baseline duration can be viewed in Microsoft Project:
 
-1. On the **View** menu, select **More Views** and ten **Task Entry**.
-2. From the **Insert** menu, select **Columns**.
+1. On the **View** menu, select **More Views** and ten **Task Entry**.
+2. From the **Insert** menu, select **Columns**.
 3. Add the Baseline Duration column.
 
 ### **Getting Task Baseline Duration using Aspose.Tasks**

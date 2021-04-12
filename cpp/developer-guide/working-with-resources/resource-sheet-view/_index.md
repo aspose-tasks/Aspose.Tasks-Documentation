@@ -13,7 +13,7 @@ The code snippet in this article reads a source MPP file that has a number of re
 
 1. Create an instance of Project Reader.
 2. Read the source MPP file.
-3. Set the PresentationFormat to ResourceSheet.
+3. Set the PresentationFormat to ResourceSheet.
 4. Render the project to output PDF.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithResources-RenderResourceSheetView-RenderResourceSheetView.cpp" >}}

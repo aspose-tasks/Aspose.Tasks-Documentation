@@ -13,7 +13,7 @@ Tasks can be identified by a number of general properties, such as name, ID, sta
 {{% /alert %}}
 
 ## **Overview**
-The static class Tsk contains all the properties related to a Task and can get or set using the Get and Set methods exposed by Task class. Some of the commonly used properties are as follow:
+The static class Tsk contains all the properties related to a Task and can get or set using the Get and Set methods exposed by Task class. Some of the commonly used properties are as follow:
 
 - Name, used to set and get a task's name (string).
 - Id, used to set and get a task's ID (integer).
@@ -24,8 +24,8 @@ The static class Tsk contains all the properties related to a Task and can g
 To view a task's general properties in Microsoft Project:
 
 1. Open a project.
-2. On the **View** menu, select **More Views** and then **Task Entry** to open the task entry form.
-3. From the **Insert** menu, select **Column** and add the **ID** and **Unique ID**.
+2. On the **View** menu, select **More Views** and then **Task Entry** to open the task entry form.
+3. From the **Insert** menu, select **Column** and add the **ID** and **Unique ID**.
 
 ### **Setting General Properties**
 The code example given below demonstrates how to set general properties.
@@ -33,6 +33,6 @@ The code example given below demonstrates how to set general properties.
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-WriteTaskProperties-WriteTaskProperties.cpp" >}}
 
 ### **Getting General Properties**
-Get a task's properties by traversing the children of the project's RootTask property.
+Get a task's properties by traversing the children of the project's RootTask property.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-ReadTaskProperties-ReadTaskProperties.cpp" >}}

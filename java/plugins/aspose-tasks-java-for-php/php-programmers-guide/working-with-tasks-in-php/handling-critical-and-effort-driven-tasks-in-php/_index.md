@@ -29,6 +29,6 @@ while ($i < sizeof($tasks))
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Handling Critical and Effort-driven Tasks (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Handling Critical and Effort-driven Tasks (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithTasks/CriticalAndEffortDrivenTasks.php)

@@ -19,6 +19,6 @@ puts "Created task sheet view file."
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Rendering Task Sheet View (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Rendering Task Sheet View (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Tasks/rendertasksheetview.rb)

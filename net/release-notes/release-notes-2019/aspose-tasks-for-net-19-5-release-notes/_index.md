@@ -32,15 +32,15 @@ This page contains release notes information for Aspose.Tasks for .NET 19.5.
 
 |**The following public types were deleted:**|**Description**|
 | :- | :- |
-|Aspose.Tasks.InvalidAssignmentException| |
-|Aspose.Tasks.InvalidTaskException| |
+|Aspose.Tasks.InvalidAssignmentException| |
+|Aspose.Tasks.InvalidTaskException| |
 |**The following public methods and properties were added:**|**Description**|
 |Aspose.Tasks.Task.Get(Aspose.Tasks.Key(System.String,Aspose.Tasks.TaskKey))|Returns the value to which the property is mapped in this container.|
 |**The following public methods and properties were deleted:**|**Description**|
-|Aspose.Tasks.InvalidAssignmentException.AssignmentUid| |
-|Aspose.Tasks.InvalidTaskException.TaskId| |
-|Aspose.Tasks.License.IsLicensed| |
-|Aspose.Tasks.Visualization.BarStyle.Dispose| |
+|Aspose.Tasks.InvalidAssignmentException.AssignmentUid| |
+|Aspose.Tasks.InvalidTaskException.TaskId| |
+|Aspose.Tasks.License.IsLicensed| |
+|Aspose.Tasks.Visualization.BarStyle.Dispose| |
 |**The following public enumerations were added:**|**Description**|
 |Aspose.Tasks.TaskKey.Warning|Represents the flag which indicates that the task has schedule discrepancies.|
 |Aspose.Tasks.Tsk.Warning|Represents the flag which indicates that the task has schedule discrepancies.|

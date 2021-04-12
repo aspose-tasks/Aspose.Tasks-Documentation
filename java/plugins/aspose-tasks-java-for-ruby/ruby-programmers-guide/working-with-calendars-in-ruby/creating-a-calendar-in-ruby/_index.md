@@ -18,6 +18,6 @@ puts "Created calendar, please check the output file."
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Creating a Calendar (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Creating a Calendar (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Calendars/createcalendar.rb)

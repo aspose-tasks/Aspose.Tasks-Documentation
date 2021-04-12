@@ -12,7 +12,7 @@ This page contains release notes information for Aspose.Tasks for .NET 18.5.
 
 {{% /alert %}}
 
-In this release, we have implemented support for Metered license.
+In this release, we have implemented support for Metered license.
 
 ## **All Changes**
 

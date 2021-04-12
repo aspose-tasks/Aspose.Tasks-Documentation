@@ -43,6 +43,6 @@ print "Set resource assignment properties.".PHP_EOL;
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **General Resource Assignment Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **General Resource Assignment Properties (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithResourceAssignments/ResourceAssignmentProperties.php)

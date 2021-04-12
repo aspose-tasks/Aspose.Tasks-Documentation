@@ -12,7 +12,7 @@ This page contains release notes information for Aspose.Tasks for C++ 19.9 versi
 
 {{% /alert %}}
 
-Aspose.Tasks for C++ has been launched. It allows you to read and write Microsoft Project® files without using Microsoft Project®.
+Aspose.Tasks for C++ has been launched. It allows you to read and write Microsoft Project® files without using Microsoft Project®.
 
 ## **API Features**
 Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, manipulating and saving project files:
@@ -48,7 +48,7 @@ Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, ma
 ## **Limitations and API Differences**
 Aspose.Tasks for C++ is based on the .NET version of the API and provides strictly the same functionality as Aspose.Tasks for .NET provides, excluding the following:
 
-- Aspose.Tasks for C++ does not support printing of any kind.
-- Aspose.Tasks for C++ does not support Project Online (PWA)
-- Aspose.Tasks for C++ does not support database I/O access of any kind.
-- Aspose.Tasks for C++ does not support EMF/WMF format, neither itself nor as Project file inclusions. The library can not handle Project files that contain EMF/WMF inclusion correctly.
+- Aspose.Tasks for C++ does not support printing of any kind.
+- Aspose.Tasks for C++ does not support Project Online (PWA)
+- Aspose.Tasks for C++ does not support database I/O access of any kind.
+- Aspose.Tasks for C++ does not support EMF/WMF format, neither itself nor as Project file inclusions. The library can not handle Project files that contain EMF/WMF inclusion correctly.

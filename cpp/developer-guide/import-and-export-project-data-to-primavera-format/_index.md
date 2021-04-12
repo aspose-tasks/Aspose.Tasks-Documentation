@@ -17,7 +17,7 @@ Primavera Proprietary Exchange Format (XER), by Primavera Systems, Inc., is prim
 Aspose.Tasks for C++ facilitates to import project data from Primavera XML or MPX formats.
 
 ### **Importing Data from Primavera XML File Formats**
-Aspose.Tasks for C++ can import Primavera XML similar to Microsoft Project XML and MPP formats. The Project class provides the capability of loading such type of file using the same constructor as used for other Project files.
+Aspose.Tasks for C++ can import Primavera XML similar to Microsoft Project XML and MPP formats. The Project class provides the capability of loading such type of file using the same constructor as used for other Project files.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ImportingAndExporting-ImportDataFromXMLFileFormats-ImportDataFromXMLFileFormats.cpp" >}}
 
@@ -35,7 +35,7 @@ A Primavera XML file may contain multiple projects, each having its own UID. Asp
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-ImportingAndExporting-ReadXMLFileWithMultipleProjects-ReadXMLFileWithMultipleProjects.cpp" >}}
 
 ## **Exporting Project Data in Primavera Formats**
-The SaveFileFormat enumerator is used to specifying the project export type as Primavera XML or XER.
+The SaveFileFormat enumerator is used to specifying the project export type as Primavera XML or XER.
 
 ### **Exporting Project Data to Primavera XML Format**
 

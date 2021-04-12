@@ -13,8 +13,8 @@ A project is, essentially, made up by a number of tasks, each of which has to be
 {{% /alert %}}
 
 ## **Creating Tasks**
-The Task class exposes the Add method for adding a task to a project's root or other tasks. The following code example demonstrates how to create a task.
+The Task class exposes the Add method for adding a task to a project's root or other tasks. The following code example demonstrates how to create a task.
 
-The default constructor creates a Task instance without any parameter being passed.
+The default constructor creates a Task instance without any parameter being passed.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithTasks-CreateTasks-CreateTasks.cpp" >}}

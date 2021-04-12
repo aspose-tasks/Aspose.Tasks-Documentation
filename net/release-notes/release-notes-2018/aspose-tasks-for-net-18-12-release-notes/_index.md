@@ -13,10 +13,10 @@ This page contains release notes information for Aspose.Tasks for .NET 18.12.
 {{% /alert %}}
 
 ## **Key Features**
-- Support for .NET Standard 2.0
+- Support for .NET Standard 2.0
 - Implementation of Style Customization for Custom Task Fields
 - Improved Working with Export to PDF
-- Enhancements in Order to Implement Better Support of Custom Timephased Data for MPP/XML Files
+- Enhancements in Order to Implement Better Support of Custom Timephased Data for MPP/XML Files
 
 ## **All Changes**
 

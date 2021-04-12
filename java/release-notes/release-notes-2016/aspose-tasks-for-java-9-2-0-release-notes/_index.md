@@ -30,4 +30,4 @@ We have supported MPD format for reading. Timescale tier labels has been customi
 
 |com.aspose.tasks.TimescaleTier.getDateTimeConverter|Gets a callback function for handling rendering date tick in this tier.|
 | :- | :- |
-|com.aspose.tasks.TimescaleTier.setDateTimeConverter(DateTimeConverter value)|Sets a callback function for handling rendering date tick in this tier. |
+|com.aspose.tasks.TimescaleTier.setDateTimeConverter(DateTimeConverter value)|Sets a callback function for handling rendering date tick in this tier. |

@@ -28,6 +28,6 @@ while ($i < sizeof($tasks)) {
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **WBS Associated with a Task (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **WBS Associated with a Task (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithTasks/WbsAssociatedWithTask.php)

@@ -14,18 +14,18 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.4](ht
 
 ## **All Changes**
 
-| **Key** | **Summary** |**Issue Type**|
+| **Key** | **Summary** |**Issue Type**|
 | :- | :- | :- |
-|TASKSNET-3937 | Fix exception on Project.Print |Bug|
-|TASKSNET-3913 | Fix serialization of null tasks when project is created / updated using PWA |Bug|
-|TASKSNET-3899 | Field.OutlineCode not working when saving to XLSX file |Bug|
+|TASKSNET-3937 | Fix exception on Project.Print |Bug|
+|TASKSNET-3913 | Fix serialization of null tasks when project is created / updated using PWA |Bug|
+|TASKSNET-3899 | Field.OutlineCode not working when saving to XLSX file |Bug|
 
 ## **Public API and Backwards Incompatible Changes**
 
-|**The following public methods and properties were added:** | **Description** |
+|**The following public methods and properties were added:** | **Description** |
 | :- | :- |
-| Aspose.Tasks.RecalculationValidationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.RecalculationValidationException" /> class. |
-| Aspose.Tasks.TaskValidationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.TaskValidationException" /> class. |
-| Aspose.Tasks.TasksReadingException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.TasksReadingException" /> class. |
-| Aspose.Tasks.TasksWritingException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.TasksWritingException" /> class.|
+| Aspose.Tasks.RecalculationValidationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.RecalculationValidationException" /> class. |
+| Aspose.Tasks.TaskValidationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.TaskValidationException" /> class. |
+| Aspose.Tasks.TasksReadingException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.TasksReadingException" /> class. |
+| Aspose.Tasks.TasksWritingException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.TasksWritingException" /> class.|
 

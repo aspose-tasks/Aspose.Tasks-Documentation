@@ -12,7 +12,7 @@ url: /java/product-overview/
 
 **Welcome to Aspose.Tasks for Java!**
 
-Aspose.Tasks for Java is a class library that enables Java application developers to embed the functionality of processing Microsoft Project ® documents (MPP/MPT/XLS) without even using Microsoft Project®. The API, hence, eliminates the requirement of Microsoft Office Automation in such applications. Ported from its equivalent .NET product, Aspose.Tasks for Java is a mature product that offers stability and flexibility. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
+Aspose.Tasks for Java is a class library that enables Java application developers to embed the functionality of processing Microsoft Project ® documents (MPP/MPT/XLS) without even using Microsoft Project®. The API, hence, eliminates the requirement of Microsoft Office Automation in such applications. Ported from its equivalent .NET product, Aspose.Tasks for Java is a mature product that offers stability and flexibility. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
 {{% /alert %}}
 
@@ -23,7 +23,7 @@ Using Aspose.Tasks for Java in your applications gives you the following benefit
 Aspose.Tasks offers a wide arrange of features for creating, reading, manipulating and saving project files:
 
 - Read, change and write Microsoft Project® documents.
-- Read MPP projects (native Microsoft Project format and Microsoft Office 365 Project Online format) and XML project formats. Microsoft Project 2003, 2007, 2010, 2013 and 2016 MPP formats are supported
+- Read MPP projects (native Microsoft Project format and Microsoft Office 365 Project Online format) and XML project formats. Microsoft Project 2003, 2007, 2010, 2013 and 2016 MPP formats are supported
 - Create, update and write projects in an XML project format. Microsoft Project 2003, 2007, 2010, 2013 and 2016 are supported.
 - Read MPP project files, update their summary information and write them in original MPP format.
 - Read MPP project files and convert them to XML format using Aspose.Tasks for Java (the XML can be manipulated by implementing a custom XML parser).

@@ -13,15 +13,15 @@ Microsoft Project has an outline structure that let users get a quick overview o
 {{% /alert %}}
 
 ## **Working with Outline Properties**
-The Tsk class exposes the OutlineNumber and OutlineLevel properties for managing outlines associated with a class:
+The Tsk class exposes the OutlineNumber and OutlineLevel properties for managing outlines associated with a class:
 
-1. OutlineNumber (string).
-2. OutlineLevel (integer).
+1. OutlineNumber (string).
+2. OutlineLevel (integer).
 
 ### **Outlines in Microsoft Project**
 In Microsoft Project, outline number and outline level properties can be viewed on the Task Entry form by adding the columns:
 
-1. On the **Insert** menu, select **columns**.
+1. On the **Insert** menu, select **columns**.
 2. Add the OutlineNumber and OutlineLevel columns.
 
 ### **Getting Outline Properties in Aspose.Tasks**

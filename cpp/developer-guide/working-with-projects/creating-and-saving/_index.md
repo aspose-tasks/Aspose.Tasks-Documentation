@@ -15,15 +15,15 @@ Aspose.Tasks can be used to open existing files or creating a new files. This ar
 {{% /alert %}}
 
 ## **Creating an Empty Project File**
-The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class is the main class in Aspose.Tasks used to set and get properties associated with a project, as well as project behavior. The Save method offered by this class makes it possible to render the Project to various output formats such as XML, MPP, PDF, HTML, etc. with a single API call. This method accepts a file stream or file name, and one of the values provided by the SaveFileFormat enumeration type.
+The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class is the main class in Aspose.Tasks used to set and get properties associated with a project, as well as project behavior. The Save method offered by this class makes it possible to render the Project to various output formats such as XML, MPP, PDF, HTML, etc. with a single API call. This method accepts a file stream or file name, and one of the values provided by the SaveFileFormat enumeration type.
 
-At present, Aspose.Tasks provides the facility to create the **XML** project files only. The following lines of code create a simple project file in the XML format.
+At present, Aspose.Tasks provides the facility to create the **XML** project files only. The following lines of code create a simple project file in the XML format.
 
 The XML project file can be opened in Microsoft Project:
 
-1. On the **File** menu, select **Open**.
+1. On the **File** menu, select **Open**.
 2. Select the XML format (*.xml) option from the file types and browse to the output XML file.
-3. On the **Project** menu, select **Project Information**
+3. On the **Project** menu, select **Project Information**
 
 ### **Create an Empty Project And Saving as XML File**
 

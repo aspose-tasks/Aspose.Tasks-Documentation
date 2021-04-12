@@ -40,7 +40,7 @@ The following metadata is used in this example:
   - Start
   - Finish
 
-Here IsMarked and IgnoreWarnings are newly added fields for a task. Similarly for resources, the TeamAssignmentPool and CostCenter properties are provided.
+Here IsMarked and IgnoreWarnings are newly added fields for a task. Similarly for resources, the TeamAssignmentPool and CostCenter properties are provided.
 
 The following steps are followed in the sample code to demonstrate how to write metadata to MPPs:
 

@@ -13,7 +13,7 @@ This page contains release notes information of Aspose.Tasks for .NET 18.6.
 {{% /alert %}}
 
 ## **Major Improvements**
-- Support for reading/writing of extended attributes to resource assignment
+- Support for reading/writing of extended attributes to resource assignment
 - Validation of work contour type for manual tasks and assignments without resource
 
 ## **All Changes**

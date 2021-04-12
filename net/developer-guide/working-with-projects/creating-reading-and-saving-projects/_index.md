@@ -8,7 +8,7 @@ url: /net/creating-reading-and-saving-projects/
 
 Aspose.Tasks for .NET lets you work with Microsoft Project (MPP/XML) files without having Microsoft Project installed, or using Microsoft Office Automation. A powerful and flexible API, Aspose.Tasks saves you time and effort by giving you the tools you need to write efficient code for manipulating project files.
 
-Aspose.Tasks can open existing files, but it can also create new files. This article explains how to create a new and empty project file from the stream using the Project class.  as well as open existing files.
+Aspose.Tasks can open existing files, but it can also create new files. This article explains how to create a new and empty project file from the stream using the Project class.  as well as open existing files.
 
 ## **Creating an Empty Project File**
 The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class is the main class in Aspose.Tasks used to set and get properties associated with a project, as well as behavior. The Save method offered by this class makes it possible to render the Project to various output formats such as XML, MPP, PDF, HTML, etc. with a single API call. This method accepts a file stream or file name, and one of the values provided by the [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
@@ -67,6 +67,6 @@ The following code example demonstrates how to check if the project file is pass
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ExProject-CheckIfProjectIsPasswordProtected.cs" >}}
 
 ## **Working With Encodings**
-Aspose.Tasks for .NET provides support for the encoding of MPX files. The following code example shows the encoding settings.
+Aspose.Tasks for .NET provides support for the encoding of MPX files. The following code example shows the encoding settings.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-CreatingReadingAndSaving-WorkingWithEncodings-WorkingWithEncodings.cs" >}}

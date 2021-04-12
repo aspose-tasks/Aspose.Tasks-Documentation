@@ -105,7 +105,7 @@ Aspose.Tasks Java (Maven) for Eclipse is open source and its source code is avai
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Plugins/Aspose.Tasks%20Java%20(Maven)%20for%20Eclipse)
 
 ### **How to configure source code of Aspose.Tasks Java (Maven) for Eclipse**
-Below simple steps will smoothly lead to successful configuration of **Aspose.Tasks Java (Maven) for Eclipse** plugin source code in Eclipse IDE
+Below simple steps will smoothly lead to successful configuration of **Aspose.Tasks Java (Maven) for Eclipse** plugin source code in Eclipse IDE
 
 1. Download / Clone the source code.
 2. Choose **File** > **Import > General > Existing Projects into Workspace**

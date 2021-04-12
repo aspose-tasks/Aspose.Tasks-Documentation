@@ -36,7 +36,7 @@ This month's release includes a simplified method for working with custom fields
 |Aspose.Tasks.ExtendedAttributeDefinition.CreateLookupDefinition|Factory method which creates an extended attribute definition with lookup. It has <see cref="P:Aspose.Tasks.ExtendedAttributeDefinition.CalculationType" /> equals to <see cref="F:Aspose.Tasks.CalculationType.Lookup" />.|
 |Aspose.Tasks.ExtendedAttributeDefinition.CreateLookupTaskDefinition(Aspose.Tasks.CustomFieldType,Aspose.Tasks.ExtendedAttributeTask,System.String)|Factory method which creates an extended attribute definition with lookup.|
 |Aspose.Tasks.ExtendedAttributeDefinition.CreateLookupResourceDefinition(Aspose.Tasks.CustomFieldType,Aspose.Tasks.ExtendedAttributeResource,System.String)|Factory method which creates an extended attribute definition with lookup.|
-|Aspose.Tasks.NullableBool.ToString| |
+|Aspose.Tasks.NullableBool.ToString| |
 |Aspose.Tasks.OutlineValue.ValueGuid|Gets a GUID which identifies this value among others in the entire project.|
 |Aspose.Tasks.Project.SelectAllChildTasks|Recursively collects all child tasks of this project.|
 |Aspose.Tasks.Task.SelectAllChildTasks|Recursively collects all child tasks of this task.|
@@ -48,5 +48,5 @@ This month's release includes a simplified method for working with custom fields
 |**The following public enumerations were added:**|**Description**|
 |Aspose.Tasks.CalculationType.Lookup|Means the extended attribute has a lookup table to select values from.|
 |**The following public enumerations were deleted:**|**Description**|
-|Aspose.Tasks.CalculationType.Null| |
+|Aspose.Tasks.CalculationType.Null| |
 

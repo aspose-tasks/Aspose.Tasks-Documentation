@@ -9,7 +9,7 @@ url: /cpp/overtimes-in-tasks/
 Microsoft Project lets users assign overtime to tasks. Aspose.Tasks for C++ API supports this functionality through two properties in the Task class.
 
 ## **Overtime**
-The [Tsk] (https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.tsk) exposes several properties for working with overtime:
+The [Tsk] (https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.tsk) exposes several properties for working with overtime:
 
 - OvertimeCost: reads and writes the sum of a task's actual and remaining overtime cost (double).
 - OvertimeWork: reads and writes the amount of overtime scheduled for a task (TimeSpan).
@@ -17,7 +17,7 @@ The [Tsk] (https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.tsk) e
 ### **Microsoft Project view of task overtime**
 To see a task's overtime work and cost properties:
 
-1. In the Task Entry form, select the **Insert** menu and then **Column**.
+1. In the Task Entry form, select the **Insert** menu and then **Column**.
 2. Add the overtime columns.
 
 ### **Getting task overtimes in Aspose.Tasks**

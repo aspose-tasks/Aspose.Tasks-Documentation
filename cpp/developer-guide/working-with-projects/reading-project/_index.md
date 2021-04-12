@@ -15,7 +15,7 @@ This article explains how to open and read project file.
 {{% /alert %}}
 
 ## **Reading a Project File**
-At the moment, Aspose.Tasks can export Microsoft Project to Microsoft Project's XML format only. This is true if you are creating a new project. Aspose.Tasks for C++ lets you read existing MPP files and save these back in MPP format after updating. This allows reading MPP as well as MPT formats as input templates. This article shows how a Project file (**XML**, **MPP**, **MPT**) can be read using the Project class's constructor.
+At the moment, Aspose.Tasks can export Microsoft Project to Microsoft Project's XML format only. This is true if you are creating a new project. Aspose.Tasks for C++ lets you read existing MPP files and save these back in MPP format after updating. This allows reading MPP as well as MPT formats as input templates. This article shows how a Project file (**XML**, **MPP**, **MPT**) can be read using the Project class's constructor.
 
 ### **Reading Project Files as a Template**
 
@@ -31,7 +31,7 @@ Some files may have invalid characters in the custom fields. Microsoft Project d
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-CreatingReadingAndSaving-IgnoreInvalidCharactersDuringloadingProject-IgnoreInvalidCharactersDuringloadingProject.cpp" >}}
 
 ## **Read Password Protected Projects (2003 Format)**
-The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class exposes the Project() constructor which is capable of reading password-protected files in 2003 format. Saving a password-protected file is not supported yet.
+The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class exposes the Project() constructor which is capable of reading password-protected files in 2003 format. Saving a password-protected file is not supported yet.
 
 To read a password-protected project file:
 
@@ -43,6 +43,6 @@ The following code example demonstrates how to read password-protected project f
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-CreatingReadingAndSaving-ReadPasswordProtectedProjectFile-ReadingPasswordProtectedProjectFile.cpp" >}}
 
 ## **Working With Encodings**
-Aspose.Tasks provides support for the encoding of MPX files. The following code example demonstrates how to use the encoding settings.
+Aspose.Tasks provides support for the encoding of MPX files. The following code example demonstrates how to use the encoding settings.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithProjects-CreatingReadingAndSaving-WorkingWithEncodings-WorkingWithEncodings.cpp" >}}

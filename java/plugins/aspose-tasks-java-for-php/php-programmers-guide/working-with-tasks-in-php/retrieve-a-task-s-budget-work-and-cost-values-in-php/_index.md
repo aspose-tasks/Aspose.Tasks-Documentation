@@ -25,6 +25,6 @@ print "Resource BudgetCost = " . (string)$resource->get($rsc->BUDGET_COST).PHP_E
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Retrieve a Task's Budget Work and Cost Values (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Retrieve a Task's Budget Work and Cost Values (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_PHP/src/aspose/tasks/WorkingWithTasks/GetBudgetWorkAndCostValue.php)

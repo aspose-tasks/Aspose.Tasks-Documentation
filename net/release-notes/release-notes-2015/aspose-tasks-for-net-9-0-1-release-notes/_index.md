@@ -33,7 +33,7 @@ changes below.
 |**Class Name**|**Description**|
 | :- | :- |
 |Aspose.Tasks.PrimaveraXmlReader|Represents a reader to read Project UIDs from Primavera Xml file|
-| | |
+| | |
 
 **The following public methods were added to existing classes:**
 

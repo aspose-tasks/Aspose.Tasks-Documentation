@@ -18,6 +18,6 @@ puts "Created project Successfully."
 {{< /highlight >}}
 
 ## **Download Running Code**
-Download **Creating an Empty Project File (Aspose.Tasks)** from any of the below mentioned social coding sites:
+Download **Creating an Empty Project File (Aspose.Tasks)** from any of the below mentioned social coding sites:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Projects/createemptyproject.rb)

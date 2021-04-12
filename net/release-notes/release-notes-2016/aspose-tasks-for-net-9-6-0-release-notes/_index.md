@@ -26,11 +26,11 @@ Aspose.Tasks for .NET API enables application developers to write code for manip
 | :- | :- |
 |Aspose.Tasks.CalendarExceptionCollection.AddRange(System.Collections.Generic.IEnumerable<Aspose.Tasks.CalendarException>) |Adds range of exceptions to the internal list. |
 |Aspose.Tasks.CalendarExceptionCollection.Clear |Removes all items from the Aspose.Tasks.CalendarExceptionCollection. |
-|Aspose.Tasks.TimephasedDataCollection.SelectBetweenStartAndFinish(Aspose.Tasks.TimephasedDataType,System.DateTime,System.DateTime) |Selects all time phases between "startTime" and "finishTime". Has O(log n) complexity in average case. |
+|Aspose.Tasks.TimephasedDataCollection.SelectBetweenStartAndFinish(Aspose.Tasks.TimephasedDataType,System.DateTime,System.DateTime) |Selects all time phases between "startTime" and "finishTime". Has O(log n) complexity in average case. |
 |**The following public enumerations were added:**|**Description**|
 |Aspose.Tasks.Visualization.DateLabel.DayDiDdSpace |Examples: M 30, T 1 |
 |Aspose.Tasks.Visualization.DateLabel.DayDiDdNoSpace |Examples: M30, T1 |
 |**The following public enumerations were deleted:**|**Description**|
-|Aspose.Tasks.Visualization.DateLabel.DayDiDd |  |
-|Aspose.Tasks.Visualization.DateLabel.DayDidd |** |
+|Aspose.Tasks.Visualization.DateLabel.DayDiDd |  |
+|Aspose.Tasks.Visualization.DateLabel.DayDidd |** |
 

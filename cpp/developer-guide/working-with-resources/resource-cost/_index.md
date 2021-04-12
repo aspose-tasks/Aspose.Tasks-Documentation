@@ -21,7 +21,7 @@ The [Resource](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.reso
 ## **Working with Resource Costs**
 To view resource costs in Microsoft Project:
 
-1. On the Resource sheet, from the **Insert** menu, select **Column**.
+1. On the Resource sheet, from the **Insert** menu, select **Column**.
 2. Add the columns.
 
 ### **Getting Resource Costs in Aspose.Tasks**

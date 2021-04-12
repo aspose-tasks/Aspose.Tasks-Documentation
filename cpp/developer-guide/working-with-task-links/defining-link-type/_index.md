@@ -14,10 +14,10 @@ The LinkType property exposed by the TaskLink class is used to retrieve or defin
 
 ## **Defining Link Type**
 To define link type in Microsoft Project:
-On the **View** menu, select **More Views** and then **Task Entry Form**.
+On the **View** menu, select **More Views** and then **Task Entry Form**.
 
 1. Double-click the desired task.
-2. Select the **Predecessor** tab.
+2. Select the **Predecessor** tab.
 
 **Defining link type in Microsoft Project**
 
