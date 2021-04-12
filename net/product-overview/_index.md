@@ -1,6 +1,6 @@
 ---
 title: Aspose.Tasks for .NET Product Overview
-description: "Aspose.Tasks for .NET is a cross-platform class library that enables .NET applications to read, edit, save and convert Microsoft Project MPP/XML and Primavera XER/P6 XML files without using Microsoft Project or Oracle Primavera software."
+description: "Aspose.Tasks for .NET is a library allowing to read, edit, and convert Microsoft Project MPP/XML, Primavera XER files."
 type: docs
 weight: 10
 url: /net/product-overview/
