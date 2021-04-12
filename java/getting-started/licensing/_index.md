@@ -1,6 +1,6 @@
 ---
 title: Licensing and Subscription
-description: "Aspose.Tasks for C++ provides different plans for purchase or offers a Free Trial and a 30-day Temporary License for evaluation using Licensing policies."
+description: "Aspose.Tasks for Java provides different plans for purchase or offers a Free Trial and a 30-day Temporary License for evaluation using Licensing policies."
 type: docs
 weight: 60
 url: /java/licensing/
