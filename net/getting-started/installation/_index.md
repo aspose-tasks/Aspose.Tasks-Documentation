@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Installation of Aspose.Tasks for .NET
 description: "Learn how to install Aspose.Tasks for .NET via NuGet Package Manager."
 type: docs
 weight: 40

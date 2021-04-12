@@ -1,6 +1,6 @@
 ---
-title: Installation
-description: "Learn how to install Aspose.Tasks for C++ via NuGet Package Manager."
+title: Installation of Aspose.Tasks for C++
+description: "Learn how to install Aspose.Tasks for C++ via NuGet Package Manager or using MSI/ZIP installers."
 type: docs
 weight: 30
 url: /cpp/installation/

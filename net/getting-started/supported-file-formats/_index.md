@@ -1,5 +1,5 @@
 ---
-title: Supported File Formats
+title: File Formats Supported by Aspose.Tasks for .NET
 description: "Aspose.Tasks for .NET supports loading and saving of a wide range of project management file formats and allows you to edit source documents as well as convert files from one format to another."
 type: docs
 weight: 20

@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Installation of Aspose.Tasks for Java
 description: "Learn how to install Aspose.Tasks for Java via Aspose Artifactory."
 type: docs
 weight: 40
