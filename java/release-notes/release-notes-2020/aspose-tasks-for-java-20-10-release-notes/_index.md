@@ -22,9 +22,9 @@ This page contains release notes information for [Aspose.Tasks for Java 20.10](h
 |TASKSNET-4435|Disable recalculation of Tsk.Cost and Tsk.FixedCost in manual calculation mode | Enhancement |
 |TASKSNET-4416|Review Metered license and update the credit charge algorithm | Enhancement |
 |TASKSNET-4308|Fix incorrect ActualStart of manual assigned tasks |Bug |
-|TASKSNET-4278|Fix incorrect calculation of timephased data for assignment's remaining work | Bug | 
+|TASKSNET-4278|Fix incorrect calculation of timephased data for assignment's remaining work | Bug |
 |TASKSNET-4270|Fix recalculation of assignments' work and timephased data for task with Type = "FixedWork" when task's duration is changed | Bug |
-|TASKSNET-4256|Fix invalid generated TimephasedData for assignments of Fixed Duration tasks | Bug | 
+|TASKSNET-4256|Fix invalid generated TimephasedData for assignments of Fixed Duration tasks | Bug |
 |TASKSNET-4371|Fix incorrect reading of MPP with a large number of long assignments | Bug |
 |TASKSNET-4370|Fix bad performance while deleting of resources when CalculationMode.Manual is set | Bug |
 |TASKSNET-4363|Fix task's assignments are not visible in Task usage view | Bug |

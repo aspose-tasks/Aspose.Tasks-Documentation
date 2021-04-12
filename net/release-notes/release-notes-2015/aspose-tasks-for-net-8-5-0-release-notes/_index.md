@@ -7,10 +7,8 @@ url: /net/aspose-tasks-for-net-8-5-0-release-notes/
 ---
 
 ## **Major Features**
-We have supported several important features this release. Ability 
-to extract objects embedded in task or resource view form, page settings
-writing into mpp format, reading Header and Footer data from MPP 
-files have been implemented. One bug has been fixed. Please, see details
+We have supported several important features this release. Ability to extract objects embedded in task or resource view form, page settings
+writing into mpp format, reading Header and Footer data from MPP files have been implemented. One bug has been fixed. Please, see details
 below.
 
 ## **All Changes**

@@ -64,7 +64,7 @@ The [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar) 
 - MakeStandardCalendar() – Creates a new standard calendar.
 - MakeStandardCalendar(Calendar cal) – Makes a calendar as standard.
 
-In Microsoft Project, open the file output by the code below and, on the **Tools** menu, select **Change Working Times Information**, to see the standard calendar. 
+In Microsoft Project, open the file output by the code below and, on the **Tools** menu, select **Change Working Times Information**, to see the standard calendar.
 
 **The Change Working Times Information dialogue shows the standard calendar used by the project**
 

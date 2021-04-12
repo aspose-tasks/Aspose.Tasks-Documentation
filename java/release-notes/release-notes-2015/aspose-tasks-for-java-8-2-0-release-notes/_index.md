@@ -7,11 +7,8 @@ url: /java/aspose-tasks-for-java-8-2-0-release-notes/
 ---
 
 ## **Major Features**
-We have implemented several new features this release. "Display 
-Details columns in chart area" feature has been supported. Formula 
-calculation and evaluation of functions in formulas have been 
-implemented. Eight bugs have been fixed. Please, see list of all 
-features below.
+We have implemented several new features this release. "Display Details columns in chart area" feature has been supported. Formula 
+calculation and evaluation of functions in formulas have been implemented. Eight bugs have been fixed. Please, see list of all features below.
 
 ## **All Changes**
 |**Issue Type** |**Key** |**Summary** |

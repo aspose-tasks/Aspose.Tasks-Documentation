@@ -51,6 +51,6 @@ Aspose.Tasks for C++ is based on the .NET version of the API and provides strict
 | :- | :- |
 |Aspose.Tasks.ProjectOnlineReader.#ctor(Aspose.Tasks.ProjectServerCredentials) | |
 |Aspose.Tasks.ProjectOnlineReader.GetProject(System.Guid) | |
-|Aspose.Tasks.ProjectOnlineReader.GetProjectRawData(System.Guid) | | 
-|Aspose.Tasks.ProjectOnlineReader.GetProjectList | |	 
+|Aspose.Tasks.ProjectOnlineReader.GetProjectRawData(System.Guid) | |
+|Aspose.Tasks.ProjectOnlineReader.GetProjectList | |
 |Aspose.Tasks.Value.NumberValue	| Replaced with NumericValue (decimal) property|

@@ -7,10 +7,7 @@ url: /net/aspose-tasks-for-net-8-3-0-release-notes/
 ---
 
 ## **Major Features**
-We have implemented converting MPP to MPX format. Option to set start
-date for GanttChart view has been supported. Also formula calculation 
-and evaluation of functions in formulas have been implemented. About 
-eight bugs have been fixed. Please, see list of all features below.
+We have implemented converting MPP to MPX format. Option to set start date for GanttChart view has been supported. Also formula calculation and evaluation of functions in formulas have been implemented. About eight bugs have been fixed. Please, see list of all features below.
 
 ## **All Changes**
 |**Issue Type** |**Key** |**Summary** |

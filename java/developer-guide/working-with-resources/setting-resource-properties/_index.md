@@ -25,7 +25,7 @@ To view a resource's general properties in Microsoft Project:
 2. From the **Insert** menu, select **Column**.
 3. Add the Start, Finish, ID and unique ID columns.
 
-**General resource properties in Microsoft Project** 
+**General resource properties in Microsoft Project**
 
 ![show general resource properties in Microsoft Project](setting-resource-properties_1.png)
 

@@ -15,10 +15,10 @@ The following code sample demonstrates how this feature can be used in C#.NET an
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderXAMLWithOptions-RenderXAMLWithOptions.cs" >}}
 
-Different presentation formats can be used to render the project to XAML: 
+Different presentation formats can be used to render the project to XAML:
 - PresentationFormat.GanttChart;
 - PresentationFormat.TaskUsage;
-- PresentationFormat.ResourceUsage; 
+- PresentationFormat.ResourceUsage;
 - PresentationFormat.ResourceSheet.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderDifferentPresentationFormatsToXAML-RenderDifferentPresentationFormatsToXAML.cs" >}}

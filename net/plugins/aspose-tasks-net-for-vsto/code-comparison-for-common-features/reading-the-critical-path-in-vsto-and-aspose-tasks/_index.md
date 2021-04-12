@@ -14,7 +14,7 @@ Following steps are required to accomplish this task:
 1. Create a new project in Visual Studio.
 2. In the Solution Explorer, right-click and select Add Reference, then select the COM components tab.
 3. Select the Microsoft Project 12.0 Object Library and then click OK.
-4. This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.Use the code from the following example to read critical tasks. 
+4. This imports the Microsoft.Office.Interop.MSProject namespace at the start of the code.Use the code from the following example to read critical tasks.
 
 {{< highlight csharp >}}
 // Create Application object

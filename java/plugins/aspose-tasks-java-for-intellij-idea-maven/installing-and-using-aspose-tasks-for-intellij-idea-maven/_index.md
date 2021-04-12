@@ -16,7 +16,7 @@ The  plugin is listed on IntelliJ IDEA’s CE [official plugin website](https://
 **Aspose.Tasks for Java for IntelliJ IDEA (Maven)** plugin can be easily installed (without manual downloading) from within IntelliJ IDEA. To do it:
 
 1. Select **Settings** from the **File** menu.
-2. Click **Plugins**, then browse the repositories in IntelliJ IDEA. 
+2. Click **Plugins**, then browse the repositories in IntelliJ IDEA.
 
 ![Browse Aspose.Tasks for Java Maven plugin](idea_plugin_1.png)
 

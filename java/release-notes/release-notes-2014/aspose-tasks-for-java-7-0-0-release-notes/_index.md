@@ -7,11 +7,7 @@ url: /java/aspose-tasks-for-java-7-0-0-release-notes/
 ---
 
 ## **Major Features**
-We have implemented FilterCriteria and GanttChart data writing to mpp
-formats. ResourceToColumnTextConverter methods for all resource 
-fields and TaskToColumnTextConverter methods for all task fields have 
-been implemented. GanttChart data writing to 2003/2007 mpp format have 
-been supported. Please see list of all changes below.
+We have implemented FilterCriteria and GanttChart data writing to MPP formats. ResourceToColumnTextConverter methods for all resource fields and TaskToColumnTextConverter methods for all task fields have been implemented. GanttChart data writing to 2003/2007 mpp format have been supported. Please see list of all changes below.
 
 ## **All Changes**
 |**Issue Type** |**Key** |**Summary** |

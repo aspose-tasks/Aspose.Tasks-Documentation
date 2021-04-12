@@ -17,7 +17,7 @@ To see an assignment's stop and resume dates in Microsoft Project:
 1. On the Task Usage screen, select **Insert** and then **Column**.
 2. Add the desired columns.
 
-**Assignment stop and resume dates in Microsoft Project** 
+**Assignment stop and resume dates in Microsoft Project**
 
 ![checking resource assignments stop/resume dates in Microsoft Project 2013](stop-or-resume-an-assignment_1.png)
 

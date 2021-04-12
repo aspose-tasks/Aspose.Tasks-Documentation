@@ -31,8 +31,8 @@ assignment.set(Rjb::import('com.aspose.tasks.Asn').RESUME, Rjb::import('java.uti
 assignment.set(Rjb::import('com.aspose.tasks.Asn').WORK_CONTOUR, Rjb::import('com.aspose.tasks.WorkContourType').BackLoaded)
 project.setBaseline(Rjb::import('com.aspose.tasks.BaselineType').Baseline)
 task.set(tsk.PERCENT_COMPLETE, 50)
-td = assignment.getTimephasedData(assignment.get(Rjb::import('com.aspose.tasks.Asn').START), 
-                                  assignment.get(Rjb::import('com.aspose.tasks.Asn').FINISH), 
+td = assignment.getTimephasedData(assignment.get(Rjb::import('com.aspose.tasks.Asn').START),
+                                  assignment.get(Rjb::import('com.aspose.tasks.Asn').FINISH),
                                   Rjb::import('com.aspose.tasks.TimephasedDataType').AssignmentRemainingWork).toList()
 puts "Size: " + td.size().to_s
 puts "Value: " + td.get(0).getValue().to_s

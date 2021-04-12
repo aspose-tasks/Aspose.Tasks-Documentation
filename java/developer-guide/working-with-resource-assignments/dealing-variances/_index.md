@@ -19,7 +19,7 @@ To see resource assignment variances in Microsoft Project:
 1. On the Task Usage screen, select **Insert** and ten **Columns**.
 2. Add the desired columns.
 
-**Variance columns added in Microsoft Project** 
+**Variance columns added in Microsoft Project**
 
 ![dealing with variances in Microsoft Project 2010](dealing-variances_1.png)
 

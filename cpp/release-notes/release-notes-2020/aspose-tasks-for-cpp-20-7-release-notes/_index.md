@@ -58,11 +58,11 @@ var projectServerCredentials = new ProjectServerCredentials("https://project_ser
 
 |**The following public methods and properties were deleted:** |**Description** |
 | :- | :- |
-|Aspose.Tasks.Project.CustomProperties | |	  
+|Aspose.Tasks.Project.CustomProperties | |
 
 |**The following public types and properties were deleted:** |**Description** |
 | :- | :- |
-|Aspose.Tasks.TasksDataFormat | | 
+|Aspose.Tasks.TasksDataFormat | |
 
 |**The following public enumerations and properties were deleted:** |**Description** |
 | :- | :- |

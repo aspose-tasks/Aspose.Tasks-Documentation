@@ -18,7 +18,7 @@ The [Tsk](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Tsk) class
 ### **Critical and Effort-driven Tasks Microsoft Project**
 To see whether a task is critical or effort-driven in Microsoft Project double-click a task in the Task Entry form.
 
-## **An effort-driven task in Microsoft Project** 
+## **An effort-driven task in Microsoft Project**
 
 ![handling critical and effort driven tasks in Microsoft Project](handling-critical-and-effort-driven-tasks_1.png)
 

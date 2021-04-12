@@ -7,10 +7,8 @@ url: /net/aspose-tasks-for-net-8-9-0-release-notes/
 ---
 
 ## **Major Features**
-We have implemented reading Primavera XML file with multiple 
-projects. Primavera Xml Save Option has been supported. We have also 
-implemented adding an image to header and legend of project. About nine 
-bugs have been fixed. Please see the list of changes below.
+We have implemented reading Primavera XML file with multiple projects. Primavera Xml Save Option has been supported. We have also 
+implemented adding an image to header and legend of project. About nine bugs have been fixed. Please see the list of changes below.
 
 ## **All Changes**
 ## **Public API and Backwards Incompatible Changes**

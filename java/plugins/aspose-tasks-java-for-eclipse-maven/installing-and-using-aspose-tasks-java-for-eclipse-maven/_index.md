@@ -9,7 +9,7 @@ url: /java/installing-and-using-aspose-tasks-java-for-eclipse-maven/
 ## **Installing**
 **Aspose.Tasks Java (Maven) for Eclipse** plugin can be easily installed from the Available **Plugin** tab in the Plugin dialog.
 
-- To open it, select **Plugins** from the **Tools** menu in Eclipse. 
+- To open it, select **Plugins** from the **Tools** menu in Eclipse.
 
 ![Aspose.Tasks for Java Maven Step One](image_1.png)
 

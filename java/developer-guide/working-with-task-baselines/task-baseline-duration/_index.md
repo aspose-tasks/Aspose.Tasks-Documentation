@@ -18,7 +18,7 @@ After saving a baseline, the task baseline duration can be viewed in Microsoft P
 2. From the **Insert** menu, select **Columns**.
 3. Add the Baseline Duration column.
 
-**Task baseline duration in Microsoft Project** 
+**Task baseline duration in Microsoft Project**
 
 ![compare task baselines in Microsoft Project](task-baseline-duration_1.png)
 

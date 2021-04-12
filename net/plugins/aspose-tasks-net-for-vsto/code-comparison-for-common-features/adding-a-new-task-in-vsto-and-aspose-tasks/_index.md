@@ -15,7 +15,7 @@ To add a task using VSTO:
 2. In the Solution Explorer, right-click and select Add Reference.
 3. Select the COM components tab, and select Microsoft Project 12.0 Object Library.
    Click OK.
-4. This imports the Microsoft.Office.Interop.MSProject namespace at the start of your code. Use the code from the following example to add a new task. 
+4. This imports the Microsoft.Office.Interop.MSProject namespace at the start of your code. Use the code from the following example to add a new task.
 
 {{< highlight csharp >}}
 //Create an Application object

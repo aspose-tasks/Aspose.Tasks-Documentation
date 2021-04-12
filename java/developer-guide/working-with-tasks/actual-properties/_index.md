@@ -28,9 +28,9 @@ The ChildTasksCollector class collects all the child tasks from a given RootTask
 To access these properties in Microsoft Project:
 
 1. On the **View** menu, select **More Views** and then **Task Entry**.
-2. On the **Insert** menu, select **Column** and add the desired columns to the Task Entry form. 
+2. On the **Insert** menu, select **Column** and add the desired columns to the Task Entry form.
 
-**Actual properties in a Microsoft Project file** 
+**Actual properties in a Microsoft Project file**
 ![checking values of actual fields in Microsoft Project 2016](actual-properties_1.png)
 
 ### **Getting Actual Properties with Aspose.Tasks**

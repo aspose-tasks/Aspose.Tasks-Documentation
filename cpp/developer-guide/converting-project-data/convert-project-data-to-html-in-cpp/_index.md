@@ -22,7 +22,7 @@ Aspose.Tasks for C++ can export project data to HTML format. It allows to save a
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-ControlHeaderNameDuringHTMLExport-ControlHeaderNameDuringHTMLExport.cpp" >}}
 
 ### **Saving Fonts, Images and CSS Styles Separately**
-Aspose.Tasks for C++ API gives you enough power to save fonts, images, and CSS styles information separately to files while saving Project Data to HTML. This is achieved using the HtmlSaveOptions class by providing information about CSS, Font and Image destinations. 
+Aspose.Tasks for C++ API gives you enough power to save fonts, images, and CSS styles information separately to files while saving Project Data to HTML. This is achieved using the HtmlSaveOptions class by providing information about CSS, Font and Image destinations.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithResources-ResourcePrefixForNestedResources-ResourcePrefixForNestedResources.cpp" >}}
 

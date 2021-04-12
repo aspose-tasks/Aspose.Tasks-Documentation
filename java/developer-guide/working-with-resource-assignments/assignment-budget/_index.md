@@ -17,7 +17,7 @@ To see assignment budgets in Microsoft Project:
 1. On the Task Usage page, select the Insert menu and then Column.
 2. Add columns.
 
-**Budget columns added in Microsoft Project** 
+**Budget columns added in Microsoft Project**
 
 ![show budget columns in Microsoft Project 2019](assignment-budget_1.png)
 

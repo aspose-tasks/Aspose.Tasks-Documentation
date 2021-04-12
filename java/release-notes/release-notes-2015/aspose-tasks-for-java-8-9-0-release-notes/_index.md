@@ -10,10 +10,8 @@ url: /java/aspose-tasks-for-java-8-9-0-release-notes/
 We have supported export and import Project Data for HTML format. It will 
 allow to work with GroupDocs Editor <https://www.groupdocs.com/>.
 
-We have implemented reading Primavera XML file with multiple 
-projects. Primavera Xml Save Option has been supported. We have also 
-implemented adding an image to header and legend of project. About nine 
-bugs have been fixed. Please see the list of changes below.
+We have implemented reading Primavera XML file with multiple projects. Primavera Xml Save Option has been supported. We have also 
+implemented adding an image to header and legend of project. About nine bugs have been fixed. Please see the list of changes below.
 
 ## **All Changes**
 |**Issue Type** |**Key** |**Summary** |

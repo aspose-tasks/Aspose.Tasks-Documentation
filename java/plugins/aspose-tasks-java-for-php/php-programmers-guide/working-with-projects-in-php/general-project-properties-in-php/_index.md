@@ -14,7 +14,7 @@ To get General Project Properties using **Aspose.Tasks Java for PHP**, call **ge
 {{< highlight php >}}
 $project = new Project('Sample.xml');
 $prj = new Prj();
-if ($project -> get($prj->SCHEDULE_FROM_START) -> getValue()) 
+if ($project -> get($prj->SCHEDULE_FROM_START) -> getValue())
 {
     print "Project Start Date : " . (string)$project->get($prj->START_DATE).PHP_EOL;
 }

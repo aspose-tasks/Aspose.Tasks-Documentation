@@ -9,10 +9,10 @@ url: /cpp/why-not-automation/
 ## **Why Not Automation**
 There are two questions that our customers ask us.
 
-The first one is **Do your products require that Microsoft Office be installed in order for them to run?** 
-The short simple answer is no. Aspose and Aspose components are totally independent and are not affiliated with, nor authorized, sponsored or otherwise approved by Microsoft Corporation. 
+The first one is **Do your products require that Microsoft Office be installed in order for them to run?**
+The short simple answer is no. Aspose and Aspose components are totally independent and are not affiliated with, nor authorized, sponsored or otherwise approved by Microsoft Corporation.
 
-The question that typically follows next is **Why should we use Aspose products instead of Microsoft Office Automation?** 
+The question that typically follows next is **Why should we use Aspose products instead of Microsoft Office Automation?**
 This question cannot be answered as easily. The shortest answer we could give is that there are many reasons, the main reason is that [Microsoft itself strongly recommends against Office Automation from software solutions](https://support.microsoft.com/en-us/help/257757/considerations-for-server-side-automation-of-office).
 
 As stated above, there are several reasons why Aspose components are a better alternative to automation. Below is a better elaboration on each of the key points. Also, be sure to visit the **Additional Information** section which provides a link to independent user evaluations.

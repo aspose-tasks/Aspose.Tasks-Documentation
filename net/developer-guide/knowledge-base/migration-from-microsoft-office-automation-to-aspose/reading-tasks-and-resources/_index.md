@@ -46,13 +46,13 @@ foreach (Resource resource in project.Resources)
     string resourceType = null;
     switch (resource.Type)
     {
-        case PjResourceTypes.pjResourceTypeCost: 
+        case PjResourceTypes.pjResourceTypeCost:
             resourceType = "Cost";
             break;
-        case PjResourceTypes.pjResourceTypeMaterial: 
+        case PjResourceTypes.pjResourceTypeMaterial:
             resourceType = "Material";
             break;
-        case PjResourceTypes.pjResourceTypeWork: 
+        case PjResourceTypes.pjResourceTypeWork:
             resourceType = "Work";
             break;
     }

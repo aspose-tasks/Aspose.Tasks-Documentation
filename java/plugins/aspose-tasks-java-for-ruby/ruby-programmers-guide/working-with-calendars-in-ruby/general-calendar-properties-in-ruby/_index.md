@@ -21,7 +21,7 @@ while i < calendars.size()
       puts "Self"
     else
       cal.getBaseCalendar().getName()
-    end  
+    end
     puts "UID : " + cal.getUid().to_s
     puts "Name : " + cal.getName().to_s
   end

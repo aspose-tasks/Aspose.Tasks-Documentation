@@ -29,7 +29,7 @@ while ($i < sizeof($resource_assignments)) {
     {
         print "NA".PHP_EOL;
     }
-    else 
+    else
     {
         print (string)$assignment -> get($asn -> RESUME);
     }

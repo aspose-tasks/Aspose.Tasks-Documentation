@@ -19,7 +19,7 @@ The Tsk class exposes the IsEstimated and IsMilestone properties to manage estim
 - IsMilestone: set and get whether a task is a milestone (bool value).
 
 ### **Viewing Estimated and Milestone Tasks in Microsoft Project**
-To see whether a task is estimates of marked as a milestone in Microsoft Project one can double-click a task in the Task Entry form: 
+To see whether a task is estimates of marked as a milestone in Microsoft Project one can double-click a task in the Task Entry form:
 
 ![marking an estimated task as a milestone in Microsoft Project](managing-estimated-milestone-tasks_1.png)
 

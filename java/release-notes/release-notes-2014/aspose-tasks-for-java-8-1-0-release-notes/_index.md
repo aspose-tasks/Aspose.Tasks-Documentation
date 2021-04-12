@@ -7,16 +7,8 @@ url: /java/aspose-tasks-for-java-8-1-0-release-notes/
 ---
 
 ## **Major Features**
-We have implemented new Aspose.Tasks for Java API. The API is more clear and 
-easy to use. We recommend our customers to start to use the revamped 
-version. Note, we will publish at least three releases of the existing 
-API along side the new version. Bugs and any regression issues will be 
-fixed in both versions but new features will be added in the revamped 
-version only. We have supported new features for writing and reading for
-mpp format, importing Primavera XML file format and export to HTML 
-format. Also moving a task from one parent to other have been 
-implemented. Six bugs have been fixed. Please, see list of all features
-below.
+We have implemented new Aspose.Tasks for Java API. The API is more clear and easy to use. We recommend our customers to start to use the revamped 
+version. Note, we will publish at least three releases of the existing API along side the new version. Bugs and any regression issues will be fixed in both versions but new features will be added in the revamped version only. We have supported new features for writing and reading for MPP format, importing Primavera XML file format and export to HTML format. Also moving a task from one parent to other have been implemented. Six bugs have been fixed.
 
 ## **All Changes**
 |**Issue Type** |**Key** |**Summary** |

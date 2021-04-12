@@ -49,7 +49,7 @@ Project project = new Project(file); // We can read a project without the Projec
 project.Save(resFile, options);
 {{< /highlight >}}
 
-**Output from example 1** 
+**Output from example 1**
 
 ![Gannt chart PDF example](rendering-gantt-chart_1.png)
 

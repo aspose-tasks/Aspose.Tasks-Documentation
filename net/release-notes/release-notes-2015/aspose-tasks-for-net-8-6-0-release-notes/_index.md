@@ -7,10 +7,7 @@ url: /net/aspose-tasks-for-net-8-6-0-release-notes/
 ---
 
 ## **Major Features**
-We have supported major feature - reading project data from Primavera 
-database. It allows to cover a lot of scenarios of working with 
-Primavera database and Aspose.Tasks for .NET library. Five bugs have been fixed. Please 
-see the list of changes below.
+We have supported major feature - reading project data from Primavera database. It allows to cover a lot of scenarios of working with Primavera database and Aspose.Tasks for .NET library. Five bugs have been fixed. Please see the list of changes below.
 
 ## **All Changes**
 |**Issue Type** |**Key** |**Summary** |

@@ -75,8 +75,6 @@ foreach (var p in list)
 foreach (var p in list)
 {
     var project = reader.GetProject(p.Id);
-    Console.WriteLine("Project '{0}' loaded. Resources count: {1}", 
-        p.Name, 
-        project.Resources.Count);
+    Console.WriteLine("Project '{0}' loaded. Resources count: {1}", p.Name, project.Resources.Count);
 }
 {{< /highlight >}}

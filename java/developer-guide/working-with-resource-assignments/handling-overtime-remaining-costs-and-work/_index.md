@@ -21,7 +21,7 @@ To see assignment overtime, remaining cost and work in Microsoft Project:
 1. On the Task Usage screen, select the **Insert** menu, then **Column**.
 2. Add the desired columns.
 
-**Overtime, remaining costs and work columns added in Microsoft Project** 
+**Overtime, remaining costs and work columns added in Microsoft Project**
 
 ![overtime, remaining costs and works in Microsoft Project](handling-overtime-remaining-costs-and-work_1.png)
 

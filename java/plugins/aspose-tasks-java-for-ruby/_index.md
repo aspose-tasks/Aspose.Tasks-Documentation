@@ -46,7 +46,7 @@ Following releases of running examples are available to download on below mentio
 
 It is very simple and easy to install Aspose.Tasks Java for Ruby gem, please follow these simple steps:
 
-1. Run following command. 
+1. Run following command.
 
 {{< highlight java >}}
  $ gem install aspose-tasksjava

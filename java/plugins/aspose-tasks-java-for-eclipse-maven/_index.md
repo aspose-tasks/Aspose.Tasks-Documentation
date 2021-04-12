@@ -21,7 +21,7 @@ The Eclipse IDE can be extended with additional software components. Eclipse cal
 
 ### **Aspose.Tasks Java (Maven) for Eclipse**
 - Aspose.Tasks Java (Maven) for Eclipse is a Plugin for **Eclipse IDE** by **Aspose.** This Plugin is intended for developers using Maven platform for Java developments and want to use [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) in their projects. The Plugin lets you create maven projects for using [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) and also download [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) of the API.
-- The plugin provides following features to work with [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) within **Eclipse IDE** comfortably: 
+- The plugin provides following features to work with [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) within **Eclipse IDE** comfortably:
 
 The plugin contains two wizards:
 

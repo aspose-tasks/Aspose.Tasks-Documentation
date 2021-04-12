@@ -43,7 +43,7 @@ The following steps are required to accomplish this task:
 
 1. Create a new project in Visual Studio.
 2. In the Solution Explorer, right-click and select Add Reference, then select the .NET tab.
-3. Select Aspose.Tasks and then click OK. This imports the Aspose.Tasks namespace at the start of the code.Use the code from the following example to create resources and link them to tasks. 
+3. Select Aspose.Tasks and then click OK. This imports the Aspose.Tasks namespace at the start of the code.Use the code from the following example to create resources and link them to tasks.
 
 {{< highlight csharp >}}
 Project prj = new Project("Project.mpp");

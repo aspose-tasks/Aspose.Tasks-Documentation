@@ -16,7 +16,7 @@ There are three ways of creating a calendar in Aspose.Tasks. The [Calendar](http
 - Calendar(string name) – Creates a calendar with a name.
 
 The following code creates three different calendars, one using each constructor.
-Open the output file in Microsoft Project and, on the **Project** menu, select **Project Information** to access the calendars. 
+Open the output file in Microsoft Project and, on the **Project** menu, select **Project Information** to access the calendars.
 
 ## **Project information showing the calendars info**
 

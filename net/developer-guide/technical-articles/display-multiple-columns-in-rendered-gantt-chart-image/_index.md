@@ -14,7 +14,7 @@ In recent releases, Aspose.Tasks for .NET has introduced the Aspose.Tasks.Visual
 This article describes how to select project columns to include in a Gantt chart and how to render the chart to an image.
 
 ## **Gantt Chart**
-A Gantt chart is a graphical representation of project tasks broken down by days, weeks or months. A project is composed of tasks assigned to different resources. An individual task may be divided into sub-tasks as part of tasks management. Every task has a start date and end date that determines its duration. A Gantt chart in Microsoft Project gives a quick view of such project data. This screenshot shows a typical Gantt chart in Microsoft Project: 
+A Gantt chart is a graphical representation of project tasks broken down by days, weeks or months. A project is composed of tasks assigned to different resources. An individual task may be divided into sub-tasks as part of tasks management. Every task has a start date and end date that determines its duration. A Gantt chart in Microsoft Project gives a quick view of such project data. This screenshot shows a typical Gantt chart in Microsoft Project:
 
 ![Gantt chart represented by Microsoft Project](display-multiple-columns-in-rendered-gantt-chart-image_1.png)
 

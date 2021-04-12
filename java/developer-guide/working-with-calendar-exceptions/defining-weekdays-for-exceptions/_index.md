@@ -18,7 +18,7 @@ To see a list of exceptions in Microsoft Project:
 2. From the **Tools** menu, select **Change Working Time** to open the Change Working Time dialog.
    The screenshot below shows the dialog for the project saved with the code below.
 
-**Exceptions defined for working days** 
+**Exceptions defined for working days**
 
 ![defining in calendar exceptions in weekdays Microsoft Project](defining-weekdays-for-exceptions_1.png)
 

@@ -7,11 +7,7 @@ url: /net/aspose-tasks-for-net-9-0-1-release-notes/
 ---
 
 ## **Major Features**
-We have implemented enhancement which allow to read subproject info (inserted project information). New
-constructor has been added to Project class to work with Primavera 
-Project. Also reading all project UID from Primavera XML has been 
-implemented. About six bugs have been fixed. Please see the list of 
-changes below.
+We have implemented enhancement which allow to read subproject info (inserted project information). New constructor has been added to Project class to work with Primavera Project. Also reading all project UID from Primavera XML has been implemented. About six bugs have been fixed. Please see the list of changes below.
 
 ## **All Changes**
 |**Issue Type** |**Key** |**Summary** |

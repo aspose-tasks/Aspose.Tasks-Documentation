@@ -69,7 +69,7 @@ To see the default project information in Microsoft Project:
 4. Go to the **Schedule** tab.
    Here, you can see the settings for the default task type and default task start time.
 
-## **Default project information in Microsoft Project, as written by Aspose.Tasks** 
+## **Default project information in Microsoft Project, as written by Aspose.Tasks**
 
 ![viewing project properties in Microsoft Project](working-with-project-properties_2.png)
 

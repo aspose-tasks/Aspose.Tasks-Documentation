@@ -17,6 +17,6 @@ Create a [ResourceAssignment](https://apireference.aspose.com/tasks/cpp/class/as
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithResourceAssignments-CreateResourceAssignments-CreateResourceAssignments.cpp" >}}
 
 ## **Creating Multiple Resource Assignments**
-The following code example demonstrates how to set multiple resource assignments for one task and set user-defined start and end date for the resources. 
+The following code example demonstrates how to set multiple resource assignments for one task and set user-defined start and end date for the resources.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithResourceAssignments-CreateMultipleResourceAssignmentsForOneTask-CreateMultipleResourceAssignmentsForOneTask.cpp" >}}

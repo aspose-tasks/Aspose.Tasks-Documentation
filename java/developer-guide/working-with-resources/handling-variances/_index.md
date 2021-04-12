@@ -19,7 +19,7 @@ To see the resource work variance in Microsoft Project:
 1. On the Resource Sheet, go to the **Insert** menu and select **Column**.
 2. Add the Variance column.
 
-**Variance in Microsoft Project** 
+**Variance in Microsoft Project**
 
 ![handling resource variances in Microsoft Project 2010](handling-variances_1.png)
 

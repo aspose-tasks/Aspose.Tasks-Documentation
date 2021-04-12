@@ -29,7 +29,7 @@ This page contains release notes information for [Aspose.Tasks for Java 20.8](ht
 |TASKSNET-4257 	|Fix allocation of a certain number of hours over the duration of a task |Bug|
 |TASKSNET-4252 	|Fix infinite loop while converting the file from MPP to PDF |Bug|
 |TASKSNET-4047 	|Fix reading writing of null resources to PWA |Bug|
-|TASKSNET-3472 	|Fix calculation of Asn.Peak, Asn.LateStart, Rsc.Peak|Bug| 
+|TASKSNET-3472 	|Fix calculation of Asn.Peak, Asn.LateStart, Rsc.Peak|Bug|
 |TASKSNET-4219 	|Fix application of a license for some scenarios |Bug|
 |TASKSNET-4278 	|Fix incorrect calculation of time-phased data for assignment's remaining work |Bug|
 
@@ -39,5 +39,5 @@ This page contains release notes information for [Aspose.Tasks for Java 20.8](ht
 |com.aspose.tasks.CustomProperties 	| |
 |com.aspose.tasks.TasksDataFormat | |
 |**The following public types were deleted:**|**Description**|
-| com.aspose.tasks.TasksDataFormat.XML  | |  
+| com.aspose.tasks.TasksDataFormat.XML  | |
 | com.aspose.tasks.TasksDataFormat.MPP  | |

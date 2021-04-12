@@ -19,7 +19,7 @@ To define link type in Microsoft Project:
 2. Double-click the desired task.
 3. Select the **Predecessor** tab.
 
-**Defining link type in Microsoft Project** 
+**Defining link type in Microsoft Project**
 
 ![show task link type Microsoft Project](defining-link-type_1.png)
 
