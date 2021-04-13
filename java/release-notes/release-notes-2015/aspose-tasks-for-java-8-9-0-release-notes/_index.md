@@ -39,6 +39,7 @@ implemented adding an image to header and legend of project. About nine bugs hav
 | :- | :- |
 |com.aspose.tasks.PrimaveraXmlReadingOptions |Allows to specify additional options when reading Primavera Xml files |
 |com.aspose.tasks.PrimaveraXmlSaveOptions |Allows to specify additional options when saving project data to Primavera Xml format. |
+
 **The following public fields were added to existing classes:**
 
 |**Field Name**|**Descriptions**|

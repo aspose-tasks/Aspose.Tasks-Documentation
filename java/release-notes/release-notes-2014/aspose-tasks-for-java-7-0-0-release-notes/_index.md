@@ -51,6 +51,7 @@ We have implemented FilterCriteria and GanttChart data writing to MPP formats. R
 | :- | :- |
 |Project.save(java.lang.String,com.aspose.tasks.MPPSaveOptions) |Saves project to mpp with specified save options |
 |View Project.getDefaultView |Gets default view of the project (this data is available for mpp format only) |
+
 **The following public fields were added to existing classes:**
 
 |Field name |Description |

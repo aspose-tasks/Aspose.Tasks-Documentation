@@ -15,7 +15,6 @@ This page contains release notes information for [Aspose.Tasks for C++ 20.10](ht
 Aspose.Tasks for C++ is based on the .NET version of the API and provides strictly the same functionality as Aspose.Tasks for .NET provides, excluding printing, database I/O operations, and EMF/WMF format support.
 
 ## **All Changes**
-
 |**Key** | **Summary** | **Issue Type**|
 | :- | :- | :- |
 |TASKSNET-4453|Add support for reading \ writing of cost time-phased data for resource assignments.|Enhancement|

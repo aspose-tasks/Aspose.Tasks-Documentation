@@ -11,6 +11,7 @@ url: /cpp/aspose-tasks-for-cpp-20-12-release-notes/
 This page contains release notes information for [Aspose.Tasks for C++ 20.12](https://downloads.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c---20.12/).
 
 {{% /alert %}}
+
 ## **Linux systems support**
 ***Since version 20.12, the release also includes a ELF shared library built with GCC-6. From now, it is possible to build projects under Linux-like systems using Aspose.Tasks for C++.***
 

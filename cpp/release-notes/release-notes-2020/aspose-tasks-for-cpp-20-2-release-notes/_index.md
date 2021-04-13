@@ -58,7 +58,6 @@ for (auto property in project->get_BuiltInProps())
 {{< /highlight >}}
 
 ## **All Changes**
-
 | **Key** | **Summary** |**Issue Type**|
 | :- | :- | :- |
 |TASKSNET-3764 | Refactor Custom and BuiltIn Properties |Enhancement |

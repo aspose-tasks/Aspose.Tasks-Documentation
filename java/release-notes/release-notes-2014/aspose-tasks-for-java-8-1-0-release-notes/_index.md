@@ -30,4 +30,3 @@ version. Note, we will publish at least three releases of the existing API along
 |Bug |TASKS-33903 |Project.Recalculate raises Exception |
 |Bug |TASKS-33904 |Error raised when saved File using Aspose.Tasks is opened, modified, saved and reopened with MSP |
 |Bug |TASKS-33907 |OutlineOutdent and OutlineIndent not working properly |
-

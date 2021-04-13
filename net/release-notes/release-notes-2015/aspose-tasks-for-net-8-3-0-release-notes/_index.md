@@ -37,6 +37,7 @@ We have implemented converting MPP to MPX format. Option to set start date for G
 |RecurrencePattern |Represents a type of recurrence pattern of a recurrent task. |
 |WeekdayType |Represents a weekday of a project in the instance of RecurringTaskInfo class. |
 |OrdinalNumber |Represents an ordinal number in the instance of RecurringTaskInfo class. |
+
 **The following public fields were added to existing classes:**
 
 |Field Name |Description |
@@ -48,6 +49,7 @@ We have implemented converting MPP to MPX format. Option to set start date for G
 |Method Name |Description |
 | :- | :- |
 |static Duration.parseTimeSpan(java.lang.String) |Parses duration string in format "PT-~~HMS~~-". |
+
 **The following public properties were added to existing classes:**
 
 |Property name |Description |

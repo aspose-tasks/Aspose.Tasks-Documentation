@@ -32,4 +32,3 @@ calculation and evaluation of functions in formulas have been implemented. Eight
 |Bug |TASKS-33942 |Wrong timephased data for the assignment |
 |Bug |TASKS-33937 |GUIDs are overwritten in MPP file |
 |Bug |TASKS-33960 |Duration set to Empty and Summary tasks duration not calculated automatically |
-

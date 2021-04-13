@@ -26,6 +26,7 @@ We have implemented Task.DurationText field for mpp writing and reading. Mono pl
 |**Class Name**|**Description**|
 | :- | :- |
 |Aspose.Tasks.PrimaveraXmlReader |Represents a reader which reads Project UIDs from Primavera Xml file |
+
 **The following public fields were added to existing classes:**
 
 |**Field Name**|**Description**|

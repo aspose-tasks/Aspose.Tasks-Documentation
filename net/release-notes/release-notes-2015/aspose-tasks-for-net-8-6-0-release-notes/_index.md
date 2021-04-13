@@ -28,6 +28,7 @@ We have supported major feature - reading project data from Primavera database. 
 | :- | :- |
 |DbSettings |Allows to specify settings to read from project database. |
 |PrimaveraDbSettings |Allows to set necessary options to read project data from Primavera database. |
+
 **The following public fields were added to existing classes:**
 
 |Field Name |Description |

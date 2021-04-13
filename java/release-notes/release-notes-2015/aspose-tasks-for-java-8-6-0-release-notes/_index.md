@@ -29,6 +29,7 @@ Primavera database and Aspose.Tasks library. Five bugs have been fixed. Please s
 | :- | :- |
 |DbSettings |Allows to specify settings to read from project database. |
 |PrimaveraDbSettings |Allows to set necessary options to read project data from Primavera database. |
+
 **The following public fields were added to existing classes:**
 
 |Field Name |Description |

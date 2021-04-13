@@ -52,6 +52,7 @@ bugs have been fixed. Please see the list of changes below.
 |com.aspose.tasks.TimelineView |Represents a timeline view of a project. |
 |com.aspose.tasks.WeekLabelDisplay |Specifies how the week label displays. |
 |com.aspose.tasks.YearLabelDisplay |Specifies how the year label displays. |
+
 **The following public fields were added to existing classes:**
 
 |**Field Name**|**Description**|

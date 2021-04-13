@@ -13,6 +13,7 @@ url: /net/aspose-tasks-for-net-8-1-0-release-notes/
 |**Class name**|**Description**|
 | :- | :- |
 |Aspose.Tasks.Saving.HtmlSaveOptions |Allows to specify additional options when rendering project pages to HTML. |
+
 **The following public fields were added to existing classes:**
 
 |**Field Name**|**Description**|
@@ -24,6 +25,7 @@ url: /net/aspose-tasks-for-net-8-1-0-release-notes/
 |**Method Name**|**Description**|
 | :- | :- |
 |void TaskCollection.Add(Task task) |This method adds the instance of the Task class to the task collection. |
+
 **The following public properties were added to existing classes:**
 
 |**Property name**|**Description**|

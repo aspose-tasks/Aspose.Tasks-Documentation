@@ -41,6 +41,7 @@ below.
 |PageViewSettings |Represents printing settings for a project view. |
 |ParseErrorArgs |Provides data for the ParseErrorCallback delegate. |
 |ParseErrorCallback |Represents a method callback to handle parse errors that can happen when reading xml data. |
+
 **The following public fields were added to existing classes:**
 
 |Field Name |Description |

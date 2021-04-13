@@ -53,6 +53,7 @@ below.
 | :- | :- |
 |View.PageInfo |Represents page setup data which is present in mpp file format. |
 |Project.OleObjects |Returns a collection containing the instances of the OleObject class which are linked or embedded to this project file. |
+
 **The following public fields were added to existing classes:**
 
 |Field Name |Description |

@@ -52,6 +52,7 @@ Also, GanttChart rendering resolved for bars that are in footer section. Saving 
 | :- | :- |
 |byte Project.getDateFormat() |Returns the date format for date fields of a project view. |
 |Project.setDateFormat(byte) |Sets the date format for date fields of a project view. |
+
 **The following public fields were added to existing classes:**
 
 |Field Name |Description |

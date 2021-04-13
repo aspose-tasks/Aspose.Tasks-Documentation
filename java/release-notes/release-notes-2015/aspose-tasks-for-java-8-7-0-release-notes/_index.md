@@ -37,6 +37,7 @@ We have implemented reading project data from Microsoft Project database. It all
 |RiskItemType |Specifies task fields for which the statistical information is gathered during risk analysis. |
 |RiskPattern |Represents a risk pattern for a project task. |
 |RiskPatternCollection |Represents a collection containing the instances of the RiskPattern class. |
+
 **The following public fields were added to existing classes:**
 
 |**Field Name**|**Description**|
