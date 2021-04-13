@@ -55,5 +55,6 @@ DateTime ResumeDate = MyTask.Resume;
 
 ## **Download Running Code**
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/tree/master/Plugins/Aspose.Tasks%20Vs%20VSTO/Code%20Comparison/Stop%20and%20Resume%20a%20Task)
+
 ## **Download Sample Code**
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-.NET/releases/tag/AsposeTaskNETVsVSTOProjectv1.1)
