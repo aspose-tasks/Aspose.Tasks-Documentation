@@ -1,15 +1,17 @@
 ---
 title: Aspose.Tasks for .NET 21.4 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for .NET 21.4."
 type: docs
 weight: 97
 url: /net/aspose-tasks-for-net-21-4-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes information for [Aspose.Tasks for .Net 21.4](https://downloads.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-21.4/).
 
 {{% /alert %}}
+
 ## **All Changes**
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
@@ -27,6 +29,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 21.4](ht
 | TASKSNET-4694 | Fix incorrect unit of work time in 2010 and 2007 formats while exporting to CSV | Bug |
 | TASKSNET-4693 | Fix task splitting in MPP export not working as expected | Bug |
 | TASKSNET-4374 | Fix file resaved with Aspose.Tasks cannot be opened by MSP 2016 | Bug |
+
 ## **Public API and Backwards Incompatible Changes**
 |**The following public methods and properties were deleted:**|**Description**|
 | :- | :- |

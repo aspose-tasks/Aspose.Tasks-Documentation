@@ -13,8 +13,7 @@ VSTO, or Visual Studio Tools for Office, or Microsoft Visual Studio Tools is par
 Aspose.Tasks for .NET is a project management component that enables .NET applications to not only read and manipulate Microsoft Project® documents but also write Microsoft Project documents in both MPP and XML formats - all without using Microsoft Project.
 Aspose.Tasks’s powerful API exposes project data to offer complete project planning, definition and tracking capabilities. It allows users to define a project’s main as well as default properties and calendar information. It can also specify weekdays and exceptions for a project’s calendar.
 
-## **Aspose.Tasks for VSTO**
-### **Introduction**
+## **Introduction in Aspose.Tasks for VSTO**
 The developers looking for file format libraries may need to walk through the features provided by the libraries available on the market. Mainly, two factors are considered when choosing an option:
 
 - Features
