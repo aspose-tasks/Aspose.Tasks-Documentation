@@ -36,3 +36,69 @@ This page contains release notes information for [Aspose.Tasks for .Net 21.4](ht
 | Aspose.Tasks.ResourceAssignment.Set(Aspose.Tasks.Key{System.DateTime,Aspose.Tasks.AsnKey},System.DateTime) |  |
 | Aspose.Tasks.Task.Get(Aspose.Tasks.Key{System.String,Aspose.Tasks.TaskKey}) |  |
 | Aspose.Tasks.Task.Set(Aspose.Tasks.Key{System.DateTime,Aspose.Tasks.TaskKey},System.DateTime) |  |
+
+## **Examples and additional notes**
+
+Related issue: TASKSNET-4769 - Remove an ability to set Tsk.Id when using CalculationMode.Manual and CalculationMode.Automatic.
+
+The logic for Tsk.Id field was changed: it can no longer be set directly and is calculated by Aspose.Tasks (in the same manner as MS Project doesn't allow "Id" column to be set).
+The above is true for CalculationMode.Manual and CalculationMode.Automatic modes.
+
+You can use CalculationMode.None to set the value Tsk.Id on your own risk, but these values can overwritten when project is recalculated (see the example).
+
+{{< highlight csharp >}}
+
+Project project = new Project();
+var task = project.RootTask.Children.Add("task 1");
+// task.Set(Tsk.Id, 100); // Throws System.InvalidOperationException in Aspose.Tasks for .NET 21.4.
+project.CalculationMode = CalculationMode.None;
+
+task.Set(Tsk.Id, 100);
+
+Console.WriteLine(task.Get(Tsk.Id)); // Outputs 100
+
+project.CalculationMode = CalculationMode.Automatic;
+project.Recalculate();
+
+Console.WriteLine(task.Get(Tsk.Id)); // Outputs 1
+{{< /highlight >}}
+
+It's also worth reminding that Tsk.Id cannot be used as a stable identifier of a task because its value can be recalculated when tasks tree is changed.
+Field Tsk.Uid (corresponds to MS Project's 'Unique ID' field) can be used as a stable identifier instead.
+Consider the following example:
+
+{{< highlight csharp >}}
+
+            var project = new Project();
+            var task1 = project.RootTask.Children.Add("Task 1");
+            var task2 = project.RootTask.Children.Add("Task 2");
+            var task3 = project.RootTask.Children.Add("Task 3");
+
+            Console.WriteLine("Task1.Id: {0}", task1.Get(Tsk.Id));
+            Console.WriteLine("Task2.Id: {0}", task2.Get(Tsk.Id));
+            Console.WriteLine("Task3.Id: {0}", task3.Get(Tsk.Id));
+
+            Console.WriteLine();
+            var task1_1 = task1.Children.Add("Task 1-1");
+
+            Console.WriteLine("Task1.Id: {0}", task1.Get(Tsk.Id));
+            Console.WriteLine("Task1-1.Id: {0}", task1_1.Get(Tsk.Id));
+            Console.WriteLine("Task2.Id: {0}", task2.Get(Tsk.Id));
+            Console.WriteLine("Task3.Id: {0}", task3.Get(Tsk.Id));
+
+{{< /highlight >}}
+
+The output is 
+
+{{< highlight csharp >}}
+Task1.Id: 1
+Task2.Id: 2
+Task3.Id: 3
+
+Task1.Id: 1
+Task1-1.Id: 2
+Task2.Id: 3
+Task3.Id: 4
+{{< /highlight >}}
+
+Thus the values of 'Id' field of task2 and task3 were changed after new task is inserted.
