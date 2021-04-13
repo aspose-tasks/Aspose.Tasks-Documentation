@@ -22,28 +22,6 @@ Also we have implemented Task ExtendedAttributes and ExtendedAttributeDefinition
 bugs have been fixed. Please see the list of changes below.
 
 ## **All Changes**
-All Changes
-
-Issue Type
-
-Key
-
-Summary
-# **Public API and Backwards Incompatible Changes**
-The following public classes were added:
-
-Class name
-
-Description
-
-The following public fields were added to existing classes:
-
-Field Name
-
-Description
-
-The following public properties were added to existing classes:
-
 |**Issue Type** |**Key** |**Summary** |
 | :- | :- | :- |
 |Task |TASKS-34220 |Implement reading/writing TableField.WrapText and TableField.WrapHeader fields to mpp format |
@@ -71,4 +49,3 @@ The following public properties were added to existing classes:
 |Bug |TASKS-34170 |Wrong Working Days when saving to MPX |
 |Bug |TASKS-34149 |Cannot read summary task's data from Primavera DB correctly |
 |Bug |TASKS-34231 |Wrong dates read from Primavera XML file |
-

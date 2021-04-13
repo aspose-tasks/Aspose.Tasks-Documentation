@@ -11,7 +11,6 @@ We have implemented reading Primavera XML file with multiple projects. Primavera
 implemented adding an image to header and legend of project. About nine bugs have been fixed. Please see the list of changes below.
 
 ## **All Changes**
-## **Public API and Backwards Incompatible Changes**
 |**Issue Type** |**Key** |**Summary** |
 | :- | :- | :- |
 |New Feature |TASKS-34257 |Implement Primavera Xml Save Option |

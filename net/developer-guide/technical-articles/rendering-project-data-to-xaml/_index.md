@@ -1,5 +1,5 @@
 ---
-title: Rendering Project Data to XAML
+title: Rendering Project to XAML
 description: "Learn how to render a project as XAML using Aspose.Tasks for .NET."
 type: docs
 weight: 60
