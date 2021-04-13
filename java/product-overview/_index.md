@@ -71,5 +71,5 @@ This table lists important Aspose.Tasks for Java technical resources.
 |[Aspose.Tasks home page](https://products.aspose.com/tasks/java)|Product home page.|
 |[Aspose.Tasks blog](https://blog.aspose.com/category/tasks/)|Check this often for information about new releases and useful tips about Aspose.Tasks.|
 |[Aspose.Tasks for Java support forum](https://forum.aspose.com/c/tasks/15)|Post your questions and issues here for a speedy resolution.|
-|[Aspose.Tasks for Java product documentation](https://docs.aspose.com/tasks/java/)|Full online documentation that includes this documentation as well as Aspose.Tasks for Java API Reference.|
+|[Aspose.Tasks for Java product documentation](/tasks/java/)|Full online documentation that includes this documentation as well as Aspose.Tasks for Java API Reference.|
 

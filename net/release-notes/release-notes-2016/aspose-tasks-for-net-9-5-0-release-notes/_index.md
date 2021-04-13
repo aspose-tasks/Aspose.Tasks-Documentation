@@ -12,7 +12,7 @@ Aspose.Tasks for .NET API enables application developers to write code for manip
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
-|TASKSNET-729 |Provide option for excluding document header name during [Project conversion to HTML](https://docs.aspose.com/tasks/net/convert-ms-project-to-html-csv-text-and-template-mpt/#SavingProjectDatatoHTML,CSV,TextandTemplate(MPT)Formats-SaveAsHtmlWithHeaderControl)|Enhancement |
+|TASKSNET-729 |Provide option for excluding document header name during [Project conversion to HTML](/tasks/net/convert-ms-project-to-html-csv-text-and-template-mpt/#SavingProjectDatatoHTML,CSV,TextandTemplate(MPT)Formats-SaveAsHtmlWithHeaderControl)|Enhancement |
 |TASKSNET-728 |Performance is too slow with large number of tasks ~10K+|Enhancement |
 |TASKSNET-1589 |PhysicalPercentComplete not saved in MPP file |Bug |
 |TASKSNET-1573 |Predecessors information changed while loading and saving MPP (.NET) |Bug |

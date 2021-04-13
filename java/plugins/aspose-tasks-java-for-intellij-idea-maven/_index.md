@@ -28,7 +28,7 @@ The plugin contains two wizards:
 **Wizard 1:** Aspose.Tasks Maven Project
 
 - Plugin's **Aspose Maven Project Wizard** lets developers to create [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) Maven project.
-- The reference of [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0) and gets added in the pom.xml.
+- The reference of [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo) and gets added in the pom.xml.
 - The created project will always contain most recent available version Maven Dependency for [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java).
 - The wizard steps also present with the option for downloading [Source Code Examples for using Aspose.Tasks for Java API](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples)
 
@@ -79,10 +79,10 @@ To download IntellliJ IDEA
   - Select "**Aspose.Tasks Java for IntelliJ IDEA Maven**" plugin to install.
 
 ## **Installing**
-[Installing Aspose.Tasks for IntelliJ IDEA - Maven](https://docs.aspose.com/tasks/java/installing-and-using-aspose-tasks-for-intellij-idea-maven/#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Installing)
+[Installing Aspose.Tasks for IntelliJ IDEA - Maven](/tasks/java/installing-and-using-aspose-tasks-for-intellij-idea-maven/#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Installing)
 
 ## **Using**
-[Using Aspose.Tasks for IntelliJ IDEA - Maven](https://docs.aspose.com/tasks/java/installing-and-using-aspose-tasks-for-intellij-idea-maven/#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Using)
+[Using Aspose.Tasks for IntelliJ IDEA - Maven](/tasks/java/installing-and-using-aspose-tasks-for-intellij-idea-maven/#InstallingandUsingAspose.TasksforIntelliJIDEA-Maven-Using)
 
 ## **Video Demo**
 Please check [the video](https://youtu.be/yG8cZ_Fis-I) below to see Aspose.Tasks Maven Project Wizard and Aspose.Tasks Example Wizard in action.

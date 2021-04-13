@@ -28,7 +28,7 @@ The plugin contains two wizards:
 **Aspose.Tasks Maven Project (wizard)**
 
 - This New Project wizard lets developers to create **Maven** project for using [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) from **New -> Project -> Maven-> Aspose.Tasks Maven Project.**
-- The reference of [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](http://maven.aspose.com/artifactory/webapp/home.html?0) and gets added in the pom.xml.
+- The reference of [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java) maven dependency is automatically fetched from [Aspose Cloud Maven Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo) and gets added in the pom.xml.
 - The created project will always contain most recent available version **Maven** Dependency for [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java).
 - The wizard steps also presents with the option for downloading [Code Examples](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Examples) for using [Aspose.Tasks for Java API](https://products.aspose.com/tasks/java).
 
@@ -71,11 +71,11 @@ Following are three recommended methods for the successful downloading and insta
 
 ## **Installing**
 
-[Installing Aspose.Tasks Java (Maven) for Eclipse](https://docs.aspose.com/tasks/java/installing-and-using-aspose-tasks-java-for-eclipse-maven/#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Installing)
+[Installing Aspose.Tasks Java (Maven) for Eclipse](/tasks/java/installing-and-using-aspose-tasks-java-for-eclipse-maven/#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Installing)
 
 ## **Using the Plugin**
 
-[Using Aspose.Tasks Java (Maven) for Eclipse](https://docs.aspose.com/tasks/java/installing-and-using-aspose-tasks-java-for-eclipse-maven/#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Using)
+[Using Aspose.Tasks Java (Maven) for Eclipse](/tasks/java/installing-and-using-aspose-tasks-java-for-eclipse-maven/#InstallingandUsingAspose.TasksJavaforEclipse-Maven-Using)
 
 ### **How to apply Aspose License?**
 This plugin uses an evaluation version of Aspose.Tasks. Once you are happy with your evaluation of **Aspose.Tasks for Java**, you can buy a license at the [Aspose website](https://purchase.aspose.com/buy).

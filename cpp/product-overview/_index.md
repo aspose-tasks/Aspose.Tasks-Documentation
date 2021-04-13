@@ -58,11 +58,13 @@ Aspose.Tasks for C++ can be used to build 64-bit applications only and supports:
 - 2013
 - 2016
 - 2019
+
 ## **Limitations**
 - No support for printing of any kind
 - No support for Project Online (PWA)
 - No support for the database I/O access of any kind
 - No support for EMF/WMF format, neither itself nor as Project file inclusions.
+
 ## **Technical Support**
 Aspose provides unlimited free technical support for all its products. The support is available to all users, including ones running an evaluation. If you need help, [**visit the Aspose.Forums**](https://forum.aspose.com/c/tasks/15). Post your question in the Aspose.Tasks forum and it will be answered within a few hours.
 
@@ -84,5 +86,4 @@ This table lists important Aspose.Tasks for C++ technical resources.
 |[Aspose.Tasks home page](https://products.aspose.com/tasks/cpp)|Product home page.|
 |[Aspose.Tasks blog](https://blog.aspose.com/category/tasks/)|Check this often for information about new releases and useful tips about Aspose.Tasks.|
 |[Aspose.Tasks for C++ support forum](https://forum.aspose.com/c/tasks/15)|Post your questions and issues here for a speedy resolution.|
-|[Aspose.Tasks for C++ product documentation](https://docs.aspose.com/tasks/cpp/)|Full online documentation that includes this documentation as well as Aspose.Tasks for C++ API Reference.|
-
+|[Aspose.Tasks for C++ product documentation](/tasks/cpp/)|Full online documentation that includes this documentation as well as Aspose.Tasks for C++ API Reference.|
