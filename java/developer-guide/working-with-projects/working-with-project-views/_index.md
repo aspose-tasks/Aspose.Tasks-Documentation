@@ -1,6 +1,6 @@
 ---
 title: Working with Project Views
-description: "Learn how to work with Gantt chart project representation from Microsoft Project MPP files using Aspose.Tasks for .NET."
+description: "Learn how to work with Gantt chart project representation from Microsoft Project MPP files using Aspose.Tasks for Java."
 type: docs
 weight: 70
 url: /java/working-with-project-views/

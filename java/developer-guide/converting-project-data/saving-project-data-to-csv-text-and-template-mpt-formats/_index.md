@@ -1,6 +1,6 @@
 ---
 title: Saving Project Data to CSV, Text and Template (MPT) Formats
-description: "Learn how to save Microsoft Project (MPP/XML) files to CSV, Text or MPT formats using Aspose.Tasks for .NET."
+description: "Learn how to save Microsoft Project (MPP/XML) files to CSV, Text or MPT formats using Aspose.Tasks for Java."
 type: docs
 weight: 20
 url: /java/saving-project-data-to-csv-text-and-template-mpt-formats/

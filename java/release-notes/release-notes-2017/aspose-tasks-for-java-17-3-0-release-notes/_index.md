@@ -19,7 +19,7 @@ This page contains release notes for Aspose.Tasks for Java 17.3.0 version.
 |TASKSNET-1796|Inconsistent behavior of %Complete in MPP|Bug|
 |TASKSNET-1792|WBS Codes written to MPP file are not same as Microsoft Project|Bug|
 |TASKSNET-1769|ArgumentOutOfRangeException is raised when setting task Finish date|Bug|
-|TASKSJAVA-247|Empty timephased data added in XML for type AssignmentWork (.NET)|Bug|
+|TASKSJAVA-247|Empty timephased data added in XML for type AssignmentWork|Bug|
 |TASKSNET-1684|Formula values not calculated properly for DateAdd, DateDiff and DatePart|Bug|
 |TASKSJAVA-243|Project reading exception while loading MPP file|Bug|
 |TASKSNET-1577|Project Reading Exception while Loading MPP file|Bug|

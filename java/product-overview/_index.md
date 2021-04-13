@@ -40,16 +40,20 @@ Aspose.Tasks offers a wide arrange of features for creating, reading, manipulati
 - Manage resources costs and variances.
 - Access assignment costs and budget.
 - Resource prefix implementation for nested resources
+
 ### **Platform Independence**
 Use Aspose.Tasks for Java to build any type of 32-bit or 64-bit Java applications that can be run on any machine having Java Runtime installed. Aspose.Tasks for Java can be used in a variety of applications including Web as well as Desktop applications.
+
 ### **Performance and Scalability**
 Ported from its equivalent .NET version, Aspose.Tasks for Java is a stable API that can be deployed on the server as well as client-side with applications. No other modules or services are required for its functionality.
+
 ## **Technical Support**
 Aspose provides unlimited free technical support for all its products. The support is available to all users, including ones running an evaluation.
 
 If you need help, [**visit the Aspose.Forums**](https://forum.aspose.com/). Post your question in the Aspose.Tasks forum and it will be answered within a few hours.
 
 When expecting a reply in the forums, please allow for time zone differences.
+
 ### **Reporting an Issue**
 If you have an issue, follow these simple steps to make sure it is resolved efficiently:
 

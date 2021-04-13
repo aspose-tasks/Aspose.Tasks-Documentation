@@ -18,7 +18,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 | :- | :- | :- |
 |TASKSNET-729 |Provide option for excluding document header name during HTML conversion |Enhancement |
 |TASKSNET-728 |Performance is too slow with large number of tasks ~10K+ |Enhancement |
-|TASKSJAVA-216 |Predecessors information changed while loading and saving MPP (.NET) |Bug |
+|TASKSJAVA-216 |Predecessors information changed while loading and saving MPP |Bug |
 |TASKSNET-1563 |Custom Field marked as Lookup while adding extended attribute to MPP file |Bug |
 |TASKSNET-1559 |All tasks in Primavera XML file cannot be read |Bug |
 |TASKSNET-706 |Reading Project file raises Project Reading Exception |Bug |

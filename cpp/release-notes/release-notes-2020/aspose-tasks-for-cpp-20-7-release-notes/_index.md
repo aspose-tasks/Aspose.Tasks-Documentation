@@ -15,17 +15,17 @@ This page contains release notes information for [Aspose.Tasks for C++ 20.7](htt
 Aspose.Tasks for C++ is based on the .NET version of the API and provides strictly the same functionality as Aspose.Tasks for .NET provides, excluding printing, database I/O operations, and EMF/WMF format support.
 
 ## **Breaking change in Project Server credential usage**
-In Aspose.Tasks for .NET 20.7 the requirements to a site URL for Project Server credentials have been changed.
+In Aspose.Tasks for C++ 20.7 the requirements to a site URL for Project Server credentials have been changed.
 
 Users now should specify the full URL of PWA endpoint when using ProjectServerCredentials:
 
-Before Aspose.Tasks for .NET 20.7:
+Before Aspose.Tasks for C++ 20.7:
 {{< highlight cpp >}}
 var windowsCredentials = ...
 var projectServerCredentials = new ProjectServerCredentials("https://project_server_instance.local", windowsCredentials);
 {{< /highlight >}}
 
-Since Aspose.Tasks for .NET 20.7:
+Since Aspose.Tasks for C++ 20.7:
 {{< highlight cpp >}}
 var windowsCredentials = ...
 var projectServerCredentials = new ProjectServerCredentials("https://project_server_instance.local/sites/pwa", windowsCredentials);
@@ -35,7 +35,6 @@ var projectServerCredentials = new ProjectServerCredentials("https://project_ser
 
 |**Key** | **Summary** | **Issue Type**|
 | :- | :- | :- |
-|TASKSNET-4262|Include Aspose.Tasks for .NET 4.5 to release package|Feature|
 |TASKSNET-4215|Add an ability to specify the non-default path for Project Server's PWA URL|Enhancement|
 |TASKSNET-4209|Fix default columns for Task sheet in XLSX export |Enhancement|
 |TASKSNET-4153|Fix "IsMilestone" flag is not reset when the duration of a task is changed to non zero value and vice versa |Enhancement|

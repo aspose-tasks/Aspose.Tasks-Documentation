@@ -1,5 +1,5 @@
 ---
-title: Writing Updated Outline Code Definitions and Values to MPP
+title: Update Outline Code Definitions and Values
 description: "Learn how to edit outline code values and their definitions using Aspose.Tasks for Java."
 type: docs
 weight: 20

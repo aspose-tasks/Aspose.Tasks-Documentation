@@ -20,7 +20,6 @@ Aspose.Tasks for C++ is based on the .NET version of the API and provides strict
 | :- | :- | :- |
 |TASKSNET-4285	|Implement a check that file is encrypted|New Feature|
 |TASKSNET-4311	|Improve resource deletion execution time|Enhancement|
-|TASKSNET-4275	|Add .NET 461 in Aspose.Tasks release packages|Enhancement|
 |TASKSNET-4365	|Add and ability to assign a cost to the Resource Assignment in manual calculation mode|Enhancement|
 |TASKSNET-4308	|Fix incorrect ActualStart of manual assigned tasks|Bug|
 |TASKSNET-4278	|Fix incorrect calculation of time-phased data for assignment’s remaining work|Bug|

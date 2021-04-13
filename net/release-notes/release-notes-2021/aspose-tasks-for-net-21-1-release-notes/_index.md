@@ -35,7 +35,6 @@ This page contains release notes information for [Aspose.Tasks for .NET 21.1](ht
 | :- | :- |
 | Aspose.Tasks.View.#ctor(ViewScreen) | Initializes a new instance of the <see cref="View"/> class which can be displayed in the specified ViewScreen. |
 
-
 ## **Examples**
 
 Related issue: TASKSNET-4597 - Field 'TaskSummaryName' can be used in view's columns

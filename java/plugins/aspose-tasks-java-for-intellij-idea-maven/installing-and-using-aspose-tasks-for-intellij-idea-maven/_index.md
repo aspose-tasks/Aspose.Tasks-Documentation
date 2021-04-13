@@ -1,5 +1,5 @@
 ---
-title: Installing and Using Aspose.Tasks for IntelliJ IDEA - Maven
+title: Installing Aspose.Tasks in IntelliJ IDEA
 description: "Learn how to install Aspose.Tasks for Java using IntelliJ IDEA with Maven."
 type: docs
 weight: 10

@@ -62,7 +62,6 @@ for (BuiltInProjectProperty property : project.getBuiltInProps()) {
 }
 {{< /highlight >}}
 
-
 ## **All Changes**
 
 |**Key**|**Summary**|**Issue Type**|

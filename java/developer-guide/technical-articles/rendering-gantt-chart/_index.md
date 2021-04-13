@@ -1,5 +1,5 @@
 ---
-title: Rendering Gantt Chart with Different Timescale Resolutions
+title: Rendering Timescaled Gantt Chart Views
 description: "Learn how to render Gantt charts from your project files (MPP/XML/Primavera XML) with different timescale resolutions using Aspose.Tasks for Java."
 type: docs
 weight: 10

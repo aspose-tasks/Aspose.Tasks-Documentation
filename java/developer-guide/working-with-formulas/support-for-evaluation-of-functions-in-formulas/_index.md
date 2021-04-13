@@ -1,6 +1,6 @@
 ---
 title: Support for Evaluation of Functions in Formulas
-description: "The page describes the algorithm of formula evaluations used by Aspose.Tasks for .NET library for calculations."
+description: "The page describes the algorithm of formula evaluations used by Aspose.Tasks for Java library for calculations."
 type: docs
 weight: 40
 url: /java/support-for-evaluation-of-functions-in-formulas/

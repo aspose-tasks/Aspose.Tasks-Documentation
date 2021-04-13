@@ -43,13 +43,11 @@ New overload for Project.Print method was added so that a project can be printed
 {{< highlight csharp >}}
 Project project = new Project("test.mpp");
 PrintOptions options = new PrintOptions();
-
 PrinterSettings printerSettings = new PrinterSettings
 {
     FromPage = 1,
     ToPage = 1,
     PrintRange = PrintRange.SomePages
 };
-
 project.Print(printerSettings, options, "Print Document Name");
 {{< /highlight >}}

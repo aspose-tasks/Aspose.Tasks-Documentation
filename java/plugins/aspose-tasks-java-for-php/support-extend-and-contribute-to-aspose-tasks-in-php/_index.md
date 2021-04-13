@@ -1,5 +1,5 @@
 ---
-title: Support, Extend and Contribute to Aspose.Tasks Java for PHP
+title: Contribute to Aspose.Tasks Java for PHP
 description: "Learn how to support, extend, and contribute to Aspose.Tasks Java for PHP."
 type: docs
 weight: 30

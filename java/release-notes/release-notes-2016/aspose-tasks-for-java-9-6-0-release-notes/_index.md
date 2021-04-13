@@ -14,9 +14,9 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 | :- | :- | :- |
 |TASKSNET-1606 |Changing duration of Tasks is slow |Bug |
 |TASKSNET-1585 |Aspose.Tasks SplitPartCollection Exception while setting the resource assignment |Bug |
-|TASKSJAVA-217 |Actual finish date not calculated despite the assignment % complete work is 100% (.NET) |Bug |
-|TASKSJAVA-218 |Clear all the actual fields of a project-.NET |Bug |
-|TASKSJAVA-219 |Empty <StartText> and <FinishText> tags added to task; Causing empty display of task start/finish in MSP-.NET |Bug |
+|TASKSJAVA-217 |Actual finish date not calculated despite the assignment % complete work is 100% |Bug |
+|TASKSJAVA-218 |Clear all the actual fields of a project |Bug |
+|TASKSJAVA-219 |Empty <StartText> and <FinishText> tags added to task; Causing empty display of task start/finish in MSP |Bug |
 |TASKSNET-1568 |Wrong date set for new task SplitParts.Finish |Bug |
 |TASKSJAVA-257 |Set correct names for parameters of obfuscated collection types from public API methods. |Enhancement |
 ## **Public API and Backwards Incompatible Changes**

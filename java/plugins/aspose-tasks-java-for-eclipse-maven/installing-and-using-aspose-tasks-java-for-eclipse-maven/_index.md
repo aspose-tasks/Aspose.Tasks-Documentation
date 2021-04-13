@@ -1,5 +1,5 @@
 ---
-title: Installing and Using Aspose.Tasks Java for Eclipse - Maven
+title: Installing Aspose.Tasks in Eclipse
 description: "Learn how to install Aspose.Tasks for Java using Eclipse with Maven."
 type: docs
 weight: 10

@@ -1,5 +1,5 @@
 ---
-title: Working with Task, Resource and Project Fields Calculation in Expressions
+title: Working with Expressions
 description: "Learn how to work with Microsoft Project (MPP/XML) task, resource, and project field using Aspose.Tasks for Java."
 type: docs
 weight: 30

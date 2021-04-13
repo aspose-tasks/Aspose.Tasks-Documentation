@@ -13,10 +13,11 @@ This page contains release notes information for [Aspose.Tasks for C++ 20.5](htt
 {{% /alert %}}
 
 Aspose.Tasks for C++ is based on the .NET version of the API and provides strictly the same functionality as Aspose.Tasks for .NET provides, excluding printing, database I/O operations, and EMF/WMF format support.
+
 ## **Project Online Support**
 This release includes the full Project Online (PWA) support API.
-## **All Changes**
 
+## **All Changes**
 |**Key** | **Summary** |**Issue Type**|
 | :- | :- | :- |
 |TASKSNET-3988|Add support of reading of shared resource assignments |New Feature|

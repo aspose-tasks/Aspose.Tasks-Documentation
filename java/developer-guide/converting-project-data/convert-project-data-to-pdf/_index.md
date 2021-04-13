@@ -41,12 +41,10 @@ To save the project data to multiple PDF files, set the SaveToSeparateFiles flag
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsPdf-save-to-multiple-pdf-pages.java" >}}
 
-
 ### **Customizing TextStyle for Project Data**
 Aspose.Tasks allows you to customize the text style for overallocated resources. By default, the style for overallocated resources is similar to Microsoft Project (MSP), that is, it is red and bold. TextItemType.OverallocatedResources enables you to customize the color and style for overallocated resources. The example below shows how.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-SaveAsPdf-customizing-text-style-for-project-data.java" >}}
-
 
 ### **Customizing Date Format**
 Aspose.Tasks give developers control over date formatting when rendering project data to output. The following example shows how to use the DateFormat enumerator to specify the date format.

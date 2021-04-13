@@ -1,5 +1,5 @@
 ---
-title: Importing and Exporting Project Data to Primavera Format
+title: Import/Export Projects to Primavera
 description: "Learn how to import projects from Primavera XER/XML formats, edit and export them in any of a wide range of available formats (MPP, Primavera XML, PDF, JPEG, XLSX, etc.) using Aspose.Tasks for .NET."
 type: docs
 weight: 80

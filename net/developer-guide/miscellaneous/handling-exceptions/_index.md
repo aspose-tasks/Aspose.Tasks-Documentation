@@ -1,5 +1,5 @@
 ---
-title: Handling Exceptions While Working with Microsoft Project Files
+title: Handling Exceptions using Aspose.Tasks
 description: "The page contains useful scenarios of how Aspose.Tasks for .NET can be applied to handle exceptions while reading Microsoft Project (MPP/XML) files."
 type: docs
 weight: 20

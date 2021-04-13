@@ -1,5 +1,5 @@
 ---
-title: Working with Task, Resource and Project Fields Calculation in Expressions
+title: Working with Expressions
 description: "The page describes the algorithm of formula evaluations used by Aspose.Tasks for .NET library for calculations."
 type: docs
 weight: 30

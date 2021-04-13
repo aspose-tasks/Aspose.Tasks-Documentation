@@ -16,12 +16,12 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 |TASKSNET-1737|Extended attribute lookup table is not showed in XML format.|Bug|
 |TASKSNET-1723|MPP cannot be loaded into Project object|Bug|
 |TASKSNET-1719|False lookup table attached with an extended attribute while adding lookup with another extended attribute|Bug|
-|TASKSNET-1689|Wrong %Complete and ActualDuration calculated in MPP as compared to XML (.NET)|Bug|
+|TASKSNET-1689|Wrong %Complete and ActualDuration calculated in MPP as compared to XML|Bug|
 |TASKSNET-1675|Huge file size after setting baseline|Bug|
 |TASKSNET-1592|Extended attribute cannot be added to MPX|Bug|
 |TASKSNET-1576|Marking Tasks As Complete - Task Complete Indicator Not Displayed|Bug|
 |TASKSNET-707|Extended attribute not saved properly to MPP file|Bug|
-|TASKSJAVA-250|Wrong %Complete and ActualDuration calculated in MPP as compared to XML (.NET)|Bug|
+|TASKSJAVA-250|Wrong %Complete and ActualDuration calculated in MPP as compared to XML|Bug|
 |TASKSJAVA-281|When MPP is opened and saved, custom field content is set to 0|Bug|
 |TASKSNET-707|Extended Attribute not saved properly to MPP file|Bug|
 ## **Public API and Backwards Incompatible Changes**

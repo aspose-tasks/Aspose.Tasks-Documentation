@@ -38,6 +38,7 @@ Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, ma
 - Resource prefix implementation for nested resources
 - Support of setting CSS prefix for HTML export
 - Set custom date format while exporting to PDF format
+
 ## **Supported Microsoft Project Versions**
 - 2003
 - 2007
@@ -45,6 +46,7 @@ Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, ma
 - 2013
 - 2016
 - 2019
+
 ## **Limitations and API Differences**
 Aspose.Tasks for C++ is based on the .NET version of the API and provides strictly the same functionality as Aspose.Tasks for .NET provides, excluding the following:
 
