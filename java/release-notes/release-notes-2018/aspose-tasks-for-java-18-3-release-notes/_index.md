@@ -38,9 +38,9 @@ This page contains release notes information about Aspose.Tasks for Java 18.3.
 |TASKSJAVA-490|Task Split parts lost while setting the %Complete|Bug|
 |TASKSJAVA-487|Incorrect Link Type generated while saving project to MPX|Bug|
 |TASKSJAVA-486|Mpp gets empty after mpp write|Bug|
-|TASKSJAVA-485|Summary task fields are empty (Java)|Bug|
+|TASKSJAVA-485|Summary task fields are empty|Bug|
 |TASKSJAVA-473|getResourceAssignment().getByUid() function does not select proper entry|Bug|
-|TASKSJAVA-272|MPP with formulas gets corrupted after saving by Aspose.Tasks (Java)|Bug|
+|TASKSJAVA-272|MPP with formulas gets corrupted after saving by Aspose.Tasks|Bug|
 |TASKSJAVA-259|Summary task is not updated for Actual Start, %Complete and Actual Finish|Bug|
 |TASKSJAVA-248|Tasks with custom timephased data have different finish date while opened in MSP|Bug|
 |TASKSNET-2252|Recalculate raises exception for the attached project|Bug|
@@ -58,6 +58,7 @@ This page contains release notes information about Aspose.Tasks for Java 18.3.
 |**Public classes added**|**Description**|
 | :-: | :-: |
 |com.aspose.tasks.TasksLoggedException|Represents the standard internal exception type.|
+
 |**Public methods and properties added**|**Description**|
 |com.aspose.tasks.HtmlSaveOptions.getReduceFooterGap|Gets a value indicating whether a gap between last task and the footer must be reduced.|
 |com.aspose.tasks.HtmlSaveOptions.setReduceFooterGap(boolean)|Sets a value indicating whether a gap between last task and the footer must be reduced.|
@@ -74,8 +75,10 @@ This page contains release notes information about Aspose.Tasks for Java 18.3.
 |com.aspose.tasks.Project.renumberWBSCode|Renumber WBS code of all tasks.|
 |com.aspose.tasks.Project.renumberWBSCode(java.util.List)|Renumber WBS code of passed tasks.|
 |com.aspose.tasks.Project.getPageCount_PageSize(int,int,java.util.Date, java.util.Date )|Returns page count for the project to be rendered using given {@code Timescale}, {@code PresentationFormat} and date range.|
+
 |**Public Enums Added**|**Description**|
 |com.aspose.tasks.FontStyle|Font style flag values.|
+
 |**Fields added to public enums**|**Description**|
 |com.aspose.tasks.CustomFieldType.OutlineCode|Indicates Outline Code custom field type.|
 |com.aspose.tasks.CustomFieldType.RBS|Indicates RBS (Resource Breakdown Structure) custom field type.|

@@ -40,6 +40,7 @@ bugs have been fixed. Please see the list of changes below.
 |Bug |TASKS-34149 |Cannot read summary task's data from Primavera DB correctly |
 
 ## **Public API and Backwards Incompatible Changes**
+
 **The following public classes were added:**
 
 |**Class name**|**Description**|

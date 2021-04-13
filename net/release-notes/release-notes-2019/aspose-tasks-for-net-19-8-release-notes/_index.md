@@ -25,6 +25,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 19.8](ht
 |TASKSNET-3164 | Too many external resources when rendering Project to HTML |Bug |
 |TASKSNET-3141 | Fix timeline rendering  |Bug |
 |TASKSNET-3101 | Fix generation of custom timephased data |Bug |
+
 ## **Public API and Backwards Incompatible Changes**
 
 |**The following public methods and properties were deleted:** |**Description**|

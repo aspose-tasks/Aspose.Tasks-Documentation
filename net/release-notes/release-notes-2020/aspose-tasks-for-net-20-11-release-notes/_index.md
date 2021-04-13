@@ -27,6 +27,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.11](h
 | TASKSNET-4485 | Fix adding of CalendarException broke MPP file | Bug |
 | TASKSNET-4439 | Fix invalid order of null tasks after project's recalculation | Bug |
 | TASKSNET-3723 | Fix absent TDs for cost resources | Bug |
+
 ## **Public API and Backwards Incompatible Changes**
 
 **The following behavior was changed:**

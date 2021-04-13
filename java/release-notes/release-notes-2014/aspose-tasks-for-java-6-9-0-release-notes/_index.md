@@ -9,7 +9,7 @@ url: /java/aspose-tasks-for-java-6-9-0-release-notes/
 ## **Public API and Backwards Incompatible Changes**
 
 ### **Added Methods**
-The following public methods were added to existing classes (Java):
+The following public methods were added to existing classes:
 
 |**Name** |**Description** |
 | :- | :- |
@@ -27,7 +27,7 @@ The following public methods were added to existing classes (Java):
 |GanttChartView.setNonWorkingTimeColor|Sets non-working time color of a Gantt chart view. |
 
 ### **Added Public Fields**
-The following public fields were added to existing classes (Java):
+The following public fields were added to existing classes:
 
 |**Name** |**Description** |
 | :- | :- |
@@ -35,7 +35,7 @@ The following public fields were added to existing classes (Java):
 |BarShape.None|No bar |
 |PresentationFormat.TaskSheet|TaskSheet presentation format |
 ### **Replaced Public Methods**
-The following public methods were added to existing classes as a replacement to existent deprecated methods (Java):
+The following public methods were added to existing classes as a replacement to existent deprecated methods:
 
 |**New Replacement Method** |Deprecated Method |
 | :- | :- |

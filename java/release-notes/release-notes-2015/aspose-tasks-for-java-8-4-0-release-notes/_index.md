@@ -16,4 +16,3 @@ Four bugs have been fixed this release. Please, see list of all details below.
 |Bug |TASKS-34003 |Calculation bug: Setting Minutes Per Day for 24-Hour Calendar results in wrong Start and Finish time of task |
 |Bug |TASKS-34026 |Project reading exception while reading the slack values in scientific notation |
 |Bug |TASKS-34032 |Attached MPP raises project reading exception while loading it |
-

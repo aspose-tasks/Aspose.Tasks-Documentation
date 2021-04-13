@@ -13,6 +13,7 @@ url: /net/aspose-tasks-for-net-7-1-0-release-notes/
 |Class Name |Description |
 | :- | :- |
 |DateFormat |Specifies the date format for date fields of a project view. |
+
 **The following public properties were added to existing classes:**
 
 |Property Name |Description |

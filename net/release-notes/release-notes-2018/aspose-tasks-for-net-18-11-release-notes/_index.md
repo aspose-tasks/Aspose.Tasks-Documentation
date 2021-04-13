@@ -27,5 +27,6 @@ This page contains release notes information for Aspose.Tasks for .NET 18.11.
 |TASKSNET-2741|Tasks' guides are imported incorrectly from Primavera DB|Bug|
 |TASKSNET-2739|Calendars are imported incorrectly from Primavera DB|Bug|
 |TASKSNET-2653|Remove a set of actual fields while assigning resource|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 No changes.

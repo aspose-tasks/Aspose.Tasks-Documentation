@@ -23,6 +23,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.10](h
 | TASKSNET-4412 | Fix "Key already exists" exception when saving and reading large file to\from ProjectServer | Bug |
 | TASKSNET-4411 | Fix concurrency issues when accessing Project Server | Bug |
 | TASKSNET-4286 | Fix reading \ writing of Task.NotesText from \ to Project Server | Bug |
+
 ## **Public API and Backwards Incompatible Changes**
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |

@@ -26,6 +26,7 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.12](h
 | TASKSNET-4544 | Fix "Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')" exception when get pages count MPP file | Bug |
 | TASKSNET-4543 | Fix 'Stream does not support reading' exception when saving to HTML | Bug |
 | TASKSNET-4526 | Fix ResourceAssignments are not read from password protected files for MSP 2010+ files | Bug |
+
 ## **Public API and Backwards Incompatible Changes**
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
@@ -34,13 +35,16 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.12](h
 | Aspose.Tasks.UsageView.BottomTimescaleTier | Gets or sets settings of view's bottom timescale tier. |
 | Aspose.Tasks.UsageView.MiddleTimescaleTier | Gets or sets settings of view's middle timescale tier. |
 | Aspose.Tasks.UsageView.TopTimescaleTier | Gets or sets settings of view's top timescale tier. |
+
 |**The following public enumeration members were added:**|**Description**|
 | Aspose.Tasks.TaskKey.ActivityId | Represents the ActivityId field (only applicable to Primavera projects). |
 | Aspose.Tasks.Tsk.ActivityId | Represents activity id field - a task's unique identifier used by Primavera. (only applicable to Primavera projects). |
+
 |**The following public types were deleted:**|**Description**|
 | Aspose.Tasks.ProjectXMLCreationFinished | Not used anymore. |
 | Aspose.Tasks.ProjectXMLParsingStarted | Not used anymore. |
 | Aspose.Tasks.TaskXMLCreationFinished | Not used anymore. |
+
 |**The following public methods and properties were deleted:**|**Description**|
 | Aspose.Tasks.ExtendedAttributeDefinition.CreateLookupDefinition | Replaced by more specific CreateLookupTaskDefinition and CreateLookupResourceDefinition. |
 | Aspose.Tasks.Saving.SaveOptions.TimescaleTier | View's TopTimescaleTier, MiddleTimescaleTier, BottomTimescaleTier properties should be used instead. |

@@ -18,7 +18,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 21.4](ht
 | TASKSNET-4788 | Add support for SaveOptions.TaskFilter and SaveOptions.TasksComparer options when project is saved to CSV or XLSX formats | Enhancement |
 | TASKSNET-4769 | Remove an ability to set Tsk.Id when using CalculationMode.Manual and CalculationMode.Automatic | Enhancement |
 | TASKSNET-4793 | Fix exported value of "Outline Code *" attributes when project is saved to non-MPP formats. | Bug |
-| TASKSNET-4792 | Fix headers in exported xlsx when custom ProjectView is specified. | Bug |
+| TASKSNET-4792 | Fix headers in exported XLSX when custom ProjectView is specified. | Bug |
 | TASKSNET-4772 | Fix parsing of "Round" operator in formulas | Bug |
 | TASKSNET-4770 | Fix wrong calendar exception usage | Bug |
 | TASKSNET-4751 | Fix OverflowException while reading MPP file | Bug |

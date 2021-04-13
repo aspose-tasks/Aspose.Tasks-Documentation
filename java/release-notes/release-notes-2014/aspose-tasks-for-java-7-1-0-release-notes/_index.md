@@ -11,8 +11,9 @@ We have significantly improved rendering into to pdf format. MPP GantChart TimeS
 Also, GanttChart rendering resolved for bars that are in footer section. Saving Project Data to multiple PDF files option was supported. Eight bugs were fixed. Please see list of all changes below.
 
 ## **All Changes**
-|**Task** |**TASKS-33767** |**Implement SF links rendering** |
+|**Issue Type** |**Key** |**Summary** |
 | :- | :- | :- |
+|Task |TASKS-33767 |Implement SF links rendering |
 |Task |TASKS-33762 |Implement manual column rendering as Task Mode with indicator |
 |Task |TASKS-33746 |Implement field aliases rendering when saving project views |
 |Task |TASKS-33770 |TASKS-33756 Implement original label format rendering for timescale tiers. |

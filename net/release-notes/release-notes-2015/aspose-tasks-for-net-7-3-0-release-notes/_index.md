@@ -17,6 +17,7 @@ url: /net/aspose-tasks-for-net-7-3-0-release-notes/
 |Aspose.Tasks.TaskUsageViewFieldCollection |Represents a collection of TaskUsageViewField values |
 |Aspose.Tasks.ResourceUsageViewFieldCollection |Represents a collection of ResourceUsageViewField values |
 |Aspose.Tasks.Visualization.ViewColumn |Abstract class which represents a column in a project view to be rendered |
+
 **The following public enumerations were added:**
 
 |Class name |Description |

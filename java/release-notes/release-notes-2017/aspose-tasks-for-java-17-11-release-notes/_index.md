@@ -33,11 +33,11 @@ This page contains release notes information about Aspose.Tasks for Java 17.11 v
 |TASKSNET-2035|Percent complete not set properly in MPP|Bug|
 |TASKSJAVA-286|Setting Project Start date raises ArgumentOutOfRangeException(Java)|Bug|
 |TASKSNET-1749|Assignment Cost is not displayed for Cost resources in Microsoft Project 2013|Bug|
-|TASKSJAVA-269|Text extended attribute created by formula is read as date by Aspose.Tasks (Java)|Bug|
+|TASKSJAVA-269|Text extended attribute created by formula is read as date by Aspose.Tasks|Bug|
 |TASKSNET-1716|Project recalculation throws an exception with cleared ActualStart and ActualFinish properties|Bug|
 |TASKSNET-2148|MSP 2010 raises error while updating and saving MPP created by Aspose.Tasks|Bug|
 |TASKSNET-2144|Recalculate() is updating manually scheduled tasks|Bug|
-|TASKSJAVA-414|Wrong finish date calculated for ElapsedDay type duration (Java)|Bug|
+|TASKSJAVA-414|Wrong finish date calculated for ElapsedDay type duration|Bug|
 |TASKSNET-2136|Prevent recalculation of manually scheduled tasks|Bug|
 |TASKSNET-2134|Wrong Actual Duration in MPP file|Bug|
 |TASKSNET-2108|SplitParts collection misses time span|Bug|

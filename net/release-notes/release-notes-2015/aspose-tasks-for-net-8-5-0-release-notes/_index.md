@@ -36,17 +36,20 @@ below.
 |PageSettings |Represents printing settings for a page of project view. |
 |PageViewSettings |Represents printing settings for a project view. |
 |ParseErrorArgs |Provides data for the ParseErrorCallback delegate. |
+
 **The following public delegates were added:**
 
 |Delegate Name |Description |
 | :- | :- |
 |ParseErrorCallback |Represents a method callback to handle parse errors that can happen when reading xml data. |
+
 **The following public enumerations were added:**
 
 |Enumeration Name |Description |
 | :- | :- |
 |Border |Specifies the border types. |
 |Legend |Specifies the pages on which the legend appears. |
+
 **The following public properties were added to existing classes:**
 
 |Property Name |Description |

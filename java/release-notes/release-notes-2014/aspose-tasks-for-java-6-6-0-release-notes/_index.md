@@ -10,7 +10,7 @@ url: /java/aspose-tasks-for-java-6-6-0-release-notes/
 
 Following changes have been made to the public API in Aspose.Tasks for Java 6.6.0.
 
-**The following public methods were added to existing classes (JAVA)**:
+**The following public methods were added to existing classes**:
 
 |**Name**|**Description**|
 | :- | :- |
@@ -20,7 +20,8 @@ Following changes have been made to the public API in Aspose.Tasks for Java 6.6.
 |ImageSaveOptions.setHorizontalResolution|Sets the horizontal resolution in dpi.|
 |ImageSaveOptions.getVerticalResolution|Gets the vertical resolution in dpi.|
 |ImageSaveOptions.setVerticalResolution|Sets the vertical resolution in dpi.|
-**The following public enumerated types were added (JAVA)**:
+
+**The following public enumerated types were added**:
 
 |**Name**|**Description**|
 | :- | :- |

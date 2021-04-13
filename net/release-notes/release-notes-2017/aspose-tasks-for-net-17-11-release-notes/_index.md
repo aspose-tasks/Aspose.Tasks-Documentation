@@ -17,8 +17,8 @@ This release of Aspose.Tasks for .NET includes following major features.
 
 - Option to set output image quality while saving as JPEG
 - New fill pattern for available MSP 2016 file format
-## **All Changes**
 
+## **All Changes**
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |TASKSNET-2140|Add option to set image quality when saving as JPEG|New Feature|

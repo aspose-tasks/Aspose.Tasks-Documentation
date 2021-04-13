@@ -23,5 +23,6 @@ This page contains release notes information for Aspose.Tasks for .NET 18.9.
 |TASKSNET-2647|Wrong number of task links after export to MPX|Bug|
 |TASKSNET-2643|Loading MPP file raises an Exception|Bug|
 |TASKSNET-2590|Custom fields' values are not formatted properly when saving a project to Pdf|Bug|
+
 ## **Public API and Backwards Incompatible Changes**
 - No Changes

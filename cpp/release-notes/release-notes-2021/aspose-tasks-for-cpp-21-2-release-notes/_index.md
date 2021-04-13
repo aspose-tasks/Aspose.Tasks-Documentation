@@ -13,6 +13,7 @@ This page contains release notes information for [Aspose.Tasks for C++ 21.2](htt
 {{% /alert %}}
 
 ## **CLang support**
+
 ***Since version 21.2, the release also includes a ELF shared library built with CLang-3.9. Since the size of the full distribution becomes quite large, platform-specific packages are now available for download. They contain separate binaries for Windows and for Linux, respectively.***
 
 ## **All Changes**
