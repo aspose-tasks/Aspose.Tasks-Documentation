@@ -1,5 +1,5 @@
 ---
-title: Aspose.Tasks for Java with IntelliJ IDEA - Maven
+title: Aspose.Tasks for Java with IntelliJ IDEA
 description: "Learn how to use Aspose.Tasks for Java using IntelliJ IDEA."
 type: docs
 weight: 20
