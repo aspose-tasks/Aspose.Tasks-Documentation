@@ -52,14 +52,10 @@ Project project = new Project();
 var task = project.RootTask.Children.Add("task 1");
 // task.Set(Tsk.Id, 100); // Throws System.InvalidOperationException in Aspose.Tasks for .NET 21.4.
 project.CalculationMode = CalculationMode.None;
-
 task.Set(Tsk.Id, 100);
-
 Console.WriteLine(task.Get(Tsk.Id)); // Outputs 100
-
 project.CalculationMode = CalculationMode.Automatic;
 project.Recalculate();
-
 Console.WriteLine(task.Get(Tsk.Id)); // Outputs 1
 {{< /highlight >}}
 
@@ -68,24 +64,22 @@ Field Tsk.Uid (corresponds to MS Project's 'Unique ID' field) can be used as a s
 Consider the following example:
 
 {{< highlight csharp >}}
+var project = new Project();
+var task1 = project.RootTask.Children.Add("Task 1");
+var task2 = project.RootTask.Children.Add("Task 2");
+var task3 = project.RootTask.Children.Add("Task 3");
 
-            var project = new Project();
-            var task1 = project.RootTask.Children.Add("Task 1");
-            var task2 = project.RootTask.Children.Add("Task 2");
-            var task3 = project.RootTask.Children.Add("Task 3");
+Console.WriteLine("Task1.Id: {0}", task1.Get(Tsk.Id));
+Console.WriteLine("Task2.Id: {0}", task2.Get(Tsk.Id));
+Console.WriteLine("Task3.Id: {0}", task3.Get(Tsk.Id));
 
-            Console.WriteLine("Task1.Id: {0}", task1.Get(Tsk.Id));
-            Console.WriteLine("Task2.Id: {0}", task2.Get(Tsk.Id));
-            Console.WriteLine("Task3.Id: {0}", task3.Get(Tsk.Id));
+Console.WriteLine();
+var task11 = task1.Children.Add("Task 11");
 
-            Console.WriteLine();
-            var task1_1 = task1.Children.Add("Task 1-1");
-
-            Console.WriteLine("Task1.Id: {0}", task1.Get(Tsk.Id));
-            Console.WriteLine("Task1-1.Id: {0}", task1_1.Get(Tsk.Id));
-            Console.WriteLine("Task2.Id: {0}", task2.Get(Tsk.Id));
-            Console.WriteLine("Task3.Id: {0}", task3.Get(Tsk.Id));
-
+Console.WriteLine("Task1.Id: {0}", task1.Get(Tsk.Id));
+Console.WriteLine("Task11.Id: {0}", task11.Get(Tsk.Id));
+Console.WriteLine("Task2.Id: {0}", task2.Get(Tsk.Id));
+Console.WriteLine("Task3.Id: {0}", task3.Get(Tsk.Id));
 {{< /highlight >}}
 
 The output is 
@@ -96,7 +90,7 @@ Task2.Id: 2
 Task3.Id: 3
 
 Task1.Id: 1
-Task1-1.Id: 2
+Task11.Id: 2
 Task2.Id: 3
 Task3.Id: 4
 {{< /highlight >}}
