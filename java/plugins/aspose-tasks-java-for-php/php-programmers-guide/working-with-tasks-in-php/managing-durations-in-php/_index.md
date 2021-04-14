@@ -19,9 +19,9 @@ $duration = $task->get($tsk->DURATION);
 print "Duration in Days: " . $duration->toString();
 $timeUnitType = new TimeUnitType();
 $duration = $duration->convert($timeUnitType->Hour);
-print "Duration in Hours: ". (string)$duration.PHP_EOL;
+print "Duration in Hours: ". (string)$duration;
 $task->set($tsk->DURATION, $task->get($tsk->DURATION)->subtract(0.5));
-print "0.5 weeks: " . (string)$task->get($tsk->DURATION).PHP_EOL;
+print "\n0.5 weeks: " . (string)$task->get($tsk->DURATION);
 {{< /highlight >}}
 
 ## **Download Running Code**

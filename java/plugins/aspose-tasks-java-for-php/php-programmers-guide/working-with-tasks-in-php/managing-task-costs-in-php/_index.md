@@ -17,13 +17,13 @@ $task = $project->getRootTask()->getChildren()->add("Task");
 $tsk = new Tsk();
 $bigDecimal = new BigDecimal();
 $task->set($tsk->COST, $bigDecimal->valueOf(800));
-print "Task Remaining Cost: " . (string)$task->get($tsk->REMAINING_COST).PHP_EOL;
-print "Task Fixed Cost: " . (string)$task->get($tsk->FIXED_COST).PHP_EOL;
-print "Task Cost Variance: " . (string)$task->get($tsk->COST_VARIANCE).PHP_EOL;
-print "Project Cost: " . (string)$project->getRootTask()->get($tsk->COST).PHP_EOL;
-print "Project Fixed Cost: " . (string)$project->getRootTask()->get($tsk->FIXED_COST).PHP_EOL;
-print "Project Remaining Cost: " . (string)$project->getRootTask()->get($tsk->REMAINING_COST).PHP_EOL;
-print "Project Variance Cost: " . (string)$project->getRootTask()->get($tsk->COST_VARIANCE).PHP_EOL;
+print "Task Remaining Cost: " . (string)$task->get($tsk->REMAINING_COST);
+print "\nTask Fixed Cost: " . (string)$task->get($tsk->FIXED_COST);
+print "\nTask Cost Variance: " . (string)$task->get($tsk->COST_VARIANCE);
+print "\nProject Cost: " . (string)$project->getRootTask()->get($tsk->COST);
+print "\nProject Fixed Cost: " . (string)$project->getRootTask()->get($tsk->FIXED_COST);
+print "\nProject Remaining Cost: " . (string)$project->getRootTask()->get($tsk->REMAINING_COST);
+print "\nProject Variance Cost: " . (string)$project->getRootTask()->get($tsk->COST_VARIANCE);
 {{< /highlight >}}
 
 ## **Download Running Code**

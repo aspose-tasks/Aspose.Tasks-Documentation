@@ -22,12 +22,12 @@ $i = 0;
 while ($i < sizeof($tasks))
 {
     $task = $tasks -> get($i);
-    print "Task Name : " . (string)$task -> get($tsk -> NAME).PHP_EOL;
-    print "Actual Start: " . (string)$task -> get($tsk -> ACTUAL_START).PHP_EOL;
-    print "Actual Finish: " . (string)$task -> get($tsk -> ACTUAL_FINISH).PHP_EOL;
-    print "Actual Duration: " . (string)$task -> get($tsk -> ACTUAL_DURATION).PHP_EOL;
-    print "Actual Cost: " . (string)$task->get($tsk -> ACTUAL_COST).PHP_EOL;
-    print "---------------------------------------------".PHP_EOL;
+    print "Task Name : " . (string)$task -> get($tsk -> NAME);
+    print "\nActual Start: " . (string)$task -> get($tsk -> ACTUAL_START);
+    print "\nActual Finish: " . (string)$task -> get($tsk -> ACTUAL_FINISH);
+    print "\nActual Duration: " . (string)$task -> get($tsk -> ACTUAL_DURATION);
+    print "\nActual Cost: " . (string)$task->get($tsk -> ACTUAL_COST);
+    print "\n---------------------------------------------";
     $i += 1;
 }
 {{< /highlight >}}

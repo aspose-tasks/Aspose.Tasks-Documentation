@@ -17,10 +17,10 @@ while ($i < sizeof($resource_assignments))
 {
     $assignment = $resource_assignments->get($i);
     $asn = new Asn();
-    print $assignment->get($asn->UID).PHP_EOL;//.to_string
-    print $assignment->get($asn->START).PHP_EOL;//.to_string
-    print $assignment->get($asn->FINISH).PHP_EOL;//.to_string
-    print "--------------------------------------------------------".PHP_EOL;
+    print $assignment->get($asn->UID)."\n";
+    print $assignment->get($asn->START)."\n";
+    print $assignment->get($asn->FINISH)."\n";
+    print "\n--------------------------------------------------------";
     $i += 1;
 }
 {{< /highlight >}}
@@ -39,7 +39,7 @@ $bigDecimal = new BigDecimal();
 $rsc->set($resource->STANDARD_RATE, $bigDecimal->valueOf(10));
 $rsc->set($resource->OVERTIME_RATE, $bigDecimal->valueOf(15));
 $assignment = $project->getResourceAssignments()->add($task, $rsc);
-print "Set resource assignment properties.".PHP_EOL;
+print "Set resource assignment properties.";
 {{< /highlight >}}
 
 ## **Download Running Code**

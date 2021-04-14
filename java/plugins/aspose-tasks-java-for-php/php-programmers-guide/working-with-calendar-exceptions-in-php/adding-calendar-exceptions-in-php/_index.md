@@ -20,7 +20,7 @@ $calException->setFromDate($calObject->getTime());
 $calObject->set(2009, 1, 3, 0, 0, 0);
 $calException->setToDate($calObject->getTime());
 $cal->getExceptions()->add($calException);
-print "Added calendar exception.".PHP_EOL;
+print "Added calendar exception.";
 {{< /highlight >}}
 
 ## **Download Running Code**

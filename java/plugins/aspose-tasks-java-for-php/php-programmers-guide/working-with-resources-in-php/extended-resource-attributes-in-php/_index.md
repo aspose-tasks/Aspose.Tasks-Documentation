@@ -19,7 +19,7 @@ $attribute->setFieldId("11");
 $attribute->setValue("MyValueEA");
 $attribute->setValueGuid("MyValueGuidEA");
 $res->getExtendedAttributes()->add($attribute);
-print "Set extended resource attributes.".PHP_EOL;
+print "Set extended resource attributes.";
 {{< /highlight >}}
 
 ## **Download Running Code**

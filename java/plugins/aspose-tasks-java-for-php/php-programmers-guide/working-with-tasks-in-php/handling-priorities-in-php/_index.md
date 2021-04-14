@@ -21,8 +21,8 @@ $tsk = new Tsk();
 $i = 0;
 while ($i < sizeof($tasks)) {
     $task = $tasks -> get($i);
-    print "Priority: " . (string)$task -> get($tsk -> PRIORITY).PHP_EOL;
-    print "---------------------------------------------".PHP_EOL;
+    print "Priority: " . (string)$task -> get($tsk -> PRIORITY);
+    print "\n---------------------------------------------";
     $i += 1;
 }
 {{< /highlight >}}

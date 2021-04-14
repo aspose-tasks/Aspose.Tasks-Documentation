@@ -22,7 +22,7 @@ $options->setTimescale($timescale->ThirdsOfMonths);
 $project->save("task_thirdsOfMonths.pdf", $options);
 $options->setTimescale($timescale->Months);
 $project->save("task_months.pdf", $options);
-print "Created task usage view files.".PHP_EOL;
+print "Created task usage view files.";
 {{< /highlight >}}
 
 ## **Download Running Code**

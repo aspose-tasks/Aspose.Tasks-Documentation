@@ -18,7 +18,7 @@ $taskStartDateType = new TaskStartDateType();
 $project->set($prj->NEW_TASK_START_DATE, $taskStartDateType->CurrentDate);
 $saveFileFormat = new SaveFileFormat();
 $project->save("set_attributes_for_new_tasks.xml", $saveFileFormat->XML);
-print "Set attributes for new tasks, please check the output file.".PHP_EOL;
+print "Set attributes for new tasks, please check the output file.";
 {{< /highlight >}}
 
 ## **Download Running Code**

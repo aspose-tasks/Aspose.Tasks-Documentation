@@ -16,12 +16,12 @@ $project = new Project('test_tasks.mpp');
 $project_summary = $project->getRootTask();
 $tsk = new Tsk();
 $rsc = new Rsc();
-print "Project Budget Work = " . (string)$project_summary->get($tsk->BUDGET_WORK).PHP_EOL;
-print "Project Budget Cost = " . (string)$project_summary->get($tsk->BUDGET_COST).PHP_EOL;
+print "Project Budget Work = " . (string)$project_summary->get($tsk->BUDGET_WORK);
+print "\nProject Budget Cost = " . (string)$project_summary->get($tsk->BUDGET_COST);
 $resource = $project->getResources()->getByUid(1);
-print "Resource BudgetWork = " . (string)$resource->get($rsc->BUDGET_WORK).PHP_EOL;
+print "\nResource BudgetWork = " . (string)$resource->get($rsc->BUDGET_WORK);
 $resource = $project->getResources()->getByUid(2);
-print "Resource BudgetCost = " . (string)$resource->get($rsc->BUDGET_COST).PHP_EOL;
+print "\nResource BudgetCost = " . (string)$resource->get($rsc->BUDGET_COST);
 {{< /highlight >}}
 
 ## **Download Running Code**

@@ -22,7 +22,7 @@ $project->setBaseline($baselineType->Baseline);
 $baseline = $task->getBaselines()->toList()->get(0);
 $duration = (double)(string)($baseline->getDuration());
 $baseline_duration = $duration / $oneHour;
-print $baseline_duration .PHP_EOL;
+print $baseline_duration;
 {{< /highlight >}}
 
 ## **Download Running Code**

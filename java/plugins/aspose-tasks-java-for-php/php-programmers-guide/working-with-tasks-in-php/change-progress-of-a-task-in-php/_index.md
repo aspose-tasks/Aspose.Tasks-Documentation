@@ -18,7 +18,7 @@ $task = $project->getRootTask()->getChildren()->add("Task");
 $tsk = new Tsk();
 $task->set($tsk->DURATION, $project->getDuration(2));
 $task->set($tsk->PERCENT_COMPLETE, 50);
-print "Changed progress of task.".PHP_EOL;
+print "Changed progress of task.";
 {{< /highlight >}}
 
 ## **Download Running Code**

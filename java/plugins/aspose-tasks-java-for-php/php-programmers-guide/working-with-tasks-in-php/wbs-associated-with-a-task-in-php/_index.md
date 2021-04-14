@@ -21,8 +21,8 @@ $tasks = $collector->getTasks();
 $i = 0;
 while ($i < sizeof($tasks)) {
     $task = $tasks -> get($i);
-    print "WBS: " . (string)$task -> get($tsk -> WBS).PHP_EOL;
-    print "WBS Level: " . (string)$task -> get($tsk -> WBS_LEVEL).PHP_EOL;
+    print "WBS: " . (string)$task -> get($tsk -> WBS);
+    print "\nWBS Level: " . (string)$task -> get($tsk -> WBS_LEVEL);
     $i += 1;
 }
 {{< /highlight >}}

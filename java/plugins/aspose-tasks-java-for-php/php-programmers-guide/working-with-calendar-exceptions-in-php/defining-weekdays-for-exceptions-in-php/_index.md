@@ -25,7 +25,7 @@ $except->setToDate($cal_object->getTime());
 $except->setType($calendarExceptionType->Daily);
 $except->setDayWorking(false);
 $cal->getExceptions()->add($except);
-print "Defined weekdays for exceptions.".PHP_EOL;
+print "Defined weekdays for exceptions.";
 {{< /highlight >}}
 
 ## **Download Running Code**

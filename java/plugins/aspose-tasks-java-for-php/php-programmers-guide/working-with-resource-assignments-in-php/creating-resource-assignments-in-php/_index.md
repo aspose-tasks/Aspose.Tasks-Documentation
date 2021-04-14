@@ -14,7 +14,7 @@ $project = new Project('test_tasks.mpp');
 $task = $project->getRootTask()->getChildren()->add("Task");
 $rsc = $project->getResources()->add("Rsc");
 $assignment = $project->getResourceAssignments()->add($task, $rsc);
-print "Created resource assignment.".PHP_EOL;
+print "Created resource assignment.";
 {{< /highlight >}}
 
 ## **Download Running Code**

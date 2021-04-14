@@ -18,11 +18,11 @@ while ($i < sizeof($resources))
 {
     $resource = $resources -> get($i);
     if ($resource -> get($rsc -> NAME) != null) {
-        print "Cost: " . (string)$resource -> get($rsc -> COST).PHP_EOL;
-        print "ACWP: " . (string)$resource -> get($rsc -> ACWP).PHP_EOL;
-        print "BCWS: " . (string)$resource -> get($rsc -> BCWS).PHP_EOL;
-        print "BCWP: " . (string)$resource -> get($rsc -> BCWP).PHP_EOL;
-        print "---------------------------------------------".PHP_EOL;
+        print "Cost: " . (string)$resource -> get($rsc -> COST);
+        print "\nACWP: " . (string)$resource -> get($rsc -> ACWP);
+        print "\nBCWS: " . (string)$resource -> get($rsc -> BCWS);
+        print "\nBCWP: " . (string)$resource -> get($rsc -> BCWP);
+        print "\n---------------------------------------------";
     }
     $i += 1;
 }

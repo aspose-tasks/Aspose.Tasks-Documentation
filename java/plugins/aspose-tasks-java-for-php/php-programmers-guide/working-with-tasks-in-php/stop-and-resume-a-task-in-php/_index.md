@@ -23,21 +23,21 @@ while ($i < sizeof($tasks)) {
     $task = $tasks->get($i);
     if ((string)$task->get($tsk->STOP) == "1/1/2015")
     {
-        print "NA" . PHP_EOL;
+        print "NA";
     }
     else
     {
-        print "Task Stop: " . (string)$task->get($tsk->STOP) . PHP_EOL;
+        print "Task Stop: " . (string)$task->get($tsk->STOP);
     }
     if ((string)$task->get($tsk->RESUME) == "1/1/2015")
     {
-        print "NA" . PHP_EOL;
+        print "\nNA";
     }
     else
     {
-        print "Task Resume: " . (string)$task->get($tsk->RESUME);
+        print "\nTask Resume: " . (string)$task->get($tsk->RESUME);
     }
-    print "---------------------------------------------" . PHP_EOL;
+    print "\n---------------------------------------------";
     $i += 1;
 }
 {{< /highlight >}}

@@ -16,11 +16,11 @@ $project = new Project('test_tasks.mpp');
 $tsk = new Tsk();
 $time_unit_type = new TimeUnitType();
 $task = $project->getRootTask()->getChildren()->getById(1);
-print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Minute)).PHP_EOL;
-print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Day)).PHP_EOL;
-print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Hour)).PHP_EOL;
-print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Week)).PHP_EOL;
-print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Month)).PHP_EOL;
+print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Minute))."\n";
+print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Day))."\n";
+print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Hour))."\n";
+print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Week))."\n";
+print (double)(string)($task->get($tsk->DURATION)->convert($time_unit_type->Month))."\n";
 {{< /highlight >}}
 
 ## **Download Running Code**

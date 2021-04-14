@@ -23,8 +23,8 @@ $baseline = $task->getBaselines()->toList()->get(0);
 $duration = (double)(string)($baseline->getDuration());
 $baseline_duration = $duration / $oneHour;
 print $baseline_duration;
-print "Baseline Start: "  . (string)$baseline->getStart().PHP_EOL;
-print "Baseline Finish: " . (string)$baseline->getFinish().PHP_EOL;
+print "Baseline Start: "  . (string)$baseline->getStart();
+print "\nBaseline Finish: " . (string)$baseline->getFinish();
 {{< /highlight >}}
 
 ## **Download Running Code**

@@ -15,9 +15,9 @@ To get Number of Pages in Project using **Aspose.Tasks Java for PHP**, simply in
 $project = new Project('test_tasks.mpp');
 $presentation_format = new PresentationFormat();
 $timescale = new Timescale();
-print "Number of Pages = " . (string)$project->getPageCount($presentation_format->ResourceUsage, $timescale->Days).PHP_EOL;
-print "Number of Pages = " . (string)$project->getPageCount($presentation_format->ResourceUsage, $timescale->Months).PHP_EOL;
-print "Number of Pages = " . (string)$project->getPageCount($presentation_format->ResourceUsage, $timescale->ThirdsOfMonths).PHP_EOL;
+print "Number of Pages = " . (string)$project->getPageCount($presentation_format->ResourceUsage, $timescale->Days);
+print "\nNumber of Pages = " . (string)$project->getPageCount($presentation_format->ResourceUsage, $timescale->Months);
+print "\nNumber of Pages = " . (string)$project->getPageCount($presentation_format->ResourceUsage, $timescale->ThirdsOfMonths);
 {{< /highlight >}}
 
 ## **Download Running Code**

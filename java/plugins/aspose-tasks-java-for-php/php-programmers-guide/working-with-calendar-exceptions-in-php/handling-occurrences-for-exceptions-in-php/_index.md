@@ -15,7 +15,7 @@ $except->setEnteredByOccurrences(true);
 $except->setOccurrences(5);
 $calendarExceptionType = new CalendarExceptionType();
 $except->setType($calendarExceptionType->YearlyByDay);
-print "Set Occurrences for exceptions".PHP_EOL;
+print "Set Occurrences for exceptions";
 {{< /highlight >}}
 
 ## **Download Running Code**

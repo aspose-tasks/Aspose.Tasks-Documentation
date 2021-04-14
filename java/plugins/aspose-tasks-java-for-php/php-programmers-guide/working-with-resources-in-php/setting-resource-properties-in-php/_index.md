@@ -18,7 +18,7 @@ $resource = new Rsc();
 $bigDecimal = new BigDecimal();
 $rsc->set($resource->STANDARD_RATE, $bigDecimal->valueOf(15));
 $rsc->set($resource->OVERTIME_RATE, $bigDecimal->valueOf(20));
-print "Set resource properties".PHP_EOL;
+print "Set resource properties";
 {{< /highlight >}}
 
 ## **Download Running Code**

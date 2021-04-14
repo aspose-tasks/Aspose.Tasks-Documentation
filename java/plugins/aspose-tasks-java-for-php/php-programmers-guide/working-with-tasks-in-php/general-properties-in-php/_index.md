@@ -23,12 +23,12 @@ $i = 0;
 while ($i < sizeof($tasks))
 {
     $task = $tasks -> get($i);
-    print "Task Id:" . $task -> get($tsk -> ID).PHP_EOL;
-    print "Task Uid: " . $task -> get($tsk -> UID).PHP_EOL;
-    print "Task Name: " . $task -> get($tsk -> NAME).PHP_EOL;
-    print "Task Start: " . $task -> get($tsk -> START).PHP_EOL;
-    print "Task Finish: " . $task -> get($tsk -> FINISH).PHP_EOL;
-    print "---------------------------------------------".PHP_EOL;
+    print "Task Id:" . $task -> get($tsk -> ID);
+    print "\nTask Uid: " . $task -> get($tsk -> UID);
+    print "\nTask Name: " . $task -> get($tsk -> NAME);
+    print "\nTask Start: " . $task -> get($tsk -> START);
+    print "\nTask Finish: " . $task -> get($tsk -> FINISH);
+    print "\n---------------------------------------------";
     $i += 1;
 }
 {{< /highlight >}}

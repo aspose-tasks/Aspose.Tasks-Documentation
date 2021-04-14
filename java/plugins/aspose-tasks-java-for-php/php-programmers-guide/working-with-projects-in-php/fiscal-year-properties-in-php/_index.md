@@ -14,8 +14,8 @@ To read Fiscal Year Properties using **Aspose.Tasks Java for PHP**, call **get_f
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');
 $prj = new Prj();
-print "Fiscal Year Start Date : " . (string)$project->get($prj->FY_START_DATE).PHP_EOL;//.toString();
-print "Fiscal Year Numbering : " . (string)$project->get($prj->FISCAL_YEAR_START).PHP_EOL;//.toString()
+print "Fiscal Year Start Date : " . (string)$project->get($prj->FY_START_DATE);
+print "\nFiscal Year Numbering : " . (string)$project->get($prj->FISCAL_YEAR_START);
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Fiscal Year Properties**
@@ -31,7 +31,7 @@ $project->set($prj->FY_START_DATE, $month->July);
 $project->set($prj->FISCAL_YEAR_START, new NullableBool(true));
 $saveFileFormat = new SaveFileFormat();
 $project->save("fiscal_year_properties.xml", $saveFileFormat->XML);
-print "Set fiscal year properties, please check the output file.".PHP_EOL;
+print "Set fiscal year properties, please check the output file.";
 {{< /highlight >}}
 
 ## **Download Running Code**

@@ -16,7 +16,7 @@ $options = new PdfSaveOptions();
 $presentationFormat = new PresentationFormat();
 $options->setPresentationFormat($presentationFormat->TaskSheet);
 $project->save("taskSheet.pdf", $options);
-print "Created task sheet view file.".PHP_EOL;
+print "Created task sheet view file.";
 {{< /highlight >}}
 
 ## **Download Running Code**

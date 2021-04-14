@@ -15,11 +15,11 @@ To Verify Project Structure using **Aspose.Tasks Java for PHP**, simply invoke *
 $project = new Project('test_tasks.mpp');
 if ($project == true)
 {
-    print "Project is ok" . PHP_EOL;
+    print "Project is ok";
 }
 else
 {
-    print "Project is not ok" . PHP_EOL;
+    print "Project is not ok";
 }
 {{< /highlight >}}
 

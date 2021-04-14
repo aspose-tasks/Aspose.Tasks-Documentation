@@ -14,11 +14,12 @@ $project = new Project('test_tasks.mpp');
 $resource_assignments = $project->getResourceAssignments()->toList();
 $i = 0;
 $asn = new Asn();
-while ($i < sizeof($resource_assignments)) {
+while ($i < sizeof($resource_assignments))
+{
     $assignment = $resource_assignments -> get($i);
-
-    if ((string)$assignment -> get($asn -> STOP) == "1/1/2000") {
-        print "NA".PHP_EOL;
+    if ((string)$assignment -> get($asn -> STOP) == "1/1/2000")
+    {
+        print "NA";
     }
     else
     {
@@ -27,7 +28,7 @@ while ($i < sizeof($resource_assignments)) {
 
     if ((string)$assignment -> get($asn -> RESUME) == "1/1/2000")
     {
-        print "NA".PHP_EOL;
+        print "NA";
     }
     else
     {

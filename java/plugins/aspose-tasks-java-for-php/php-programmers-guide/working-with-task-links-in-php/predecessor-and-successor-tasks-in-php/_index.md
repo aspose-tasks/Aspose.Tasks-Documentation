@@ -18,9 +18,9 @@ $allLinks = $project->getTaskLinks()->toList();
 $i = 0;
 while ($i < sizeof($allLinks)) {
     $tskLink = $allLinks -> get($i);
-    print "Predecessor " . (string)$tskLink -> getPredTask() -> get($tsk-> NAME).PHP_EOL;
-    print "Successor " . (string)$tskLink -> getSuccTask() -> get($tsk -> NAME).PHP_EOL;
-    print "------------------------------------------------------".PHP_EOL;
+    print "Predecessor " . (string)$tskLink -> getPredTask() -> get($tsk-> NAME);
+    print "\nSuccessor " . (string)$tskLink -> getSuccTask() -> get($tsk -> NAME);
+    print "\n------------------------------------------------------";
     $i += 1;
 }
 {{< /highlight >}}

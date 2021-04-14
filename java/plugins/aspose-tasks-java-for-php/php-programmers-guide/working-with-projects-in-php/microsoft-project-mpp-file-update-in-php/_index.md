@@ -23,7 +23,7 @@ $cal->set(2015, 7, 1, 17, 0, 0);
 $task->set($tsk->FINISH , $cal->getTime());
 $saveFileFormat = new SaveFileFormat();
 $project->save("AfterLinking.mpp", $saveFileFormat->MPP);
-print "Project file updated, please check the output file.".PHP_EOL;
+print "Project file updated, please check the output file.";
 {{< /highlight >}}
 
 ## **Download Running Code**

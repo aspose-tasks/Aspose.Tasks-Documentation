@@ -16,7 +16,7 @@ $calendar = new Calendar();
 $calendar->makeStandardCalendar($cal1);
 $saveFileFormat = new SaveFileFormat();
 $project->save("CreateStandardCalendar.xml", $saveFileFormat->XML);
-print "Created standard calendar, please check the output file.".PHP_EOL;
+print "Created standard calendar, please check the output file.";
 {{< /highlight >}}
 
 ## **Download Running Code**

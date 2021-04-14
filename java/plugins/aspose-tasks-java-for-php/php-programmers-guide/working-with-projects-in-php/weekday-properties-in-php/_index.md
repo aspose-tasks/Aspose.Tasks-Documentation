@@ -12,10 +12,10 @@ To read weekday properties using **Aspose.Tasks Java for PHP**, call **get_weekd
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');
 $prj = new Prj();
-print "Week Start Date : " . (string)$project->get($prj->WEEK_START_DAY).PHP_EOL;
-print "Days Per Month : " . (string)$project->get($prj->DAYS_PER_MONTH).PHP_EOL;
-print "Minutes Per Day : " . (string)$project->get($prj->MINUTES_PER_DAY).PHP_EOL;
-print "Minutes Per Week : " . (string)$project->get($prj->MINUTES_PER_WEEK).PHP_EOL;
+print "Week Start Date : " . (string)$project->get($prj->WEEK_START_DAY);
+print "\nDays Per Month : " . (string)$project->get($prj->DAYS_PER_MONTH);
+print "\nMinutes Per Day : " . (string)$project->get($prj->MINUTES_PER_DAY);
+print "\nMinutes Per Week : " . (string)$project->get($prj->MINUTES_PER_WEEK);
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Weekday Properties**
@@ -31,7 +31,7 @@ $project->set($prj->MINUTES_PER_DAY, 540);
 $project->set($prj->MINUTES_PER_WEEK, 3240);
 $saveFileFormat = new SaveFileFormat();
 $project->save("weekday_properties.xml", $saveFileFormat->XML);
-print "Set weekday properties, please check the output file.".PHP_EOL;
+print "Set weekday properties, please check the output file.";
 {{< /highlight >}}
 
 ## **Download Running Code**

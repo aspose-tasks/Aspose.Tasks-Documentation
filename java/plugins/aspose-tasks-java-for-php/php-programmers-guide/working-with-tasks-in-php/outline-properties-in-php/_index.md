@@ -22,9 +22,9 @@ $i = 0;
 while ($i < sizeof($tasks))
 {
     $task=$tasks->get($i);
-    print "Outline Level: " . (string)$task->get($tsk -> OUTLINE_LEVEL).PHP_EOL;
-    print "Outline Number: " . (string)$task->get($tsk -> OUTLINE_NUMBER).PHP_EOL;
-    print "---------------------------------------------".PHP_EOL;
+    print "Outline Level: " . (string)$task->get($tsk -> OUTLINE_LEVEL);
+    print "\nOutline Number: " . (string)$task->get($tsk -> OUTLINE_NUMBER);
+    print "\n---------------------------------------------";
     $i += 1;
 }
 {{< /highlight >}}

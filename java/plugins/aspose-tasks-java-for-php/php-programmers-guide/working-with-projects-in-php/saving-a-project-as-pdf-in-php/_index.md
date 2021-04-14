@@ -22,7 +22,7 @@ $options->setTimescale($timescale->Months);
 $options->setPresentationFormat($presentationFormat->TaskUsage);
 $options->setLegendOnEachPage(false);
 $project->save("project.pdf", $options);
-print "Saved project as pdf, please check the output file.".PHP_EOL;
+print "Saved project as pdf, please check the output file.";
 {{< /highlight >}}
 
 ## **Download Running Code**

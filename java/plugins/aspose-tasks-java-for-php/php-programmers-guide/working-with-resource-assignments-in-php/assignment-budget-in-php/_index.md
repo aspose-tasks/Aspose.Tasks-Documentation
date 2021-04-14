@@ -17,9 +17,9 @@ $i = 0;
 while ($i < sizeof($resource_assignments))
 {
     $assignment = $resource_assignments->get($i);
-    print "Budget Cost: " . (string)$assignment -> get($asn -> BUDGET_COST).PHP_EOL;
-    print "Budget Work: " . (string)$assignment -> get($asn -> BUDGET_WORK).PHP_EOL;
-    print "--------------------------------------------------------" . PHP_EOL;
+    print "Budget Cost: " . (string)$assignment -> get($asn -> BUDGET_COST);
+    print "\nBudget Work: " . (string)$assignment -> get($asn -> BUDGET_WORK);
+    print "\n--------------------------------------------------------";
     $i += 1;
 }
 {{< /highlight >}}

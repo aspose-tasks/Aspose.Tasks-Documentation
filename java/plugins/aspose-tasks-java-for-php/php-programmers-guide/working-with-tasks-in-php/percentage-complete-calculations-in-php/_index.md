@@ -21,9 +21,9 @@ $tasks = $collector->getTasks();
 $i = 0;
 while ($i < sizeof($tasks)) {
     $task = $tasks -> get($i);
-    print (string)$task -> get($tsk -> PERCENT_COMPLETE).PHP_EOL;
-    print (string)$task -> get($tsk -> PERCENT_WORK_COMPLETE).PHP_EOL;
-    print (string)$task -> get($tsk -> PHYSICAL_PERCENT_COMPLETE).PHP_EOL;
+    print (string)$task -> get($tsk -> PERCENT_COMPLETE);
+    print (string)$task -> get($tsk -> PERCENT_WORK_COMPLETE);
+    print (string)$task -> get($tsk -> PHYSICAL_PERCENT_COMPLETE);
     $i += 1;
 }
 {{< /highlight >}}

@@ -13,13 +13,13 @@ To read timephased data of a resource using **Aspose.Tasks Java for PHP**, one c
 $project = new Project('test_tasks.mpp');
 $resource = $project->getResources()->getByUid(1);
 $prj = new Prj();
-print "Timephased data of Resource Work".PHP_EOL;
+print "Timephased data of Resource Work";
 $result = $resource->getTimephasedData($project->get($prj->START_DATE), $project->get($prj->FINISH_DATE))->toList();
 $i = 0;
 while ($i < sizeof($result)) {
     $td = $result -> get($i);
-    print "Start: " . (string)$td -> getStart().PHP_EOL;// . toString()
-    print "Work: " . (string)$td -> getValue().PHP_EOL;
+    print "\nStart: " . (string)$td -> getStart();// . toString()
+    print "\nWork: " . (string)$td -> getValue();
     $i += 1;
 }
 {{< /highlight >}}

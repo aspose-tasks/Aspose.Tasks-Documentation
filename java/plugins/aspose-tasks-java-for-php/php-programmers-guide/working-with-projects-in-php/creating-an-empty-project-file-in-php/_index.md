@@ -15,7 +15,7 @@ $project_stream =  new FileOutputStream("Project1.xml");
 $saveFileFormat = new SaveFileFormat();
 $project->save($project_stream, $saveFileFormat->XML);
 $project_stream->close();
-print "Created project Successfully.".PHP_EOL;
+print "Created project Successfully.";
 {{< /highlight >}}
 
 ## **Download Running Code**

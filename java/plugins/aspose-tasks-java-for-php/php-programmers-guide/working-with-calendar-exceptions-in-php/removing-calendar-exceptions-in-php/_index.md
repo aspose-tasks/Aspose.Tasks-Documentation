@@ -15,7 +15,7 @@ $cal = $project->getCalendars()->toList()->get(0);
 if((int)(string)($cal->getExceptions()->getCount()) > 1) {
     $exception = $cal -> getExceptions() -> toList() -> get(0);
     $cal -> getExceptions() -> remove($exception);
-    print "Removed calendar exception.".PHP_EOL;
+    print "Removed calendar exception.";
 }
 {{< /highlight >}}
 

@@ -14,10 +14,10 @@ To read Currency Properties using **Aspose.Tasks Java for PHP**, call **get_curr
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');
 $prj = new Prj();
-print "Currency Code : " . (string)$project->get($prj->CURRENCY_CODE).PHP_EOL;
-print "<br>Currency Digits : " . (string)$project->get($prj->CURRENCY_DIGITS).PHP_EOL;
-print "<br>Currency Symbol : " . (string)$project->get($prj->CURRENCY_SYMBOL).PHP_EOL;
-print "Currency Symbol Position: ". (string)$project->get($prj->CURRENCY_SYMBOL_POSITION).PHP_EOL;
+print "Currency Code : " . (string)$project->get($prj->CURRENCY_CODE);
+print "\nCurrency Digits : " . (string)$project->get($prj->CURRENCY_DIGITS);
+print "\nCurrency Symbol : " . (string)$project->get($prj->CURRENCY_SYMBOL);
+print "\nCurrency Symbol Position: ". (string)$project->get($prj->CURRENCY_SYMBOL_POSITION);
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Writing Currency Properties**
@@ -35,7 +35,7 @@ $project->set($prj->CURRENCY_SYMBOL, "$");
 $project->set($prj->CURRENCY_SYMBOL_POSITION, $currencySymbolPositionType->After);
 $saveFileFormat = new SaveFileFormat();
 $project->save("currency_properties.xml", $saveFileFormat->XML);
-print "Set currency properties, please check the output file.".PHP_EOL;
+print "Set currency properties, please check the output file.";
 {{< /highlight >}}
 
 ## **Download Running Code**

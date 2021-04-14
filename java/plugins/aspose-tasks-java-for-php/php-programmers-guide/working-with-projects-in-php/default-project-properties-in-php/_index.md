@@ -14,13 +14,13 @@ To get Default Project Properties using **Aspose.Tasks Java for PHP**, call **ge
 {{< highlight php >}}
 $project = new Project('Sample.xml');
 $prj = new Prj();
-print "Project Version : " . (string)$project->get($prj->SAVE_VERSION).PHP_EOL;
-print "New Task Default Start: ". (string)$project->get($prj->DEFAULT_START_TIME).PHP_EOL;
-print "New Task Default Type: ". (string)$project->get($prj->DEFAULT_TASK_TYPE).PHP_EOL;
-print "Resource Default Standard Rate: ". (string)$project->get($prj->DEFAULT_STANDARD_RATE).PHP_EOL;
-print "Resource Default Overtime Rate: ". (string)$project->get($prj->DEFAULT_OVERTIME_RATE).PHP_EOL;
-print "Default Task EV Method: ". (string)$project->get($prj->DEFAULT_TASK_EV_METHOD).PHP_EOL;
-print "Default Cost Accrual: ". (string)$project->get($prj->DEFAULT_FIXED_COST_ACCRUAL).PHP_EOL;
+print "Project Version : " . (string)$project->get($prj->SAVE_VERSION);
+print "\nNew Task Default Start: ". (string)$project->get($prj->DEFAULT_START_TIME);
+print "\nNew Task Default Type: ". (string)$project->get($prj->DEFAULT_TASK_TYPE);
+print "\nResource Default Standard Rate: ". (string)$project->get($prj->DEFAULT_STANDARD_RATE);
+print "\nResource Default Overtime Rate: ". (string)$project->get($prj->DEFAULT_OVERTIME_RATE);
+print "\nDefault Task EV Method: ". (string)$project->get($prj->DEFAULT_TASK_EV_METHOD);
+print "\nDefault Cost Accrual: ". (string)$project->get($prj->DEFAULT_FIXED_COST_ACCRUAL);
 {{< /highlight >}}
 
 ## **Download Running Code**

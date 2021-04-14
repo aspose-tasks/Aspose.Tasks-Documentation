@@ -23,7 +23,7 @@ $options->setTimescale($timescale->ThirdsOfMonths);
 $project->save("result_thirdsOfMonths.pdf", $options);
 $options->setTimescale($timescale->Months);
 $project->save("result_months.pdf", $options);
-print "Created resource usage files.".PHP_EOL;
+print "Created resource usage files.";
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Rendering Resource Sheet View**
@@ -37,7 +37,7 @@ $options = new PdfSaveOptions();
 $presentationFormat = new PresentationFormat();
 $options->setPresentationFormat($presentationFormat->ResourceSheet);
 $project->save("result.pdf", $options);
-print "Created resource sheet view file.".PHP_EOL;
+print "Created resource sheet view file.";
 {{< /highlight >}}
 
 ## **Download Running Code**

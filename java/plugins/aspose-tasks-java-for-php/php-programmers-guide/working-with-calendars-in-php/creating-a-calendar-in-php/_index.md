@@ -16,7 +16,7 @@ $cal2 = $project->getCalendars()->add("no name");
 $cal3 = $project->getCalendars()->add("cal3");
 $saveFileFormat = new SaveFileFormat();
 $project->save("CreateCalendar.xml", $saveFileFormat->XML);
-print "Created calendar, please check the output file.".PHP_EOL;
+print "Created calendar, please check the output file.";
 {{< /highlight >}}
 
 ## **Download Running Code**

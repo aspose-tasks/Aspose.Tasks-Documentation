@@ -11,7 +11,7 @@ To get currency code using **Aspose.Tasks Java for PHP**, call **get_currency_co
 {{< highlight php >}}
 $project = new Project('test_tasks.mpp');
 $prj = new Prj();
-print "Currency Code: " . (string)$project->get($prj->CURRENCY_CODE).PHP_EOL;
+print "Currency Code: " . (string)$project->get($prj->CURRENCY_CODE);
 {{< /highlight >}}
 
 ## **Aspose.Tasks - Setting Currency Code**
@@ -21,7 +21,7 @@ To set currency code using **Aspose.Tasks Java for PHP**, call **set_currency_co
 $project = new Project('test_tasks.mpp');
 $prj = new Prj();
 $project->set($prj->CURRENCY_CODE, "USD");
-print "Set currency code.".PHP_EOL;
+print "Set currency code.";
 {{< /highlight >}}
 
 ## **Download Running Code**

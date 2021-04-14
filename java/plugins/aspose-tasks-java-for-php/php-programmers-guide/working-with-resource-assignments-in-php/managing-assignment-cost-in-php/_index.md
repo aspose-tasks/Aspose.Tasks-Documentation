@@ -19,11 +19,11 @@ $i = 0;
 while ($i < sizeof($resource_assignments))
 {
     $assignment = $resource_assignments -> get($i);
-    print "COST: " . (string)$assignment -> get($asn -> COST).PHP_EOL;
-    print "ACWP: " . (string)$assignment -> get($asn -> ACWP).PHP_EOL;
-    print "BCWP: " . (string)$assignment -> get($asn -> BCWP).PHP_EOL;
-    print "BCWS: " . (string)$assignment -> get($asn -> BCWS).PHP_EOL;
-    print "--------------------------------------------------------".PHP_EOL;
+    print "COST: " . (string)$assignment -> get($asn -> COST);
+    print "\nACWP: " . (string)$assignment -> get($asn -> ACWP);
+    print "\nBCWP: " . (string)$assignment -> get($asn -> BCWP);
+    print "\nBCWS: " . (string)$assignment -> get($asn -> BCWS);
+    print "\n--------------------------------------------------------";
     $i += 1;
 }
 {{< /highlight >}}

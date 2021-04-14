@@ -33,7 +33,7 @@ $taskLinkType = new TaskLinkType();
 $link1 = $project->getTaskLinks()->add($task1, $task2, $taskLinkType->StartToStart);
 $saveFileFormat = new SaveFileFormat();
 $project->save("TaskLinks.mpp", $saveFileFormat->MPP);
-print "Saved task links data.".PHP_EOL;
+print "Saved task links data.";
 {{< /highlight >}}
 
 ## **Download Running Code**

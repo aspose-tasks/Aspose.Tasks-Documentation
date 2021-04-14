@@ -41,8 +41,8 @@ $timephasedDataType = new TimephasedDataType();
 $td = $assignment->getTimephasedData($assignment->get($assignment->START),
 $assignment->get($assignment->FINISH),
 $timephasedDataType->AssignmentRemainingWork)->toList();
-print "Size: " . (string)$td->size().PHP_EOL;
-print "Value: " . (string)$td->get(0)->getValue().PHP_EOL;
+print "Size: " . (string)$td->size();
+print "\nValue: " . (string)$td->get(0)->getValue();
 {{< /highlight >}}
 
 ## **Download Running Code**

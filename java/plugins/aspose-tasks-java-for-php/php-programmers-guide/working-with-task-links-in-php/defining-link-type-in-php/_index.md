@@ -18,7 +18,7 @@ $succ = $project->getRootTask()->getChildren()->add("Task 2");
 $link = $project->getTaskLinks()->add($pred, $succ);
 $taskLinkType = new TaskLinkType();
 $link->setLinkType($taskLinkType->StartToStart);
-print "Defined task link type.".PHP_EOL;
+print "Defined task link type.";
 {{< /highlight >}}
 
 ## **Download Running Code**
