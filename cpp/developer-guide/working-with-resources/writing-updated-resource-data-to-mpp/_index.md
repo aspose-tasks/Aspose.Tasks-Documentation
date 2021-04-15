@@ -21,7 +21,6 @@ The code snippet in this article opens a source MPP file that has one resource. 
 4. Update existing resource data.
 5. Save the project using the Project Writer.
 
-### **Programming Sample**
 The following code example demonstrates how to write updated resource data back to the MPP.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithResources-UpdateResourceDataInMPP-UpdateResourceDataInMPP.cpp" >}}

@@ -20,7 +20,6 @@ To save a project to PDF:
 1. Load a Microsoft Project file.
 2. Save the project to PDF using SaveFileFormat.PDF.
 
-### **Programming Sample**
 The following lines of code demonstrate how to achieve this using C++.
 
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-ConvertingProjectData-SaveProjectAsPDF-SaveProjectAsPDF.cpp" >}}

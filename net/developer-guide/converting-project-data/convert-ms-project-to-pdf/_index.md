@@ -21,10 +21,8 @@ To save a project to PDF:
 1. Load a Microsoft Project file.
 2. Save the project to PDF using SaveFileFormat.PDF.
 
-### **PDF Creator Information**
 - Please note that you cannot set values against the **Application** and **Producer** fields, because of Aspose Ltd. and Aspose.Tasks for .NET x.x.x will be displayed against these fields.
 
-### **Programming Sample**
 The following lines of code demonstrate how to achieve this using C#.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectAsPDF-SaveProjectAsPDF.cs" >}}

@@ -38,7 +38,7 @@ foreach (Task task in project.Tasks)
         {
             Console.WriteLine(task.ID + "  " + task.Name);
             Console.WriteLine(task.Start);
-            Console.WriteLine(task.Finish + "\n");
+            Console.WriteLine(task.Finish);
         }
 }
 // Make sure to clean up and close the file
@@ -65,7 +65,7 @@ foreach (Aspose.Tasks.Task task in criticalPath)
 {
   Console.WriteLine(task.Id + "  " + task.Name);
   Console.WriteLine(task.Start);
-  Console.WriteLine(task.Finish + "\n");
+  Console.WriteLine(task.Finish);
 }
 {{< /highlight >}}
 

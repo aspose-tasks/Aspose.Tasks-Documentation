@@ -6,7 +6,7 @@ weight: 10
 url: /java/creating-a-task-link/
 ---
 
-**Creating Task Links**
+## **Create New Task Links**
 A task link is created using the default constructor of [TaskLink](https://apireference.aspose.com/tasks/java/com.aspose.tasks/TaskLink) class which accepts three parameters:
 
 1. The first parameter defines the predecessor Task,

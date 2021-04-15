@@ -41,16 +41,12 @@ Now, a user should specify the full URL of the PWA endpoint when using ProjectSe
 
 Before Aspose.Tasks for .NET 20.7:
 
-**.NET**
-
 {{< highlight csharp >}}
 var windowsCredentials = ...
 var projectServerCredentials = new ProjectServerCredentials("https://project_server_instance.local", windowsCredentials);
 {{< /highlight >}}
 
 Since Aspose.Tasks for .NET 20.7:
-
-**.NET**
 
 {{< highlight csharp >}}
 var windowsCredentials = ...

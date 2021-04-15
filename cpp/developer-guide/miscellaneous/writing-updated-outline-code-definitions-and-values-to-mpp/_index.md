@@ -21,6 +21,4 @@ The following code sample defines new outline codes and sets its various fields.
 4. Add the outline codes to the project's codes.
 5. Save the updated project data back to the MPP file.
 
-### **Programming Sample**
-
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-Miscellaneous-UpdateOutlineCodes-UpdateOutlineCodes.cpp" >}}
