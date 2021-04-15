@@ -11,4 +11,4 @@ Aspose.Tasks for .NET provides the facility to generate timephased data for diff
 
 The following piece of code assigns different types of work contours to an assigned resource and displays its timephased data.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-GenerateResourceAssignmentTimephasedData-GenerateResourceAssignmentTimephasedData.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-GenerateResourceAssignmentTimephasedData.cs" >}}

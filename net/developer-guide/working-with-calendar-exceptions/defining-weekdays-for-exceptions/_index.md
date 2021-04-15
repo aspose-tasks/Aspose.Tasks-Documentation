@@ -19,4 +19,4 @@ To see a list of exceptions in Microsoft Project:
 
 The following example defines the dates 24-Dec-2009 through 31-Dec-2009 as exceptions.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendarExceptions-DefineWeekdayExceptions-DefineWeekdayExceptions.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendarExceptions-DefineWeekdayExceptions.cs" >}}

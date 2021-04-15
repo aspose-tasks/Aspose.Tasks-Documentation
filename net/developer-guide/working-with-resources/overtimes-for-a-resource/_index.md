@@ -23,4 +23,4 @@ To see overtime cost, overtime rate and overtime work in Microsoft Project:
 ### **Getting Resource Overtimes in Aspose.Tasks**
 The following example shows how to get resource overtimes using Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-GetResourceOvertime-GetResourceOvertime.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-GetResourceOvertime.cs" >}}

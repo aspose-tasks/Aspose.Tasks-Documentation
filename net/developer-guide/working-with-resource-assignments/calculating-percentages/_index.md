@@ -13,4 +13,4 @@ The PercentWorkComplete property exposed by the [Asn](https://apireference.aspos
 ## **Getting Percentages in Aspose.Tasks**
 The following example shows how to get the percentage of work completed on an assignment using Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-GetResourceAssignmentPercentWorkComplete-GetResourceAssignmentPercentWorkComplete.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-GetResourceAssignmentPercentWorkComplete.cs" >}}

@@ -11,4 +11,4 @@ Aspose.Tasks allows sorting of project resources by any of the fields like name 
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SortResourcesByName-ImplementIComparer.cs" >}}
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SortResourcesByName-SortResourcesByName.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SortResourcesByName.cs" >}}

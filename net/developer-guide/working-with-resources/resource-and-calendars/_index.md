@@ -17,9 +17,9 @@ To define a calendar for a resource in Microsoft Project:
 ### **Setting Resource Calendar using Aspose.Tasks**
 The following code creates a standard calendar and resource and then assigns the calendar to the resource.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-SetResourceCalendar-SetResourceCalendar.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-SetResourceCalendar.cs" >}}
 
 ### **Getting Resource Calendar using Aspose.Tasks**
 The code below shows how to get resource calendars by traversing a project's resources.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-GetResourceCalendar-GetResourceCalendar.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-GetResourceCalendar.cs" >}}

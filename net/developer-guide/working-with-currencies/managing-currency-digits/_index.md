@@ -23,9 +23,9 @@ To view the currency digit for a project in Microsoft Project:
 ### **Setting Currency Digits using Aspose.Tasks**
 The following example shows how to set currency digits with Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCurrencies-SetCurrencyDigits-SetCurrencyDigits.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCurrencies-SetCurrencyDigits.cs" >}}
 
 ### **Getting Currency Digits using Aspose.Tasks**
 The currency properties are accessed through the project's CurrencyDigits property.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCurrencies-GetCurrencyDigits-GetCurrencyDigits.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCurrencies-GetCurrencyDigits.cs" >}}

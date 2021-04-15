@@ -26,4 +26,4 @@ To view task costs in Microsoft Project:
 ### **Getting Task Costs**
 The following examples show how to get a task's cost using Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskCosts-ReadTaskCosts.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskCosts.cs" >}}

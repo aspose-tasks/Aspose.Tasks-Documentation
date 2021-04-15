@@ -22,4 +22,4 @@ If an assignment hasn't been stopped, the stop and resume dates have the value N
 
 In the following example, an assignment's stop and resume dates are displayed in a console window after the code's traversed the assignments in the project.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-GetResourceAssignmentStopResumeDates-GetResourceAssignmentStopResumeDates.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-GetResourceAssignmentStopResumeDates.cs" >}}

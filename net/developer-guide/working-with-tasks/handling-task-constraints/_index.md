@@ -27,25 +27,25 @@ The constraint date is NA when the constraint type is **As Soon As Possible** or
 
 The code samples below set the constraint type set to Start No Earlier Than.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-SetConstraintStartNoEarlierThan-SetConstraintStartNoEarlierThan.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-SetConstraintStartNoEarlierThan.cs" >}}
 
 The code samples below set the constraint type set to Finish No Earlier Than.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-SetConstraintFinishNoEarlierThan-SetConstraintFinishNoEarlierThan.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-SetConstraintFinishNoEarlierThan.cs" >}}
 
 The code samples below set the constraint type set to Must Start On.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-SetConstraintMustStartOn-SetConstraintMustStartOn.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-SetConstraintMustStartOn.cs" >}}
 
 The code samples below set the constraint type set to As Late As Possible.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-SetConstraintAsLateAsPossible-SetConstraintAsLateAsPossible.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-SetConstraintAsLateAsPossible.cs" >}}
 
 The code sample below shows the constraint type set to Must Finish On.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-SetConstraintMustFinishOn-SetConstraintMustFinishOn.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-SetConstraintMustFinishOn.cs" >}}
 
 ### **Getting Constraints**
 This code sample displays any constraints found when traversing the tasks in the project to a command window.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-GetConstraints-GetConstraints.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WorkingWithTaskConstraints-GetConstraints.cs" >}}

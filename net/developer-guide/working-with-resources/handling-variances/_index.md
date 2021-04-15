@@ -22,4 +22,4 @@ To see the resource work variance in Microsoft Project:
 ### **Getting Resource Work Variance in Aspose.Tasks**
 The following examples show how to get resource work variance using Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-GetResourceWorkVariance-GetResourceWorkVariance.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-GetResourceWorkVariance.cs" >}}

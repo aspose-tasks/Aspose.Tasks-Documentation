@@ -10,4 +10,4 @@ Aspose.Tasks for .NET supports changing a task's progress in terms of its percen
 
 The following piece of code shows how to change the progress of a task.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ChangeTaskProgress-ChangeTaskProgress.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ChangeTaskProgress.cs" >}}

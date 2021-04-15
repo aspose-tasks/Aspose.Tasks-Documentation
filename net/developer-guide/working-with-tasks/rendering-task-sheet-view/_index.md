@@ -17,4 +17,4 @@ The code snippet in this article reads a source MPP file that has a number of ta
 4. Set the presentation format to TaskSheet.
 5. Render the project to PDF output.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-RenderTaskSheetView-RenderTaskSheetView.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-RenderTaskSheetView.cs" >}}

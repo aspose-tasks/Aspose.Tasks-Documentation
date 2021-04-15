@@ -22,4 +22,4 @@ To check whether a task is estimates of marked as a milestone in Microsoft Proje
 ### **Finding out Whether a Task is Estimated or a Milestone**
 The following code examples show how to find out whether a task is estimated or a milestone using Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-FindEstimatedMilestoneTasks-FindEstimatedMilestoneTasks.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-FindEstimatedMilestoneTasks.cs" >}}

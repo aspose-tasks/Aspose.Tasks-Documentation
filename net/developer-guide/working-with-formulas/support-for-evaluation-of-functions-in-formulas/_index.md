@@ -22,7 +22,7 @@ Aspose.Tasks for .NET API supports evaluating functions defined as formula expre
 11. Sqr( number )
 12. Tan( number )
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithFormulas-CalculateMathExpressions-CalculateMathExpressions.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithFormulas-CalculateMathExpressions.cs" >}}
 
 ## **Calculation of General Functions**
 The following General functions can be calculated by the API.
@@ -33,7 +33,7 @@ The following General functions can be calculated by the API.
 4. IsNull( expression )
 5. Switch( expr-1, value-1\, expr-2, value-2, ... , expr-n,value-n|, expr-n,value-n )
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithFormulas-CalculateGeneralFunctions-CalculateGeneralFunctions.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithFormulas-CalculateGeneralFunctions.cs" >}}
 
 ## **Calculation of Text Functions**
 1. Asc( string )
@@ -54,7 +54,7 @@ The following General functions can be calculated by the API.
 16. Trim( string )
 17. UCase( string )
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithFormulas-CalculateTextFunctions-CalculateTextFunctions.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithFormulas-CalculateTextFunctions.cs" >}}
 
 ## **Calculation of Date/Time Functions**
 1. CDate( expression )
@@ -85,4 +85,4 @@ The following General functions can be calculated by the API.
 26. Weekday( date, firstdayofweek )
 27. Year( date)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithFormulas-CalculateDateTimeFunctions-CalculateDateTimeFunctions.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithFormulas-CalculateDateTimeFunctions.cs" >}}

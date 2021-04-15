@@ -14,7 +14,7 @@ We can recalculate dates from finish date by setting the project finish date and
 **Programming Sample: Rescheduling a Project from the Finish Date**
 The following lines of code show how to achieve this using C#.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Rescheduling-RescheduleProjectFromFinishDate-RescheduleProjectFromFinishDate.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Rescheduling-RescheduleProjectFromFinishDate.cs" >}}
 
 **Programming Sample: Rescheduling a Project from the Start Date**
 The following lines of code shows how to achieve this using C#.
@@ -31,4 +31,4 @@ The example below demonstrates how to update a project through a specified date.
 2. If the Boolean input parameter is set to false, the method calculates a percentage complete value based on the scheduled state and complete-through dates.
 3. If a list of task is specified, the method updates all work as complete through the specified date for the list of tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Rescheduling-UpdateProjectAndRescheduleUncompletedWork-UpdateProjectAndRescheduleUncompletedWork.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Rescheduling-UpdateProjectAndRescheduleUncompletedWork.cs" >}}

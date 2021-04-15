@@ -12,4 +12,4 @@ Aspose.Tasks helps you manage calendar exceptions. The [Exceptions](https://apir
 
 The following example shows how to add, remove and display exceptions.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendarExceptions-AddRemoveCalendarExceptions-AddRemoveCalendarExceptions.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendarExceptions-AddRemoveCalendarExceptions.cs" >}}

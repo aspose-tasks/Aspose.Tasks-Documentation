@@ -16,4 +16,4 @@ The Timephased data is retrieved using the [Resource](https://apireference.aspos
 
 The following piece of code shows reading the Timephased data of a Resource.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-ReadResourceTimephasedData-ReadResourceTimephasedData.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-ReadResourceTimephasedData.cs" >}}

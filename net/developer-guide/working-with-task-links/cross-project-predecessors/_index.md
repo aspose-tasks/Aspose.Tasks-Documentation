@@ -19,4 +19,4 @@ To manage cross project predecessor tasks in Microsoft Project one can select **
 ### **Getting cross project predecessor tasks using Aspose.Tasks**
 Here, we shall display predecessor / successor task traversing the task links in the project.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-GetCrossProjectTaskLinks-GetCrossProjectTaskLinks.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-GetCrossProjectTaskLinks.cs" >}}

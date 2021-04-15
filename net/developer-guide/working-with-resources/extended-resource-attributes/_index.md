@@ -11,4 +11,4 @@ The ExtendedAttribute property exposed by the Resource class can be used to mana
 ## **Setting Extended Resource Attributes with Aspose.Tasks**
 The following code example demonstrates how to set a resource's extended attributes.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-SetResourceExtendedAttributes-SetResourceExtendedAttributes.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-SetResourceExtendedAttributes.cs" >}}

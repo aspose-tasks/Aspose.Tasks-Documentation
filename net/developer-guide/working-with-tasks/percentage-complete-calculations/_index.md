@@ -25,4 +25,4 @@ To see the completed percentage in Microsoft Project one can double-click the de
 ### **Getting Percentages in Aspose.Tasks**
 The following example shows how to get the percentages of work relating to tasks using Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskPercentageCompletion-ReadTaskPercentageCompletion.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskPercentageCompletion.cs" >}}

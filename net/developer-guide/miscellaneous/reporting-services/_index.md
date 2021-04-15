@@ -42,79 +42,79 @@ The sample code snippets below can be used to create these reports. All the samp
 #### **Project Overview**
 ![exported project overview report example .NET](reporting-services_1.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveProjectOverviewReport-SaveProjectOverviewReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveProjectOverviewReport.cs" >}}
 
 #### **Resource Cost Overview**
 ![exported resource cost overview report example .NET](reporting-services_2.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveResourceCostOverviewReport-SaveResourceCostOverviewReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveResourceCostOverviewReport.cs" >}}
 
 #### **Cost Overview**
 ![exported cost overview report example .NET](reporting-services_3.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCostOverviewReport-SaveCostOverviewReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCostOverviewReport.cs" >}}
 
 #### **Work Overview**
 ![exported work overview report example .NET](reporting-services_4.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveWorkOverviewReport-SaveWorkOverviewReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveWorkOverviewReport.cs" >}}
 
 #### **Critical Tasks**
 ![exported critical tasks report example .NET](reporting-services_5.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCriticalTasksReport-SaveCriticalTasksReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCriticalTasksReport.cs" >}}
 
 #### **Milestones**
 ![exported milestones report example .NET](reporting-services_6.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveMilestonesReport-SaveMilestonesReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveMilestonesReport.cs" >}}
 
 #### **Late Tasks**
 ![exported late tasks report example .NET](reporting-services_7.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveLateTasksReport-SaveLateTasksReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveLateTasksReport.cs" >}}
 
 #### **Resource Overview**
 ![exported resource overview report example .NET](reporting-services_8.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveResourceOverviewReport-SaveResourceOverviewReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveResourceOverviewReport.cs" >}}
 
 #### **Cost Overruns**
 ![exported cost overruns report example .NET](reporting-services_9.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCostOverrunsReport-SaveCostOverrunsReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCostOverrunsReport.cs" >}}
 
 #### **Upcoming Task**
 ![exported upcoming task report example .NET](reporting-services_10.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveUpcomingTasksReport-SaveUpcomingTasksReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveUpcomingTasksReport.cs" >}}
 
 #### **Task Cost Overview**
 ![exported task cost overview report example .NET](reporting-services_11.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveTaskCostOverviewReport-SaveTaskCostOverviewReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveTaskCostOverviewReport.cs" >}}
 
 #### **Over-allocated Resources**
 ![exported over-allocated resources report example .NET](reporting-services_12.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveOverallocatedResourcesReport-SaveOverallocatedResourcesReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveOverallocatedResourcesReport.cs" >}}
 
 #### **Slipping Tasks**
 ![exported slipping report example .NET](reporting-services_13.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveSlippingTasksReport-SaveSlippingTasksReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveSlippingTasksReport.cs" >}}
 
 #### **Best Practice Analyzer**
 ![exported best practice report example .NET](reporting-services_14.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveBestPracticeAnalyzerReport-SaveBestPracticeAnalyzerReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveBestPracticeAnalyzerReport.cs" >}}
 
 #### **Burn Down**
 ![exported practice analyzer report example .NET](reporting-services_15.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveBurnDownReport-SaveBurnDownReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveBurnDownReport.cs" >}}
 
 #### **Cash Flow**
 ![exported burndown report example .NET](reporting-services_16.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCashFlowReport-SaveCashFlowReport.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SaveCashFlowReport.cs" >}}

@@ -11,4 +11,4 @@ The [Occurrences](https://apireference.aspose.com/tasks/net/aspose.tasks/calenda
 
 The following lines of code will make the exception valid for five years.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendarExceptions-HandleExceptionOccurences-HandleExceptionOccurences.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendarExceptions-HandleExceptionOccurences.cs" >}}

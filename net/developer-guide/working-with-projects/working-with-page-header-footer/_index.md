@@ -16,9 +16,9 @@ Aspose.Tasks for .NET API provides the capability to read the Header and Footer 
   - Legend tab -> Aspose.Tasks.Visualization.PageLegend class
   - View tab -> Aspose.Tasks.Visualization.PageViewSettings class
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ReadHeaderFooterInfo-ReadHeaderFooterInfo.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ReadHeaderFooterInfo.cs" >}}
 
 ## **Adding Image to Page Header/Footer**
 Aspose.Tasks for .NET API provides the capability to manipulate the document's page header and footer information. The example below shows how to add image to page's header.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-AddImageToPageHeaderFooter-AddImageToPageHeaderFooter.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-AddImageToPageHeaderFooter.cs" >}}

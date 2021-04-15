@@ -17,4 +17,4 @@ The following code sample defines new outline codes and sets their various field
 4. Add the outline codes to the project's codes.
 5. Save the updated project data back to the MPP file.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-UpdateOutlineCodes-UpdateOutlineCodes.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-UpdateOutlineCodes.cs" >}}

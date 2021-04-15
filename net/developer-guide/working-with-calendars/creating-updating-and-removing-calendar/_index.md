@@ -22,7 +22,7 @@ Open the output file in Microsoft Project and, on the **Project** menu, select *
 
 ![checking available calendars in Microsoft Project](creating-updating-and-removing-calendar_1.png)
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-CreatingCalendar-CreatingCalendar.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-CreatingCalendar.cs" >}}
 
 ## **Defining Weekdays for Calendar**
 Microsoft Project keeps track of which days are considered weekdays in a calendar so that it can calculate project end dates and so on. Aspose.Tasks allows developers to define weekdays for a calendar associated with a project.
@@ -39,7 +39,7 @@ The code samples below set weekdays for a project. After running the code, open 
 
 The code below defines Monday through Thursday as weekdays with default timings, whereas Friday as a weekday with special timings.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-DefineWeekdaysForCalendar-DefineWeekdaysForCalendar.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-DefineWeekdaysForCalendar.cs" >}}
 
 ## **Replacing a Calendar with a New Calendar**
 Calendars are used to see whether resources are available, and when tasks are scheduled. There are different types of calendars. This article looks at how to replace a base calendar, that is, the calendar used for projects and tasks, with another one.
@@ -54,7 +54,7 @@ The list of all calendars can be retrieved as [CalendarCollection](https://apire
 
 The following lines of code replace an existing calendar with a new standard calendar.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-ReplaceCalendarWithNewCalendar-ReplaceCalendarWithNewCalendar.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-ReplaceCalendarWithNewCalendar.cs" >}}
 
 ## **Making a Standard Calendar**
 A standard calendar provides the most common work days, work hours and holidays. By default, a standard calendar is added whenever a project is created using Microsoft Project. Aspose.Tasks has features for defining a standard calendar for a project.
@@ -72,7 +72,7 @@ In Microsoft Project, open the file output by the code below and, on the **Tools
 
 The following lines of code create a standard calendar using both methods.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-MakeAStandardCalendar-MakeAStandardCalendar.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-MakeAStandardCalendar.cs" >}}
 
 ## **Writing Updated Calendar Data to MPP**
 With Aspose.Tasks for .NET, you can update calendar data in a Microsoft Project MPP file and save it back.
@@ -83,4 +83,4 @@ The following code shows how to update the calendar data of a project by adding 
 2. Add the calendar data to the project.
 3. Save the updated project data back to the MPP file.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-WriteUpdatedCalendarDataToMPP-WriteUpdatedCalendarDataToMPP.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CreatingUpdatingAndRemoving-WriteUpdatedCalendarDataToMPP.cs" >}}

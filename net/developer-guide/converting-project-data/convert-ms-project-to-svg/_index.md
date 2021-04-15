@@ -23,6 +23,6 @@ To save a project to SVG:
 
 The following lines of code show how to achieve this using C#.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectAsSVG-SaveProjectAsSVG.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectAsSVG.cs" >}}
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-UsingSvgOptions-UseSvgOptions.cs" >}}

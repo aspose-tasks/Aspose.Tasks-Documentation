@@ -17,7 +17,7 @@ The code snippet in this article reads a source MPP file that has a number of ta
 4. Set the presentation format to TaskUsage.
 5. Render the project to PDF output.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-RenderTaskUsageView-RenderTaskUsageView.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-RenderTaskUsageView.cs" >}}
 
 ## **Rendering Details Column to Output in Task Usage View**
 Details column included in the MPP file can be rendered to the output using the View's DisplayDetailsHeaderColumn property. This includes the list of following supported fields:
@@ -30,4 +30,4 @@ Details column included in the MPP file can be rendered to the output using the 
 
 The following code sample illustrates the usage of this property.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-RenderTaskUsageViewWithDetails-RenderTaskUsageViewWithDetails.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-RenderTaskUsageViewWithDetails.cs" >}}

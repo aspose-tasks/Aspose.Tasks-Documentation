@@ -14,9 +14,9 @@ The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) 
 **Programming Sample: Default Constructor**
 Create a [ResourceAssignment](https://apireference.aspose.com/tasks/net/aspose.tasks/resourceassignment) instance without requiring any parameters to be passed.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-CreateResourceAssignments-CreateResourceAssignments.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-CreateResourceAssignments.cs" >}}
 
 ## **Creating Multiple Resource Assignments**
 The following code example demonstrates how to set multiple resource assignments for one task and set user-defined start and end date for the resources.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-CreateMultipleResourceAssignmentsForOneTask-CreateMultipleResourceAssignmentsForOneTask.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-CreateMultipleResourceAssignmentsForOneTask.cs" >}}

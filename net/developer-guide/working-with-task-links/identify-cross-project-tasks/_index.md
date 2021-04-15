@@ -15,4 +15,4 @@ The ExternalId property exposed by the [Task](https://apireference.aspose.com/ta
 
 The code below finds the original and external ID of a task.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-IdentifyCrossProjectTasks-IdentifyCrossProjectTasks.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-IdentifyCrossProjectTasks.cs" >}}

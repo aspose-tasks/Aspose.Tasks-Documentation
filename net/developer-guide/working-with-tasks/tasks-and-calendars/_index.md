@@ -21,9 +21,9 @@ To create a calendar for a task in Microsoft Project:
 ### **Setting Task Calendar**
 Create a standard calendar and create a task. Assign the Calendar to the task.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WriteTaskCalendar-WriteTaskCalendar.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WriteTaskCalendar.cs" >}}
 
 ### **Getting Task Calendar**
 Get task calendar by traversing the tasks in a project.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskCalendar-ReadTaskCalendar.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskCalendar.cs" >}}

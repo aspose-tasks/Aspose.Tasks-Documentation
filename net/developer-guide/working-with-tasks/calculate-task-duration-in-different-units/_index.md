@@ -13,4 +13,4 @@ The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class offe
 
 The following piece of code shows how to use this method to retrieve a task's duration in different units: minute, day, hour, week and month.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-CalculateTaskDurations-CalculateTaskDurations.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-CalculateTaskDurations.cs" >}}

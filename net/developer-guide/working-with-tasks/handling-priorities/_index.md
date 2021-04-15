@@ -21,4 +21,4 @@ To handle a task's priority in Microsoft Project one need to double-click on a t
 ### **Getting a Task's Priority**
 The following examples show how to get a task's priority and write it to a console window using Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskPriority-ReadTaskPriority.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskPriority.cs" >}}

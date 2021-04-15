@@ -21,4 +21,4 @@ The code snippet in this article reads a source MPP file that has a number of re
 4. Set the presentation format to Resource Sheet.
 5. Render the project to PDF output.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-RenderResourceUsageView-RenderResourceUsageView.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-RenderResourceUsageView.cs" >}}

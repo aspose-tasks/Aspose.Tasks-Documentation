@@ -67,11 +67,11 @@ license.SetLicense("license.lic");
 #### **Applying a License Using File or Stream**
 This code snippet initializes a license stored in a file or an embedded resource.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-ApplyLicenseUsingFile-ApplyLicenseUsingFile.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-ApplyLicenseUsingFile.cs" >}}
 
 This code snippet initializes a license from a stream.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-ApplyLicenseUsingStream-ApplyLicenseUsingStream.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-ApplyLicenseUsingStream.cs" >}}
 
 #### **Applying a Licenses Using an Embedded Resource**
 Another neat way of packaging the license with your application and making sure it will not be lost, is to include it as an embedded resource into one of the assemblies that call the component's DLL. To include the license file as an embedded resource, perform the following steps:

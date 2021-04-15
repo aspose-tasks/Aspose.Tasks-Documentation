@@ -24,9 +24,9 @@ To see an assignment's general properties in Microsoft Project:
 ### **Setting General Resource Assignment Properties using Aspose.Tasks**
 The following example shows how to set these properties from scratch.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-SetGeneralResourceAssignmentProperties-SetGeneralResourceAssignmentProperties.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-SetGeneralResourceAssignmentProperties.cs" >}}
 
 ### **Getting General Resource Assignment Properties using Aspose.Tasks**
 The resource assignment properties can be accessed by traversing the project's ResourceAssignments property.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-GetGeneralResourceAssignmentProperties-GetGeneralResourceAssignmentProperties.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-GetGeneralResourceAssignmentProperties.cs" >}}

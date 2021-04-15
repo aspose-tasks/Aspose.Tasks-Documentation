@@ -10,8 +10,8 @@ In Microsoft Project's Gantt chart view, tasks' bar styles can be customized by 
 
 ## **Adding Custom Bar Style for a specific task**
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-ImplementCustomBarStyleWriting-ImplementCustomBarStyleWriting.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-ImplementCustomBarStyleWriting.cs" >}}
 
 ## **Reading Custom Bar Style**
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-ReadCustomBarStyle-ReadCustomBarStyle.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-ReadCustomBarStyle.cs" >}}

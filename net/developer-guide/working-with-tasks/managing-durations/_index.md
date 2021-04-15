@@ -20,4 +20,4 @@ To see a task's duration in Microsoft Project one can select **More Views** and 
 ### **Setting task duration using Aspose.Tasks**
 The following examples increases and decreases the task duration to 1 week and half week respectively.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WriteTaskDuration-WriteTaskDuration.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WriteTaskDuration.cs" >}}

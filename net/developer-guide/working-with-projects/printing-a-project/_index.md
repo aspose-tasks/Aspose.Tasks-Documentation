@@ -19,16 +19,16 @@ To print a project:
 ### **Print to the Default Printer**
 The following lines of code shows how to achieve this using C#.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintTheProject-PrintTheProject.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintTheProject.cs" >}}
 
 ### **Print the project to a custom printer**
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintProjectUsingCustomPrinter-PrintProjectUsingCustomPrinter.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintProjectUsingCustomPrinter.cs" >}}
 
 ### **Print Large Files**
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintLargeFiles-PrintLargeFiles.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintLargeFiles.cs" >}}
 
 ### **Print with PrintOptions and PrinterSettings**
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintPrintOptionsAndPrinterSettings-PrintPrintOptionsAndPrinterSettings.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-Printing-PrintPrintOptionsAndPrinterSettings.cs" >}}

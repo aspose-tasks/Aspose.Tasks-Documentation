@@ -11,4 +11,4 @@ The [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar) 
 
 The following example retrieves calendar exceptions.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendarExceptions-RetrieveCalendarExceptions-RetrieveCalendarExceptions.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendarExceptions-RetrieveCalendarExceptions.cs" >}}

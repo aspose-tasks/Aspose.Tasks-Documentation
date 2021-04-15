@@ -19,4 +19,4 @@ The code snippet in this article opens a source MPP file that has one resource. 
 
 The following piece of code demonstrates this by an example.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-UpdateResourceDataInMPP-UpdateResourceDataInMPP.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-UpdateResourceDataInMPP.cs" >}}

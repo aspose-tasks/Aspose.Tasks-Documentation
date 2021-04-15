@@ -23,4 +23,4 @@ To view resource costs in Microsoft Project:
 ### **Getting Resource Costs in Aspose.Tasks**
 The following example shows how to get task costs using Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-GetResourceCosts-GetResourceCosts.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-GetResourceCosts.cs" >}}

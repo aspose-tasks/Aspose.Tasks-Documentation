@@ -11,4 +11,4 @@ Tasks in  a project file may contain embedded documents as its part such as text
 You will need [Aspose.Words for .NET](https://products.aspose.com/words/net) to retrieve the documents using NotesRTF property of a task.
 
 ## **Retrieving Embedded Documents from Task Notes**
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RetrieveTaskEmbeddedDocuments-RetrieveTaskEmbeddedDocuments.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RetrieveTaskEmbeddedDocuments.cs" >}}

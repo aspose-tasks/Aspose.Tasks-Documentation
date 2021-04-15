@@ -32,10 +32,10 @@ To create and split a task, follow these steps:
 
 The following code shows how to accomplish these tasks:
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-CreateSplitTasks-CreateSplitTasks.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-CreateSplitTasks.cs" >}}
 
 ### **Viewing Split Tasks with Aspose.Tasks**
 
 The following example shows how to identify split tasks and printing their details to a console window.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ViewSplitTasks-ViewSplitTasks.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ViewSplitTasks.cs" >}}

@@ -20,9 +20,9 @@ To define link type in Microsoft Project:
 ### **Setting Link Type with Aspose.Tasks**
 The code samples below set a link type as "Start-to-Start”, the default link type is "Finish-to-Start”.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-SetTaskLinkType-SetTaskLinkType.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-SetTaskLinkType.cs" >}}
 
 ### **Getting Link Type with Aspose.Tasks**
 The code samples below display link types by traversing the task links in the project and printing the result to a console window.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-GetTaskLinkType-GetTaskLinkType.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-GetTaskLinkType.cs" >}}

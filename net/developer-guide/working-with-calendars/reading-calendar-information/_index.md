@@ -18,12 +18,12 @@ To view calendar information in Microsoft Project:
 
 The following piece of code retrieves the calendar information from a project.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-RetrieveCalendarInfo-RetrieveCalendarInfo.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-RetrieveCalendarInfo.cs" >}}
 
 ## **Reading Work Weeks Information from Calendar**
 Aspose.Tasks for .NET API can read Work weeks information from any of the Project's calendar. The WorkWeek class can be used to achieve this.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-ReadWorkWeeksInformation-ReadWorkWeeksInformation.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-ReadWorkWeeksInformation.cs" >}}
 
 ## **Getting Working Hours On or Between Dates**
 Working hours are typically defined as a range of hours over a day, on specific days of the week. For example, 09:00 – 17:00, Monday to Friday. With Aspose.Tasks for .NET, it is possible to calculate the number of working hours that fall on a date, or between two dates. Finding out the number of working dates between two dates help project managers figure out whether there are enough hours to get work done, or if they need to find more resources to complete a task. It is recommended that for calculating the working hours between two dates, complete date and time (hours, minutes and seconds) should be provided for exact calculation. If the only date is given as finish date value say 2016, 8, 18, it will be considered as 0:0:0 hours on that day and, hence, finish date day will not be included in the calculation. However, if the finish date is given as 2016,8,18,17,0,0, then the proper result will be calculated.
@@ -32,4 +32,4 @@ The [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar) 
 
 The following example shows how to find the duration in minutes, hours and days between two dates.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CalculateWorkHours-CalculateWorkHours.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCalendars-CalculateWorkHours.cs" >}}

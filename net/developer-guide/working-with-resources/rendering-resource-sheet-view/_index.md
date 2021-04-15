@@ -16,4 +16,4 @@ The code snippet in this article reads a source MPP file that has a number of re
 3. Set the [PresentationFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/presentationformat) to ResourceSheet.
 4. Render the project to output PDF.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-RenderResourceSheetView-RenderResourceSheetView.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-RenderResourceSheetView.cs" >}}

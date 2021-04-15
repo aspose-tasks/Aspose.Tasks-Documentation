@@ -20,4 +20,4 @@ To see assignment budgets in Microsoft Project:
 ### **Getting Assignment Budget with Aspose.Tasks**
 The following example shows how to get an assignment budget using Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-GetResourceAssignmentBudget-GetResourceAssignmentBudget.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-GetResourceAssignmentBudget.cs" >}}

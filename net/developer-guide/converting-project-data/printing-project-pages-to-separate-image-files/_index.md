@@ -16,4 +16,4 @@ To print a Project's pages to separate output files, use the ImageSaveOptions.Sa
 ## **Printing Project Pages to Separate Files**
 The following code example demonstrates how to print individual pages in a project to separate files.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-PrintProjectPagesToSeparateFiles-PrintProjectPagesToSeparateFiles.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-PrintProjectPagesToSeparateFiles.cs" >}}

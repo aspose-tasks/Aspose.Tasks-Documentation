@@ -24,4 +24,4 @@ To declare a task as a parent or a child task in Microsoft Project:
 ### **Getting Parent and Child Tasks**
 The following examples show viewing parent and child tasks in a project using Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadParentChildTasks-ReadParentChildTasks.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadParentChildTasks.cs" >}}

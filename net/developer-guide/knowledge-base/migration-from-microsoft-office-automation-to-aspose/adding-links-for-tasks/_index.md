@@ -66,4 +66,4 @@ To link tasks in a project using Aspose.Tasks for .NET:
 
 This imports the **Aspose.Tasks** namespace at the start of your code. Use the code from the following example to link tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-KnowledgeBase-LinkTasks-LinkTasks.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-KnowledgeBase-LinkTasks.cs" >}}

@@ -17,4 +17,4 @@ Aspose.Tasks for .NET API lets you save project data to JPEG file format. You ca
 
 The code example given below demonstrates how to export your project data to JPEG.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectAsJPEG-SaveProjectAsJPEG.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectAsJPEG.cs" >}}

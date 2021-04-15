@@ -17,4 +17,4 @@ The following code sample:
 3. Applies compression and saves an image to disk.
 4. Removes compression and saves an image to disk.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderMultipageTIFF-RenderMultipageTIFF.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderMultipageTIFF.cs" >}}

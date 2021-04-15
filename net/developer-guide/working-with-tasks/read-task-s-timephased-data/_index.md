@@ -20,4 +20,4 @@ Aspose.Tasks for .NET supports reading a task's time-phased data from Microsoft 
 
 The following piece of code shows how to read a task's timephased data.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadWriteTimephasedData-ReadWriteTimephasedData.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadWriteTimephasedData.cs" >}}

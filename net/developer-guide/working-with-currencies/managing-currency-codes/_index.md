@@ -21,9 +21,9 @@ To see a project's currency code in Microsoft Project:
 ### **Setting Currency using Aspose.Tasks**
 The following example shows how to set these properties.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCurrencies-SetCurrencyCodes-SetCurrencyCodes.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCurrencies-SetCurrencyCodes.cs" >}}
 
 ### **Getting Currency Code using Aspose.Tasks**
 These properties can be accessed using the project's CurrencyCode property.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCurrencies-GetCurrencyCodes-GetCurrencyCodes.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithCurrencies-GetCurrencyCodes.cs" >}}

@@ -19,4 +19,4 @@ To manage predecessor tasks in Microsoft Project:
 
 The code samples below displays predecessor and successor task after traversing the task links in the project and writing the results to a console window.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-GetPredecessorSuccessorTasks-GetPredecessorSuccessorTasks.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskLinks-GetPredecessorSuccessorTasks.cs" >}}

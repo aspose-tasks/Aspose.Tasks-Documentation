@@ -23,4 +23,4 @@ In Microsoft Project, outline number and outline level properties can be viewed 
 ### **Getting Outline Properties in Aspose.Tasks**
 The following example shows how to get the outline level and outline number information about a task using Aspose.Tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskOutlineProperties-ReadTaskOutlineProperties.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskOutlineProperties.cs" >}}

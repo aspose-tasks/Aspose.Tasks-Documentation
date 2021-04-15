@@ -19,4 +19,4 @@ Aspose.Tasks for .NET supports rendering project views such as Gantt charts, tas
 ## **Rendering Project Data to Pre-Defined Page Sizes**
 The following code sample shows how to render a project's different views to pre-defined page sizes.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderProjectToPredefinedPageSizes-RenderProjectToPredefinedPageSizes.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderProjectToPredefinedPageSizes.cs" >}}

@@ -25,17 +25,17 @@ To save a project to PDF:
 
 The following lines of code demonstrate how to achieve this using C#.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectAsPDF-SaveProjectAsPDF.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveProjectAsPDF.cs" >}}
 
 ## **Fitting Contents to Cell Size**
 Commonly, a task (or resource) name is so long that it is truncated when project views are rendered. Aspose.Tasks for .NET provides the FitContent property in the SaveOptions class to avoid truncation of task and resource names. The code example below renders a project to PDF format with the FitContent property set to true.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-FitContentsToCellSize-FitContentsToCellSize.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-FitContentsToCellSize.cs" >}}
 
 ## **Printing or Hiding Legends when Rendering**
 To let you print or hide the legends on each page, the SaveOptions class provides the LegendOnEachPage property. If this flag is set to true, legends are printed on each page in the output file.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-HideLegendsDuringSave-HideLegendsDuringSave.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-HideLegendsDuringSave.cs" >}}
 
 ## **Supported Graphical Column Indicators**
 Aspose.Tasks draws graphical column indicators when rendering project data to output PDF. The following graphical indicators are supported by Aspose.Tasks:
@@ -49,19 +49,19 @@ Aspose.Tasks draws graphical column indicators when rendering project data to ou
 ## **Saving to Multiple PDF Files**
 To save project data to multiple PDF files, set the SaveToSeparateFiles flag to true.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveToMultiplePDFFiles-SaveToMultiplePDFFiles.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-SaveToMultiplePDFFiles.cs" >}}
 
 ## **Customizing TextStyle for Project Data**
 Aspose.Tasks for .NET API allows developers to customize the text style for over-allocated resources. By default, the style used for overallocated resources is similar to Microsoft Project (MSP), that is, red and bold. TextItemType.OverallocatedResources makes it possible to customize the color and style for the overallocated resources.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-CustomizeTextStyle-CustomizeTextStyle.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-CustomizeTextStyle.cs" >}}
 
 ## **Customizing Date Formats**
 Aspose.Tasks for .NET API allows developers to customize the date format using the DateFormat enumerator when rendering project data.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-AddDefaultFontDuringSavingAsPDF-AddDefaultFontDuringSavingAsPDF.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-AddDefaultFontDuringSavingAsPDF.cs" >}}
 
 ## **Setting Default Font**
 Setting default font during rending of documents helps when a font is not found. In such a case, the default font replaces the missing font and output is not affected. Aspose.Tasks for .NET API lets you specify the default font using the DefaultFontName property of the PdfSaveOptions as shown in the following code sample.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-CustomizeDateFormats-CustomizeDateFormats.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-CustomizeDateFormats.cs" >}}

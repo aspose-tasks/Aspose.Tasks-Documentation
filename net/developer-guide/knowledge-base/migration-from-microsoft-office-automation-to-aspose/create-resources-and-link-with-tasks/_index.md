@@ -71,4 +71,4 @@ The following steps are required to accomplish this task:
    This imports the Aspose.Tasks namespace at the start of the code.
 4. Use the code from the following example to create resources and link them to tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-KnowledgeBase-CreateResourcesAndLinkToTasks-CreateResourcesAndLinkToTasks.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-KnowledgeBase-CreateResourcesAndLinkToTasks.cs" >}}

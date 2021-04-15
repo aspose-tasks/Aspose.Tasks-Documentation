@@ -15,4 +15,4 @@ After identifying the section that's causing the problem, you can try to resolve
 
 The following code is used to identify the cause of the exception.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-HandleExceptions-HandleExceptions.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-HandleExceptions.cs" >}}

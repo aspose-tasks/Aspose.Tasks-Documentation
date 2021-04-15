@@ -17,4 +17,4 @@ Before Aspose.Tasks for .NET 5.0.0, budget work and cost could be calculated by 
 
 The following lines of code retrieve a task's budget work and cost information.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadBudgetWorkAndCost-ReadBudgetWorkAndCost.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadBudgetWorkAndCost.cs" >}}

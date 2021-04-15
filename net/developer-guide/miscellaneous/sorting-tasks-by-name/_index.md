@@ -13,4 +13,4 @@ First, define a class that implements the IComparable interface. Then traverse t
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SortTasksByName-ImplementIComparer.cs" >}}
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SortTasksByName-SortTasksByName.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Miscellaneous-SortTasksByName.cs" >}}

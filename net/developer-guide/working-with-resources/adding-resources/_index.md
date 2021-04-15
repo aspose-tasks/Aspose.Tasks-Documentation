@@ -12,4 +12,4 @@ Resources are actually the people included in the project plan but resources can
 ### **Add Resources to Your Project**
 The code example given below demonstrates how to create a resource.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-CreateResources-CreateResources.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-CreateResources.cs" >}}

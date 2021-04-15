@@ -18,4 +18,4 @@ To read, assign and save the updated file:
 
 The code examples given below demonstrates how to perform these tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-UpdateResourceAssignmentInMPP-UpdateResourceAssignmentInMPP.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResourceAssignments-UpdateResourceAssignmentInMPP.cs" >}}

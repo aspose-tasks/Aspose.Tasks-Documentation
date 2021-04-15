@@ -26,4 +26,4 @@ To check whether a task is critical or effort-driven in Microsoft Project one ne
 ### **Getting Critical and Effort-Driven Tasks**
 The following code examples show how to get information about whether a task is critical or effort-driven.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-FindCriticalEffortDrivenTasks-FindCriticalEffortDrivenTasks.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-FindCriticalEffortDrivenTasks.cs" >}}

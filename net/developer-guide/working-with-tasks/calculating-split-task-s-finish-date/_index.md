@@ -24,4 +24,4 @@ The parts of a split task are showing as chunks connected by a line of dots.
 ### **Calculating a Split Task's Finish Date with Aspose.Tasks**
 The following code examples calculate a split task's finish date.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-CalculateSplitTaskFinishDate-CalculateSplitTaskFinishDate.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-CalculateSplitTaskFinishDate.cs" >}}

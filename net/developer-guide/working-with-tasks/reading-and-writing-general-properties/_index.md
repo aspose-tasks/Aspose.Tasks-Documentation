@@ -26,9 +26,9 @@ To view a task's general properties in Microsoft Project:
 ### **Setting General Properties**
 The below code sample shows you, how to set general properties.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WriteTaskProperties-WriteTaskProperties.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-WriteTaskProperties.cs" >}}
 
 ### **Getting General Properties**
 Get a task's properties by traversing the children of the project's RootTask property.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskProperties-ReadTaskProperties.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadTaskProperties.cs" >}}

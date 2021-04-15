@@ -21,4 +21,4 @@ After saving a baseline, the task baseline duration can be viewed in Microsoft P
 ### **Getting Task Baseline Duration using Aspose.Tasks**
 The code below displays the task baseline duration in console window after traversing the task baselines of a task.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskBaselines-GetTaskBaselineDuration-GetTaskBaselineDuration.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskBaselines-GetTaskBaselineDuration.cs" >}}

@@ -20,4 +20,4 @@ After saving a baseline, the task baseline schedule can be viewed in Microsoft P
 ### **Getting Task Baseline Schedule using Aspose.Tasks**
 The code below displays the task baseline schedule in a console window after traversing a task's baselines.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskBaselines-GetTaskBaselineSchedule-GetTaskBaselineSchedule.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTaskBaselines-GetTaskBaselineSchedule.cs" >}}

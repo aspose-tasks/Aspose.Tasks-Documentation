@@ -30,4 +30,4 @@ To access these properties in Microsoft Project:
 ### **Getting Actual Properties with Aspose.Tasks**
 A tasks' actual properties can be obtained by traversing the tasks in a project. The code samples below write the actual properties for all tasks found in a project to a console window.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadActualTaskProperties-ReadActualTaskProperties.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithTasks-ReadActualTaskProperties.cs" >}}

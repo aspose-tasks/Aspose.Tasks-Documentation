@@ -24,4 +24,4 @@ To view a resource's general properties in Microsoft Project:
 ### **Setting General Resource Properties using Aspose.Tasks**
 The following example shows how to set general resource properties.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-SetGeneralResourceProperties-SetGeneralResourceProperties.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-SetGeneralResourceProperties.cs" >}}

@@ -19,7 +19,7 @@ The following code sample:
 2. Sets each different timescale setting.
 3. Saves the file to disk as a JPG.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-TimescaleSettings-TimescaleSettings.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-TimescaleSettings.cs" >}}
 
 ## **Rolling Up Gantt Bars During Rendering**
 - If the SaveOptions.RollUpGanttBars property is set to true, any summary task in the project is marked by its visible subtasks, keeping into account the Task.HideBar property when rendering. (If Task.HideBar = true, the bar is not rendered on the Gantt chart.)
@@ -28,7 +28,7 @@ The following code sample:
 Also, if SaveOptions.DrawNonWorkingTime (default value = true) is set to false, non-working time will not be shown on the Gantt chart.
 
 ### **Example 1: Gantt Chart Bars Not Rolled Up**
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderGanttChartWithBarsNotRolledUp-RenderGanttChartWithBarsNotRolledUp.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderGanttChartWithBarsNotRolledUp.cs" >}}
 
 **The output from example 1**
 
@@ -37,7 +37,7 @@ Also, if SaveOptions.DrawNonWorkingTime (default value = true) is set to false, 
 ### **Example 2: Rolling Up Gantt Chart Bars**
 In this example, SaveOptions.RollUpGanttBars = true, SaveOptions.DrawNonWorkingTime = true, and task.HideBar = false for hidden tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderGanttChartWithBarsRolledUp-RenderGanttChartWithBarsRolledUp.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-RenderGanttChartWithBarsRolledUp.cs" >}}
 
 **The output from example 2**
 
@@ -46,19 +46,19 @@ In this example, SaveOptions.RollUpGanttBars = true, SaveOptions.DrawNonWorkingT
 ## **Customize Text with Task Bars**
 In this example, the text on the right of the taskbar can be customized by delegate instance. Here we customize the text on the critical tasks.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-CustomizeTextWithTaskBars-CustomizeTextWithTaskBars.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-CustomizeTextWithTaskBars.cs" >}}
 
 ## **Align Cell Contents**
 Text can be aligned by GanttChartColumn.StringAlignment, ResourceViewColumn.StringAlignment properties. Alignment by default is StringAlignment.Near (left).
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-AlignCellContents-AlignCellContents.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-AlignCellContents.cs" >}}
 
 ## **Changing Gantt Chart Bars Color Gradient**
 Microsoft Project allows users to render the output of Gantt charts using gradients. The same functionality is provided by Aspose.Tasks as shown in the following sample code.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-ChangeGanttBarsColorGradient-ChangeGanttBarsColorGradient.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-ChangeGanttBarsColorGradient.cs" >}}
 
 ## **Setting Start date of Gantt Chart View**
 The TimeScaleStart property exposed by Prj class allows to set the start date of the Gantt chart view. However, if the saved file is opened by MSP in maximized window mode then the timescale start date will not match.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-SetGanttChartViewStartDate-SetGanttChartViewStartDate.cs" >}}
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Articles-SetGanttChartViewStartDate.cs" >}}
