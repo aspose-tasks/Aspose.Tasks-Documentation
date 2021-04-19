@@ -1,6 +1,6 @@
 ---
 title: Split Tasks
-description: "Learn how to split Microsoft Project (MPP/XML) tasks using Aspose.Tasks for .NET."
+description: "Aspose.Tasks for .NET allows to split task's working times in Microsoft Project project management files by defining split parts."
 type: docs
 weight: 160
 url: /net/split-tasks/

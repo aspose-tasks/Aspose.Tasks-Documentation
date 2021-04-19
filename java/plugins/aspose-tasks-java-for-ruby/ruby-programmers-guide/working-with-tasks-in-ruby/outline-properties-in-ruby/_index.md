@@ -1,6 +1,6 @@
 ---
 title: Outline Properties in Ruby
-description: "Learn how to work Microsoft Project (MPP/XML) outline values using Aspose.Tasks Java for Ruby."
+description: "Learn how to iterate over project tasks and read outline number and level using Aspose.Tasks Java for Ruby API."
 type: docs
 weight: 90
 url: /java/outline-properties-in-ruby/
