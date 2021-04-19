@@ -6,7 +6,6 @@ weight: 20
 url: /cpp/supported-file-formats/
 ---
 
-## **Supported File Formats**
 The following table indicates the input and output file formats supported by Aspose.Tasks for C++.
 
 |**Format**|**Description**|**Load**|**Save**|

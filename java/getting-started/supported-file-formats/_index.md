@@ -6,7 +6,6 @@ weight: 20
 url: /java/supported-file-formats/
 ---
 
-## **Supported File Formats**
 The following table indicates the input and output file formats supported by Aspose.Tasks for Java.
 
 |**Format**|**Description**|**Load**|**Save**|
