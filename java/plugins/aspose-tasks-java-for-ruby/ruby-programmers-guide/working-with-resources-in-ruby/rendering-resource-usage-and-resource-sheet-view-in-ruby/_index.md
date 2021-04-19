@@ -1,5 +1,5 @@
 ---
-title: Rendering Resource Usage and Resource Sheet View in Ruby
+title: Render Resource Usage or Sheet Views in Ruby
 description: "Learn how to read Microsoft Project (MPP/XML) resource usage and resource sheet views using Aspose.Tasks Java for Ruby."
 type: docs
 weight: 30

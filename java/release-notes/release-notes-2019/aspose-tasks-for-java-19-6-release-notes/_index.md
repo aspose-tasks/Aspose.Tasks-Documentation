@@ -29,6 +29,3 @@ This page contains release notes information for [Aspose.Tasks for Java 19.6](ht
 |TASKSNET-2738|Fix contradiction between task.Get(Tsk.Duration).TimeUnit and task.Get(Tsk.DurationFormat) properties|Bug|
 |TASKSNET-2686|Fix a splitting of tasks after a resave in MPP|Bug|
 |TASKSNET-2658|Fix wrong output after the task has been split|Bug|
-
-## **Public API and Backwards Incompatible Changes**
-None.

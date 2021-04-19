@@ -25,6 +25,3 @@ This page contains release notes information for Aspose.Tasks for Java 19.4.
 |TASKSJAVA-878|Cannot read an image of a view header in MS Project document|Bug|
 |TASKSNET-2732|Reading Subprojects from MS Project Server 2016|Bug|
 |TASKSNET-3104|Fix NullReferenceException when trying to save project without GanttChart view|Bug|
-
-## **Public API and Backwards Incompatible Changes**
-None.

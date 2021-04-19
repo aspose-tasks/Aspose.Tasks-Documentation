@@ -1,5 +1,5 @@
 ---
-title: Creating and Saving a Project with Default Properties (ASP Classic)
+title: Create a Project with Default Properties
 description: "Learn how to create, edit or save Microsoft Project (MPP/XML) files in classic ASP applications using Aspose.Tasks for .NET."
 type: docs
 weight: 10

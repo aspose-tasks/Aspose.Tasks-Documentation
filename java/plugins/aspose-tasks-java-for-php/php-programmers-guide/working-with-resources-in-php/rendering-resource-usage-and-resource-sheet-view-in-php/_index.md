@@ -1,5 +1,5 @@
 ---
-title: Rendering Resource Usage and Resource Sheet Views in PHP
+title: Render Resource Usage or Sheet Views in PHP
 description: "Learn how to read Microsoft Project (MPP/XML) resource usage and resource sheet views using Aspose.Tasks Java for PHP."
 type: docs
 weight: 30

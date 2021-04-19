@@ -23,6 +23,3 @@ This page contains release notes information for [Aspose.Tasks for .NET 19.6.1](
 |TASKSNET-3186 | Fix update of %Complete for milestone tasks |Bug |
 |TASKSNET-3124 | Fix tasks saved as collapsed, but displayed as expanded in MSP 2010 |Bug |
 |TASKSNET-3095 | Fix tasks saved as collapsed, but displayed as expanded in MSP |Bug |
-
-## **Public API and Backwards Incompatible Changes**
-None.

@@ -17,6 +17,3 @@ This page contains release notes information for Aspose.Tasks for .NET 19.6.
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 |TASKSNET-3244|Fix NullReferenceException when trying to save the project with duration lookup|Bug|
-
-## **Public API and Backwards Incompatible Changes**
-None.

@@ -1,5 +1,5 @@
 ---
-title: How to Migrate to Aspose.Tasks for Java 8.1.0 or higher
+title: Migrate to the latest Aspose.Tasks for Java
 description: "Learn how to migrate from Aspose.Tasks for Java 8.1.0 to the latest ones."
 type: docs
 weight: 100
