@@ -26,6 +26,7 @@ This page contains release notes information for [Aspose.Tasks for Java 20.12](h
 | TASKSNET-4485 | Fix adding of CalendarException broke MPP file | Bug |
 | TASKSNET-4439 | Fix invalid order of null tasks after project's recalculation | Bug |
 | TASKSNET-3723 | Fix absent TDs for cost resources | Bug |
+
 ## **Public API and Backwards Incompatible Changes**
 
 **The following behavior was changed:**
@@ -34,10 +35,10 @@ This page contains release notes information for [Aspose.Tasks for Java 20.12](h
 
 Consider a project with a calendar in which at least one calendar exception is defined:
 
-```
+{{< highlight java >}}
 Project project = new Project("CalendarWithExceptions.mpp");
 Calendar calendar = project.getCalendars().getByUid(1);
-```
+{{< /highlight >}}
 
 Before ver. 20.12: days on which the exceptions were effective were added to Calendar.getWeekDays() collection (with DayType 'Exception') along with the "regular" WeekDays.
 

@@ -36,10 +36,10 @@ This page contains release notes information for [Aspose.Tasks for .NET 20.11](h
 
 Consider a project with a calendar in which at least one calendar exception is defined:
 
-```
+{{< highlight csharp >}}
 Project project = new Project("CalendarWithExceptions.mpp");
 Calendar calendar = project.Calendars.GetByUid(1);
-```
+{{< /highlight >}}
 
 Before ver. 20.11: days on which the exceptions were effective were added to calendar.WeekDays collection (with DayType 'Exception') along with the "regular" WeekDays.
 

@@ -10,7 +10,7 @@ url: /net/aspose-tasks-net-for-vsto/
 VSTO, or Visual Studio Tools for Office, or Microsoft Visual Studio Tools is part of Microsoft's Visual Studio .NET tools suite and supports the Microsoft .NET Framework. It is used by developers to write code connecting Microsoft Office Word, Excel and Outlook applications. Developers using VSTO can employ C# or Visual Basic languages. It is an alternative to Visual Basic for Applications, or VBA.
 
 ## **Aspose.Tasks for .NET**
-Aspose.Tasks for .NET is a project management component that enables .NET applications to not only read and manipulate Microsoft Project® documents but also write Microsoft Project documents in both MPP and XML formats - all without using Microsoft Project.
+Aspose.Tasks for .NET is a project management component that enables .NET applications to not only read and manipulate project management documents but also write them both MPP and XML formats - all without using Microsoft Project software.
 Aspose.Tasks’s powerful API exposes project data to offer complete project planning, definition and tracking capabilities. It allows users to define a project’s main as well as default properties and calendar information. It can also specify weekdays and exceptions for a project’s calendar.
 
 ## **Introduction in Aspose.Tasks for VSTO**
@@ -50,6 +50,7 @@ You can download the latest code at:
 To open the project you need to download and install the latest version of Aspose.Tasks for .NET from [here](https://products.aspose.com/tasks/net) and include it in the project.
 
 ## **Support, Extend and Contribute**
+
 ### **Support**
 We offer free support. Anyone who uses our product, whether they have bought them or are using an evaluation, deserves our full attention and respect.
 

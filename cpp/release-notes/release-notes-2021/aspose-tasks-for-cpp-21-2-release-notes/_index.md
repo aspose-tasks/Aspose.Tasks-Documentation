@@ -71,7 +71,7 @@ Related issue: TASKSNET-4642 - Add support for user-defined page size when savin
 
 SaveOptions.CustomPageSize property added so the user can specify custom page size when saving a project to graphical formats.
 
-```cpp
+{{< highlight cpp >}}
 System::SharedPtr<Project> project = System::MakeObject<Project>(System::String(u"test.mpp"));
 
 System::SharedPtr<ImageSaveOptions> saveOptions = System::MakeObject<ImageSaveOptions>(Aspose::Tasks::Saving::SaveFileFormat::PNG);
@@ -83,14 +83,14 @@ saveOptions->set_EndDate(System::DateTime(2013, 5, 10));
 saveOptions->set_PresentationFormat(Aspose::Tasks::Visualization::PresentationFormat::ResourceUsage);
 
 project->Save(u"output.png", saveOptions);
-```
+{{< /highlight >}}
 
 Related issue: TASKSNET-3585 - Add support of "RenderToSinglePage" option to TaskUsage, ResourceUsage, TaskSheet and ResourceSheet views
 
 Now SaveOptions.RenderToSinglePage property can be used to specify that the project should be rendered to single page document. In this case the size of the page is adjusted to fit project on one page.
 SaveOptions.RenderToSinglePage flag is applicable when project is saved to PDF or graphical formats.
 
-```cpp
+{{< highlight cpp >}}
 System::SharedPtr<Project> project = System::MakeObject<Project>(System::String(u"test.mpp"));
 
 System::SharedPtr<PdfSaveOptions> saveOptions = System::MakeObject<PdfSaveOptions>();
@@ -101,9 +101,9 @@ saveOptions->set_EndDate(System::DateTime(2013, 5, 10));
 saveOptions->set_PresentationFormat(Aspose::Tasks::Visualization::PresentationFormat::TaskUsage);
 
 project->Save(u"output.pdf", saveOptions);
-```
+{{< /highlight >}}
 
-``` cpp
+{{< highlight cpp >}}
 System::SharedPtr<Project> project = System::MakeObject<Project>(System::String(u"TestProject.mpp"));
 
 System::SharedPtr<ImageSaveOptions> saveOptions = System::MakeObject<ImageSaveOptions>(Aspose::Tasks::Saving::SaveFileFormat::PNG);
@@ -116,19 +116,19 @@ saveOptions->set_HorizontalResolution(300);
 saveOptions->set_VerticalResolution(300);
 
 project->Save(u"output.png", saveOptions);
-```
+{{< /highlight >}}
 
 Related issue: TASKSNET-4608 - Portrait/Landscape orientation setting ignored when printing / saving to pdf
 
 Added PageSize.DefinedInView enum value so the user can specify that the project should be rendered using page size and page orientation settings defined in view's settings.
 These settings can be changed using "Page Setup" dialog of Microsoft Project.
 
-``` cpp
+{{< highlight cpp >}}
 System::SharedPtr<Project> project = System::MakeObject<Project>(System::String(u"test.mpp"));
 
 auto view = project->get_Views()->LINQ_First(static_cast<System::Func<System::SharedPtr<View>, bool>>(static_cast<std::function<bool(System::SharedPtr<View> v)>>([](System::SharedPtr<View> v) -> bool
 {
-        return v->get_Screen() == Aspose::Tasks::ViewScreen::Gantt;
+  return v->get_Screen() == Aspose::Tasks::ViewScreen::Gantt;
 })));
 System::Console::WriteLine(System::String(u"Page size specified in view settings: ") + System::ObjectExt::ToString(view->get_PageInfo()->get_PageSettings()->get_PaperSize()));
 System::Console::WriteLine(u"Page orientation: {0}", view->get_PageInfo()->get_PageSettings()->get_IsPortrait() ? System::String(u"Portrait") : System::String(u"Landscape"));
@@ -142,4 +142,4 @@ saveOptions->set_EndDate(System::DateTime(2013, 5, 10));
 saveOptions->set_PresentationFormat(Aspose::Tasks::Visualization::PresentationFormat::GanttChart);
 
 project->Save(u"output.png", saveOptions);
-```
+{{< /highlight >}}

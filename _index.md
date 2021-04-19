@@ -12,7 +12,7 @@ url: /
 
 ![Aspose.Tasks for .NET Product Logo](home_1.png)
 
-Aspose.Tasks for .NET is a class library that enables .NET applications to read and write Microsoft Project® files without using Microsoft Project®. It is currently the only .NET component that provides this functionality. Aspose.Tasks for .NET is a mature product that offers stability and flexibility. As with all of the Aspose file management components, Aspose.Tasks for .NET works well with both Win Form and WebForm applications.
+Aspose.Tasks for .NET is a class library that enables .NET applications to read and write MPP or P6XML files without using Microsoft Project or Oracle Primavera P6. It is currently the only .NET component that provides this functionality. Aspose.Tasks for .NET is a mature product that offers stability and flexibility. As with all of the Aspose file management components, Aspose.Tasks for .NET works well with both Win Form and WebForm applications.
 
 With Aspose.Tasks for .NET, it is possible to program with Microsoft Project (MPP/XML) files without Microsoft Office Automation. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
@@ -39,7 +39,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 **Welcome to Aspose.Tasks for Java!**
 
-Aspose.Tasks for Java is a class library that enables Java application developers to embed the functionality of processing Microsoft Project ® documents (MPP/MPT/XLS) without even using Microsoft Project®. The API, hence, eliminates the requirement of Microsoft Office Automation in such an application. Ported from its equivalent .NET product, Aspose.Tasks for Java is a mature product that offers stability and flexibility. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
+Aspose.Tasks for Java is a class library that enables Java application developers to embed the functionality of processing MPP/MPT/XLS documents without even using Microsoft Project. The API, hence, eliminates the requirement of Microsoft Office Automation in such an application. Ported from its equivalent .NET product, Aspose.Tasks for Java is a mature product that offers stability and flexibility. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
 {{% /alert %}}
 
@@ -64,7 +64,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 **Welcome to Aspose.Tasks for C++!**
 
-Aspose.Tasks for C++ is a native class library that enables C++ applications to read and write Microsoft Project® files without using Microsoft Project®. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
+Aspose.Tasks for C++ is a native class library that enables C++ applications to read and write MPP/XML files without using Microsoft Project. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
 {{% /alert %}}
 

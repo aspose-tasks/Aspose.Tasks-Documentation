@@ -33,17 +33,16 @@ This page contains release notes information for [Aspose.Tasks for C++ 21.1](htt
 | :- | :- |
 | Aspose.Tasks.View.#ctor(ViewScreen) | Initializes a new instance of the <see cref="View"/> class which can be displayed in the specified ViewScreen. |
 
-
 ## **Examples**
 
 Related issue: TASKSNET-4597 - Field 'TaskSummaryName' can be used in view's columns
 
 In order to show 'TaskSummaryName' column in exported document the next code sample can be used:
-``` cpp
+{{< highlight cpp >}}
 auto field = System::MakeObject<TableField>();
 field->set_Field(Aspose::Tasks::Field::TaskSummaryName);
 field->set_Title(u"Task Summary Name");
 field->set_Width(30);
     
 project->get_Views()->ToList()->idx_get(0)->get_Table()->get_TableFields()->Add(field);
-```
+{{< /highlight >}}

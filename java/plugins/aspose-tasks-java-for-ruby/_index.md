@@ -12,7 +12,7 @@ url: /java/aspose-tasks-java-for-ruby/
 RJB is a bridge program that connect between Ruby and Java with Java Native Interface. Rake + Rjb is the more powerful and useful build tool than both Maven and Ant. You can test your Java business logic class itself with Rjb's mock. It helps to migrate Struts's Model Object into your RoR application. But beware to buildSwing application, Ruby (and Rjb) doesn't consider JVM's native threads handling.
 
 ### **Aspose.Tasks for Java**
-Aspose.Tasks for Java is a project management API that enables Java application developers to provide Microsoft Project® document manipulation capability in their applications – all without using Microsoft Project®. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
+Aspose.Tasks for Java is a project management API that enables Java application developers to provide MPP/P6XML document manipulation capability in their applications – all without using Microsoft Project software. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
 
 ### **Aspose.Tasks Java for Ruby**
 Project Aspose.Tasks Java for Ruby shows how different tasks can be performed using Aspose.Tasks Java APIs in Ruby. This project is aimed to provide useful examples for Ruby developers who want to utilize Aspose.Tasks for Java in their Ruby Projects using Rjb (Ruby Java Bridge).
@@ -30,15 +30,16 @@ Project Aspose.Tasks Java for Ruby shows how different tasks can be performed us
 
 - Ruby 2.2.x or above and respective DevKit.
 - Java 1.5 or above
+
 ## **Downloads**
+
 ### **Download Required Libraries**
 Download required libraries mentioned below. These are the required for executing Aspose.Tasks Java for Ruby examples.
 
 - [Aspose.Tasks for Java Component](https://downloads.aspose.com/tasks/java)
+
 ### **Download Examples from Social Coding Sites**
 Following releases of running examples are available to download on below mentioned social coding sites:
-
-**GitHub**
 
 - [Aspose.Tasks Java for Ruby](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/tree/master/Plugins/Aspose_Tasks_Java_for_Ruby)
 
@@ -51,11 +52,10 @@ It is very simple and easy to install Aspose.Tasks Java for Ruby gem, please fol
 1. Run following command.
 
 {{< highlight java >}}
- $ gem install aspose-tasksjava
+$ gem install aspose-tasksjava
 {{< /highlight >}}
 
-1. Download required Aspose.Tasks for Java Component from following link.
-   <https://downloads.aspose.com/tasks/java>
+1. Download required Aspose.Tasks for Java Component from [following link](https://downloads.aspose.com/tasks/java).
 2. Create "jars" folder at root of the Aspose.Tasks Java for Ruby gem and copy downloaded component into it.
 
 ### **Using**
@@ -85,6 +85,7 @@ This is why we offer free support. Anyone who uses our product, whether they hav
 You can log any issues or suggestions related to Aspose.Tasks Java for Ruby using any of the following platforms:
 
 - [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/issues)
+
 ### **Extend and Contribute**
 Aspose.Tasks Java for Ruby is open source and its source code is available on the major social coding websites listed below. Developers are encouraged to download the source code and contribute by suggesting or adding new feature or improving the existing ones, so that others could also benefit from it.
 

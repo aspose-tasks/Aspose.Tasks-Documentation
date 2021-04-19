@@ -38,17 +38,17 @@ This page contains release notes information for [Aspose.Tasks for C++ 20.11](ht
 
 Consider a project with a calendar in which at least one calendar exception is defined:
 
-```cpp
+{{< highlight cpp >}}
 auto project = System::MakeObject<Project>(System::String(u"CalendarWithExceptions.mpp"));
 auto calendar = project->get_Calendars->GetByUid(1);
-```
+{{< /highlight >}}
 
 Before ver. 20.11: days on which the exceptions were effective were added to calendar.WeekDays collection (with DayType 'Exception') along with the "regular" WeekDays.
 
 After ver. 20.11 (including ver. 20.11): calendar.WeekDays contain only "regular" WeekDays.
 You can use CalendarException.GetExceptionDates() method in order to determine on which days the given calendar exception is effective.
 
-```cpp
+{{< highlight cpp >}}
 auto project = System::MakeObject<Project>(System::String(u"CalendarWithExceptions.mpp"));
 auto calendar = project->get_Calendars()->GetByUid(1);
 auto calendarException= calendar->get_Exceptions()->idx_get(0);
@@ -57,7 +57,7 @@ for (auto date : System::IterateOver(calendarException->GetExceptionDates()))
 {
 	std::cout << date << std::endl;
 }
-```
+{{< /highlight >}}
 
 |**The following public types were added:**|**Description**|
 | :- | :- |

@@ -14,7 +14,7 @@ is_root: true
 
 **Welcome to the Aspose.Tasks for C++**
 
-Aspose.Tasks for C++ is a native class library that enables C++ applications to read and write Microsoft Project® files without using Microsoft Project®. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
+Aspose.Tasks for C++ is a native class library that enables C++ applications to read and write MPP/XML files without using Microsoft Project software. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
 {{% /alert %}}
 

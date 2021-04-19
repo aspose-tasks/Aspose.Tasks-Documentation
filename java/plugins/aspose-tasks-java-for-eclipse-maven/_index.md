@@ -13,7 +13,7 @@ Eclipse IDE is a famous Java Integrated Development Environment (IDE). The IDE i
 The Eclipse IDE can be extended with additional software components. Eclipse calls these software components Plug-ins. Several Open Source projects and companies have extended the Eclipse IDE or created standalone applications (Eclipse RCP) on top of the Eclipse framework.
 
 ### **Aspose.Tasks for Java**
-[Aspose.Tasks for Java](https://products.aspose.com/tasks/java) is a project management component that enables Java application developers to provide Microsoft Project ® documents manipulation capability in their applications – all without using Microsoft Project ®.
+[Aspose.Tasks for Java](https://products.aspose.com/tasks/java) is a project management component that enables Java application developers to provide MPP or Project XML documents manipulation capability in their applications – all without using Microsoft Project software.
 
 [Aspose.Tasks for Java](https://products.aspose.com/tasks/java) API exposes the complete project document structure to read and write Microsoft Project documents in both MPP and XML formats. With this powerful API, developers can control various stages of project management, such as project planning, definition and tracking.
 
