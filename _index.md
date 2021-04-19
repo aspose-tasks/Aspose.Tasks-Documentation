@@ -1,6 +1,6 @@
 ---
 title: Aspose.Tasks Product Family
-description: "Aspose.Tasks Product Family is a set of class libraries that enables .NET/Java/C++ applications to generate, modify, convert, render, and print MPP, Primavera XML files without using Microsoft Project or Oracle Primavera software."
+description: "Aspose.Tasks Product Family is a set of libraries that enables .NET/Java/C++ applications to create, modify, convert, and print MPP, Primavera XML files."
 type: docs
 weight: 10
 url: /

@@ -1,6 +1,6 @@
 ---
 title: Aspose.Tasks for .NET API Reference
-description: "Investigate Aspose.Tasks for .NET features by exploring API reference documentation and create, modify, save or export MPP or Primavera (XER/XML) files without using of Microsoft Project."
+description: "Investigate Aspose.Tasks for .NET features by exploring API reference documentation and create, modify, save or export MPP or Primavera (XER/XML) files."
 type: docs
 weight: 30
 url: /net/api-reference/

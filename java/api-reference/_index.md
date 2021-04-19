@@ -1,6 +1,6 @@
 ---
 title: Aspose.Tasks for Java API Reference
-description: "Investigate Aspose.Tasks for Java features by exploring API reference documentation and create, modify, save or export MPP or Primavera (XER/XML) files without using of Microsoft Project."
+description: "Investigate Aspose.Tasks for Java features by exploring API reference documentation and create, modify or export MPP or Primavera (XER/XML) files."
 type: docs
 weight: 30
 url: /java/api-reference/

@@ -1,6 +1,6 @@
 ---
 title: Aspose.Tasks for .NET
-description: "Aspose.Tasks for .NET is a class library that enables .NET applications to generate, modify, convert, render, and print MPP, Primavera XML files without using Microsoft Project or Oracle Primavera software."
+description: "Aspose.Tasks for .NET is a class library that enables .NET applications to create, modify, convert, and print MPP, Primavera XML files."
 type: docs
 weight: 10
 url: /net/

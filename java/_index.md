@@ -1,6 +1,6 @@
 ---
 title: Aspose.Tasks for Java
-description: "Aspose.Tasks for Java is a class library that enables Java applications to generate, modify, convert, render, and print MPP, Primavera XML files without using Microsoft Project or Oracle Primavera software."
+description: "Aspose.Tasks for Java is a class library that enables Java applications to create, modify, convert, and print MPP, Primavera XML files."
 type: docs
 weight: 20
 url: /java/

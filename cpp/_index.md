@@ -1,6 +1,6 @@
 ---
 title: Aspose.Tasks for C++
-description: "Aspose.Tasks for C++ is a class library that enables C++ applications to generate, modify, convert, render, and print MPP, Primavera XML files without using Microsoft Project or Oracle Primavera software."
+description: "Aspose.Tasks for C++ is a class library that enables C++ applications to create, modify, convert, and print MPP, Primavera XML files."
 type: docs
 weight: 30
 url: /cpp/
