@@ -69,15 +69,15 @@ Value.getNumberValue()/Value.setNumberValue(int) property is deprecated and will
 |com.aspose.tasks.ProjectServerManager.getProjectRawData(java.util.UUID)|Gets the project's binary data for troubleshooting purposes.|
 |com.aspose.tasks.ProjectServerManager.getProjectList|Gets the list of published projects in the current Project Online account Project Server instance.|
 |com.aspose.tasks.ProjectServerManager.updateProject(com.aspose.tasks.Project)|Updates existing project in Project Server Online instance using default save options. The existing project will be overwritten.|
-|com.aspose.tasks.ProjectServerManager.updateProject(<br>``com.aspose.tasks.Project,com.aspose.tasks.ProjectServerSaveOptions)|Updates existing project in Project Server Online instance using the specified save options. The existing project will be overwritten.|
+|com.aspose.tasks.ProjectServerManager.updateProject(``com.aspose.tasks.Project,com.aspose.tasks.ProjectServerSaveOptions)|Updates existing project in Project Server Online instance using the specified save options. The existing project will be overwritten.|
 |com.aspose.tasks.ProjectServerManager.createNewProject(com.aspose.tasks.Project)|Creates new project in Project Server Online instance using default save options.|
-|com.aspose.tasks.ProjectServerManager.createNewProject(<br>``com.aspose.tasks.Project,com.aspose.tasks.ProjectServerSaveOptions)|Creates new project in Project Server Online instance using the specified save options.|
+|com.aspose.tasks.ProjectServerManager.createNewProject ``com.aspose.tasks.Project,com.aspose.tasks.ProjectServerSaveOptions)|Creates new project in Project Server Online instance using the specified save options.|
 |com.aspose.tasks.ProjectServerSaveOptions.#ctor|Initializes a new instance of the <see cref="T:com.aspose.tasks.ProjectServerSaveOptions" /> class.|
-|com.aspose.tasks.ProjectServerSaveOptions.getProjectName<br>com.aspose.tasks.ProjectServerSaveOptions.setProjectName(String)|Gets or sets name of a project which is displayed in Project Server Project Online projects list. Should be unique within Project Server Project Online instance.|
-|com.aspose.tasks.ProjectServerSaveOptions.getProjectGuid<br>com.aspose.tasks.ProjectServerSaveOptions.setProjectGuid(java.util.UUID)|Gets or sets unique identifier of a project. Should be unique within Project Server Project Online instance.|
-|com.aspose.tasks.ProjectServerSaveOptions.getTimeout<br>com.aspose.tasks.ProjectServerSaveOptions.setTimeout(double)|Gets or sets timeout used when waiting for processing of save project request by a Project Server's queue processing service. The default value for this property is 1 minute.|
-|com.aspose.tasks.ProjectServerSaveOptions.getPollingInterval<br>com.aspose.tasks.ProjectServerSaveOptions.setPollingInterval(double)|Gets or sets interval between queue job status requests. The default value is 2 seconds.|
-|com.aspose.tasks.BuiltInProjectProperty.getValue*BuiltInProjectProperty*New<br>com.aspose.tasks.BuiltInProjectProperty.setValue*BuiltInProjectProperty*New(String)|Gets or sets the value of the property.|
+|com.aspose.tasks.ProjectServerSaveOptions.getProjectName com.aspose.tasks.ProjectServerSaveOptions.setProjectName(String)|Gets or sets name of a project which is displayed in Project Server Project Online projects list. Should be unique within Project Server Project Online instance.|
+|com.aspose.tasks.ProjectServerSaveOptions.getProjectGuid com.aspose.tasks.ProjectServerSaveOptions.setProjectGuid(java.util.UUID)|Gets or sets unique identifier of a project. Should be unique within Project Server Project Online instance.|
+|com.aspose.tasks.ProjectServerSaveOptions.getTimeout com.aspose.tasks.ProjectServerSaveOptions.setTimeout(double)|Gets or sets timeout used when waiting for processing of save project request by a Project Server's queue processing service. The default value for this property is 1 minute.|
+|com.aspose.tasks.ProjectServerSaveOptions.getPollingInterval com.aspose.tasks.ProjectServerSaveOptions.setPollingInterval(double)|Gets or sets interval between queue job status requests. The default value is 2 seconds.|
+|com.aspose.tasks.BuiltInProjectProperty.getValue*BuiltInProjectProperty*New com.aspose.tasks.BuiltInProjectProperty.setValue*BuiltInProjectProperty*New(String)|Gets or sets the value of the property.|
 |com.aspose.tasks.GenericProperty.getName||
 |com.aspose.tasks.PropertyKeyedCollection.#ctor|Initializes a new instance of the <see cref="T:com.aspose.tasks.PropertyKeyedCollection`1" /> class.|
 |com.aspose.tasks.PropertyKeyedCollection.getNames|Gets the collection of all property names.|
@@ -86,9 +86,9 @@ Value.getNumberValue()/Value.setNumberValue(int) property is deprecated and will
 |com.aspose.tasks.PropertyKeyedCollection.get*Item(String)*|Gets the Property associated with the specified key.|
 |com.aspose.tasks.PropertyKeyedCollection.contains(String)|Determines whether the <see cref="T:com.aspose.tasks.PropertyCollection" /> contains a property with the specified name.|
 |com.aspose.tasks.PropertyKeyedCollection.add(T)|Creates a new custom property.|
-|com.aspose.tasks.ResourceAssignment.getGuid<br>com.aspose.tasks.ResourceAssignment.setGuid(java.util.UUID)|Gets or sets unique identifier for this assignment.|
+|com.aspose.tasks.ResourceAssignment.getGuid com.aspose.tasks.ResourceAssignment.setGuid(java.util.UUID)|Gets or sets unique identifier for this assignment.|
 |com.aspose.tasks.ResourceCollection.clear|Direct clearing is not supported, this method just throw NotSupportedException.|
-|com.aspose.tasks.Value.getNumericValue<br>com.aspose.tasks.Value.setNumericValue(java.math.BigDecimal)|Gets or sets the actual value which is used to represent number or cost value.|
+|com.aspose.tasks.Value.getNumericValue com.aspose.tasks.Value.setNumericValue(java.math.BigDecimal)|Gets or sets the actual value which is used to represent number or cost value.|
 |**The following public methods and properties were deleted:**|**Description**|
 |com.aspose.tasks.GenericProperty.#ctor(System.String)||
 |com.aspose.tasks.PropertyCollection.getNames||

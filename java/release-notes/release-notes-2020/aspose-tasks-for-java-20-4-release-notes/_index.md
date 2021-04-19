@@ -128,9 +128,9 @@ for (BuiltInProjectProperty property : project.getBuiltInProps()) {
 |com.aspose.tasks.CustomProjectPropertyCollection.add(java.lang.String,double)|Creates a new custom property.|
 |com.aspose.tasks.CustomProjectPropertyCollection.add(java.lang.String,java.util.Date)|Creates a new custom property.|
 |com.aspose.tasks.GenericProperty.#ctor(java.lang.String)|Initializes a new instance of the com.aspose.tasks.GenericProperty class.|
-|com.aspose.tasks.GenericProperty.getValue*GenericProperty*New<br>com.aspose.tasks.GenericProperty.setValue*GenericProperty*New(java.lang.Object)|Gets or sets a value of the property.|
+|com.aspose.tasks.GenericProperty.getValue*GenericProperty*New com.aspose.tasks.GenericProperty.setValue*GenericProperty*New(java.lang.Object)|Gets or sets a value of the property.|
 |com.aspose.tasks.Property.getName|Gets the name of the property.|
-|com.aspose.tasks.Property.getValue<br>com.aspose.tasks.Property.setValue(java.lang.Object)|Gets or sets the value of the property.|
+|com.aspose.tasks.Property.getValue com.aspose.tasks.Property.setValue(java.lang.Object)|Gets or sets the value of the property.|
 |com.aspose.tasks.Property.toString|Returns the property value as string.|
 |com.aspose.tasks.PropertyCollection.#ctor|Initializes a new instance of the PropertyCollection class.|
 |com.aspose.tasks.PropertyCollection.getNames|Gets the collection of all property names.|

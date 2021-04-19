@@ -30,7 +30,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 
 |**The following public methods and properties were added:** |**Description** |
 | :- | :- |
-|com.aspose.tasks.HtmlSaveOptions.getIncludeProjectNameInTitle <br>com.aspose.tasks.HtmlSaveOptions.setIncludeProjectNameInTitle(boolean) |Determines whether to include project name in HTML title. |
-|com.aspose.tasks.HtmlSaveOptions.getIncludeProjectNameInPageHeader <br>com.aspose.tasks.HtmlSaveOptions.setIncludeProjectNameInPageHeader(boolean) |Determines whether to include project name in HTML page header. |
+|com.aspose.tasks.HtmlSaveOptions.getIncludeProjectNameInTitle com.aspose.tasks.HtmlSaveOptions.setIncludeProjectNameInTitle(boolean) |Determines whether to include project name in HTML title. |
+|com.aspose.tasks.HtmlSaveOptions.getIncludeProjectNameInPageHeader com.aspose.tasks.HtmlSaveOptions.setIncludeProjectNameInPageHeader(boolean) |Determines whether to include project name in HTML page header. |
 |com.aspose.tasks.Task.moveToSibling(int) |Allows to move task to another position at the same parent |
 

@@ -16,7 +16,7 @@ prj = Rjb::import('com.aspose.tasks.Prj')
 puts "Timephased data of Resource Work"
 result = resource.getTimephasedData(project.get(prj.START_DATE), project.get(prj.FINISH_DATE)).toList()
 i = 0
-while i < result.size()	
+while i < result.size()
     td = result.get(i)
     puts "Start: " + td.getStart().toString()
     puts "Work: " + td.getValue()
@@ -24,7 +24,4 @@ while i < result.size()
 end
 {{< /highlight >}}
 
-## **Download Running Code**
-Download **Read Timephased Data of a Resource (Aspose.Tasks)** from any of the below mentioned social coding sites:
-
-- [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Resources/readtimephasedresourcedata.rb)
+You can download the working code example from [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Resources/readtimephasedresourcedata.rb).

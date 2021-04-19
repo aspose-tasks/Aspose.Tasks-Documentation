@@ -43,7 +43,7 @@ This month's release includes a simplified method for working with custom fields
 |Aspose.Tasks.Value.ValueGuid|Gets a GUID which identifies this value among others in the entire project.|
 |Aspose.Tasks.Value.StringValue|Gets or sets the actual value which is used to represent Text string.|
 |Aspose.Tasks.Value.NumberValue|Gets or sets the actual value which is used to represent integer number.|
-|Aspose.Tasks.Value.DurationValue|Gets or sets the actual value which is used to represent Duration in minutes. Default value is <c>0</c>.|
+|Aspose.Tasks.Value.DurationValue|Gets or sets the actual value which is used to represent Duration in minutes. Default value is 0.|
 |Aspose.Tasks.Value.DateTimeValue|Gets or sets the actual value if it can be represented as DateTime. Default value is <see cref="F:System.DateTime.MinValue" />.|
 |**The following public enumerations were added:**|**Description**|
 |Aspose.Tasks.CalculationType.Lookup|Means the extended attribute has a lookup table to select values from.|

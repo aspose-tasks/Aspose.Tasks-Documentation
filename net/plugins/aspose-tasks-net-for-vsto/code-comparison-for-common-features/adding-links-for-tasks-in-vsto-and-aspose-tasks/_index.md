@@ -19,11 +19,11 @@ To link a task using VSTO:
 Microsoft.Office.Interop.MSProject.Application projectApplication = new MSProject.Application();
 object missingValue = System.Reflection.Missing.Value;
 projectApplication.FileOpenEx("Project.mpp",
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue);
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue);
 Microsoft.Office.Interop.MSProject.Project project = projectApplication.ActiveProject;
 project.Tasks.get_UniqueID(2).TaskDependencies.Add(project.Tasks.get_UniqueID(1), PjTaskLinkType.pjFinishToStart);
 project.Tasks.get_UniqueID(3).TaskDependencies.Add(project.Tasks.get_UniqueID(2), PjTaskLinkType.pjFinishToStart);
@@ -32,11 +32,11 @@ project.Tasks.get_UniqueID(5).TaskDependencies.Add(project.Tasks.get_UniqueID(4)
 project.Tasks.get_UniqueID(5).TaskDependencies.Add(project.Tasks.get_UniqueID(2), PjTaskLinkType.pjFinishToStart);
 foreach (Task tsk in project.Tasks)
 {
-	foreach (TaskDependency dep in project.Tasks.get_UniqueID(tsk.ID).TaskDependencies)
-	{
-		Console.WriteLine("From ID = " + dep.From.ID + "=>To ID = " + dep.To.ID);
-	}
-	Console.WriteLine("____________________________________________________________");
+    foreach (TaskDependency dep in project.Tasks.get_UniqueID(tsk.ID).TaskDependencies)
+    {
+        Console.WriteLine("From ID = " + dep.From.ID + "=>To ID = " + dep.To.ID);
+    }
+    Console.WriteLine("____________________________________________________________");
 }
 projectApplication.FileCloseAll(Microsoft.Office.Interop.MSProject.PjSaveType.pjSave);
 {{< /highlight >}}
@@ -66,8 +66,8 @@ prj.AddTaskLink(taskLink);
 ArrayList allLinks = new ArrayList(prj.TaskLinks);
 foreach (TaskLink taskLink1 in allLinks)
 {
-	Console.WriteLine("From ID = " + taskLink1.PredTask.Id + "=>To ID = " + taskLink1.SuccTask.Id);
-	Console.WriteLine("________________________________________");
+    Console.WriteLine("From ID = " + taskLink1.PredTask.Id + "=>To ID = " + taskLink1.SuccTask.Id);
+    Console.WriteLine("________________________________________");
 }
 prj.Save("Project1.mpp", Aspose.Tasks.Saving.SaveFileFormat.MPP);
 {{< /highlight >}}

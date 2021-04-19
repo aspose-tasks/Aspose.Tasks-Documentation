@@ -77,7 +77,7 @@ foreach (var property in project.BuiltInProps)
 | Aspose.Tasks.Properties.Property | Represents a base class of a property. |
 | Aspose.Tasks.Properties.PropertyCollection\`1 | A base class of collection of properties. |
 | **The following public methods and properties were added:** | **Description** |
-| Aspose.Tasks.ApsLayoutBuilderOutOfMemoryException.#ctor(System.Runtime.Serialization.SerializationInfo,<br>System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="ApsLayoutBuilderOutOfMemoryException"/> class. |
+| Aspose.Tasks.ApsLayoutBuilderOutOfMemoryException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="ApsLayoutBuilderOutOfMemoryException"/> class. |
 | Aspose.Tasks.Baseline.Equals(Aspose.Tasks.Baseline) | Returns a value indicating whether this instance is equal to a specified object. |
 | Aspose.Tasks.Baseline.Equals(System.Object) | Returns a value indicating whether this instance is equal to a specified object. |
 | Aspose.Tasks.Baseline.op*Equality(Aspose.Tasks.Baseline,Aspose.Tasks.Baseline)* | Returns a value indicating whether this instance is equal to a specified object. |
@@ -87,8 +87,8 @@ foreach (var property in project.BuiltInProps)
 | Aspose.Tasks.Baseline.op*GreaterThanOrEqual(Aspose.Tasks.Baseline,Aspose.Tasks.Baseline)* | Returns a value indicating whether this instance is greater than or equal to a specified object. |
 | Aspose.Tasks.Baseline.op*LessThanOrEqual(Aspose.Tasks.Baseline,Aspose.Tasks.Baseline)* | Returns a value indicating whether this instance is less than or equal to a specified object. |
 | Aspose.Tasks.Baseline.GetHashCode | Returns a hash code value for the baseline. |
-| Aspose.Tasks.BitmapInvalidSizeException.#ctor(System.Runtime.Serialization.SerializationInfo,<br>System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="BitmapInvalidSizeException"/> class. |
-| Aspose.Tasks.CompoundDocumentHeaderException.#ctor(System.Runtime.Serialization.SerializationInfo,<br>System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="CompoundDocumentHeaderException"/> class. |
+| Aspose.Tasks.BitmapInvalidSizeException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="BitmapInvalidSizeException"/> class. |
+| Aspose.Tasks.CompoundDocumentHeaderException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="CompoundDocumentHeaderException"/> class. |
 | Aspose.Tasks.Duration.op*Equality(Aspose.Tasks.Duration,Aspose.Tasks.Duration)* | Returns a value indicating whether this instance is equal to a specified object. |
 | Aspose.Tasks.Duration.op*Inequality(Aspose.Tasks.Duration,Aspose.Tasks.Duration)* | Returns a value indicating whether this instance is not equal to a specified object. |
 | Aspose.Tasks.Filter.Equals(Aspose.Tasks.Filter) | Returns a value indicating whether this instance is equal to the specified AssignmentBaseline object. |
@@ -100,13 +100,13 @@ foreach (var property in project.BuiltInProps)
 | Aspose.Tasks.Filter.op*GreaterThan(Aspose.Tasks.Filter,Aspose.Tasks.Filter)* | Returns a value indicating whether this instance is greater than a specified object. |
 | Aspose.Tasks.Filter.op*GreaterThanOrEqual(Aspose.Tasks.Filter,Aspose.Tasks.Filter)* | Returns a value indicating whether this instance is greater than or equal to a specified object. |
 | Aspose.Tasks.Filter.op*LessThanOrEqual(Aspose.Tasks.Filter,Aspose.Tasks.Filter)* | Returns a value indicating whether this instance is less than or equal to a specified object. |
-| Aspose.Tasks.InvalidPasswordException.#ctor(System.Runtime.Serialization.SerializationInfo,<br>System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="InvalidPasswordException"/> class. |
-| Aspose.Tasks.NoPrinterInstalledException.#ctor(System.Runtime.Serialization.SerializationInfo,<br>System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="NoPrinterInstalledException"/> class. |
+| Aspose.Tasks.InvalidPasswordException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="InvalidPasswordException"/> class. |
+| Aspose.Tasks.NoPrinterInstalledException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="NoPrinterInstalledException"/> class. |
 | Aspose.Tasks.NullableBool.op*Equality(Aspose.Tasks.NullableBool,Aspose.Tasks.NullableBool)* | Returns a value indicating whether this instance is equal to a specified object. |
 | Aspose.Tasks.NullableBool.op*Inequality(Aspose.Tasks.NullableBool,Aspose.Tasks.NullableBool)* | Returns a value indicating whether this instance is not equal to a specified object. |
 | Aspose.Tasks.Project.BuiltInProps | Gets project's built-in properties collection. |
 | Aspose.Tasks.Project.CustomProps | Gets project's custom properties collection. |
-| Aspose.Tasks.ProjectOnlineException.#ctor(System.Runtime.Serialization.SerializationInfo,<br>System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.ProjectOnlineException" /> class. |
+| Aspose.Tasks.ProjectOnlineException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.ProjectOnlineException" /> class. |
 | Aspose.Tasks.Properties.BuiltInProjectPropertyCollection.IsReadOnly | Gets a value indicating whether this collection is read-only; otherwise, false. |
 | Aspose.Tasks.Properties.BuiltInProjectPropertyCollection.Title | Gets or sets the title of a project. |
 | Aspose.Tasks.Properties.BuiltInProjectPropertyCollection.Subject | Gets or sets the subject of a project. |
@@ -137,9 +137,9 @@ foreach (var property in project.BuiltInProps)
 | Aspose.Tasks.Properties.PropertyCollection\`1.IsReadOnly | Gets a value indicating whether this collection is read-only; otherwise, false. |
 | Aspose.Tasks.Properties.PropertyCollection\`1.Item(System.String) | Gets the Property associated with the specified key. |
 | Aspose.Tasks.Properties.PropertyCollection\`1.Contains(System.String) | Determines whether the <see cref="T:Aspose.Tasks.Properties.PropertyCollection\`1" /> contains a property with the specified name. |
-| Aspose.Tasks.TasksException.#ctor(System.Runtime.Serialization.SerializationInfo,<br>System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="TasksException"/> class. |
-| Aspose.Tasks.TasksLoggedException.#ctor(System.Runtime.Serialization.SerializationInfo,<br>System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="TasksLoggedException"/> class. |
-| Aspose.Tasks.ValidationException.#ctor(System.Runtime.Serialization.SerializationInfo,<br>System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="ValidationException"/> class. |
+| Aspose.Tasks.TasksException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="TasksException"/> class. |
+| Aspose.Tasks.TasksLoggedException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="TasksLoggedException"/> class. |
+| Aspose.Tasks.ValidationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="ValidationException"/> class. |
 | Aspose.Tasks.View.op*Equality(Aspose.Tasks.View,Aspose.Tasks.View)* | Returns a value indicating whether this instance is equal to a specified object. |
 | Aspose.Tasks.View.op*Inequality(Aspose.Tasks.View,Aspose.Tasks.View)* | Returns a value indicating whether this instance is not equal to a specified object. |
 | Aspose.Tasks.View.op*LessThan(Aspose.Tasks.View,Aspose.Tasks.View)* | Returns a value indicating whether this instance is less than a specified object. |

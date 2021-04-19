@@ -22,11 +22,11 @@ To add a task using VSTO:
 Microsoft.Office.Interop.MSProject.Application projectApplication = new MSProject.Application();
 object missingValue = System.Reflection.Missing.Value;
 projectApplication.FileOpenEx("Project2.mpp",
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue);
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue);
 Microsoft.Office.Interop.MSProject.Project project = projectApplication.ActiveProject;
 Microsoft.Office.Interop.MSProject.Task task;
 task = project.Tasks.Add("Task1", 1);

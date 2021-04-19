@@ -55,7 +55,7 @@ auto calendarException= calendar->get_Exceptions()->idx_get(0);
 
 for (auto date : System::IterateOver(calendarException->GetExceptionDates()))
 {
-	std::cout << date << std::endl;
+  std::cout << date << std::endl;
 }
 {{< /highlight >}}
 

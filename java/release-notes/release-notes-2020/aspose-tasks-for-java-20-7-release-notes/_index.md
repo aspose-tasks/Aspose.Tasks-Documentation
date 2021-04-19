@@ -48,9 +48,9 @@ This page contains release notes information for [Aspose.Tasks for Java 20.7](ht
 | :- | :- |
 |com.aspose.tasks.GanttBarShowFor|Represents categories of tasks used when customizing Bar Styles of Gantt chart.|
 |**The following public methods and properties were added:**|**Description**|
-|com.aspose.tasks.GanttBarStyle.getShowForCategories<br>com.aspose.tasks.GanttBarStyle.setShowForCategories|Gets or sets task categories for which the style is applied. Is applicable for parent (or common) styles of bars in Gantt chart|
-|com.aspose.tasks.GanttBarStyle.getShowForTaskUid<br>com.aspose.tasks.GanttBarStyle.setShowForTaskUid|Gets or sets Unique Id of a task for which the style is applied. Is applicable for task-specific styles of bars in Gantt chart (see <see cref="P:com.aspose.tasks.GanttChartView.CustomBarStyles" />).|
-|com.aspose.tasks.GanttBarStyle.getParentStyle<br>com.aspose.tasks.GanttBarStyle.setParentStyle|Gets or sets parent (or common) style for custom task-specific style.|
+|com.aspose.tasks.GanttBarStyle.getShowForCategories com.aspose.tasks.GanttBarStyle.setShowForCategories|Gets or sets task categories for which the style is applied. Is applicable for parent (or common) styles of bars in Gantt chart|
+|com.aspose.tasks.GanttBarStyle.getShowForTaskUid com.aspose.tasks.GanttBarStyle.setShowForTaskUid|Gets or sets Unique Id of a task for which the style is applied. Is applicable for task-specific styles of bars in Gantt chart (see <see cref="P:com.aspose.tasks.GanttChartView.CustomBarStyles" />).|
+|com.aspose.tasks.GanttBarStyle.getParentStyle com.aspose.tasks.GanttBarStyle.setParentStyle|Gets or sets parent (or common) style for custom task-specific style.|
 |com.aspose.tasks.AssignmentBaselineCollection.get(int)|Returns the element at the specified index.|
 |com.aspose.tasks.AssignmentBaselineCollection.add(com.aspose.tasks.AssignmentBaseline)|This is the stub implementation of Collection's add method, that only throws UnsupportedOperationException|
 |com.aspose.tasks.BaselineCollection.get(int)|Returns the element at the specified index.|

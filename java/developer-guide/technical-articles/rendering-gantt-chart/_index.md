@@ -70,6 +70,7 @@ project.save("RollUpGanttBars.pdf", options);
 **Output from example 2** 
 
 ![export MPP as Gannt chart PDF](rendering-gantt-chart_2.png)
+
 ## **Customizing Text with Task Bars**
 In this example, the text on the right of the task bar can be customized by delegate instance. Here we customize text on the critical tasks.
 
@@ -80,7 +81,7 @@ long OneHour = 60 * OneMin;
 Project project = new Project();
 Task task1 = project.addTask("Task 1");
 Task task2 = project.addTask("Task 2");
-double dDuration = OneHour * 8.0 * 3.0;	//3 days tasks
+double dDuration = OneHour * 8.0 * 3.0; //3 days tasks
 task1.setDuration((long) dDuration);
 task1.setDuration((long) dDuration);
 TaskLink link = new TaskLink(task1, task2, TaskLinkType.FinishToStart);
@@ -120,11 +121,11 @@ SaveOptions options = new PdfSaveOptions();
 options.setTimescale(Timescale.Months);
 options.setView(ProjectView.getDefaultGanttChartView());
 GanttChartColumn col = (GanttChartColumn) options.getView().getColumns().get(2);// as GanttChartColumn;
-col.setStringAlignment(1);	//center
+col.setStringAlignment(1); // center
 col = (GanttChartColumn) options.getView().getColumns().get(3);
-col.setStringAlignment(2);	//far
+col.setStringAlignment(2); // far
 col = (GanttChartColumn) options.getView().getColumns().get(4);
-col.setStringAlignment(2);	//far
+col.setStringAlignment(2); // far
 project.save("result GanttChart.pdf", options);
 options.setPresentationFormat(PresentationFormat.ResourceSheet);
 ResourceViewColumn col1 = (ResourceViewColumn) options.getView().getColumns().get(2);

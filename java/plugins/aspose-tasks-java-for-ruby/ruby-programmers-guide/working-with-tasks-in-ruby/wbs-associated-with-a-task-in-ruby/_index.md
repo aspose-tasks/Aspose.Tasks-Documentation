@@ -26,7 +26,4 @@ while i < tasks.size()
 end
 {{< /highlight >}}
 
-## **Download Running Code**
-Download **WBS Associated with a Task (Aspose.Tasks)** from any of the below mentioned social coding sites:
-
-- [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Tasks/wbsassociatedwithtask.rb)
+You can download the working code example from [GitHub](https://github.com/aspose-tasks/Aspose.Tasks-for-Java/blob/master/Plugins/Aspose_Tasks_Java_for_Ruby/lib/asposetasksjava/Tasks/wbsassociatedwithtask.rb).

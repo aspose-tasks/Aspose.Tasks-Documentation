@@ -43,7 +43,7 @@ Aspose.Tasks for Java API enables application developers to write code for manip
 |com.aspose.tasks.Value.getValueGuid|Gets a GUID which identifies this value among others in the entire project.|
 |com.aspose.tasks.Value.getStringValue/setStringValue|Gets or sets the actual value which is used to represent Text string.|
 |com.aspose.tasks.Value.getNumberValue/setNumberValue|Gets or sets the actual value which is used to represent integer number.|
-|com.aspose.tasks.Value.getDurationValue/setDurationValue|Gets or sets the actual value which is used to represent Duration in minutes. Default value is <c>0</c>.|
+|com.aspose.tasks.Value.getDurationValue/setDurationValue|Gets or sets the actual value which is used to represent Duration in minutes. Default value is 0.|
 |com.aspose.tasks.Value.getDateTimeValue/setDateTimeValue|Gets or sets the actual value if it can be represented as DateTime. Default value is "com.aspose.ms.System.DateTime.MinValue".|
 |**The following public enumerations were added:**|**Description**|
 |com.aspose.tasks.CalculationType.Lookup|Means the extended attribute has a lookup table to select values from.|

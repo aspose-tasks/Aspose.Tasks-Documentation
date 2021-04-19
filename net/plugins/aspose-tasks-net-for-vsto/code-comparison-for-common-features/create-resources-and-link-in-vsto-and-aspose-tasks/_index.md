@@ -21,19 +21,19 @@ Microsoft.Office.Interop.MSProject.Application projectApplication = new MSProjec
 object missingValue = System.Reflection.Missing.Value;
 //Open an MPP file
 projectApplication.FileOpenEx("Project1.mpp",
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue);
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue);
 Microsoft.Office.Interop.MSProject.Project project = projectApplication.ActiveProject;
 int iResourceId = 1;
 foreach (Task tsk in project.Tasks)
 {
-	string developer = "Developer0" + iResourceId;
-	project.Resources.Add(developer, iResourceId);
-	tsk.Assignments.Add(tsk.ID, iResourceId, missingValue);
-	iResourceId++;
+    string developer = "Developer0" + iResourceId;
+    project.Resources.Add(developer, iResourceId);
+    tsk.Assignments.Add(tsk.ID, iResourceId, missingValue);
+    iResourceId++;
 }
 projectApplication.FileCloseAll(Microsoft.Office.Interop.MSProject.PjSaveType.pjSave);
 {{< /highlight >}}
@@ -55,15 +55,15 @@ TaskUtils.Apply(prj.RootTask, collector, 0);
 ArrayList resources = new ArrayList();
 for (int i = 1; i <= 5; i++)
 {
-	string developer = "Developer0" + i;
-	// Create resource
-	Resource rec = new Resource(developer);
-	rec.Type = ResourceType.Work;
-	// Add resource to project
-	prj.Resources.Add(rec);
-	// define assignment
-	ResourceAssignment assignment = new ResourceAssignment((Aspose.Tasks.Task)collector.Tasks[i], rec);
-	prj.ResourceAssignments.Add(assignment);
+    string developer = "Developer0" + i;
+    // Create resource
+    Resource rec = new Resource(developer);
+    rec.Type = ResourceType.Work;
+    // Add resource to project
+    prj.Resources.Add(rec);
+    // define assignment
+    ResourceAssignment assignment = new ResourceAssignment((Aspose.Tasks.Task)collector.Tasks[i], rec);
+    prj.ResourceAssignments.Add(assignment);
 }
 prj.CalcResourceUids();
 prj.CalcResourceIds();

@@ -22,44 +22,44 @@ Application projectApplication = new MSProject.Application();
 object missingValue = System.Reflection.Missing.Value;
 //Open an MPP file
 projectApplication.FileOpenEx("Project1.mpp",
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
-	missingValue, missingValue, missingValue, missingValue,
-	missingValue);
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue, missingValue, PjPoolOpen.pjPoolReadOnly,
+    missingValue, missingValue, missingValue, missingValue,
+    missingValue);
 //Create a Project object by assigning active project
 Project project = projectApplication.ActiveProject;
 //Loop through each task and read information related to tasks
 foreach (Task task in project.Tasks)
 {
-	Console.WriteLine("Reading Task " + task.Name);
-	Console.WriteLine("\nID: " + task.ID);
-	Console.WriteLine("Start: " + task.Start);
-	Console.WriteLine("Finish: " + task.Finish);
-	Console.WriteLine("\n===========================\n");
-	//Read any other information you need
+    Console.WriteLine("Reading Task " + task.Name);
+    Console.WriteLine("\nID: " + task.ID);
+    Console.WriteLine("Start: " + task.Start);
+    Console.WriteLine("Finish: " + task.Finish);
+    Console.WriteLine("\n===========================\n");
+    //Read any other information you need
 }
 //Loop through each resource and read information related to resources
 foreach (Resource resource in project.Resources)
 {
-	string resourceType = null;
-	switch (resource.Type)
-	{
-		case PjResourceTypes.pjResourceTypeCost:
-			resourceType = "Cost";
-			break;
-		case PjResourceTypes.pjResourceTypeMaterial:
-			resourceType = "Material";
-			break;
-		case PjResourceTypes.pjResourceTypeWork:
-			resourceType = "Work";
-			break;
-	}
-	Console.WriteLine("Reading Resource " + resource.Name);
-	Console.WriteLine("\nID: " + resource.ID);
-	Console.WriteLine("Type: " + resourceType);
-	Console.WriteLine("\n===========================\n");
-	//Read any other information you need
+    string resourceType = null;
+    switch (resource.Type)
+    {
+        case PjResourceTypes.pjResourceTypeCost:
+            resourceType = "Cost";
+            break;
+        case PjResourceTypes.pjResourceTypeMaterial:
+            resourceType = "Material";
+            break;
+        case PjResourceTypes.pjResourceTypeWork:
+            resourceType = "Work";
+            break;
+    }
+    Console.WriteLine("Reading Resource " + resource.Name);
+    Console.WriteLine("\nID: " + resource.ID);
+    Console.WriteLine("Type: " + resourceType);
+    Console.WriteLine("\n===========================\n");
+    //Read any other information you need
 }
 Console.ReadLine();
 {{< /highlight >}}
@@ -78,34 +78,34 @@ Project project = reader.Read("Project.mpp");
 ArrayList allTasks =new ArrayList(project.RootTask.Children);
 foreach (Aspose.Tasks.Task task in allTasks)
 {
-	Console.WriteLine("Reading Task " + task.Name);
-	Console.WriteLine("\nID: " + task.Id);
-	Console.WriteLine("Start: " + task.Start);
-	Console.WriteLine("Finish: " + task.Finish);
-	Console.WriteLine("\n===========================\n");
+    Console.WriteLine("Reading Task " + task.Name);
+    Console.WriteLine("\nID: " + task.Id);
+    Console.WriteLine("Start: " + task.Start);
+    Console.WriteLine("Finish: " + task.Finish);
+    Console.WriteLine("\n===========================\n");
 }
 
 //Loop through each resource and read information related to resources
 foreach (Resource resource in project.Resources)
 {
-	string resourceType = null;
-	switch (resource.Type)
-	{
-		case ResourceType.Material:
-			resourceType = "Material";
-			break;
-		case ResourceType.Work:
-			resourceType = "Work";
-			break;
-		default:
-			resourceType = "Cost";
-			break;
-	}
+    string resourceType = null;
+    switch (resource.Type)
+    {
+        case ResourceType.Material:
+            resourceType = "Material";
+            break;
+        case ResourceType.Work:
+            resourceType = "Work";
+            break;
+        default:
+            resourceType = "Cost";
+            break;
+    }
 
-	Console.WriteLine("Reading Resource " + resource.Name);
-	Console.WriteLine("\nID: " + resource.Id);
-	Console.WriteLine("Type: " + resourceType);
-	Console.WriteLine("\n===========================\n");
+    Console.WriteLine("Reading Resource " + resource.Name);
+    Console.WriteLine("\nID: " + resource.Id);
+    Console.WriteLine("Type: " + resourceType);
+    Console.WriteLine("\n===========================\n");
 }
 {{< /highlight >}}
 
