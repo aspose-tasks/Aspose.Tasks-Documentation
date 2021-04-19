@@ -25,6 +25,7 @@ Project Aspose.Tasks Java for Ruby shows how different tasks can be performed us
 
 - Rjb Gem is configured
 - Downloaded Aspose.Tasks component
+
 ### **Supported Platforms**
 **Following are the supported platforms:**
 

@@ -10,8 +10,6 @@ url: /cpp/product-overview/
 
 ![Aspose.Tasks for C++ Logo](product-overview_1.png)
 
-**Welcome to the Aspose.Tasks for C++**
-
 Aspose.Tasks for C++ is a native class library that enables C++ applications to read and write MPP/XML files without using Microsoft Project software. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
 {{% /alert %}}
@@ -78,6 +76,7 @@ If you have an issue, follow these simple steps to make sure it is resolved effi
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.
 
 Aspose does not provide technical support over the phone. Phone support is only available for sales and purchase questions.
+
 ## **Resources**
 This table lists important Aspose.Tasks for C++ technical resources.
 
