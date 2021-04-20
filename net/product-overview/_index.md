@@ -25,26 +25,27 @@ Aspose.Tasks for .NET supports MPP, MPT, XML, XLSX, HTML, PDF, XAML and other fo
 Aspose.Tasks offers a wide arrange of features for creating, reading, manipulating and saving project files:
 
 - Read, change and write Microsoft Project or Oracle Primavera documents - MPP/XML/P6XML formats are supported.
-- Read MPP projects (native Microsoft Project format and Microsoft Project Online format) and XML project formats. Microsoft Project 2003, 2007, 2010, 2013, 2016 and 2019 MPP formats are supported
-- Create, update and write projects in XML project format
-- Read MPP project files, update their summary information and write them in original MPP format
-- Read MPP project files and convert them to XML format using Aspose.Tasks for .NET (the XML can be manipulated by implementing a custom XML parser)
-- Change main project settings like schedule type, start and finish dates
-- Change default project settings like default standard rate, default overtime rate, default task type, default fixed cost accrual, etc
-- Manage extended attributes
-- Define weekdays for the project
-- Define weekdays for calendars and calendar exceptions
-- Read and write calendars for tasks and resources
-- Manage task baseline scheduling and duration
-- Handle constraints on tasks
-- Create and manage links between tasks
-- Read, change and create tasks, milestone, estimated critical or effort driven tasks
-- Manage resources costs and variances
-- Access assignment costs and budget
-- Support for the encoding of MPX files
-- Resource prefix implementation for nested resources
-- Support of setting CSS prefix for HTML export
-- Set custom date format while exporting to PDF format
+- Read MPP projects (native Microsoft Project format and Microsoft Project Online format) and XML project formats. Microsoft Project 2003, 2007, 2010, 2013, 2016 and 2019 MPP formats are supported.
+- Create, update and write projects in XML project format.
+- Read MPP project files, update their summary information and write them in original MPP format.
+- Read MPP project files and convert them to XML format using Aspose.Tasks for .NET (the XML can be manipulated by implementing a custom XML parser).
+- Change main project settings like schedule type, start and finish dates.
+- Change default project settings like default standard rate, default overtime rate, default task type, default fixed cost accrual, etc.
+- Manage extended attributes.
+- Define weekdays for the project.
+- Define weekdays for calendars and calendar exceptions.
+- Read and write calendars for tasks and resources.
+- Manage task baseline scheduling and duration.
+- Handle constraints on tasks.
+- Create and manage links between tasks.
+- Read, change and create tasks, milestone, estimated critical or effort driven tasks.
+- Manage resources costs and variances.
+- Access assignment costs and budget.
+- Support for the encoding of MPX files.
+- Resource prefix implementation for nested resources.
+- Support of setting CSS prefix for HTML export.
+- Set custom date format while exporting to PDF format.
+- Reading of [VBA information](/tasks/net/reading-vba-information-from-mpp-file/) (references, modules, module attributes) from MPP is supported.
 
 ### **Platform Independence**
 Use Aspose.Tasks for .NET to build any type of 32-bit or 64-bit .NET application including ASP.NET, WCF, WPF, Web Services, and WinForms. It is possible to use Aspose.Tasks for .NET via COM Interop from ASP, Perl, PHP and Python. You can also use Aspose.Tasks for .NET to build applications with Mono. 

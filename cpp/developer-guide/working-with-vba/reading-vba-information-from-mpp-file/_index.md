@@ -9,9 +9,9 @@ url: /cpp/reading-vba-information-from-mpp-file/
 
 Aspose.Tasks for C++ API provides support for reading VBA information from MPP file. This includes working with:
 
-- VBA Information
-- Modules information contained in the Project
-- References Information stored in the Project
+- VBA Information.
+- Modules information contained in the project.
+- References Information stored in the project.
 
 The VbaProject class is the main class for reading the VBA information from the project file. This further has Modules and References collection for reading further details of the VBA project file. This article demonstrates the usage of all these with the help of code samples.
 

@@ -9,9 +9,9 @@ url: /net/reading-vba-information-from-mpp-file/
 
 Aspose.Tasks for .NET API provides support for reading VBA information from the MPP file. This includes working with:
 
-- VBA Information
-- Modules information contained in the Project
-- References Information stored in the Project
+- VBA Information.
+- Modules information contained in the project.
+- References Information stored in the project.
 
 The [VbaProject](https://apireference.aspose.com/tasks/net/aspose.tasks/vbaproject) class is the main class for reading the VBA information from the project file. This further has [Modules](https://apireference.aspose.com/tasks/net/aspose.tasks/vbaproject/properties/modules) and [References](https://apireference.aspose.com/tasks/net/aspose.tasks/vbaproject/properties/references) collection for reading further details of the VBA project file. This article demonstrates the usage of all these with the help of code samples.
 

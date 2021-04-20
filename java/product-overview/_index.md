@@ -23,8 +23,8 @@ Using Aspose.Tasks for Java in your applications gives you the following benefit
 Aspose.Tasks offers a wide arrange of features for creating, reading, manipulating and saving project files:
 
 - Read, change and write Microsoft Project MPP/XML documents.
-- Read MPP projects (native Microsoft Project format and Microsoft Office 365 Project Online format) and XML project formats. Microsoft Project 2003, 2007, 2010, 2013 and 2016 MPP formats are supported
-- Create, update and write projects in an XML project format. Microsoft Project 2003, 2007, 2010, 2013 and 2016 are supported.
+- Read MPP projects (native Microsoft Project format and Microsoft Office 365 Project Online format) and XML project formats. All versions from Microsoft Project 2003 to Microsoft Project 2019 MPP formats are supported.
+- Create, update and write projects in an XML project format. The versions from Microsoft Project 2003 to Microsoft Project 2019 are supported.
 - Read MPP project files, update their summary information and write them in original MPP format.
 - Read MPP project files and convert them to XML format using Aspose.Tasks for Java (the XML can be manipulated by implementing a custom XML parser).
 - Change main project settings like schedule type, start and finish dates.
@@ -39,13 +39,16 @@ Aspose.Tasks offers a wide arrange of features for creating, reading, manipulati
 - Read, change and create tasks, milestone, estimated critical or effort driven tasks.
 - Manage resources costs and variances.
 - Access assignment costs and budget.
-- Resource prefix implementation for nested resources
+- Resource prefix implementation for nested resources. 
 
 ### **Platform Independence**
 Use Aspose.Tasks for Java to build any type of 32-bit or 64-bit Java applications that can be run on any machine having Java Runtime installed. Aspose.Tasks for Java can be used in a variety of applications including Web as well as Desktop applications.
 
 ### **Performance and Scalability**
 Ported from its equivalent .NET version, Aspose.Tasks for Java is a stable API that can be deployed on the server as well as client-side with applications. No other modules or services are required for its functionality.
+
+### **Plugin Support**
+Aspose.Tasks for Java has to be extended by plugins to [Ruby](/tasks/java/aspose-tasks-java-for-ruby/) and [PHP](/https://docs.aspose.com/tasks/java/aspose-tasks-java-for-php/). Also the project wizards for [IntelliJ IDEA](/tasks/java/aspose-tasks-java-for-intellij-idea-maven/) and [Eclipse](/tasks/java/aspose-tasks-java-for-eclipse-maven/) are available.
 
 ## **Technical Support**
 Aspose provides unlimited free technical support for all its products. The support is available to all users, including ones running an evaluation.
@@ -57,12 +60,13 @@ When expecting a reply in the forums, please allow for time zone differences.
 ### **Reporting an Issue**
 If you have an issue, follow these simple steps to make sure it is resolved efficiently:
 
-- Make sure you use the latest version of the product before reporting an issue. See the [Aspose.Tasks for Java download page](https://downloads.aspose.com/tasks/java) to find out about the latest version.
+- Make sure you use the latest version of the product before reporting an issue. See the Aspose.Tasks for Java [download page](https://downloads.aspose.com/tasks/java) to find out about the latest version.
 - Have a look through the [forums](https://forum.aspose.com/), this documentation Wiki and the [API Reference](https://apireference.aspose.com/tasks/java) before reporting an issue. Your question may already have an answer.
 - When reporting an issue, please include the original document and possibly a fragment of your code that causes the problem. If you need to attach multiple files, ZIP them into one. It is safe to attach your documents in the forums since only you and Aspose's developers have access to the attached files.
 - Please try to report one issue per thread. If you have another issue, report it in a separate thread.
 
 Aspose does not provide technical support over the phone. Phone support is only available for sales and purchase questions.
+
 ## **Resources**
 This table lists important Aspose.Tasks for Java technical resources.
 
@@ -72,4 +76,3 @@ This table lists important Aspose.Tasks for Java technical resources.
 |[Aspose.Tasks blog](https://blog.aspose.com/category/tasks/)|Check this often for information about new releases and useful tips about Aspose.Tasks.|
 |[Aspose.Tasks for Java support forum](https://forum.aspose.com/c/tasks/15)|Post your questions and issues here for a speedy resolution.|
 |[Aspose.Tasks for Java product documentation](/tasks/java/)|Full online documentation that includes this documentation as well as Aspose.Tasks for Java API Reference.|
-
