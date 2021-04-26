@@ -21,7 +21,7 @@ This page contains release notes information for [Aspose.Tasks for C++ 21.3](htt
 | TASKSNET-4700 | Fix wrong Resource Usage when exporting MPP - Microsoft Project 365 | Bug |
 | TASKSNET-4699 | Task names disappearing when saving MPP file | Bug |
 | TASKSNET-4673 | Fix disappearing of task names after MPP resave | Bug |
-| TASKSNET-4721 | Fix incorrect timephased data shown when .MPP file is opened in MS Project | Bug |
+| TASKSNET-4721 | Fix incorrect timephased data shown when .MPP file is opened in MS-Project | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
 |**The following public enumerations were added:**|**Description**|
