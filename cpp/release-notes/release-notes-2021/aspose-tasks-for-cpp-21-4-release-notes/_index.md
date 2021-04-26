@@ -49,7 +49,7 @@ You can use CalculationMode.None to set the value Tsk.Id on your own risk, but t
 {{< highlight cpp >}}
 System::SharedPtr<Project> project = System::MakeObject<Project>();
 auto task = project->get_RootTask()->get_Children()->Add(u"task 1");
-// task->Set<int32_t>(Tsk::Id(), 100); // Throws System.InvalidOperationException in Aspose.Tasks for C++ 21.4.    
+// task->Set<int32_t>(Tsk::Id(), 100); // Throws System.InvalidOperationException in Aspose.Tasks for C++ 21.4.
 project->set_CalculationMode(Aspose::Tasks::CalculationMode::None);
 task->Set<int32_t>(Tsk::Id(), 100);
 System::Console::WriteLine(task->Get<int32_t>(Tsk::Id())); // Outputs 100
@@ -67,14 +67,14 @@ auto project = System::MakeObject<Project>();
 auto task1 = project->get_RootTask()->get_Children()->Add(u"Task 1");
 auto task2 = project->get_RootTask()->get_Children()->Add(u"Task 2");
 auto task3 = project->get_RootTask()->get_Children()->Add(u"Task 3");
-    
+
 System::Console::WriteLine(u"Task1.Id: {0}", task1->Get<int32_t>(Tsk::Id()));
 System::Console::WriteLine(u"Task2.Id: {0}", task2->Get<int32_t>(Tsk::Id()));
 System::Console::WriteLine(u"Task3.Id: {0}", task3->Get<int32_t>(Tsk::Id()));
-    
+
 System::Console::WriteLine();
 auto task11 = task1->get_Children()->Add(u"Task 11");
-    
+
 System::Console::WriteLine(u"Task1.Id: {0}", task1->Get<int32_t>(Tsk::Id()));
 System::Console::WriteLine(u"Task11.Id: {0}", task11->Get<int32_t>(Tsk::Id()));
 System::Console::WriteLine(u"Task2.Id: {0}", task2->Get<int32_t>(Tsk::Id()));
@@ -83,7 +83,7 @@ System::Console::WriteLine(u"Task3.Id: {0}", task3->Get<int32_t>(Tsk::Id()));
 
 The output is 
 
-{{< highlight >}}
+{{< highlight text>}}
 Task1.Id: 1
 Task2.Id: 2
 Task3.Id: 3
