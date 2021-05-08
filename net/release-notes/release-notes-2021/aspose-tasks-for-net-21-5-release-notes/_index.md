@@ -61,7 +61,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 21.5](ht
 
 Related issue: TASKSNET-4832 - Add an API to specify View object to render when saving project to PDF, Html and Image formats.
 
-Now you can specify the view to render explicitly. The feature can be useful when several view were defined for the same View screen in MPP project.
+Now you can specify the view to render explicitly. The feature can be useful when several views were defined for the same View screen in MPP project.
 For example there can be several Gantt chart views with different view options defined in MPP project file.
 Prior to v. 21.5:
 
@@ -95,11 +95,10 @@ saveOptions.Timescale = Timescale.DefinedInView;
 saveOptions.ViewSettings = ganttChartView;
 
 // Bar styles can be either task-specific (located in GanttChartView.CustomBarStyles)
-// of category-specific (located in GanttChartView.CustomBarStyles)
+// of category-specific (located in GanttChartView.BarStyles)
 
 foreach (GanttBarStyle ganttBarStyle in ganttChartView.CustomBarStyles)
 {
-    // For example, we can change style for Task with Unique ID = 11
     if (ganttBarStyle.ShowForTaskUid != 11)
     {
         continue;
