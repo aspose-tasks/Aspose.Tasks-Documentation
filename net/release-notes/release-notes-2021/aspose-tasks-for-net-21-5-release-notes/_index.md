@@ -73,6 +73,7 @@ saveOptions.PresentationFormat = PresentationFormat.ResourceSheet;
 project.Save("output.pdf", saveOptions);
 {{< /highlight >}}
 
+v. 21.5 and newer:
 {{< highlight csharp >}}
 Project project = new Project(Paths.TestdataPath + "TestViews.mpp");
 var view = project.Views.First(v => v.Name == "Customized Resource &Sheet");
