@@ -21,17 +21,105 @@ Aspose.Tasks for .NET API provides the capability to customize Timescale tier la
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectViews-CustomizeTimescaleTierLabels.cs" >}}
 
-## **Setting Timescale Count for Project**
-The [TimeScaleTier](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/timescaletier) class makes it possible to set the TimeScale count information for a project. The below example shows how to achieve this objective using the Aspose.Tasks for .NET API
+## **Customizing Timescale settings for a specific view and render a view using these settings**
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectViews-SetTimeScaleCount.cs" >}}
+The [TimeScaleTier](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/timescaletier) class makes it possible to set the Timescale settings for a view of a project. The below example shows how to achieve this objective using the Aspose.Tasks for .NET API
+
+{{< highlight csharp >}}
+
+Project project = new Project();
+
+// Retrieve project's Gantt chart view
+GanttChartView view = (GanttChartView)project.Views.First(v => v.Name == "&Gantt Chart");
+
+// Set Time Scale count
+view.BottomTimescaleTier.Count = 2;
+view.BottomTimescaleTier.ShowTicks = false; 
+view.BottomTimescaleTier.Unit = TimescaleUnit.Days;
+view.BottomTimescaleTier.Label = DateLabel.DayDdd;
+
+view.MiddleTimescaleTier.Count = 1;
+view.MiddleTimescaleTier.ShowTicks = false;
+view.MiddleTimescaleTier.Unit = TimescaleUnit.Weeks;
+view.MiddleTimescaleTier.Label = DateLabel.WeekDddDd;
+
+// Add Gantt Chart View to project
+project.Views.Add(view);
+
+// Add some test data to project
+Task task1 = project.RootTask.Children.Add("Task 1");
+Task task2 = project.RootTask.Children.Add("Task 2");
+task1.Set(Tsk.Duration, task1.ParentProject.GetDuration(24, TimeUnitType.Hour));
+task2.Set(Tsk.Duration, task1.ParentProject.GetDuration(40, TimeUnitType.Hour));
+
+PdfSaveOptions saveOptions = new PdfSaveOptions();
+saveOptions.ViewSettings = view;
+
+// Timescale.DefinedInView options should be specified in order to render project using timescale settings 
+// defined in view (in view.BottomTimescaleTier and view.MiddleTimescaleTier properties in this example).
+saveOptions.Timescale = Timescale.DefinedInView;
+project.Save("SetTimeScaleCount_out.pdf", saveOptions); 
+
+{{< /highlight >}}
 
 ## **Support for Text Styling**
 Text styling can be applied to a Gantt Chart View using TableTextStyle as shown in the following code sample.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectViews-SupportForTextStyle.cs" >}}
 
-## **Saving MPP with Default GanttChartView**
-The following code example demonstrates the ability to save the MPP by setting the default view as a Gantt Chart.
+## **Save MPP using the specific Project's view**
+The following code example demonstrates the ability to save the MPP using the specific view from project's views.
+The feature can be useful when several views were defined for the same View screen in MPP project.
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectViews-SaveWithDefaultGanttChartView.cs" >}}
+{{< highlight csharp >}}
+Project project = new Project(Paths.TestdataPath + "TestViews.mpp");
+var view = project.Views.First(v => v.Name == "Customized Resource &Sheet");
+// We can set view's properties before use.
+view.PageInfo.PageSettings.IsPortrait = false;
+PdfSaveOptions saveOptions = new PdfSaveOptions();
+saveOptions.ViewSettings = view;
+project.Save("output.pdf", saveOptions);
+{{< /highlight >}}
+
+## **Working with bar styles of Gantt chart view**
+The following code example demonstrates how to modify task's bar styles for Gantt chart view.
+
+{{< highlight csharp >}}
+Project project = new Project(Paths.TestdataPath + "TestGanttChartView.mpp");
+var ganttChartView = (GanttChartView)project.Views.First(v => v.Name == "Gantt &Chart");
+PdfSaveOptions saveOptions = new PdfSaveOptions();
+saveOptions.Timescale = Timescale.DefinedInView;
+saveOptions.ViewSettings = ganttChartView;
+
+// Bar styles can be either task-specific (located in GanttChartView.CustomBarStyles)
+// of category-specific (located in GanttChartView.BarStyles)
+
+foreach (GanttBarStyle ganttBarStyle in ganttChartView.CustomBarStyles)
+{
+    if (ganttBarStyle.ShowForTaskUid != 11)
+    {
+        continue;
+    }
+
+    // For demonstration purposes we are modifying style for Task with Unique ID = 11
+ 
+    ganttBarStyle.LeftField = Field.TaskName;
+    // Here we set custom converter to control which text should be rendered inside the task bar.
+    ganttBarStyle.InsideBarTextConverter = task => "Hours rem.: " + (int)task.Get(Tsk.RemainingWork).TimeSpan.TotalHours;
+}
+
+foreach (GanttBarStyle ganttBarStyle in ganttChartView.BarStyles)
+{
+    if (!ganttBarStyle.ShowForCategories.Contains(GanttBarShowFor.Milestone))
+    {
+        continue;
+    }
+
+    // For demonstration purposes we are modifying styles applicable to milestone tasks.
+
+    ganttBarStyle.RightField = Field.TaskActualFinish;
+    ganttBarStyle.TopBarTextConverter = task => task.Get(Tsk.ActualStart).Day.ToString();
+}
+
+project.Save("output.pdf", saveOptions);
+{{< /highlight >}}
