@@ -100,7 +100,7 @@ It corresponds to "Format Drawing" dialog window called by "Properties" command 
 
 {{< highlight csharp >}}
 Project project = new Project("ProjectWithOleObjects.mpp");
-var view = project.Views.GetByName("&Gantt Chart");
+var view = project.Views.First(v => v.Name == "&Gantt Chart");
 var oleObject = project.OleObjects.First(o => o.Id == 1);
 
 Console.WriteLine("First OLE object: {0}", oleObject.Name);
