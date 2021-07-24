@@ -15,7 +15,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 21.7](ht
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 | TASKSNET-10279 | Fix wrong Timephased Data for the material resource in MPP | Bug |
-| TASKSNET-3629 | Implement support of graphical indicators for MPP files | Bug |
+| TASKSNET-3629 | Fix disappearing of a task after an active view change | Bug |
 | TASKSNET-10275 | Fix Invalid Tsk.Id when blank line is inserted | Bug |
 | TASKSNET-10278 | Fix tasks are not shown in MS Project when opening result of "CopyTo" method | Bug |
 | TASKSNET-10276 | Fix task lines are shown incorrectly when blank line is inserted for MPP 2003 and 2008 | Bug |
