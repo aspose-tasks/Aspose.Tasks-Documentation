@@ -77,5 +77,5 @@ Presented below is .NET example showing how to use the options:
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-ConvertingProjectData-UsingXlsxOptions.cs" >}}
 
-## **Saving a Project as CSV**
-In order to learn how to export MS Project to CSV please read [the article](/tasks/net/convert-mpp-to-csv).
+## **Converting MS Project MPP file as CSV**
+In order to learn how to export MS Project MPP file to CSV please read [the article](/tasks/net/convert-mpp-to-csv).
