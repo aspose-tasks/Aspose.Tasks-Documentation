@@ -1,10 +1,12 @@
 ---
-title: Convert Microsoft Project to JPEG
+title: Convert Microsoft Project MPP file to JPEG
 description: "Aspose.Tasks for .NET allows converting Microsoft Project (MPP) to JPEG."
 keywords: "Export your project to JPEG, MPP to JPG, Convert your MPP to Image, Convert Microsoft Project to JPEG, convert MPP to JPG, save project data to JPEG, Aspose.Tasks, C#"
 type: docs
 weight: 20
-url: /net/convert-ms-project-to-jpeg/
+url: /net/convert-ms-project-mpp-to-jpeg/
+aliases: 
+    - /net/convert-ms-project-to-jpeg/
 ---
 
 {{% alert color="primary" %}}
