@@ -9,7 +9,7 @@ aliases:
     - /net/convert-mpp-to-csv/
 ---
 
-In this article we are going to show how to export Microsoft Project MPP file to [CSV](https://docs.fileformat.com/spreadsheet/csv/)) file format using Aspose.Tasks for .NET API.
+In this article we are going to show how to export Microsoft Project MPP file to [CSV](https://docs.fileformat.com/spreadsheet/csv/) file format using Aspose.Tasks for .NET API.
 
 ## **Convert MS Project files to CSV**
 
