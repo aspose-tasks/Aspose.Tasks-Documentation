@@ -1,5 +1,5 @@
 ---
-title: Convert MS Project file to Excel Formats
+title: Convert Microsoft Project MPP file to Excel Formats
 description: "Write your own Microsoft Project convertor using Aspose.Tasks for .NET and convert MPP files to Microsoft Excel spreadsheet file formats."
 keywords: "ms project convertor, convert mpp to excel, export ms project to excel, microsoft project export to excel, microsoft project excel converter, mpp2excel, mpp2xlsx, microsoft project mpp to excel converter"
 type: docs

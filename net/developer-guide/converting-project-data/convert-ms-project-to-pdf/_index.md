@@ -22,19 +22,19 @@ Suppose you have your project opened in Microsoft Project.
 3) Click "Save" button
 4) In Document Export Options dialog select Publish Range, and click "OK".
 
-The currently selected View will be rendered to PDF file. Here is an example of the output file:
+The currently selected View will be rendered to PDF file. Here is an example of output file:
 
 ![Example of MS Project file exported to PDF](example-of-ms-project-output.png)
 
 Aspose.Tasks for .NET also provides the capability to render project's view in PDF format programmatically. In this case you don't need to have Microsoft Project installed on your machine. This article gives a detailed overview of the variety of options available in Aspose.Tasks for exporting projects to PDF.
 
 
-## **Saving a Project as a PDF**
+## **Saving a MS Project MPP as a PDF**
 The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The [Save](https://apireference.aspose.com/tasks/net/aspose.tasks.project/save/methods/3) method allows you to render project data to PDF using the [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
 
 To save a project to PDF:
 
-1. Load a Microsoft Project file.
+1. Load a Microsoft Project MPP file.
 2. Optionally make changes to the loaded project.
 3. Save the project to PDF one of Project.Save method overloads.
 Your can use either SaveFileFormat.PDF to save project with default settings or PdfSaveOptions to customize export options.

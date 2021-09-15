@@ -1,10 +1,12 @@
 ---
-title: Convert Project Data to Format24bppRgb
+title: Convert Microsoft Project MPP file to Format24bppRgb
 description: "Learn how to Aspose.Tasks for .NET allows converting Microsoft Project (MPP) to Format24bppRgb."
 keywords: "Export your project to Format24bppRgb, MPP to Format24bppRgb, Convert your MPP to Format24bppRgb, Convert Microsoft Project to Format24bppRgb, convert MPP to Format24bppRgb, save project data to Format24bppRgb, Aspose.Tasks, C#"
 type: docs
 weight: 60
-url: /net/convert-project-data-to-format24bpprgb/
+url: /net/convert-ms-project-mpp-to-format24bpprgb/
+aliases: 
+    - /net/convert-project-data-to-format24bpprgb/
 ---
 
 {{% alert color="primary" %}}
