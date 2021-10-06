@@ -9,11 +9,7 @@ aliases:
     - /net/convert-ms-project-to-svg/
 ---
 
-{{% alert color="primary" %}}
-
-This article shows how to render project data to SVG format using Aspose.Tasks for .NET.
-
-{{% /alert %}}
+Scalable Vector Graphics (SVG) is an Extensible Markup Language (XML)-based vector image format for two-dimensional graphic. Aspose.Tasks for .NET allows the user to render project's view to graphical format This article shows how to convert MS Project MPP file to SVG format using Aspose.Tasks for .NET.
 
 ## **Saving a Project as SVG**
 The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The Save method allows you to render project data to SVG format using the SaveFileFormat enumeration type.

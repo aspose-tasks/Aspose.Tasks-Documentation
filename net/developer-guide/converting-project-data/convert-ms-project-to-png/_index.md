@@ -9,13 +9,19 @@ aliases:
     - /net/convert-mpp-to-png/
 ---
 
-{{% alert color="primary" %}}
+PNG or Portable Network Graphics is a raster-graphics file format that supports lossless data compression. Aspose.Tasks for .NET API lets you save project data to PNG file format.
 
-Aspose.Tasks for .NET API lets you save project data to JPEG file format. You can also export the project data to PNG with specified image quality.
+## **Exporting Project Data to PNG**
 
-{{% /alert %}}
 
-## **Exporting Project Data to JPEG**
+To save a project to PNG programmatically using Aspose.Tasks for .NET:
+
+1. Load a Microsoft Project MPP file.
+2. Optionally make changes to the loaded project.
+3. Save the project to PNG  using one of Project.Save method overloads.
+Your can pass either SaveFileFormat.PNG  to save project with default settings or pass ImageSaveOptions to customize export options.
+
+The following [article](/tasks/net/common-conversions-options/) describes properties common for all graphical formats.
 
 The code example given below demonstrates how to export your project data to PNG.
 

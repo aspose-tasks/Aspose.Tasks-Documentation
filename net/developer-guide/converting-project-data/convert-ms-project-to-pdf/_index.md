@@ -10,7 +10,7 @@ aliases:
 ---
 
 
-Microsoft Project allows the user to export project's data to [PDF](https://en.wikipedia.org/wiki/PDF) format.
+PDF or Portable Document Format is a file format developed by Adobe in 1992 to present documents, including text formatting and images. Microsoft Project allows the user to export project's data to PDF format.
 
 These are steps to export project data to Excel formats:
 
@@ -36,7 +36,7 @@ To save a project to PDF:
 
 1. Load a Microsoft Project MPP file.
 2. Optionally make changes to the loaded project.
-3. Save the project to PDF one of Project.Save method overloads.
+3. Save the project to PDF using one of Project.Save method overloads.
 Your can use either SaveFileFormat.PDF to save project with default settings or PdfSaveOptions to customize export options.
 
 - Please note that you cannot set values against the **Application** and **Producer** fields, because of Aspose Ltd. and Aspose.Tasks for .NET x.x.x will be displayed against these fields.
