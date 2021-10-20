@@ -1,12 +1,14 @@
 ---
 title: Import/Export Projects to Primavera
-description: "Learn how to import projects from Primavera XER/XML formats, edit and export them in any of a wide range of available formats (MPP, Primavera XML, PDF, JPEG, XLSX, etc.) using Aspose.Tasks for .NET."
+description: "Learn how to import projects from Oracle Primavera P6 XER/XML formats, edit and export them in any of a wide range of available formats (MPP, Primavera XML, PDF, JPEG, XLSX, etc.) using Aspose.Tasks for .NET."
 type: docs
 weight: 80
+keywords: "oracle primavera, p6xml, xer, xer2mpp, mpp2xer, xer2pdf, primavera sqlite import, p6 sqlite import"
 url: /net/importing-and-exporting-project-data-to-primavera-format/
 ---
 
-Primavera Proprietary Exchange Format (XER), by Oracle Inc., is primarily associated with Primavera Project Management. Aspose.Tasks for .NET provides the capability to export Microsoft Project Data to Primavera XER as well as XML formats. This article shows how to import or export to a variety of Primavera supported formats.
+Primavera Proprietary Exchange Format (XER), by Oracle Inc., is primarily associated with Primavera P6 Project Management solution.
+Aspose.Tasks for .NET provides the capability to export Microsoft Project Data to Primavera XER as well as XML (or P6XML) formats. This article shows how to import or export MS Project MPP data to Primavera supported formats.
 
 ## **Importing Data from Primavera File**
 
@@ -33,7 +35,7 @@ Aspose.Tasks for .NET API provides the capability to read Project data from Prim
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ImportingAndExporting-ImportProjectFromPrimaveraDB.cs" >}}
 
 ## **Support for Primavera SQLite Database**
-Aspose.Tasks for .NET provides support for reading project data from Primavera SQLite database.
+Aspose.Tasks for .NET provides support for reading project data from Primavera P6 standalone SQLite database.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-ImportingAndExporting-SupportForSQLiteDatabase.cs" >}}
 
