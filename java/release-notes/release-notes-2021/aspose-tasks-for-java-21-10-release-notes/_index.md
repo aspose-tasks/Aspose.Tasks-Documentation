@@ -22,6 +22,35 @@ This page contains release notes information for [Aspose.Tasks for Java 21.10](h
 | TASKSJAVA-1534 | Problem reading extended attributes | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
+|**The following public classes were added:**|**Description**|
+| :- | :- |
+| com.aspose.tasks.PrintOptions | Allows to specify additional options when printing project. |
+| com.aspose.tasks.PrinterSettings | Specifies information about how a document is printed, including the printer that prints it. |
+|**The following public methods and properties were added:**|**Description**|
+| com.aspose.tasks.PrintOptions.#ctor | Initializes a new instance of the {@link PrintOptions} class that can be used to set different options to print project. |
+| com.aspose.tasks.PrinterSettings.getCollate | Gets a value indicating whether the printed document is collated. |
+| com.aspose.tasks.PrinterSettings.getCopies | Gets the number of copies of the document to print. |
+| com.aspose.tasks.PrinterSettings.getFromPage | Gets the page number of the first page to print. |
+| com.aspose.tasks.PrinterSettings.getPrintFileName | Gets the file name, when printing to a file. |
+| com.aspose.tasks.PrinterSettings.getPrinterName | Gets the name of the printer to use. |
+| com.aspose.tasks.PrinterSettings.getSupportsColor | Gets a value indicating whether this printer supports color printing. |
+| com.aspose.tasks.PrinterSettings.getToPage | Gets the number of the last page to print. |
+| com.aspose.tasks.PrinterSettings.isDefaultPrinter | Gets a value indicating whether the PrinterName property designates the default printer, except when the user explicitly sets PrinterName. |
+| com.aspose.tasks.PrinterSettings.setCollate(boolean) | Sets a value indicating whether the printed document is collated. |
+| com.aspose.tasks.PrinterSettings.setCopies(short) | Sets the number of copies of the document to print. |
+| com.aspose.tasks.PrinterSettings.setFromPage(int) | Sets the page number of the first page to print. |
+| com.aspose.tasks.PrinterSettings.setPrintFileName(java.lang.String) | Sets the file name, when printing to a file. |
+| com.aspose.tasks.PrinterSettings.setPrinterName(java.lang.String) | Sets the name of the printer to use. |
+| com.aspose.tasks.PrinterSettings.setToPage(int) | Sets the number of the last page to print. |
+| com.aspose.tasks.PrinterSettings.toString | Provides information about the PrinterSettings in string form. |
+| com.aspose.tasks.Project.print | Prints project to the default printer with default printer settings using the standard (no User Interface) print controller. |
+| com.aspose.tasks.Project.print(com.aspose.tasks.PrintOptions) | Prints project to the default printer with default printer settings and custom save options using the standard (no User Interface) print controller. |
+| com.aspose.tasks.Project.print(com.aspose.tasks.PrinterSettings) | Prints project according to the specified printer settings using the standard (no User Interface) print controller. |
+| com.aspose.tasks.Project.print(java.lang.String) | Prints project to the specified printer with default printer settings using the standard (no User Interface) print controller. |
+| com.aspose.tasks.Project.print(com.aspose.tasks.PrinterSettings,com.aspose.tasks.PrintOptions) | Prints project according to the specified printer settings and custom save options using the standard (no User Interface) print controller.|
+| com.aspose.tasks.Project.print(com.aspose.tasks.PrinterSettings,java.lang.String) | Prints project according to the specified printer settings using the standard (no User Interface) print controller. |
+| com.aspose.tasks.Project.print(com.aspose.tasks.PrinterSettings,com.aspose.tasks.PrintOptions,java.lang.String) | Prints project according to the specified printer settings, custom save options and the specified document name using the standard (no User Interface) print controller. |
+
 
 ## **Examples and additional notes**
 
