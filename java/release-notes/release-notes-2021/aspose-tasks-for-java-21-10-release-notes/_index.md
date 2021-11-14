@@ -1,6 +1,6 @@
 ---
 title: Aspose.Tasks for Java 21.10 Release Notes
-description: "The page contains the release notes for Aspose.Tasks for Java 21.9=10."
+description: "The page contains the release notes for Aspose.Tasks for Java 21.10."
 type: docs
 weight: 42
 url: /java/aspose-tasks-for-java-21-10-release-notes/
