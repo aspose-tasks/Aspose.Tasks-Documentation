@@ -8,7 +8,7 @@ url: /net/aspose-tasks-for-net-21-12-release-notes/
 
 {{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.Tasks for .Net 21.12](https://downloads.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-21.12/).
+This page contains release notes information for [Aspose.Tasks for .Net 21.12](https://downloads.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-21.12/).
 
 {{% /alert %}}
 ## **All Changes**
