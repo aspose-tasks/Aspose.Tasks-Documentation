@@ -17,6 +17,7 @@ This page contains release notes information for [Aspose.Tasks for Java 22.1](ht
 | :- | :- | :- |
 | TASKSNET-10397 | Fix resource calendars are missing in file saved by Aspose.Tasks | Bug |
 | TASKSNET-2851 | Fix incorrect updating of project work completed up to the specified date | Bug |
+| TASKSJAVA-1679 | Fix StackOverflow exception during project loading in a case of neutral culture used | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
 |**The following public types were deleted:**|**Description**|
