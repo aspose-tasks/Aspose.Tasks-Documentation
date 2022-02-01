@@ -11,6 +11,10 @@ url: /cpp/aspose-tasks-for-cpp-22-1-release-notes/
 This page contains release notes information for [Aspose.Tasks for C++ 22.1](https://downloads.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c---22.1/).
 
 {{% /alert %}}
+## **MacOS support**
+
+Since 22.1 we're inroduced regular MacOS support. Now you can develop MacOS apps using Aspose.Tasks for C++.
+
 ## **All Changes**
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
