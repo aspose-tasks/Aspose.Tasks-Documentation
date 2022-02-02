@@ -15,27 +15,32 @@ If you want to test Aspose.Tasks without evaluation version limitations, you can
 
 {{% /alert %}}
 
-### **PDF Creator Information**
-- Please note that you cannot set values against the **Application** and **Producer** fields, because Aspose Ltd. and Aspose.Tasks  for .NET x.x.x will be displayed against these fields.
-
-### **Evaluation Limitations**
+## **Evaluation Limitations**
 The evaluation version provides all the features except the following:
 
-#### **DateTime Limitation**
-The date year will be converted to 2000 in the projects that will be written through Aspose.Tasks for .NET as explained in the following code example. This example tries to create a project with two tasks through Aspose.Tasks for .NET without using a license file.
+#### **MPP Write Support**
+Saving project as MPP file is only available in licensed versions of Aspose.Tasks for .NET.
 
-The project file created from the code looks like the one below in Microsoft Project. Note that the Start and Finish dates for Task1 have been converted from 06-Apr-2010 to 06-Apr-2000. Similarly, the Start and Finish dates for Task2 have been converted from 10-Apr-2010 to 10-Apr-2000. These dates are written with the same original year if the project is created using a [licensed version of Aspose.Tasks for .NET](#applying-the-license).
+#### **Project Server\Project Online Write Support**
+Creating\Updating of projects in Project Server or Project Online is only available in licensed versions of Aspose.Tasks for .NET.
+
+#### **DateTime Limitation**
+The date year will be changed to 2000 in the projects that will be written using Aspose.Tasks for .NET in format other than MPP. This can be demonstrated by the following code example. In the example project with two tasks is created using Aspose.Tasks for .NET without a license set, then the project is saved in Microsoft Project XML format.
+
+{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-EvaluationDateTimeLimitations-DateTimeLimitations.cs" >}}
+
+
+The resulting project file looks like the one below when opened in Microsoft Project. Note that the Start and Finish dates for Task1 have been converted from 06-Apr-2010 to 06-Apr-2000. Similarly, the Start and Finish dates for Task2 have been converted from 10-Apr-2010 to 10-Apr-2000. These dates are written with the same original year if the project is created using a licensed version of Aspose.Tasks for .NET.
 
 |**Date changes in the evaluation version of Aspose.Tasks**|
 | :- |
 
 |![Year of start and finish dates were reset to 2000](licensing_1.png)|
 
-{{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-EvaluationDateTimeLimitations-DateTimeLimitations.cs" >}}
+#### **Aspose.Tasks Watermark**
+When project is saved to a graphical format (PDF, HTML, TIFF, PNG, BMP, etc) using evaluation version of Aspose.Tasks for .NET the watermark is added to each page.
 
-#### **MPP Write Support**
-Aspose.Tasks for .NET supports reading MPP files, updating the project information and then writing updated project files in original MPP format. Writing of MPP file is only available in licensed versions of Aspose.Tasks for .NET.
-Please note that writing of MPP file preserves MPP format version of the original file. For example, if the original MPP file is in Microsoft Project 2003 format, the MPP file updated through Aspose.Tasks for .NET will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010, 2013, 2016, 2019 MPP formats. 
+|![Watermark added to a project saved to PDF document.](watermark.png)|
 
 ## **Applying the License**
 Once you are happy with your evaluation of **Aspose.Tasks for .NET**, you can buy a license at the Aspose website: <https://purchase.aspose.com/buy>. Make yourself familiar with the different [licenses](https://purchase.aspose.com/policies/license-types/) offered. If you have any questions, [contact the Aspose sales team](https://about.aspose.com/contact) and they'll be happy to help you.
@@ -94,3 +99,10 @@ Applying a Metered license is as simple as those two lines of code:
 var metered = new Metered();
 metered.SetMeteredKey("<public key>", "<private key>");
 {{< /highlight >}}
+
+#### **MPP Write Support**
+Aspose.Tasks for .NET supports reading MPP files, updating the project information and then writing updated project files in original MPP format. Writing of MPP file is only available in licensed versions of Aspose.Tasks for .NET.
+Please note that writing of MPP file preserves MPP format version of the original file. For example, if the original MPP file is in Microsoft Project 2003 format, the MPP file updated through Aspose.Tasks for .NET will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010, 2013, 2016, 2019 MPP formats. 
+
+### **PDF Creator Information**
+- Please note that you cannot set values of the **Application** and **Producer** fields of the generated PDF file, because "Aspose Ltd." and "Aspose.Tasks  for .NET x.x.x" will be displayed in these fields.
