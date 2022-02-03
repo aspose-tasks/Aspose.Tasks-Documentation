@@ -18,14 +18,14 @@ If you want to test Aspose.Tasks without evaluation version limitations, you can
 ## **Evaluation Limitations**
 The evaluation version provides all the features except the following:
 
-#### **MPP Write Support**
+### **MPP Write Support**
 Saving project as MPP file is only available in licensed versions of Aspose.Tasks for .NET.
 Please note that writing of MPP file preserves MPP format version of the original file. For example, if the original MPP file is in Microsoft Project 2003 format, the MPP file updated through Aspose.Tasks for .NET will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010, 2013, 2016, 2019, 2021 MPP formats.
 
-#### **Project Server\Project Online Write Support**
+### **Project Server\Project Online Write Support**
 Creating\Updating of projects in Project Server or Project Online is only available in licensed versions of Aspose.Tasks for .NET.
 
-#### **DateTime Limitation**
+### **DateTime Limitation**
 The date year will be changed to 2000 in the projects that will be written using Aspose.Tasks for .NET in format other than MPP. This can be demonstrated by the following code example. In the example project with two tasks is created using Aspose.Tasks for .NET without a license set, then the project is saved in Microsoft Project XML format.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-Licensing-EvaluationDateTimeLimitations-DateTimeLimitations.cs" >}}
@@ -38,7 +38,7 @@ The resulting project file looks like the one below when opened in Microsoft Pro
 
 |![Year of start and finish dates were reset to 2000](licensing_1.png)|
 
-#### **Aspose.Tasks Watermark**
+### **Aspose.Tasks Watermark**
 When project is saved to a graphical format (PDF, HTML, TIFF, PNG, BMP, etc) using evaluation version of Aspose.Tasks for .NET the watermark is added to each page.
 
 |![Watermark added to a project saved to PDF document.](watermark.png)|
