@@ -25,7 +25,7 @@ Aspose.Tasks for .NET supports MPP, MPT, XML, XLSX, HTML, PDF, XAML and other fo
 Aspose.Tasks offers a wide arrange of features for creating, reading, manipulating and saving project files:
 
 - Read, change and write Microsoft Project or Oracle Primavera documents - MPP/XML/P6XML formats are supported.
-- Read MPP projects and XML project formats. Microsoft Project 2003, 2007, 2010, 2013, 2016 and 2019 MPP formats are supported.
+- Read MPP projects and XML project formats. Microsoft Project 2003, 2007, 2010, 2013, 2016, 2019 and 2021 MPP formats are supported.
 - Read and write projects from\to Project Server or Project Online using PWA (Project Web Access) API.
 - Create, update and write projects in XML project format.
 - Read MPP project files, update their summary information and write them in original MPP format.
@@ -73,6 +73,7 @@ Aspose.Tasks is developed in a way that only one thread works on a document at a
 - 2013
 - 2016
 - 2019
+- 2021
 
 ## **Declaration**
 All Aspose .NET components require Full Trust permission to be set. The reason for this is that Aspose .NET components need to access registry settings, system files other than a virtual directory for certain operations like parsing fonts. Moreover, Aspose .NET Components are based on core .NET system classes that also require Full Trust permission set in many cases.

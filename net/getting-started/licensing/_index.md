@@ -102,7 +102,7 @@ metered.SetMeteredKey("<public key>", "<private key>");
 
 #### **MPP Write Support**
 Aspose.Tasks for .NET supports reading MPP files, updating the project information and then writing updated project files in original MPP format. Writing of MPP file is only available in licensed versions of Aspose.Tasks for .NET.
-Please note that writing of MPP file preserves MPP format version of the original file. For example, if the original MPP file is in Microsoft Project 2003 format, the MPP file updated through Aspose.Tasks for .NET will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010, 2013, 2016, 2019 MPP formats. 
+Please note that writing of MPP file preserves MPP format version of the original file. For example, if the original MPP file is in Microsoft Project 2003 format, the MPP file updated through Aspose.Tasks for .NET will also be in Microsoft Project 2003 MPP format. The same is valid for Microsoft Project 2007, 2010, 2013, 2016, 2019, 2021 MPP formats. 
 
 ### **PDF Creator Information**
 - Please note that you cannot set values of the **Application** and **Producer** fields of the generated PDF file, because "Aspose Ltd." and "Aspose.Tasks  for .NET x.x.x" will be displayed in these fields.
