@@ -25,6 +25,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 22.3](ht
 | TASKSNET-10484 | Fix reading of Finish Milestones from XER format | Bug |
 | TASKSNET-10429 | Fix exception when opening MPP file in projects targeting .NET 6.0 in *nix environment | Bug |
 | TASKSNET-10483 | Fix parsing of formulas with different separators | Bug |
+| TASKSNET-10479 | Fix differences of calculated custom fields between versions | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
 |**The following public types were added:**|**Description**|
