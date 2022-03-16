@@ -93,7 +93,6 @@ As a step in adding of support .NET 6.0 in *nix environment we are replacing pro
 The rendering (when project's view is saved to a graphical format) is not supported at the moment because it relies on System.Drawing.Common.
 See [Microsoft post|https://docs.microsoft.com/en-us/dotnet/core/compatibility/core-libraries/6.0/system-drawing-common-windows-only] for more details.
 
-
 **Related issue: TASKSNET-10310 - Add cancellation token support for Project loading operation**
 
 Now CancellationToken can be specified to allow cancellation of long project loading operation (not applicable to versions for .NET Framework 2.0 and 3.5):
@@ -164,6 +163,18 @@ project.Save("Output.mpp");
 {{< /highlight >}}
 
 
+**Related issue: TASKSNET-10496 - Make WorkingTime immutable**
 
+In order to optimize calendar-related calculations WorkingTime class was made immutable (so properties cannot be modified after object is created).
+Also 2 new overloads of constructor of WorkingTime class were added to allow less verbose creation of WorkingTime:
 
-
+22.2 version:
+{{< highlight csharp >}}
+WorkingTime wt = new WorkingTime(new DateTime(1, 1, 1, 9, 0, 0), new DateTime(1, 1, 1, 12, 0, 0));
+WorkingTime wt2 = new WorkingTime(new DateTime(1, 1, 1, 9, 15, 0), new DateTime(1, 1, 1, 12, 15, 0));
+{{< /highlight >}}
+22.3+ version:
+{{< highlight csharp >}}
+WorkingTime wt = new WorkingTime(9, 12);
+WorkingTime wt2 = new WorkingTime(new TimeSpan(9, 15, 0), new TimeSpan(12, 15, 0));
+{{< /highlight >}}
