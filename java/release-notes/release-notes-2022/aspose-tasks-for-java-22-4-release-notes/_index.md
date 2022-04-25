@@ -15,7 +15,7 @@ This page contains release notes information for [Aspose.Tasks for Java 22.4](ht
 ## **All Changes**
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
-| TASKSJAVA-1130 | Support for thread interruption in all long-running tasks | New Feature |
+| TASKSJAVA-1130 | Support for thread interruption for Project loading operation | New Feature |
 | TASKSNET-10310 | Add cancellation token support for Project loading operation | New Feature |
 | TASKSNET-10498 | Add reading/writing of Status date from/to XER file. | Enhancement |
 | TASKSNET-10496 | Make WorkingTime immutable | Enhancement |
