@@ -9,7 +9,7 @@ url: /java/managing-estimated-milestone-tasks/
 In Microsoft Project, milestones are used to monitor a project's progress. Milestones are crucial points in the project. Typically, a milestone's a task with no duration but any task can be marked as a milestone. Aspose.Tasks helps you manage milestones.
 
 ## **Working with Milestones**
-The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes the IsEstimated and IsMilestone properties to manage estimated and milestone tasks:
+The [Task](https://reference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes the IsEstimated and IsMilestone properties to manage estimated and milestone tasks:
 
 - IsEstimated: set and get whether a task is estimated (boolean).
 - IsMilestone: set and get whether a task is a milestone (boolean).

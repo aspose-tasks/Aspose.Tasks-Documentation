@@ -13,7 +13,7 @@ Task constraints are used to define a Microsoft Project project's schedule and d
 {{% /alert %}}
 
 ## **Working with Constraints**
-The ConstraintDate and ConstraintType properties are exposed by the static class [Tsk](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.tsk) class to handle constraints:
+The ConstraintDate and ConstraintType properties are exposed by the static class [Tsk](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.tsk) class to handle constraints:
 
 - ConstraintDate accepts and returns the DateTime datatype.
 - ConstraintType accepts and returns one of the values of the ConstraintType enumeration.

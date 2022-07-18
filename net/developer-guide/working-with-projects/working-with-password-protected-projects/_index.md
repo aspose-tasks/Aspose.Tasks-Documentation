@@ -13,7 +13,7 @@ Microsoft Project allows the user to add password protection when saving project
 Now consider how Aspose.Tasks for .NET can be used to work with password protected projects saved in MPP format:
 
 ## **Read Password Protected Projects**
-The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Project() constructor overloads which allows to read password-protected MPP files.
+The [Project](https://reference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Project() constructor overloads which allows to read password-protected MPP files.
 
 To read a password-protected project file you can either 
 

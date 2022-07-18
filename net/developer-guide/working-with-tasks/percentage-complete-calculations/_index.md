@@ -9,11 +9,11 @@ url: /net/percentage-complete-calculations/
 Microsoft Project shows the percentage of a task that's been completed. The percentage can be added manually, by a project manager, or automatically calculated by the application. Aspose.Tasks for .NET supports several percentage calculations related to tasks.
 
 ## **Percentages**
-The [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class exposes a number of properties used to calculate percentages:
+The [Tsk](https://reference.aspose.com/tasks/net/aspose.tasks/tsk) class exposes a number of properties used to calculate percentages:
 
-- [PercentComplete](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/percentcomplete) represents the completed percentage of a task's duration (integer).
-- [PercentWorkComplete](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/percentworkcomplete) represents the completed percentage of a task's work (integer).
-- [PhysicalPercentComplete](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/physicalpercentcomplete) represents the completed percentage as entered by a project manager (integer).
+- [PercentComplete](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/percentcomplete) represents the completed percentage of a task's duration (integer).
+- [PercentWorkComplete](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/percentworkcomplete) represents the completed percentage of a task's work (integer).
+- [PhysicalPercentComplete](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/physicalpercentcomplete) represents the completed percentage as entered by a project manager (integer).
 
 To see the physical percent complete in Microsoft Project:
 

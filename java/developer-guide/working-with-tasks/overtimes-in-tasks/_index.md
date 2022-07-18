@@ -9,7 +9,7 @@ url: /java/overtimes-in-tasks/
 Microsoft Project lets users assign overtime to tasks. Aspose.Tasks for Java supports this functionality through two properties in the Task class.
 
 ## **Overtime**
-The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) exposes several properties for working with overtime:
+The [Task](https://reference.aspose.com/tasks/java/com.aspose.tasks/Task/) exposes several properties for working with overtime:
 
 - OvertimeCost: reads and writes the sum of tasks, actual and remaining overtime cost (double).
 - OvertimeWork: reads and writes the amount of overtime scheduled for a task (TimeSpan).

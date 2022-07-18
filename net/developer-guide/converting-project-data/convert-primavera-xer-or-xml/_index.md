@@ -30,7 +30,7 @@ Aspose.Tasks for .NET supports import of project data from formats supported by 
 The loaded project data can be exported to any of the supported output formats, such as MS Project MPP file, Primavera P6 XML, Primavera XER, PDF, Excel, JPG, PNG, etc.
 
 ## **Saving a Primavera P6 XML or XER file as a Microsoft Project MPP file**
-The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The [Save](https://apireference.aspose.com/tasks/net/aspose.tasks.project/save/methods/3) method allows you to render project data to PDF using the [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
+The [Project](https://reference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The [Save](https://reference.aspose.com/tasks/net/aspose.tasks.project/save/methods/3) method allows you to render project data to PDF using the [SaveFileFormat](https://reference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
 
 To save a project to Microsoft Project MPP file:
 
@@ -50,7 +50,7 @@ project.Save("Output.mpp", SaveFileFormat.MPP);
 
 Primavera P6 also allows the user to send project's data visual representation to a printer. Aspose.Tasks for .NET provides more flexibility and allows the user to render project's view in PDF or graphical formats programmatically. In this case you don't need to have Primavera P6 installed on your machine.
 
-The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The [Save](https://apireference.aspose.com/tasks/net/aspose.tasks.project/save/methods/3) method allows you to render project data to PDF using the [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
+The [Project](https://reference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The [Save](https://reference.aspose.com/tasks/net/aspose.tasks.project/save/methods/3) method allows you to render project data to PDF using the [SaveFileFormat](https://reference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
 
 To save a project to PDF:
 

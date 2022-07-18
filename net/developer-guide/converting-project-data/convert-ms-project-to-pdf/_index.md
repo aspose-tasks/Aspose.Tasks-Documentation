@@ -30,7 +30,7 @@ Aspose.Tasks for .NET also provides the capability to render project's view in P
 
 
 ## **Saving a MS Project MPP file as a PDF**
-The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The [Save](https://apireference.aspose.com/tasks/net/aspose.tasks.project/save/methods/3) method allows you to render project data to PDF using the [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
+The [Project](https://reference.aspose.com/tasks/net/aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The [Save](https://reference.aspose.com/tasks/net/aspose.tasks.project/save/methods/3) method allows you to render project data to PDF using the [SaveFileFormat](https://reference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
 
 To save a project to PDF:
 
@@ -47,16 +47,16 @@ The following lines of code demonstrate how to achieve this using C#.
 
 ## **Specifying a View to save to PDF**
 
-Microsoft Project supports different view such as 'Gantt Chart', 'Task Usage', 'Resource Usage', etc. Each view can be customized and these settings are stored in MPP file. Aspose.Tasks for .NET allows the user to examine and change these settings using [Project.Views](https://apireference.aspose.com/tasks/net/aspose.tasks/project/properties/views) collection.
+Microsoft Project supports different view such as 'Gantt Chart', 'Task Usage', 'Resource Usage', etc. Each view can be customized and these settings are stored in MPP file. Aspose.Tasks for .NET allows the user to examine and change these settings using [Project.Views](https://reference.aspose.com/tasks/net/aspose.tasks/project/properties/views) collection.
 
 There are 3 ways to specify the View which will be exported to PDF:
 
 1. Do not specify a View explicitly.
 In this case Project.DefaultView will be rendered. If default view is missing, Gantt Chart view will be rendered.
-2. Use [SaveOptions.PresentationFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/saveoptions/properties/presentationformat) to specify value of [PresentationFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/presentationformat) enumeration.
+2. Use [SaveOptions.PresentationFormat](https://reference.aspose.com/tasks/net/aspose.tasks.saving/saveoptions/properties/presentationformat) to specify value of [PresentationFormat](https://reference.aspose.com/tasks/net/aspose.tasks.visualization/presentationformat) enumeration.
 In this case the view with the correspondent Screen property will be selected from Project.Views collection. 
 If View is missing, the default settings are used.
-3. Use [SaveOptions.ViewSettings](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/saveoptions/properties/viewsettings) property to explicitly specify the View object to render. If View object is specified, the value of SaveOptions.PresentationFormat is ignored.
+3. Use [SaveOptions.ViewSettings](https://reference.aspose.com/tasks/net/aspose.tasks.saving/saveoptions/properties/viewsettings) property to explicitly specify the View object to render. If View object is specified, the value of SaveOptions.PresentationFormat is ignored.
 
 ## **Fitting Contents to Cell Size**
 Commonly, a task (or resource) name is so long that it is truncated when project views are rendered. Aspose.Tasks for .NET provides the FitContent property in the SaveOptions class to avoid truncation of task and resource names. The code example below renders a project to PDF format with the FitContent property set to true.

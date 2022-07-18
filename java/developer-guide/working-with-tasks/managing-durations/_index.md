@@ -9,7 +9,7 @@ url: /java/managing-durations/
 Tasks take time: they have a duration. Realistic task duration help give a realistic project end date. Aspose.Tasks allows developers set task duration in projects.
 
 ## **Working with Durations**
-The Duration and DurationFormat properties exposed by the [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class are used to determine the planned duration and format of the duration of a task:
+The Duration and DurationFormat properties exposed by the [Task](https://reference.aspose.com/tasks/java/com.aspose.tasks/Task/) class are used to determine the planned duration and format of the duration of a task:
 
 - Duration sets and gets a task's planned duration.
 - DurationFormat sets and gets formats defined by the TimeUnitType enumeration.

@@ -10,7 +10,7 @@ url: /net/defining-weekdays-for-exceptions/
 When setting up calendar exceptions with Aspose.Tasks for .NET, it is possible to define working days as exceptions.
 
 ## **Defining Calendar Workdays**
-The Exceptions collection exposed by the [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar) class can be used to define the weekdays for an exception.
+The Exceptions collection exposed by the [Calendar](https://reference.aspose.com/tasks/net/aspose.tasks/calendar) class can be used to define the weekdays for an exception.
 
 To see a list of exceptions in Microsoft Project:
 

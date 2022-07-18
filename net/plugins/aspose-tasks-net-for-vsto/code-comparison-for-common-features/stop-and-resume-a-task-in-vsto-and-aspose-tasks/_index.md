@@ -30,7 +30,7 @@ dynamic ResumeDate = MyTask.Resume;
 {{< /highlight >}}
 
 ### **Aspose.Tasks**
-The Stop and Resume properties exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to read or write a task's stop and resume date:
+The Stop and Resume properties exposed by the [Tsk](https://reference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to read or write a task's stop and resume date:
 
 - Stop: the date a task stops (DateTime).
 - Resume: the data and time a task restarts (DateTime).

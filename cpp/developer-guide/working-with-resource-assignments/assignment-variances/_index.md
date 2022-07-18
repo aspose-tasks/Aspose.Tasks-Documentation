@@ -7,7 +7,7 @@ url: /cpp/assignment-variances/
 ---
 
 ## **Dealing Variances**
-The [Asn](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.asn) class exposes several properties for handling variance in an assignment's baseline values and the actual cost, start date, finish date and work:
+The [Asn](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.asn) class exposes several properties for handling variance in an assignment's baseline values and the actual cost, start date, finish date and work:
 
 - CostVariance handles the variance in cost against an assignment's baseline (double).
 - StartVariance handles the variance in start date against an assignments baseline (integer).

@@ -8,7 +8,7 @@ url: /java/saving-project-data-to-csv-text-and-template-mpt-formats/
 
 {{% alert color="primary" %}}
 
-Microsoft Project (MSP) allows developers to save project data (MPP/XML) to comma delimited (CSV), text and MPT templates. Aspose.Tasks also lets you save project data to the same formats similar to MSP. This is achieved using the standard Save method exposed by the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class as shown with code samples below.
+Microsoft Project (MSP) allows developers to save project data (MPP/XML) to comma delimited (CSV), text and MPT templates. Aspose.Tasks also lets you save project data to the same formats similar to MSP. This is achieved using the standard Save method exposed by the [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project) class as shown with code samples below.
 
 {{% /alert %}}
 

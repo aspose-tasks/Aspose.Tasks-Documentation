@@ -56,7 +56,7 @@ System.out.println("Calculated attribute value: " + (calculatedAttribute.isError
 
 **New methods for searching Views in ViewCollection**
 
-getByViewScreen and getByName methods were added to [ViewCollection](https://apireference.aspose.com/tasks/net/aspose.tasks/viewcollection) in order to allow searching of Views by Screen and by Name property respectively.
+getByViewScreen and getByName methods were added to [ViewCollection](https://reference.aspose.com/tasks/net/aspose.tasks/viewcollection) in order to allow searching of Views by Screen and by Name property respectively.
 
 {{< highlight java >}}
 Project project = new Project("Project.mpp");

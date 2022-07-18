@@ -7,7 +7,7 @@ url: /cpp/currency-codes/
 ---
 
 ## **Managing Currency Codes**
-The CurrencyCode property exposed by the [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class is used to set or get the three-letter currency code for a project. This property supports the string data type.
+The CurrencyCode property exposed by the [Project](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.project) class is used to set or get the three-letter currency code for a project. This property supports the string data type.
 
 To see a project's currency code in Microsoft Project:
 

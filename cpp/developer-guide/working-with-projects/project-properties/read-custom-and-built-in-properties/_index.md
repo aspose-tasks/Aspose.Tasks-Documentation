@@ -6,7 +6,7 @@ weight: 70
 url: /cpp/read-custom-and-built-in-properties/
 ---
 
-In Aspose.Tasks for C++ the custom properties are available through the typed collection [CustomProjectPropertyCollection](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.properties.custom_project_property_collection) which is accessible using get_CustomProps given in [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class whereas the built-in properties are available using get_BuiltInProps representing [BuiltInProjectPropertyCollection](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.properties.built_in_project_property_collection).
+In Aspose.Tasks for C++ the custom properties are available through the typed collection [CustomProjectPropertyCollection](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.properties.custom_project_property_collection) which is accessible using get_CustomProps given in [Project](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.project) class whereas the built-in properties are available using get_BuiltInProps representing [BuiltInProjectPropertyCollection](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.properties.built_in_project_property_collection).
 
 The following code example demonstrates how to read built-in properties.
 

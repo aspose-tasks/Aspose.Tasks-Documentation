@@ -6,10 +6,10 @@ weight: 70
 url: /net/working-with-project-pages/
 ---
 
-Aspose.Tasks for .NET can retrieve the total number of pages in a project. The [GetPageCount](https://apireference.aspose.com/tasks/net/aspose.tasks/project/methods/getpagecount) method offered by [Aspose.Tasks.Visualization](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization) namespace returns the total page count in a project with options of rendering them based on [Timescale.Days](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/timescale), Timescale.Months or Timescale.ThirdsOfMonths.
+Aspose.Tasks for .NET can retrieve the total number of pages in a project. The [GetPageCount](https://reference.aspose.com/tasks/net/aspose.tasks/project/methods/getpagecount) method offered by [Aspose.Tasks.Visualization](https://reference.aspose.com/tasks/net/aspose.tasks.visualization) namespace returns the total page count in a project with options of rendering them based on [Timescale.Days](https://reference.aspose.com/tasks/net/aspose.tasks.visualization/timescale), Timescale.Months or Timescale.ThirdsOfMonths.
 
 ## **Get Number of Pages in Project**
-The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class exposes the GetPageCount method which is used to get the number of total pages in a project. The total count of pages in a project can be retrieved for Timescale.Days, Timescale.Months or Timescale.ThirdsOfMonths.
+The [Project](https://reference.aspose.com/tasks/net/aspose.tasks/project) class exposes the GetPageCount method which is used to get the number of total pages in a project. The total count of pages in a project can be retrieved for Timescale.Days, Timescale.Months or Timescale.ThirdsOfMonths.
 
 To save a project to PDF:
 

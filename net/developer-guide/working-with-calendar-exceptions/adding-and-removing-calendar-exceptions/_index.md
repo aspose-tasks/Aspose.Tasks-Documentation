@@ -8,7 +8,7 @@ url: /net/adding-and-removing-calendar-exceptions/
 ---
 
 ## **Working with Calendar Exceptions**
-Aspose.Tasks helps you manage calendar exceptions. The [Exceptions](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar/properties/exceptions) property exposed by the [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar/) class that represents a List of [CalendarException](https://apireference.aspose.com/tasks/net/aspose.tasks/calendarexception) objects and is used to add or remove the calendar exceptions.
+Aspose.Tasks helps you manage calendar exceptions. The [Exceptions](https://reference.aspose.com/tasks/net/aspose.tasks/calendar/properties/exceptions) property exposed by the [Calendar](https://reference.aspose.com/tasks/net/aspose.tasks/calendar/) class that represents a List of [CalendarException](https://reference.aspose.com/tasks/net/aspose.tasks/calendarexception) objects and is used to add or remove the calendar exceptions.
 
 The following example shows how to add, remove and display exceptions.
 

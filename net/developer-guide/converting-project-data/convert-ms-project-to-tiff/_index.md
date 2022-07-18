@@ -30,8 +30,8 @@ The following [article](/tasks/net/common-conversions-options/) describes proper
 
 Also additional options specific to TIFF format can specified. ImageSaveOptions.PixelFormat can be used to set the format of the color data for each pixel in the image. For example, Format24bppRgb specifies that the format is 24 bits per pixel; 8 bits each are used for the red, green, and blue components.
 
-The horizontal and vertical resolution in dpi can be controlled using [ImageSaveOptions.HorizontalResolution](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/horizontalresolution) and [ImageSaveOptions.VerticalResolution](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/verticalresolution).
-[ImageSaveOptions.TiffCompression](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/tiffcompression) can be used to specify the type of compression algorithm used when generating TIFF file.
+The horizontal and vertical resolution in dpi can be controlled using [ImageSaveOptions.HorizontalResolution](https://reference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/horizontalresolution) and [ImageSaveOptions.VerticalResolution](https://reference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/verticalresolution).
+[ImageSaveOptions.TiffCompression](https://reference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/tiffcompression) can be used to specify the type of compression algorithm used when generating TIFF file.
 
 
 The code example given below demonstrates how to export your project data from MPP file to TIFF.

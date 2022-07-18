@@ -6,7 +6,7 @@ weight: 30
 url: /net/resource-and-calendars/
 ---
 
-The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) class exposes the Calendar property which is used to set or get the calendar for a resource. This property accepts and returns an Aspose.Tasks.Calendar object.
+The [Resource](https://reference.aspose.com/tasks/net/aspose.tasks/resource) class exposes the Calendar property which is used to set or get the calendar for a resource. This property accepts and returns an Aspose.Tasks.Calendar object.
 
 ## **Working with Resource Calendars**
 To define a calendar for a resource in Microsoft Project:

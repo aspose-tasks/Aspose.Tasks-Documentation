@@ -8,7 +8,7 @@ url: /java/resource-cost/
 
 {{% alert color="primary" %}}
 
-The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class is used to manage costs related to a resource:
+The [Resource](https://reference.aspose.com/tasks/java/com.aspose.tasks/Resource) class is used to manage costs related to a resource:
 
 - Cost represents a resource's total project cost across all assignments (decimal).
 - BCWP represents the budgeted cost of work performed by a resource (double).

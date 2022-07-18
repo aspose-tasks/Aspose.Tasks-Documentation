@@ -6,7 +6,7 @@ weight: 20
 url: /net/defining-link-type/
 ---
 
-The [LinkType](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink/properties/linktype) property exposed by the [TaskLink](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklink) class is used to retrieve or define the type of link between two tasks. It reads and writes one of the values defined by the [TaskLinkType](https://apireference.aspose.com/tasks/net/aspose.tasks/tasklinktype) enumeration type.
+The [LinkType](https://reference.aspose.com/tasks/net/aspose.tasks/tasklink/properties/linktype) property exposed by the [TaskLink](https://reference.aspose.com/tasks/net/aspose.tasks/tasklink) class is used to retrieve or define the type of link between two tasks. It reads and writes one of the values defined by the [TaskLinkType](https://reference.aspose.com/tasks/net/aspose.tasks/tasklinktype) enumeration type.
 
 ## **Defining Link Type**
 To define link type in Microsoft Project:

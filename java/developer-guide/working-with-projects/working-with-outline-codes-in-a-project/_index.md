@@ -13,7 +13,7 @@ Custom outline codes are tags you define for tasks or resources that provide a p
 {{% /alert %}}
 
 **Retrieving Outline Code Definitions**
-The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes [getOutlineCodes()](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Project#getOutlineCodes--) which is a collection of [OutlineCodeDefinition](https://apireference.aspose.com/tasks/java/com.aspose.tasks/outlinecodedefinition) items. The OutlineCodeDefinition provides all the detail as shown in the following sample code.
+The [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes [getOutlineCodes()](https://reference.aspose.com/tasks/java/com.aspose.tasks/Project#getOutlineCodes--) which is a collection of [OutlineCodeDefinition](https://reference.aspose.com/tasks/java/com.aspose.tasks/outlinecodedefinition) items. The OutlineCodeDefinition provides all the detail as shown in the following sample code.
 
 The following lines of code retrieve a project's outline code information.
 

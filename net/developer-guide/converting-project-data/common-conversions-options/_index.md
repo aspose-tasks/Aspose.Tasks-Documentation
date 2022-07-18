@@ -12,16 +12,16 @@ Aspose.Tasks for .NET API can be used to convert project loaded from MS Project 
 
 ## **Specifying a View to save**
 
-Microsoft Project supports different view, such as 'Gantt Chart', 'Task Usage', 'Resource Usage', etc. Each view can be customized and these settings are stored in MPP file. Aspose.Tasks for .NET allows the user to examine and change these settings using [Project.Views](https://apireference.aspose.com/tasks/net/aspose.tasks/project/properties/views) collection.
+Microsoft Project supports different view, such as 'Gantt Chart', 'Task Usage', 'Resource Usage', etc. Each view can be customized and these settings are stored in MPP file. Aspose.Tasks for .NET allows the user to examine and change these settings using [Project.Views](https://reference.aspose.com/tasks/net/aspose.tasks/project/properties/views) collection.
 
 There are 3 ways to specify the View which will be exported when project is saved to graphical formats.
 
 1. Do not specify a View explicitly.
 In this case Project.DefaultView will be rendered. If default view is missing, Gantt Chart view will be rendered.
-2. Use [SaveOptions.PresentationFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/saveoptions/properties/presentationformat) to specify value of [PresentationFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/presentationformat) enumeration.
+2. Use [SaveOptions.PresentationFormat](https://reference.aspose.com/tasks/net/aspose.tasks.saving/saveoptions/properties/presentationformat) to specify value of [PresentationFormat](https://reference.aspose.com/tasks/net/aspose.tasks.visualization/presentationformat) enumeration.
 In this case the view with the correspondent Screen property will be selected from Project.Views collection. 
 If View is missing, the default settings are used.
-3. Use [SaveOptions.ViewSettings](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/saveoptions/properties/viewsettings) property to explicitly specify the View object to render. If View object is specified, the value of SaveOptions.PresentationFormat is ignored.
+3. Use [SaveOptions.ViewSettings](https://reference.aspose.com/tasks/net/aspose.tasks.saving/saveoptions/properties/viewsettings) property to explicitly specify the View object to render. If View object is specified, the value of SaveOptions.PresentationFormat is ignored.
 
 ## **Specifying a page size**
 

@@ -16,7 +16,7 @@ This article shows how to render project data to PDF using Aspose.Tasks for Java
 ## **PDF Creator Information**
 - Please note that you cannot set values against the **Application** and **Producer** fields, because of Aspose Ltd. and Aspose.Tasks for Java x.x.x will be displayed against these fields.
 ## **Saving a Project as a PDF**
-The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The Save method allows you to render project data to PDF using the SaveFileFormat enumeration type.
+The [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes the Save method which is used to save a project in various formats. The Save method allows you to render project data to PDF using the SaveFileFormat enumeration type.
 
 To save a project to PDF:
 

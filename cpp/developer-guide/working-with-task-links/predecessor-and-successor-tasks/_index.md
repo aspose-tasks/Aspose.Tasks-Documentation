@@ -8,7 +8,7 @@ url: /cpp/predecessor-and-successor-tasks/
 
 {{% alert color="primary" %}}
 
-The PredTask and SuccTask properties exposed by the [TaskLink](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.task_link) class are used to define the predecessor and successor tasks for a TaskLink. Both of these properties read and write a [Task](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.task) object.
+The PredTask and SuccTask properties exposed by the [TaskLink](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.task_link) class are used to define the predecessor and successor tasks for a TaskLink. Both of these properties read and write a [Task](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.task) object.
 
 {{% /alert %}}
 

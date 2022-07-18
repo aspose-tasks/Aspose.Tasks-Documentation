@@ -6,7 +6,7 @@ weight: 30
 url: /java/resource-and-calendars/
 ---
 
-The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class exposes the [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) property which is used to set or get the calendar for a resource. This property accepts and returns an [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) object.
+The [Resource](https://reference.aspose.com/tasks/java/com.aspose.tasks/Resource) class exposes the [Calendar](https://reference.aspose.com/tasks/java/com.aspose.tasks/Calendar) property which is used to set or get the calendar for a resource. This property accepts and returns an [Calendar](https://reference.aspose.com/tasks/java/com.aspose.tasks/Calendar) object.
 
 ## **Working with Resource Calendars**
 To define a calendar for a resource in Microsoft Project:

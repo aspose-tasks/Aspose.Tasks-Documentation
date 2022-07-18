@@ -13,7 +13,7 @@ The code snippet in this article reads a source MPP file that has a number of re
 
 1. Create an instance of Project Reader.
 2. Read the source MPP file.
-3. Set the [PresentationFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/presentationformat) to ResourceSheet.
+3. Set the [PresentationFormat](https://reference.aspose.com/tasks/net/aspose.tasks.visualization/presentationformat) to ResourceSheet.
 4. Render the project to output PDF.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithResources-RenderResourceSheetView.cs" >}}

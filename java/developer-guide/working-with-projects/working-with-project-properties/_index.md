@@ -23,7 +23,7 @@ The Prj class has a number of properties that deal with project properties:
 - CURRENT_DATE: the current date, of the Date data type.
 - STATUS_DATE: the date that the project's progress will be reported, of the Date data type.
 - SCHEDULE_FROM_START: defines whether the project is scheduled from the start or end data and takes a Boolean value.
-- CALENDAR: the type of calendar used by the project, managed through the [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class.
+- CALENDAR: the type of calendar used by the project, managed through the [Calendar](https://reference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class.
 
 To read project properties in Microsoft Project, click **Project Information** on the **Project** menu.
 
@@ -41,9 +41,9 @@ Aspose.Tasks for Java can write as well as [read project information](/tasks/jav
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-GeneralProjectProperties-WriteProjectInfo-writing-project-properties.java" >}}
 
 ## **Determining Project Version**
-Aspose.Tasks for Java lets you retrieve project file information such as the version of Microsoft Project that the file was created with. The Project class exposes the get() method for getting this information using the static [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class.
+Aspose.Tasks for Java lets you retrieve project file information such as the version of Microsoft Project that the file was created with. The Project class exposes the get() method for getting this information using the static [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project) class.
 
-The SAVE_VERSION and LAST_SAVED properties exposed by the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class is used to determine the project version and the date when the project was last saved.
+The SAVE_VERSION and LAST_SAVED properties exposed by the [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project) class is used to determine the project version and the date when the project was last saved.
 
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-DetermineProjectVersion-determining-project-version.java" >}}
 
@@ -86,11 +86,11 @@ The following lines of code set a project's default properties.
 ## **Writing Project Summary Information**
 Most programs save summary information with the files they save. Microsoft Project is no different. As well as the name of the author, the date the project was created and the last time it was edited and saved, it saves keywords, subject, comments and more. Aspose.Tasks for Java lets you both read and write this type of information. This topic explains how to open a project file, set the summary information and save it again.
 
-The [Prj](https://apireference.aspose.com/tasks/java/com.aspose.tasks/prj) class exposes a number of properties to set or get summary information about an MPP project file. Aspose.Tasks for Java can update the project summary information and then write the project file back to MPP. To update the project summary information of an existing MPP file:
+The [Prj](https://reference.aspose.com/tasks/java/com.aspose.tasks/prj) class exposes a number of properties to set or get summary information about an MPP project file. Aspose.Tasks for Java can update the project summary information and then write the project file back to MPP. To update the project summary information of an existing MPP file:
 
 1. Create an instance of the Project class to read the input MPP file
-2. Set the various properties exposed by the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) object to define summary information.
-3. Save the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) using the Save method of [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class
+2. Set the various properties exposed by the [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project) object to define summary information.
+3. Save the [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project) using the Save method of [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project) class
 
 To see the a file's summary information:
 
@@ -118,7 +118,7 @@ The following code reads a project's fiscal year properties and displays them in
 ## **Weekday Properties**
 Microsoft Project lets users set a number of different weekday properties, for example, what day a week starts on and how many working days are in a month. Aspose.Tasks support these features through a number of properties that can be used both to read weekday properties and to write them to a project.
 
-Aspose.Tasks has a series of properties, exposed by the [Prj](https://apireference.aspose.com/tasks/java/com.aspose.tasks/prj) class, specifically for managing a project's weekday properties:
+Aspose.Tasks has a series of properties, exposed by the [Prj](https://reference.aspose.com/tasks/java/com.aspose.tasks/prj) class, specifically for managing a project's weekday properties:
 
 - WEEK_START_DAY: the first day of the week. This property takes values defined by the DayType enumeration.
 - DAYS_PER_MONTH: the number of working days in a month, passed as an integer.
@@ -180,7 +180,7 @@ The following example writes currency properties to the project.
 ## **Setting Attributes for New Tasks**
 Microsoft Project allows to set default properties for new tasks added. This article explains how to set the default start date for new tasks using Aspose.Tasks for Java API.
 
-The static class [Prj](https://apireference.aspose.com/tasks/java/com.aspose.tasks/prj) exposes the NEW_TASK_START_DATE method that defines the start date for a new task. This property supports the values defined by the TaskStartDateType enumeration type.
+The static class [Prj](https://reference.aspose.com/tasks/java/com.aspose.tasks/prj) exposes the NEW_TASK_START_DATE method that defines the start date for a new task. This property supports the values defined by the TaskStartDateType enumeration type.
 
 To see the task attribute:
 

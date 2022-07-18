@@ -7,7 +7,7 @@ url: /java/dealing-variances/
 ---
 
 ## **Managing Variances**
-The [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.tasks/ResourceAssignment) class exposes several properties for handling variance in an assignment's baseline values and the actual cost, start date, finish data and work:
+The [ResourceAssignment](https://reference.aspose.com/tasks/java/com.aspose.tasks/ResourceAssignment) class exposes several properties for handling variance in an assignment's baseline values and the actual cost, start date, finish data and work:
 
 - CostVariance handles the variance in cost against an assignment's baseline (double).
 - StartVariance handles the variance in start date against an assignments baseline (integer).

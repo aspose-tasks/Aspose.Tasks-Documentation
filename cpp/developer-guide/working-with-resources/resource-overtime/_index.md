@@ -8,7 +8,7 @@ url: /cpp/resource-overtime/
 
 {{% alert color="primary" %}}
 
-The [Resource](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource) class exposes a number of properties for managing resource overtime:
+The [Resource](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.resource) class exposes a number of properties for managing resource overtime:
 
 - Overtime represents the overtime rate (decimal).
 - OvertimeRate represents the overtime rate from the current date, if a rate table exists for the resource (decimal).

@@ -8,7 +8,7 @@ url: /java/creating-resources/
 
 {{% alert color="primary" %}}
 
-The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class exposes two methods for creating a resource: default or by name. Each is shown below.
+The [Resource](https://reference.aspose.com/tasks/java/com.aspose.tasks/Resource) class exposes two methods for creating a resource: default or by name. Each is shown below.
 
 {{% /alert %}}
 

@@ -8,7 +8,7 @@ url: /net/retrieving-task-s-budget-work-and-cost-values/
 
 {{% alert color="primary" %}}
 
-Microsoft Project 2007 and 2010 provide budget cost and budget work as task fields. Aspose.Tasks for .NET provides these properties as [BudgetWork](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/budgetwork) and [BudgetCost](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/budgetcost).
+Microsoft Project 2007 and 2010 provide budget cost and budget work as task fields. Aspose.Tasks for .NET provides these properties as [BudgetWork](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/budgetwork) and [BudgetCost](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/budgetcost).
 
 {{% /alert %}}
 

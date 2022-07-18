@@ -6,7 +6,7 @@ weight: 40
 url: /java/overtimes-for-a-resource/
 ---
 
-The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class exposes a number of properties for managing resource overtime:
+The [Calendar](https://reference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class exposes a number of properties for managing resource overtime:
 
 - Overtime represents the overtime rate (decimal).
 - OvertimeRate represents the overtime rate from the current date, if a rate table exists for the resource (decimal).

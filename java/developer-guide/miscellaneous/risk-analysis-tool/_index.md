@@ -7,7 +7,7 @@ url: /java/risk-analysis-tool/
 ---
 
 ## **Performing Risk Analysis**
-Aspose.Tasks for Java API supports for performing risk analysis on a Project data file. This is based on the Monte Carlo simulation that supports different probability distributions and correlations. The [RiskAnalyzer](https://apireference.aspose.com/tasks/java/com.aspose.tasks/riskanalyzer) class can be used to perform the risk analysis that is based on a project schedule (task durations and their start/finish dates). So, a project Finish date can be the output of such analysis. The following example illustrates this functionality step-by-step.
+Aspose.Tasks for Java API supports for performing risk analysis on a Project data file. This is based on the Monte Carlo simulation that supports different probability distributions and correlations. The [RiskAnalyzer](https://reference.aspose.com/tasks/java/com.aspose.tasks/riskanalyzer) class can be used to perform the risk analysis that is based on a project schedule (task durations and their start/finish dates). So, a project Finish date can be the output of such analysis. The following example illustrates this functionality step-by-step.
 
 ### **1. Preparing Analysis Settings**
 

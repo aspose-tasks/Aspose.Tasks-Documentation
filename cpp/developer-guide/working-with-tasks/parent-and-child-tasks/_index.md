@@ -13,7 +13,7 @@ Tasks can be organized in a hierarchy. When a task has one or more tasks beneath
 {{% /alert %}}
 
 ## **Working with Parent Tasks and Children**
-The [Task](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.task) class exposes classes that help you determine a:
+The [Task](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.task) class exposes classes that help you determine a:
 
 - Parent: determines that a task is a parent task. Accepts and returns a Task object.
 - Children: determines that a task is a child task. Accepts and returns an array list of Task objects.

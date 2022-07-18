@@ -14,7 +14,7 @@ This article shows how to save project data to XLSX format using Aspose.Tasks.
 {{% /alert %}}
 
 ## **Saving Project Data to Excel Format**
-The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes the save method which is used to save a project in various formats. The save method allows you to save project tasks, resources and assignments to separate worksheets to XLSX format using the SaveFileFormat enumeration type.
+The [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project) class exposes the save method which is used to save a project in various formats. The save method allows you to save project tasks, resources and assignments to separate worksheets to XLSX format using the SaveFileFormat enumeration type.
 
 To save a project to XLSX:
 
