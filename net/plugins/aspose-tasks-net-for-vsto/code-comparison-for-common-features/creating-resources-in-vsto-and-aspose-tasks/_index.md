@@ -26,7 +26,7 @@ project.Resources.Add("Work");
 {{< /highlight >}}
 
 ### **Aspose.Tasks**
-The [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) class allows to add a new resource to the project.
+The [Resource](https://reference.aspose.com/tasks/net/aspose.tasks/resource) class allows to add a new resource to the project.
 
 {{< highlight csharp >}}
 Project project = new Project("MyProject.mpp");

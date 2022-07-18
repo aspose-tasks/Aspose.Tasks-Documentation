@@ -22,9 +22,9 @@ Your can pass either SaveFileFormat.JPEG to save project with default settings o
 
 The following [article](/tasks/net/common-conversions-options/) describes properties common for all graphical formats.
 
-Also additional options specific to JPEG format can specified. For example, [ImageSaveOptions.JpegQuality](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/jpegquality) can be used to set quality of the resulting JPEG file..
+Also additional options specific to JPEG format can specified. For example, [ImageSaveOptions.JpegQuality](https://reference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/jpegquality) can be used to set quality of the resulting JPEG file..
 
-Also, the horizontal and vertical resolution in dpi can be controlled using [ImageSaveOptions.HorizontalResolution](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/horizontalresolution) and [ImageSaveOptions.VerticalResolution](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/verticalresolution).
+Also, the horizontal and vertical resolution in dpi can be controlled using [ImageSaveOptions.HorizontalResolution](https://reference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/horizontalresolution) and [ImageSaveOptions.VerticalResolution](https://reference.aspose.com/tasks/net/aspose.tasks.saving/imagesaveoptions/properties/verticalresolution).
 
 
 The code example given below demonstrates how to export your project data to JPEG.

@@ -7,7 +7,7 @@ url: /java/task-baseline-duration/
 ---
 
 ## **Task Baseline Duration**
-The Duration and EstimatedDuration properties of the [TaskBaseLine](https://apireference.aspose.com/tasks/java/com.aspose.tasks/TaskBaseLine) class can be used to read and write the scheduled duration when the baseline was saved and determine whether the scheduled duration was estimated or not respectively.
+The Duration and EstimatedDuration properties of the [TaskBaseLine](https://reference.aspose.com/tasks/java/com.aspose.tasks/TaskBaseLine) class can be used to read and write the scheduled duration when the baseline was saved and determine whether the scheduled duration was estimated or not respectively.
 
 - Duration supports the TimeSpan data type.
 - EstimatedDuration supports the Boolean data type.

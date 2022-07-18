@@ -11,7 +11,7 @@ Aspose.Tasks for .NET lets you work with Microsoft Project (MPP/XML) files witho
 Aspose.Tasks can open existing files, but it can also create new files. This article explains how to create a new and empty project file from the stream using the Project class.  as well as open existing files.
 
 ## **Creating an Empty Project File**
-The [Project](https://apireference.aspose.com/tasks/net/aspose.tasks/project) class is the main class in Aspose.Tasks used to set and get properties associated with a project, as well as behavior. The Save method offered by this class makes it possible to render the Project to various output formats such as XML, MPP, PDF, HTML, etc. with a single API call. This method accepts a file stream or file name, and one of the values provided by the [SaveFileFormat](https://apireference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
+The [Project](https://reference.aspose.com/tasks/net/aspose.tasks/project) class is the main class in Aspose.Tasks used to set and get properties associated with a project, as well as behavior. The Save method offered by this class makes it possible to render the Project to various output formats such as XML, MPP, PDF, HTML, etc. with a single API call. This method accepts a file stream or file name, and one of the values provided by the [SaveFileFormat](https://reference.aspose.com/tasks/net/aspose.tasks.saving/savefileformat) enumeration type.
 
 The following lines of code create a simple project file in XML format.
 
@@ -44,7 +44,7 @@ Aspose.Tasks for .NET lets you read existing project in different formats: **XML
 We plan to retire the importing of project data from Microsoft Project Server Database in a future release.
 Instead you can use import \ export of project data using Microsoft Project Server's PWA API.
 
-See documentation for [ProjectServerManager](https://apireference.aspose.com/tasks/net/aspose.tasks/projectservermanager) class for more details.
+See documentation for [ProjectServerManager](https://reference.aspose.com/tasks/net/aspose.tasks/projectservermanager) class for more details.
 
 {{< highlight csharp >}}
 // Create connection string

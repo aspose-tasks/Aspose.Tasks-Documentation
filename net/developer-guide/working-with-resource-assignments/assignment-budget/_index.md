@@ -7,7 +7,7 @@ url: /net/assignment-budget/
 ---
 
 ## **Assignment Budget**
-The [ResourceAssignment](https://apireference.aspose.com/tasks/net/aspose.tasks/resourceassignment) class exposes a number of properties for working with an assignment's budget:
+The [ResourceAssignment](https://reference.aspose.com/tasks/net/aspose.tasks/resourceassignment) class exposes a number of properties for working with an assignment's budget:
 
 - BudgetCost represents the budgeted cost of resources assignments (decimal).
 - BudgetWork represents the budgeted work of resource assignments to date (TimeSpan).

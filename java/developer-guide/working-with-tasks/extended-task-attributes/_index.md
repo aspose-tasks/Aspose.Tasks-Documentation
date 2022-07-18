@@ -22,7 +22,7 @@ Creating an Extended attribute requires the following steps:
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Tasks-AddTaskExtendedAttributes-AddTaskExtendedAttributes.java" >}}
 
 ## **Reading Extended Task Attributes**
-The ExtendedAttribute property exposed by the [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task) class is used to manage a task's extended attributes. This property reads and writes an ArrayList of ExtendedAttribute objects to deal with a task's extended attributes. The ExtendedAttribute object further exposes the relevant properties.
+The ExtendedAttribute property exposed by the [Task](https://reference.aspose.com/tasks/java/com.aspose.tasks/Task) class is used to manage a task's extended attributes. This property reads and writes an ArrayList of ExtendedAttribute objects to deal with a task's extended attributes. The ExtendedAttribute object further exposes the relevant properties.
 
 The following example shows how to view a task's extended attributes with Aspose.Tasks.
 

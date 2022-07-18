@@ -13,7 +13,7 @@ Microsoft Project recognized a number of different types of tasks. Tasks with no
 {{% /alert %}}
 
 ## **Working with Critical and Effort-Driven Tasks**
-The [Tsk](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Tsk) class exposes the IS_CRITICAL and IS_EFFORT_DRIVEN properties to handle critical and effort driven tasks.
+The [Tsk](https://reference.aspose.com/tasks/java/com.aspose.tasks/Tsk) class exposes the IS_CRITICAL and IS_EFFORT_DRIVEN properties to handle critical and effort driven tasks.
 
 ### **Critical and Effort-driven Tasks Microsoft Project**
 To see whether a task is critical or effort-driven in Microsoft Project double-click a task in the Task Entry form.

@@ -9,7 +9,7 @@ url: /java/creating-resource-assignments/
 Resource assignments linking tasks and resources. This article explains how to create one using Aspose.Tasks for Java.
 
 ## **Creating Resource Assignments**
-The [Resource](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Resource) class exposes two different ways of creating a resource assignment, either using the default constructor or by passing a task and resource.
+The [Resource](https://reference.aspose.com/tasks/java/com.aspose.tasks/Resource) class exposes two different ways of creating a resource assignment, either using the default constructor or by passing a task and resource.
 
 **Programming Sample: Adding ResourceAssignment to Project directly**
 The following code sample adds a Resource Assignment to the project without instantiating its object.

@@ -87,7 +87,7 @@ Another neat way of packaging the license with your application and making sure 
 2. Select the file in the Solution Explorer.
 3. Set **Build Action** to **Embedded Resource** in the Properties window.
 
-To access the license embedded in the assembly (as an embedded resource), you don't have to call the Microsoft .NET Framework's System.Reflection.Assembly class' GetExecutingAssembly and GetManifestResourceStream methods. Instead, just add the license file as an embedded resource to your project and pass the name of the license file to the [License](https://apireference.aspose.com/tasks/net/aspose.tasks/license) class' [SetLicense](https://apireference.aspose.com/tasks/net/aspose.tasks/license/methods/setlicense) method. The License class will automatically find the license file in the embedded resources.
+To access the license embedded in the assembly (as an embedded resource), you don't have to call the Microsoft .NET Framework's System.Reflection.Assembly class' GetExecutingAssembly and GetManifestResourceStream methods. Instead, just add the license file as an embedded resource to your project and pass the name of the license file to the [License](https://reference.aspose.com/tasks/net/aspose.tasks/license) class' [SetLicense](https://reference.aspose.com/tasks/net/aspose.tasks/license/methods/setlicense) method. The License class will automatically find the license file in the embedded resources.
 
 ### **Applying a Metered (pay-per-use) license**
 

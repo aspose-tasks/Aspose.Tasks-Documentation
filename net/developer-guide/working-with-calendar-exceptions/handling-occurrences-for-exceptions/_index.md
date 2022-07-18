@@ -7,7 +7,7 @@ url: /net/handling-occurrences-for-exceptions/
 ---
 
 ## **Handling Occurrences for Exceptions**
-The [Occurrences](https://apireference.aspose.com/tasks/net/aspose.tasks/calendarexception/properties/occurrences) property exposed by the [CalendarException](https://apireference.aspose.com/tasks/net/aspose.tasks/calendarexception) class are used to handle occurrences for an exception. Occurrences used in this case support the integer data type.
+The [Occurrences](https://reference.aspose.com/tasks/net/aspose.tasks/calendarexception/properties/occurrences) property exposed by the [CalendarException](https://reference.aspose.com/tasks/net/aspose.tasks/calendarexception) class are used to handle occurrences for an exception. Occurrences used in this case support the integer data type.
 
 The following lines of code will make the exception valid for five years.
 

@@ -7,7 +7,7 @@ url: /cpp/assignment-overtime-and-remaining-costs/
 ---
 
 ## **Handling Overtime, Remaining Costs and Work**
-The [Asn](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.asn) class exposes a number of properties for handling an assignment's overtime, remaining costs and work:
+The [Asn](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.asn) class exposes a number of properties for handling an assignment's overtime, remaining costs and work:
 
 - OvertimeCost represents the sum of the actual and remaining overtime costs of an assignment (decimal).
 - OvertimeWork represents the scheduled overtime work for an assignment (TimeSpan).
@@ -27,7 +27,7 @@ The following code example demonstrates how to get assignment overtimes, remaini
 {{< gist "aspose-com-gists" "85d3cb818a62006b9ae8f8e3eaab6f80" "Examples-CPP-WorkingWithResourceAssignments-GetResourceAssignmentOvertimes-GetResourceAssignmentOvertimes.cpp" >}}
 
 ## **Work Completion Percentage**
-The PercentWorkComplete property exposed by the [Asn](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.asn) class is used to manage the percentage of work completed on an assignment.
+The PercentWorkComplete property exposed by the [Asn](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.asn) class is used to manage the percentage of work completed on an assignment.
 
 - PercentWorkComplete represents the percentage of the completed work on an assignment (integer).
 

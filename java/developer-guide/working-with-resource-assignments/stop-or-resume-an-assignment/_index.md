@@ -7,7 +7,7 @@ url: /java/stop-or-resume-an-assignment/
 ---
 
 ## **Stop or Resume an Assignment**
-The [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.tasks/ResourceAssignment) class exposes properties for reading and writing an assignment's stop and resume date:
+The [ResourceAssignment](https://reference.aspose.com/tasks/java/com.aspose.tasks/ResourceAssignment) class exposes properties for reading and writing an assignment's stop and resume date:
 
 - Stop reads or writes an assignment's stop date (Date).
 - Resume reads or writes an assignment's resume date (Date).

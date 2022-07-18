@@ -9,7 +9,7 @@ url: /java/creating-updating-and-removing-calendar/
 ## **Creating Calendars**
 Calendars and other information is used by Microsoft Project to build project schedules. With Aspose.Tasks for Java, adding a calendar to a project is easy. The Calendar class constructors allow you to assign a calendar name to the calendar. The options are described below.
 
-There are three ways of creating a calendar in Aspose.Tasks. The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class exposes the following constructor:
+There are three ways of creating a calendar in Aspose.Tasks. The [Calendar](https://reference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class exposes the following constructor:
 
 - Calendar(string name) – Creates a calendar with a name.
 
@@ -25,7 +25,7 @@ Project calendars are returned as CalendarCollection by the getCalendars() metho
 ## **Defining Weekdays for Calendar**
 Microsoft Project keeps track of which days are considered weekdays in a calendar so that it can calculate project end dates and so on. Aspose.Tasks allows developers to define weekdays for a calendar associated with a project. This topic shows how.
 
-The Days collection exposed by the [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class is used to define the weekdays for a calendar. The Days collection represents an array list of [WeekDay](https://apireference.aspose.com/tasks/java/com.aspose.tasks/WeekDay) objects.
+The Days collection exposed by the [Calendar](https://reference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class is used to define the weekdays for a calendar. The Days collection represents an array list of [WeekDay](https://reference.aspose.com/tasks/java/com.aspose.tasks/WeekDay) objects.
 
 The CreateDefaultWorkingDay method exposed by the WeekDay class can further be implemented to define the default day timings, while the FromTime and ToTime properties exposed by the WorkingTime class is used to define the specific timing for a day. The FromTime and ToTime support the DateTime datatype.
 
@@ -50,7 +50,7 @@ Base calendars come in different forms:
 - Night shift: similar to the standard calendar, the night-shift calendar has a Monday to Saturday morning work week and a day that runs from 23:00 to 08:00.
 
 ### **Replacing a Calendar with a New Calendar**
-The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Project) class contains CalendarCollection that comprises of all the calendars which are part of the project. A Calendar item can be removed and a new can be added as well, thus replacing the older one.
+The [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/Project) class contains CalendarCollection that comprises of all the calendars which are part of the project. A Calendar item can be removed and a new can be added as well, thus replacing the older one.
 
 **Programming Sample**
 
@@ -61,7 +61,7 @@ The following lines of code replace an existing calendar with a new standard cal
 ## **Making a Standard Calendar**
 A standard calendar provides the most common work days, work hours and holidays. By default, a standard calendar is added whenever a project is created using Microsoft Project. Aspose.Tasks has features for defining a standard calendar for a project.
 
-The [Calendar](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class exposes the following two static (shared in Visual Basic) overloaded methods for creating a standard calendar:
+The [Calendar](https://reference.aspose.com/tasks/java/com.aspose.tasks/Calendar) class exposes the following two static (shared in Visual Basic) overloaded methods for creating a standard calendar:
 
 - makeStandardCalendar() – Creates a new standard calendar.
 - makeStandardCalendar(Calendar cal) – Makes a calendar as standard.

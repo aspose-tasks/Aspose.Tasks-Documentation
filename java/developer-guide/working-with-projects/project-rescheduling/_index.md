@@ -26,7 +26,7 @@ The following lines of code show how to achieve this using Java.
 {{< gist "aspose-com-gists" "472405ac9bab4502a485ee007b92074c" "Examples-src-main-java-com-aspose-tasks-examples-Projects-RescheduleProjectFromStartOrFinishDate-schedule-from-start.java" >}}
 
 ## **Update Project and Reschedule Uncompleted Work**
-Microsoft Project lets users update and reschedule work through a defined date. This helps identify work completed up to the specified date as well as reschedule any uncompleted work from a specified date. Aspose.Tasks' [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) API provides the same functionality by exposing the updateProjectWorkAsComplete and rescheduleUncompletedWorkToStartAfter methods. This article provides a working example of both these methods as a single use case.
+Microsoft Project lets users update and reschedule work through a defined date. This helps identify work completed up to the specified date as well as reschedule any uncompleted work from a specified date. Aspose.Tasks' [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project) API provides the same functionality by exposing the updateProjectWorkAsComplete and rescheduleUncompletedWorkToStartAfter methods. This article provides a working example of both these methods as a single use case.
 
 ### **Update Project**
 This topic demonstrates how to update a project through a specified date. The updateProjectWorkAsComplete method updates all the work as complete through a specified date for an entire project.

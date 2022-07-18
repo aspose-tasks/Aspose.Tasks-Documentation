@@ -15,7 +15,7 @@ MS Project has "Print notes" setting in view's "Page Setup" dialog. The setting 
 ![Print notes setting in MS Project](print_notes_msp.png)
 
 ## **Rendering Task, Resource or Assignment Notes When Converting Project Using Aspose.Tasks for .NET**
-Aspose.Tasks for .NET provides [PageViewSettings](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/pageinfo/properties/pageviewsettings).[PrintNotes](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/pageviewsettings/properties/printnotes) flag property to determine whether to print notes under [PageInfo](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/pageinfo).
+Aspose.Tasks for .NET provides [PageViewSettings](https://reference.aspose.com/tasks/net/aspose.tasks.visualization/pageinfo/properties/pageviewsettings).[PrintNotes](https://reference.aspose.com/tasks/net/aspose.tasks.visualization/pageviewsettings/properties/printnotes) flag property to determine whether to print notes under [PageInfo](https://reference.aspose.com/tasks/net/aspose.tasks.visualization/pageinfo).
 
 
 The following code snippets demonstrates how to enable rendering of task, resource or assignment's comments when saving the project as an image, HTML or PDF file.

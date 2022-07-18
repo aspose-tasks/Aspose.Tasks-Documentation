@@ -9,7 +9,7 @@ url: /net/reading-and-writing-general-properties/
 Tasks can be identified by a number of general properties, such as name, ID, start and finish date. Aspose.Tasks can be used to get and set task properties when working with projects.
 
 ## **General Properties**
-The static class [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) contains all the properties related to a [Task](https://apireference.aspose.com/email/net/aspose.email.calendar/task) and can be get or set using the Get and Set methods exposed by Task. Some of the commonly used properties are as follow:
+The static class [Tsk](https://reference.aspose.com/tasks/net/aspose.tasks/tsk) contains all the properties related to a [Task](https://reference.aspose.com/email/net/aspose.email.calendar/task) and can be get or set using the Get and Set methods exposed by Task. Some of the commonly used properties are as follow:
 
 - Name, used to set and get a task's name (string).
 - Id, used to set and get a task's ID (integer).

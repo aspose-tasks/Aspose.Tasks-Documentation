@@ -9,7 +9,7 @@ url: /java/managing-task-costs/
 To estimate the cost of a project, tasks are associated with costs. Aspose.Tasks for Java supports this feature of Microsoft Project with a range of properties.
 
 ## **Working with Task Cost**
-The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes several properties for working with task cost:
+The [Task](https://reference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes several properties for working with task cost:
 
 - COST: a task's projected or scheduled cost (double).
 - BCWP: the budgeted cost of the work performed to date (double).

@@ -9,7 +9,7 @@ url: /cpp/creating-calendars/
 ## **Creating a Calendar**
 Calendars and other information is used by Microsoft Project to build project schedules. With Aspose.Tasks for C++, adding a calendar to a project is easy. The Calendar class constructors allow you to assign an ID or a calendar name to the calendar, or use the default constructor. The options are described below.
 
-There are three ways of creating a calendar in Aspose.Tasks. The [Calendar](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.calendar) class exposes the following three constructors:
+There are three ways of creating a calendar in Aspose.Tasks. The [Calendar](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.calendar) class exposes the following three constructors:
 
 - Calendar() – Default constructor.
 - Calendar(int id) – Creates a calendar with an ID.
@@ -44,7 +44,7 @@ The code sample given below defines Monday through Thursday as weekdays with def
 ## **Making a Standard Calendar**
 A standard calendar provides the most common work days, work hours and holidays. By default, a standard calendar is added whenever a project is created using Microsoft Project. Aspose.Tasks for C++ API has features for defining a standard calendar for a project.
 
-The [Calendar](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.calendar) class exposes the following two static overloaded methods for creating a standard calendar:
+The [Calendar](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.calendar) class exposes the following two static overloaded methods for creating a standard calendar:
 
 - MakeStandardCalendar() – Creates a new standard calendar.
 - MakeStandardCalendar(Calendar cal) – Makes a calendar as standard.

@@ -158,7 +158,7 @@ The following is the image and HTML image produced with the example code:
 
 Usage View class and its inheritors is a recommended way to customize charts when rendering project data.
 View class corresponds to view settings used in MS Project (which are stored in MPP file) and provided richer API compared to ProjectView's API.
-Available properties of View class can be found in [API Reference](https://apireference.aspose.com/tasks/net/aspose.tasks/view).
+Available properties of View class can be found in [API Reference](https://reference.aspose.com/tasks/net/aspose.tasks/view).
 The existing View can be taken (for projects loaded from MPP file with views saved by Microsoft Project), customized and passed to Project.Save method as demonstrated in the following code snippet:
 
 {{< highlight csharp >}}

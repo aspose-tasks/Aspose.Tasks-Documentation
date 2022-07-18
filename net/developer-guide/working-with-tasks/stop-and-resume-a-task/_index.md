@@ -9,7 +9,7 @@ url: /net/stop-and-resume-a-task/
 A tasks' stop date is the date that it should (or did) end. Sometimes, a task has to be stopped temporarily and then resumed later. Microsoft Project can calculate stop dates, or let users enter them manually.
 
 ## **Working with Stopped and Resumed Tasks**
-The [Stop](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/stop) and [Resume](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/resume) properties exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to read or write a task's stop and resume date:
+The [Stop](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/stop) and [Resume](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/resume) properties exposed by the [Tsk](https://reference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to read or write a task's stop and resume date:
 
 - Stop: the date a task stops (DateTime).
 - Resume: the data and time a task restarts (DateTime).

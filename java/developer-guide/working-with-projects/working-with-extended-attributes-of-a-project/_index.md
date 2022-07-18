@@ -13,7 +13,7 @@ Microsoft Project has an extensive XML data interchange schema that exchanging i
 {{% /alert %}}
 
 **Setting Extended Attributes**
-The ExtendedAttribute property exposed by the [ResourceAssignment](https://apireference.aspose.com/tasks/java/com.aspose.tasks/resourceassignment) class can be used to manage the extended attributes of an assignment. This property reads or writes a List of the ExtendedAttribute objects to deal with a resource's extended attributes. The [ExtendedAttribute](https://apireference.aspose.com/tasks/java/com.aspose.tasks/extendedattribute) object further exposes the relevant properties.
+The ExtendedAttribute property exposed by the [ResourceAssignment](https://reference.aspose.com/tasks/java/com.aspose.tasks/resourceassignment) class can be used to manage the extended attributes of an assignment. This property reads or writes a List of the ExtendedAttribute objects to deal with a resource's extended attributes. The [ExtendedAttribute](https://reference.aspose.com/tasks/java/com.aspose.tasks/extendedattribute) object further exposes the relevant properties.
 
 The following example shows setting the extended attributes of a resource.
 

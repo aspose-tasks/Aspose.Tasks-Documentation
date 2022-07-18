@@ -13,7 +13,7 @@ WBS codes, work breakdown structure codes, lets you assign outline numbers to ta
 {{% /alert %}}
 
 ## **Working with Work Breakdown Structure**
-The WBS and WBSLevel properties exposed by the [Tsk](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Tsk/) class is used to read and write a tasks work breakdown structure:
+The WBS and WBSLevel properties exposed by the [Tsk](https://reference.aspose.com/tasks/java/com.aspose.tasks/Tsk/) class is used to read and write a tasks work breakdown structure:
 
 - WBS: sets or gets a task's WBS code (string).
 - WBS_LEVEL: sets or gets a task's WBS level (string).

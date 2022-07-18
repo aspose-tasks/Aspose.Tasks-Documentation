@@ -9,7 +9,7 @@ url: /net/handling-task-constraints/
 Task constraints are used to define a Microsoft Project project's schedule and define when tasks should be started or finished. Constraints can be flexible - start or end as soon as possible or as late as possible - or inflexible. Inflexible constraints are tied to specific dates.
 
 ## **Working with Constraints**
-The [ConstraintDate](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/constraintdate) and [ConstraintType](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/constrainttype) properties are exposed by the static class [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class to handle constraints:
+The [ConstraintDate](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/constraintdate) and [ConstraintType](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/constrainttype) properties are exposed by the static class [Tsk](https://reference.aspose.com/tasks/net/aspose.tasks/tsk) class to handle constraints:
 
 - ConstraintDate accepts and returns the DateTime data type.
 - ConstraintType accepts and returns one of the values of the ConstraintType enumeration.

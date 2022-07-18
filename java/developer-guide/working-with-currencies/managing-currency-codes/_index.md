@@ -7,7 +7,7 @@ url: /java/managing-currency-codes/
 ---
 
 ## **Managing Currency Codes**
-The CurrencyCode property exposed by the [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project)
+The CurrencyCode property exposed by the [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project)
 class is used to set or get the three-letter currency code for a project. This property supports the string data type.
 
 To see a project's currency code in Microsoft Project:

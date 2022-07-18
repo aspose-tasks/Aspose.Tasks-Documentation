@@ -9,7 +9,7 @@ url: /net/managing-durations/
 Tasks take time, they have a duration. Realistic task durations help give a realistic project end date. Aspose.Tasks allows developers to set task durations in projects.
 
 ## **Working with Durations**
-The [Duration](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/duration) and [DurationFormat](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/durationformat) properties exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to determine the planned duration and format of the duration of a task:
+The [Duration](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/duration) and [DurationFormat](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/durationformat) properties exposed by the [Tsk](https://reference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to determine the planned duration and format of the duration of a task:
 
 - Duration sets and gets a task's planned duration (TimeSpan).
 - DurationFormat sets and gets formats defined by the TimeUnitType enumeration.

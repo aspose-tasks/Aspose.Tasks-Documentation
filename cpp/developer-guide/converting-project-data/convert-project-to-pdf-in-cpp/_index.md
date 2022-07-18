@@ -13,7 +13,7 @@ Aspose.Tasks for C++ API provides the capability to render project data to PDF f
 {{% /alert %}}
 
 ## **Saving a Project as a PDF**
-The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) class exposes the Save method which is used to save a project in various formats. The Save method allows you to render project data to PDF using the SaveFileFormat enumeration type.
+The [Project](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.project) class exposes the Save method which is used to save a project in various formats. The Save method allows you to render project data to PDF using the SaveFileFormat enumeration type.
 
 To save a project to PDF:
 

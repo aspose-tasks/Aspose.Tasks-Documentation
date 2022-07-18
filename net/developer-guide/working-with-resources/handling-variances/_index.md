@@ -9,7 +9,7 @@ url: /net/handling-variances/
 A work variance is the difference between the estimated work (the baseline) and actual work performed.
 
 ## **Handling Variances**
-The WorkVariance property exposed by the [Resource](https://apireference.aspose.com/tasks/net/aspose.tasks/resource) class handles variance in work:
+The WorkVariance property exposed by the [Resource](https://reference.aspose.com/tasks/net/aspose.tasks/resource) class handles variance in work:
 
 - WorkVariance: a project resource's difference from the baseline work (double).
 

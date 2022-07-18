@@ -7,7 +7,7 @@ url: /cpp/managing-assignment-cost/
 ---
 
 ## **Managing Assignment Cost**
-The [ResourceAssignment](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.resource_assignment) class exposes several properties used to manage assignment cost:
+The [ResourceAssignment](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.resource_assignment) class exposes several properties used to manage assignment cost:
 
 - Cost represents an assignment's total project cost (decimal).
 - BCWP represents the budgeted cost of work to date on an assignment (double).

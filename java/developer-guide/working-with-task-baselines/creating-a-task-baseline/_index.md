@@ -7,7 +7,7 @@ url: /java/creating-a-task-baseline/
 ---
 
 **Creating Task Baselines**
-A task baseline can be created using the default constructor for the [TaskBaseLine](https://apireference.aspose.com/tasks/java/com.aspose.tasks/TaskBaseLine) class as shown below.
+A task baseline can be created using the default constructor for the [TaskBaseLine](https://reference.aspose.com/tasks/java/com.aspose.tasks/TaskBaseLine) class as shown below.
 
 This is demonstrated by the following Java Code
 

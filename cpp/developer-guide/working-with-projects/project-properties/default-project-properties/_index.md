@@ -9,15 +9,15 @@ url: /cpp/default-project-properties/
 ## **Default Project Properties**
 Microsoft Project lets users set default project properties that speed up the process of setting up a project. The default properties define when a new task starts and finishes, sets the default overtime and standard pay rates and more. Aspose.Tasks for C++ supports these features.
 
-The [Project](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.project) exposes a number of properties for managing a project's default properties:
+The [Project](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.project) exposes a number of properties for managing a project's default properties:
 
-- [DefaultStartTime](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj#a1e88187695eadca5c8fa31664f34ca01): a new tasks' default start time, takes a DateTime value.
-- [DefaultFinishTime](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj#a47199d6e2538eda4b481c514fa936b94): a new tasks' default finishing time, takes a DateTime value.
-- [DefaultFixedCostAccrual](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj#ab3603049689a8040d60aa0d3c47fc5f6): an assignment's default fixed cost accrual, takes one of the values defined by the [CostAccrualType]() enumeration.
-- [DefaultStandardRate](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj#ac4b528e39b563eecaabd35e59a338074): the default standard pay rate, takes a double.
-- [DefaultOvertimeRate](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj#a99b4429ac923c9db80a9959758caf635): the default overtime pay rate, takes a double.
-- [DefaultTaskEVMethod](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj#ac677f43d27527f02af79242b17bc7148): the default task earned value method, takes one of the values defined by the [EarnedValueMethodType]() enumeration.
-- [DefaultTaskType](https://apireference.aspose.com/tasks/cpp/class/aspose.tasks.prj#a9d1f6f82c34b1fe3aafee983b0132061): the project's default task type, takes one of the values defined by the [TaskType]() enumeration.
+- [DefaultStartTime](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.prj#a1e88187695eadca5c8fa31664f34ca01): a new tasks' default start time, takes a DateTime value.
+- [DefaultFinishTime](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.prj#a47199d6e2538eda4b481c514fa936b94): a new tasks' default finishing time, takes a DateTime value.
+- [DefaultFixedCostAccrual](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.prj#ab3603049689a8040d60aa0d3c47fc5f6): an assignment's default fixed cost accrual, takes one of the values defined by the [CostAccrualType]() enumeration.
+- [DefaultStandardRate](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.prj#ac4b528e39b563eecaabd35e59a338074): the default standard pay rate, takes a double.
+- [DefaultOvertimeRate](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.prj#a99b4429ac923c9db80a9959758caf635): the default overtime pay rate, takes a double.
+- [DefaultTaskEVMethod](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.prj#ac677f43d27527f02af79242b17bc7148): the default task earned value method, takes one of the values defined by the [EarnedValueMethodType]() enumeration.
+- [DefaultTaskType](https://reference.aspose.com/tasks/cpp/class/aspose.tasks.prj#a9d1f6f82c34b1fe3aafee983b0132061): the project's default task type, takes one of the values defined by the [TaskType]() enumeration.
 
 To see the default project information in Microsoft Project:
 

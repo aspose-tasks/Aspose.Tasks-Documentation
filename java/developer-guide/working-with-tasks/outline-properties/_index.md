@@ -13,7 +13,7 @@ Microsoft Project has an outline structure that lets users get a quick overview 
 {{% /alert %}}
 
 ## **Working with Outline Properties**
-The [Tsk](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Tsk/) class exposes the OUTLINE_NUMBER and OUTLINE_LEVEL properties for managing outlines associated with a class:
+The [Tsk](https://reference.aspose.com/tasks/java/com.aspose.tasks/Tsk/) class exposes the OUTLINE_NUMBER and OUTLINE_LEVEL properties for managing outlines associated with a class:
 
 1. OutlineNumber (string).
 2. OutlineLevel (integer).

@@ -56,7 +56,7 @@ Console.WriteLine("Calculated attribute value: {0}", calculatedAttribute.IsError
 
 **New methods for searching Views in ViewCollection**
 
-GetByViewScreen and GetByName methods were added to [ViewCollection](https://apireference.aspose.com/tasks/net/aspose.tasks/viewcollection) in order to allow searching of Views by Screen and by Name property respectively.
+GetByViewScreen and GetByName methods were added to [ViewCollection](https://reference.aspose.com/tasks/net/aspose.tasks/viewcollection) in order to allow searching of Views by Screen and by Name property respectively.
 
 {{< highlight csharp >}}
 Project project = new Project("Project.mpp");

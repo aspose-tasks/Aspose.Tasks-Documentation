@@ -11,7 +11,7 @@ Views provides a graphical representation of a project or some of its aspects (r
 
 ![Gantt Chart in in Microsoft Project](gantt_chart_1.png)
 
-Microsoft Project allows the user to customize different view's properties such as the bar-style information, gridline properties, progress lines properties, time scale information, page properties, etc. All these properties are stored in MPP file. Aspose.Tasks for .NET provides the capability to access all the properties individually with the [View](https://apireference.aspose.com/tasks/net/aspose.tasks/view) class or its inheritors: [GanttChartView](https://apireference.aspose.com/tasks/net/aspose.tasks/ganttchartview), [TaskUsageView](https://apireference.aspose.com/tasks/net/aspose.tasks/taskusageview) or  [ResourceUsageView](https://apireference.aspose.com/tasks/net/aspose.tasks/resourceusageview) classes. This feature is supported for Microsoft Project 2003, 2007, 2010, 2013, 2016, 2019 and 2021 MPP file formats.
+Microsoft Project allows the user to customize different view's properties such as the bar-style information, gridline properties, progress lines properties, time scale information, page properties, etc. All these properties are stored in MPP file. Aspose.Tasks for .NET provides the capability to access all the properties individually with the [View](https://reference.aspose.com/tasks/net/aspose.tasks/view) class or its inheritors: [GanttChartView](https://reference.aspose.com/tasks/net/aspose.tasks/ganttchartview), [TaskUsageView](https://reference.aspose.com/tasks/net/aspose.tasks/taskusageview) or  [ResourceUsageView](https://reference.aspose.com/tasks/net/aspose.tasks/resourceusageview) classes. This feature is supported for Microsoft Project 2003, 2007, 2010, 2013, 2016, 2019 and 2021 MPP file formats.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectViews-ReadSpecificGantChartViewData.cs" >}}
 
@@ -21,13 +21,13 @@ Extended attributes added to a project may be assigned to a task. It may be desi
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectViews-ConfigureTheGantChartViewShowSelectedColumnFields.cs" >}}
 
 ## **Customizing Timescale Tier Labels according to Current Culture Information**
-Aspose.Tasks for .NET API provides the capability to customize Timescale tier labels according to the current CultureInfo of the machine. The DateTimeConverter(DateTime date) delegate provides a converter method to convert date to a string in view timescale tiers. In addition, [TimescaleTier.DateTimeConverter](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/timescaletier) enables rendering of date in the desired format.
+Aspose.Tasks for .NET API provides the capability to customize Timescale tier labels according to the current CultureInfo of the machine. The DateTimeConverter(DateTime date) delegate provides a converter method to convert date to a string in view timescale tiers. In addition, [TimescaleTier.DateTimeConverter](https://reference.aspose.com/tasks/net/aspose.tasks.visualization/timescaletier) enables rendering of date in the desired format.
 
 {{< gist "aspose-com-gists" "10d4de13018b7279cf03bab28ed78aeb" "Examples-CSharp-WorkingWithProjects-WorkingWithProjectViews-CustomizeTimescaleTierLabels.cs" >}}
 
 ## **Customizing Timescale settings for a specific view and render a view using these settings**
 
-The [TimeScaleTier](https://apireference.aspose.com/tasks/net/aspose.tasks.visualization/timescaletier) class makes it possible to set the Timescale settings for a view of a project. The below example shows how to achieve this objective using the Aspose.Tasks for .NET API
+The [TimeScaleTier](https://reference.aspose.com/tasks/net/aspose.tasks.visualization/timescaletier) class makes it possible to set the Timescale settings for a view of a project. The below example shows how to achieve this objective using the Aspose.Tasks for .NET API
 
 {{< highlight csharp >}}
 

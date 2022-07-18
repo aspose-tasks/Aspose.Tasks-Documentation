@@ -13,7 +13,7 @@ Microsoft Project shows the percentage of a task that's been completed. The perc
 {{% /alert %}}
 
 ## **Percentages**
-The [Task](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes several properties used to calculate percentages:
+The [Task](https://reference.aspose.com/tasks/java/com.aspose.tasks/Task/) class exposes several properties used to calculate percentages:
 
 - PercentComplete represents the completed percentage of a task's duration (integer).
 - PercentWorkComplete represents the completed percentage of a task's work (integer).

@@ -7,7 +7,7 @@ url: /net/baseline-task-scheduling/
 ---
 
 ## **Baseline Task Scheduling**
-The Start and Finish properties exposed by the [TaskBaseLine](https://apireference.aspose.com/tasks/net/aspose.tasks/taskbaseline) class are used to read and write a task's start and finish dates when the baseline was saved. Both properties support the DateTime data type.
+The Start and Finish properties exposed by the [TaskBaseLine](https://reference.aspose.com/tasks/net/aspose.tasks/taskbaseline) class are used to read and write a task's start and finish dates when the baseline was saved. Both properties support the DateTime data type.
 
 After saving a baseline, the task baseline schedule can be viewed in Microsoft Project:
 

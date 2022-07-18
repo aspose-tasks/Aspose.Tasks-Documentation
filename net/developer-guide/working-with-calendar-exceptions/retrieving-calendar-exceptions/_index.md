@@ -7,7 +7,7 @@ url: /net/retrieving-calendar-exceptions/
 ---
 
 ## **Retrieving Calendar Exceptions**
-The [Calendar](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar) class exposes the [Exceptions](https://apireference.aspose.com/tasks/net/aspose.tasks/calendar/properties/exceptions) property which represents a list of [CalendarException](https://apireference.aspose.com/tasks/net/aspose.tasks/calendarexception) objects. The FromDate and ToDate properties exposed by CalendarException are used to retrieve dates for calendar exceptions.
+The [Calendar](https://reference.aspose.com/tasks/net/aspose.tasks/calendar) class exposes the [Exceptions](https://reference.aspose.com/tasks/net/aspose.tasks/calendar/properties/exceptions) property which represents a list of [CalendarException](https://reference.aspose.com/tasks/net/aspose.tasks/calendarexception) objects. The FromDate and ToDate properties exposed by CalendarException are used to retrieve dates for calendar exceptions.
 
 The following example retrieves calendar exceptions.
 

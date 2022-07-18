@@ -9,7 +9,7 @@ url: /net/wbs-associated-with-a-task/
 WBS (Work Breakdown Structure) codes, lets you assign outline numbers to tasks according to the needs of your business. It's a method for applying a customized outline scheme to a project. Aspose.Tasks for .NET supports this feature.
 
 ## **Working with Work Breakdown Structure**
-The [WBS](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/wbs) and [WBSLevel](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk/fields/wbslevel) properties exposed by the [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to read and write a tasks work breakdown structure.
+The [WBS](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/wbs) and [WBSLevel](https://reference.aspose.com/tasks/net/aspose.tasks/tsk/fields/wbslevel) properties exposed by the [Tsk](https://reference.aspose.com/tasks/net/aspose.tasks/tsk) class are used to read and write a tasks work breakdown structure.
 
 ### **Microsoft Project View of WBS**
 To view WBS information in Microsoft Project:

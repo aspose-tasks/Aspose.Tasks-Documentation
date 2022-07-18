@@ -9,7 +9,7 @@ url: /java/utility-features/
 ## **Calculating Critical Path**
 The critical path is the tasks, or task, that ultimately determine when your project will end. Keeping track of the critical path and the resources assigned to them helps keep the project on time. Microsoft Project calculates the critical path based on tasks that have no slack, have specific date constraints (must start on, must finish on, as soon as possible or as late as possible) or have the same, or later, end date as the project. Aspose.Tasks allows you to calculate the critical path.
 
-The [Project](https://apireference.aspose.com/tasks/java/com.aspose.tasks/project) class provides the [getCriticalPath()](https://apireference.aspose.com/tasks/java/com.aspose.tasks/Project#getCriticalPath--) method which is used to get the list of tasks that part of the critical path.
+The [Project](https://reference.aspose.com/tasks/java/com.aspose.tasks/project) class provides the [getCriticalPath()](https://reference.aspose.com/tasks/java/com.aspose.tasks/Project#getCriticalPath--) method which is used to get the list of tasks that part of the critical path.
 
 The following piece of code calculates and displays the tasks in the critical path.
 

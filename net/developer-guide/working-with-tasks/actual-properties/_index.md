@@ -9,7 +9,7 @@ url: /net/actual-properties/
 The actual properties are used to find out how much time or money has been sent on a task to date.
 
 ## **Working with Actual Properties**
-The static class [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/tsk) exposes a number of properties for determining a task's actual properties:
+The static class [Tsk](https://reference.aspose.com/tasks/net/aspose.tasks/tsk) exposes a number of properties for determining a task's actual properties:
 
 - ActualCost: a task's actual cost (double).
 - ActualOvertimeCost: a task's actual overtime cost (double).
@@ -19,7 +19,7 @@ The static class [Tsk](https://apireference.aspose.com/tasks/net/aspose.tasks/ts
 - ActualFinish: the date and time that a task actually finished (DateTime).
 - ACWP: the actual cost of the work performed on a task (double).
 
-The [ChildTasksCollector](https://apireference.aspose.com/tasks/net/aspose.tasks.util/childtaskscollector) class collects all the child tasks from a given RootTask when used by [TaskUtils](https://apireference.aspose.com/tasks/net/aspose.tasks.util/taskutils).
+The [ChildTasksCollector](https://reference.aspose.com/tasks/net/aspose.tasks.util/childtaskscollector) class collects all the child tasks from a given RootTask when used by [TaskUtils](https://reference.aspose.com/tasks/net/aspose.tasks.util/taskutils).
 
 ### **Actual Properties in Microsoft Project**
 To access these properties in Microsoft Project:
