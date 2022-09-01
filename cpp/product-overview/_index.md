@@ -44,11 +44,16 @@ Aspose.Tasks for C++ offers a wide arrange of features for creating, reading, ma
 - Reading of [VBA information](/tasks/cpp/reading-vba-information-from-mpp-file/) (references, modules, module attributes) from MPP is supported.
 
 ### **Platform Independence**
-Aspose.Tasks for C++ can be used to build 64-bit applications only and supports:
-
+Aspose.Tasks for C++ supports:
+Windows:
 - Visual Studio 2012
 - Visual Studio 2015
 - Visual Studio 2017
+- Visual Studio 2019
+Linux
+- CLang3.9+, GCC6+
+MacOS
+- CLang13
 
 ### **Supported Microsoft Project Versions**
 - 2003
@@ -57,10 +62,10 @@ Aspose.Tasks for C++ can be used to build 64-bit applications only and supports:
 - 2013
 - 2016
 - 2019
+- 2021
 
 ## **Limitations**
 - No support for printing of any kind
-- No support for Project Online (PWA)
 - No support for the database I/O access of any kind
 - No support for EMF/WMF format, neither itself nor as Project file inclusions.
 
