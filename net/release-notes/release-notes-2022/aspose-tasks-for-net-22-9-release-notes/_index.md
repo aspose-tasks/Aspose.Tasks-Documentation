@@ -22,6 +22,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 22.9](ht
 | TASKSNET-10628 | Fix ArgumentOutOfRangeException when recalculating Project read from specific file | Bug |
 | TASKSNET-10606 | Fix reading of resource rates from XER file | Bug |
 | TASKSNET-10583 | Fix errors when saving specific files to MPP format | Bug |
+| TASKSNET-10634 | Fix NullReferenceException when saving project with added View | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
 |**The following public enumerations were added:**|**Description**|
