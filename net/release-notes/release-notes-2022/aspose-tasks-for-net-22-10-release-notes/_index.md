@@ -372,18 +372,18 @@ This page contains release notes information for [Aspose.Tasks for .Net 22.10](h
 
 ## **Examples and additional notes**
 
-**Related issue: TASKSNET-3855 - Implement the API to access entities' fields using .NET properties.**
+**Related issue: TASKSNET-3855 - Implement the API to access entities' fields using .NET properties**
 
 Properties were added to Task, Resource, ResourceAssignment and Project objects which allows more convenient access of entity fields.
 For example, 'task.Name' getter can be used instead of 'task.Get(Tsk.Name)' and setter 'task.Name = "task name"' can be used instead of 'task.Set(Tsk.Name, "task name")' statement.
 
-**Related issue: TASKSNET-10664 - Add an setting that allows to specify that Primavera UIDs should be preserved when importing project from XER or P6XML formats.**
+**Related issue: TASKSNET-10664 - Add an setting that allows to specify that Primavera UIDs should be preserved when importing project from XER or P6XML formats**
 
 PrimaveraReadOptions.PreserveUids property was added to make it possible to specify that original Unique IDs of tasks, resource and assignments should be preserved when reading project in XER or P6XML format.
 
 The option can be useful in a scenario when a project is exported from Primavera, then changed (loaded, modified and saved) using Aspose.Tasks and imported back to Primavera.
 Before version 22.10 UIDs were renumbered when reading project in Primavera formats.
 
-**Related issue: TASKSNET-10655 - Remove support of .NET Framework 2.0.**
+**Related issue: TASKSNET-10655 - Remove support of .NET Framework 2.0**
 
 The version of Aspose.Tasks for .NET Framework 2.0 is now deprecated.
