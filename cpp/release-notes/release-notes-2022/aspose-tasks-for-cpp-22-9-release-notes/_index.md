@@ -3,7 +3,7 @@ title: Aspose.Tasks for C++ 22.9 Release Notes
 description: "The page contains the release notes for Aspose.Tasks for C++ 22.9."
 type: docs
 weight: 92
-url: /cpp/aspose-tasks-for-net-22-9-release-notes/
+url: /cpp/aspose-tasks-for-cpp-22-9-release-notes/
 ---
 
 {{% alert color="primary" %}} 
