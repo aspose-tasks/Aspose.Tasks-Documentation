@@ -141,7 +141,7 @@ This page contains release notes information for [Aspose.Tasks for Java 22.11](h
 | com.aspose.tasks.Resource.getBudgetCost() | Gets a value of BudgetCost. |
 | com.aspose.tasks.Resource.getBudgetWork() | Gets a value of BudgetWork. |
 | com.aspose.tasks.Resource.getCalendar() | Gets a value of Calendar. |
-| com.aspose.tasks.Resource.getCanLevel() | Gets a value indicating whether CanLevel is set or not. |
+| com.aspose.tasks.Resource.canLevel() | Gets a value indicating whether CanLevel is set or not. |
 | com.aspose.tasks.Resource.getCode() | Gets a value of Code. |
 | com.aspose.tasks.Resource.getCost() | Gets a value of Cost. |
 | com.aspose.tasks.Resource.getCostCenter() | Gets a value of CostCenter. |
