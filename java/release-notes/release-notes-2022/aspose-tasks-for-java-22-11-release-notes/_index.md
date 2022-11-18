@@ -257,7 +257,7 @@ This page contains release notes information for [Aspose.Tasks for Java 22.11](h
 | com.aspose.tasks.Task.getUid() | Gets a value of Uid. |
 | com.aspose.tasks.Task.getId() | Gets a value of Id. |
 | com.aspose.tasks.Task.getType() | Gets a value of Type. |
-| com.aspose.tasks.Task.getIsNull() | Gets a value indicating whether IsNull is set or not. |
+| com.aspose.tasks.Task.isNull() | Gets a value indicating whether IsNull is set or not. |
 | com.aspose.tasks.Task.getCreated() | Gets a value of Created. |
 | com.aspose.tasks.Task.getContact() | Gets a value of Contact. |
 | com.aspose.tasks.Task.getWBS() | Gets a value of WBS. |
@@ -274,19 +274,19 @@ This page contains release notes information for [Aspose.Tasks for Java 22.11](h
 | com.aspose.tasks.Task.getWork() | Gets a value of Work. |
 | com.aspose.tasks.Task.getStop() | Gets a value of Stop. |
 | com.aspose.tasks.Task.getResume() | Gets a value of Resume. |
-| com.aspose.tasks.Task.getIsResumeValid() | Gets a value indicating whether IsResumeValid is set or not. |
-| com.aspose.tasks.Task.getIsEffortDriven() | Gets a value indicating whether IsEffortDriven is set or not. |
-| com.aspose.tasks.Task.getIsRecurring() | Gets a value indicating whether IsRecurring is set or not. |
-| com.aspose.tasks.Task.getIsSummary() | Gets a value indicating whether IsSummary is set or not. |
-| com.aspose.tasks.Task.getIsOverallocated() | Gets a value indicating whether IsOverallocated is set or not. |
-| com.aspose.tasks.Task.getIsEstimated() | Gets a value indicating whether IsEstimated is set or not. |
-| com.aspose.tasks.Task.getIsMilestone() | Gets a value indicating whether IsMilestone is set or not. |
-| com.aspose.tasks.Task.getIsCritical() | Gets a value indicating whether IsCritical is set or not. |
-| com.aspose.tasks.Task.getIsSubproject() | Gets a value indicating whether IsSubproject is set or not. |
-| com.aspose.tasks.Task.getIsSubprojectReadOnly() | Gets a value indicating whether IsSubprojectReadOnly is set or not. |
-| com.aspose.tasks.Task.getIsMarked() | Gets a value indicating whether IsMarked is set or not. |
+| com.aspose.tasks.Task.isResumeValid() | Gets a value indicating whether IsResumeValid is set or not. |
+| com.aspose.tasks.Task.isEffortDriven() | Gets a value indicating whether IsEffortDriven is set or not. |
+| com.aspose.tasks.Task.isRecurring() | Gets a value indicating whether IsRecurring is set or not. |
+| com.aspose.tasks.Task.isSummary() | Gets a value indicating whether IsSummary is set or not. |
+| com.aspose.tasks.Task.isOverallocated() | Gets a value indicating whether IsOverallocated is set or not. |
+| com.aspose.tasks.Task.isEstimated() | Gets a value indicating whether IsEstimated is set or not. |
+| com.aspose.tasks.Task.isMilestone() | Gets a value indicating whether IsMilestone is set or not. |
+| com.aspose.tasks.Task.isCritical() | Gets a value indicating whether IsCritical is set or not. |
+| com.aspose.tasks.Task.isSubproject() | Gets a value indicating whether IsSubproject is set or not. |
+| com.aspose.tasks.Task.isSubprojectReadOnly() | Gets a value indicating whether IsSubprojectReadOnly is set or not. |
+| com.aspose.tasks.Task.isMarked() | Gets a value indicating whether IsMarked is set or not. |
 | com.aspose.tasks.Task.getIgnoreWarnings() | Gets a value indicating whether IgnoreWarnings is set or not. |
-| com.aspose.tasks.Task.getIsExternalTask() | Gets a value indicating whether IsExternalTask is set or not. |
+| com.aspose.tasks.Task.isExternalTask() | Gets a value indicating whether IsExternalTask is set or not. |
 | com.aspose.tasks.Task.getSubprojectName() | Gets a value of SubprojectName. |
 | com.aspose.tasks.Task.getExternalTaskProject() | Gets a value of ExternalTaskProject. |
 | com.aspose.tasks.Task.getExternalId() | Gets a value of ExternalId. |
@@ -339,20 +339,20 @@ This page contains release notes information for [Aspose.Tasks for Java 22.11](h
 | com.aspose.tasks.Task.getHyperlinkSubAddress() | Gets a value of HyperlinkSubAddress. |
 | com.aspose.tasks.Task.getIgnoreResourceCalendar() | Gets a value indicating whether IgnoreResourceCalendar is set or not. |
 | com.aspose.tasks.Task.getHideBar() | Gets a value indicating whether HideBar is set or not. |
-| com.aspose.tasks.Task.getIsRollup() | Gets a value indicating whether IsRollup is set or not. |
+| com.aspose.tasks.Task.isRollup() | Gets a value indicating whether IsRollup is set or not. |
 | com.aspose.tasks.Task.getBCWS() | Gets a value of BCWS. |
 | com.aspose.tasks.Task.getBCWP() | Gets a value of BCWP. |
 | com.aspose.tasks.Task.getPhysicalPercentComplete() | Gets a value of PhysicalPercentComplete. |
 | com.aspose.tasks.Task.getEarnedValueMethod() | Gets a value of EarnedValueMethod. |
 | com.aspose.tasks.Task.getActualWorkProtected() | Gets a value of ActualWorkProtected. |
 | com.aspose.tasks.Task.getActualOvertimeWorkProtected() | Gets a value of ActualOvertimeWorkProtected. |
-| com.aspose.tasks.Task.getIsPublished() | Gets a value indicating whether IsPublished is set or not. |
+| com.aspose.tasks.Task.isPublished() | Gets a value indicating whether IsPublished is set or not. |
 | com.aspose.tasks.Task.getStatusManager() | Gets a value of StatusManager. |
 | com.aspose.tasks.Task.getCommitmentStart() | Gets a value of CommitmentStart. |
 | com.aspose.tasks.Task.getCommitmentFinish() | Gets a value of CommitmentFinish. |
 | com.aspose.tasks.Task.getCommitmentType() | Gets a value of CommitmentType. |
-| com.aspose.tasks.Task.getIsManual() | Gets a value indicating whether IsManual is set or not. |
-| com.aspose.tasks.Task.getIsExpanded() | Gets a value indicating whether IsExpanded is set or not. |
+| com.aspose.tasks.Task.isManual() | Gets a value indicating whether IsManual is set or not. |
+| com.aspose.tasks.Task.isExpanded() | Gets a value indicating whether IsExpanded is set or not. |
 | com.aspose.tasks.Task.getGuid() | Gets a value of Guid. |
 | com.aspose.tasks.Task.getNotesText() | Gets a value of NotesText. |
 | com.aspose.tasks.Task.getNotesRTF() | Gets a value of NotesRTF. |
@@ -362,7 +362,7 @@ This page contains release notes information for [Aspose.Tasks for Java 22.11](h
 | com.aspose.tasks.Task.getBudgetWork() | Gets a value of BudgetWork. |
 | com.aspose.tasks.Task.getBudgetCost() | Gets a value of BudgetCost. |
 | com.aspose.tasks.Task.getDisplayAsSummary() | Gets a value indicating whether DisplayAsSummary is set or not. |
-| com.aspose.tasks.Task.getIsActive() | Gets a value indicating whether IsActive is set or not. |
+| com.aspose.tasks.Task.isActive() | Gets a value indicating whether IsActive is set or not. |
 | com.aspose.tasks.Task.getStartText() | Gets a value of StartText. |
 | com.aspose.tasks.Task.getDurationText() | Gets a value of DurationText. |
 | com.aspose.tasks.Task.getFinishText() | Gets a value of FinishText. |
