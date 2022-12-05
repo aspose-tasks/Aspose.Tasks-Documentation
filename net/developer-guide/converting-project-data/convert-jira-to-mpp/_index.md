@@ -1,5 +1,5 @@
 ---
-title: Convert Microsoft Project MPP file to CSV Format
+title: Export Jira tasks to MS Project MPP file
 description: "Write your own converter which allows to export issues from JIRA using REST API and save them to MPP or Primavera files."
 keywords: "ms project convertor, jira2mpp, microsoft project jira to mpp converter, microsoft project jira to primavera, export jira to mpp, export jira to primavera"
 type: docs
