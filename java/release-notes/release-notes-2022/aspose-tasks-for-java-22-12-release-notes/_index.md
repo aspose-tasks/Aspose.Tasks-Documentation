@@ -3,7 +3,7 @@ title: Aspose.Tasks for Java 22.12 Release Notes
 description: "The page contains the release notes for Aspose.Tasks for Java 22.12."
 type: docs
 weight: 89
-url: /net/aspose-tasks-for-java-22-12-release-notes/
+url: /java/aspose-tasks-for-java-22-12-release-notes/
 ---
 
 {{% alert color="primary" %}} 
