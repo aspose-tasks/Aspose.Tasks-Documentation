@@ -1,14 +1,14 @@
 ---
-title: Aspose.Tasks for .NET 22.12 Release Notes
-description: "The page contains the release notes for Aspose.Tasks for .NET 22.12."
+title: Aspose.Tasks for C++ 22.12 Release Notes
+description: "The page contains the release notes for Aspose.Tasks for C++ 22.12."
 type: docs
 weight: 89
-url: /net/aspose-tasks-for-net-22-12-release-notes/
+url: /cpp/aspose-tasks-for-cpp-22-12-release-notes/
 ---
 
 {{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.Tasks for .Net 22.12](https://downloads.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-22.12/).
+This page contains release notes information for [Aspose.Tasks for C++ 22.12](https://downloads.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c---22.12/).
 
 {{% /alert %}}
 ## **All Changes**
