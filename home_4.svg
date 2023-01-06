@@ -6,7 +6,7 @@
    y="0px"
    viewBox="0 0 277 277"
    style="enable-background:new 0 0 277 277;"
-   sodipodi:docname="aspose_tasks-for-python_via_NET.svg"
+   sodipodi:docname="home_4_1.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.85198556"
-     inkscape:cx="138.5"
-     inkscape:cy="138.5"
+     inkscape:zoom="2.4097791"
+     inkscape:cx="86.107479"
+     inkscape:cy="139.43187"
      inkscape:window-width="1280"
      inkscape:window-height="961"
      inkscape:window-x="-8"
@@ -39,9 +39,23 @@
 	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#ABC314;}
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
 </style>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.03506"
+     id="rect960"
+     width="159.76569"
+     height="234.46133"
+     x="7.129468"
+     y="36.102894" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.12071"
+     id="rect962"
+     width="93.369553"
+     height="126.98259"
+     x="151.46617"
+     y="34.857967" />
   <g
      id="NET"
-     transform="matrix(0.89566888,0,0,0.88262356,0.36615768,32.101446)">
+     transform="matrix(0.93417467,-0.0063871,0.00629283,0.92107489,-4.3847582,26.20284)">
     <g
        id="g28">
       <path
@@ -65,13 +79,13 @@
   </g>
   <g
      id="g379"
-     transform="matrix(0.92530816,0,0,0.93597843,25.706113,0.40300249)">
+     transform="matrix(0.77063536,0,0,0.7662156,67.419091,-0.33206528)">
     <circle
        cx="216.39999"
        cy="56"
-       r="55"
        fill="#672572"
-       id="circle274" />
+       id="circle274"
+       r="55" />
     <g
        id="prefix__XMLID_2_">
       <path
