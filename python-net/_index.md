@@ -9,7 +9,7 @@ is_root: true
 
 {{% alert color="primary" %}}
 
-![Aspose.Tasks for Python via .NET Product Logo](home_1.png)
+![Aspose.Tasks for Python via .NET Product Logo](../home_4.png)
 
 Aspose.Tasks for Python via .NET is a class library that enables Python applications to read and write MPP/XML files without using Microsoft Project software. The component provides an easy to use API for manipulating project files, saving time and money compared to developing similar features from scratch.
 
