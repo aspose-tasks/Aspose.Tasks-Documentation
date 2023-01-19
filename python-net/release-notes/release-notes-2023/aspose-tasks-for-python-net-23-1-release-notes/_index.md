@@ -3,7 +3,7 @@ title: Aspose.Tasks for Python via .NET 23.1 Release Notes
 description: "The page contains the release notes for Aspose.Tasks for Python via .NET 23.1."
 type: docs
 weight: 100
-url: /net/aspose-tasks-for-python-net-23-1-release-notes/
+url: /python-net/aspose-tasks-for-python-net-23-1-release-notes/
 ---
 
 {{% alert color="primary" %}} 
