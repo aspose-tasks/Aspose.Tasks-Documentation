@@ -24,6 +24,7 @@ This page contains release notes information for [Aspose.Tasks for Java 23.3](ht
 | TASKSNET-10804 | Fix reading and writing of Leveling Delay field from \ to MPP format | Bug |
 | TASKSNET-10796 | Fix writing of Task.Hyperlink to MPP file | Bug |
 | TASKSNET-10786 | Fix writing of changes in base calendars | Bug |
+| TASKSNET-10767 | Fix duration of some tasks are changed after recalculating project saved by Aspose.Tasks | Bug |
 | TASKSJAVA-237 | Incorrect image layout after export | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
