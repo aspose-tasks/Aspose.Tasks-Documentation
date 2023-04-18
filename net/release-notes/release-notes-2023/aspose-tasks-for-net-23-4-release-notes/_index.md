@@ -82,3 +82,8 @@ Type:
 ```
 PrintOptions
 ```
+
+
+**.NET Framework 4.0 deprecation notice**
+
+Starting with ver. 23.10 (October 2023) Aspose.Tasks for .NET targeting .NET Framework 4.0 will be removed from ZIP, Nuget and MSI installer packages.
