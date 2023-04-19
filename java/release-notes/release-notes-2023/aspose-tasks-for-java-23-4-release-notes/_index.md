@@ -14,7 +14,7 @@ This page contains release notes information for [Aspose.Tasks for Java 23.4](ht
 ## **All Changes**
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
-| TASKSNET-10742 | [Breaking change] Replace usages of System.Drawing.StringAlignment with Aspose.Tasks.Visualization.StringAlignment | Enhancement |
+| TASKSNET-10742 | Replace usages of System.Drawing.StringAlignment with Aspose.Tasks.Visualization.StringAlignment | Enhancement |
 | TASKSJAVA-1939 | Property UseProjectDefaultFont or DefaultFontName does not work | Bug |
 | TASKSNET-10831 | Fix NullReferenceException when accessing AssignmentBaseline.TimephasedData for new Assignment's baseline | Bug |
 | TASKSNET-10825 | Fix task baseline 1-10 properties are not shown when opening a resulting MPP 2007 file using MS Project | Bug |
@@ -45,11 +45,8 @@ This page contains release notes information for [Aspose.Tasks for Java 23.4](ht
 | com.aspose.tasks.HorizontalStringAlignment.Center | Specifies that text is aligned in the center of the layout rectangle. |
 | com.aspose.tasks.HorizontalStringAlignment.Far | Specifies that text is aligned far from the origin position of the layout rectangle. In a left-to-right layout, the far position is right. In a right-to-left layout, the far position is left. |
 
-
-## **Breaking change notice**
+## **Examples and additional notes**
 
 **Related issue: TASKSNET-10742 - Replace usages of System.Drawing.StringAlignment with Aspose.Tasks.Visualization.HorizontalStringAlignment**
 
 In order to make public interfaces of Aspose.Tasks for Java and Aspose.Tasks for .NET were unified, com.aspose.tasks.HorizontalStringAlignment was added. com.aspose.tasks.StringAlignment can continue to be used, but is marked as deprecated and will be removed after release 23.10.
-
-## **Examples and additional notes**
