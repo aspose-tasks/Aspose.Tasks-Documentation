@@ -53,11 +53,13 @@ This page contains release notes information for [Aspose.Tasks for .Net 23.4](ht
 
 In order to add support for .NET 6.0 we had to remove usages of System.Drawing.StringAlignment 
 The type of the following properties was changed to Aspose.Tasks.Visualization.HorizontalStringAlignment:
+```
 TableField.AlignData
 TableField.AlignTitle
 UsageView.AlignDetailsData
 TimescaleTier.Alignment
-ViewColumn.StringAlignment.
+ViewColumn.StringAlignment
+```
 
 ## **Examples and additional notes**
 
