@@ -2,6 +2,7 @@
 title: System Requirements
 description: "Before you start working with Aspose.Tasks for .NET, ensure that your environment fits the operating system, platform, frameworks, and environment requirements."
 type: docs
+keywords: "Aspose.Tasks for .NET System Requirements .NET 6.0 Linux Support"
 weight: 50
 url: /net/system-requirements/
 ---
@@ -34,7 +35,6 @@ Aspose.Tasks for .NET supports any 32-bit or 64-bit operating system where .NET 
 Aspose.Tasks for .NET supports .NET and Mono frameworks as follows:
 
 ### **.NET Frameworks**
-- .NET Framework 2.0
 - .NET Framework 3.5
 - .NET Framework 4.0
 - .NET Framework 4.0 Client Profile
@@ -59,6 +59,7 @@ Aspose.Tasks for .NET supports .NET and Mono frameworks as follows:
 - .NET Core 2.2
 - .NET Core 3.1
 - .NET 5
+- .NET 6
 
 ### **Mono Framework**
 - Mono 2.6.7 or later
@@ -73,9 +74,28 @@ Aspose.Tasks for .NET can be used to develop applications in any development env
 - Microsoft Visual Studio 2015
 - Microsoft Visual Studio 2017
 - Microsoft Visual Studio 2019
+- Microsoft Visual Studio 2022
 - MonoDevelop 2.4 and later
 
-## **Additional Notes about .NET Core/Mono support**
+## **Limitations of .NET Core/Mono support**
 There are some features of Aspose.Tasks that does not implement in .NET Core/Mono for Linux/MacOS and supported for .NET Framework/.NET Core/Mono for Windows only:
 - On Linux/MasOS Aspose.Tasks does not support MPD files because there is no OLE DB driver implementation for these OSes. Check, for instance, the Mono [documentation](https://www.mono-project.com/docs/database-access/).
 - Aspose.Tasks does not support the export/import of EMF/WMF images on Linux/MacOS. These formats are usually being used in RTF header/footer of page info. In this case Aspose.Tasks is exporting the text information of headers and/or footers.
+
+## **Limitations of version targeting .NET 6**
+
+Print-related methods are not supported, even for Windows platform.
+Thus the following methods are not present in version for .NET 6.0:
+
+```
+Project.Print(PrintOptions)
+Project.Print(string)
+Project.Print(PrinterSettings)
+Project.Print(PrinterSettings,string)
+Project.Print(PrinterSettings,PrintOptions)
+Print(PrinterSettings,PrintOptions,string)
+```
+
+Also the following type is excluded: Aspose.Tasks.Saving.PrintOptions.
+
+
